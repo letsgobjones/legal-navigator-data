@@ -37,8 +37,6 @@ Wrote 2443 entries {'kategori': 22, 'golonganPokok': 87, 'golongan': 257, 'subgo
 | `kbli_2025.json` | The data the app uses. |
 | `review_report.md` | Warnings to check by hand against the PDF (page numbers included). |
 
-`kbli_code.json`, `parse_pdf.py`, `data.txt` and `parse_web.py` are the earlier version and are no longer used.
-
 ## JSON format
 
 ```json
