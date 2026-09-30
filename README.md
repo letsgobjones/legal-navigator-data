@@ -9,7 +9,6 @@ Structured data for the BCIC Legal Navigator iOS app, parsed from official Indon
 | [`kbli/`](kbli/) | `kbli_2025.json`: the full KBLI 2025 classification (2,443 codes) | Done |
 | [`scope/`](scope/) | `creative_subsectors.json`: which KBLI 2025 codes count as Fesyen / Kriya | Provisional, until the official Kemenekraf list is available |
 | [`oss/`](oss/) | `oss_licensing.json`: licensing data per KBLI 2025 code from the public OSS RBA KBLI pages: scopes, risk and license per business scale, requirements, obligations, authority, PB UMKU, and the 2020 → 2025 conversion | Done for all 1,558 KBLI 2025 kelompok (219 have no licensing data on OSS, mostly sectors licensed outside OSS such as education, public administration and OJK-regulated finance); tagged Fesyen/Kriya via the scope file |
-| `kbli_crosswalk/` | KBLI 2020 → 2025 conversion table parsed from the KBLI PDF | In progress; lower priority now that OSS provides conversions |
 | [`sources/`](sources/) | The official PDFs (not committed) and [`SOURCES.md`](sources/SOURCES.md) with URLs and checksums | |
 
 ## How the data links

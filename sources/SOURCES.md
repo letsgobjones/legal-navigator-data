@@ -14,7 +14,7 @@ Klasifikasi Baku Lapangan Usaha Indonesia 2025, Badan Pusat Statistik (establish
 |---|---|---|---|
 | `klasifikasi-baku-lapangan-usaha-indonesia--kbli--2025--2.pdf` | BPS, [bps.go.id](https://www.bps.go.id) (exact URL not recorded) | 2026-09-29 | `169ec324af12c3e535d081dbe3789e019f9131ab81460357c2453fd0651a56b3` |
 
-Used by: `kbli/parse_kbli.py`, and later `kbli_crosswalk/` (the KBLI 2020 → 2025 "Semula/Menjadi" change tables are in the same PDF).
+Used by: `kbli/parse_kbli.py`. The same PDF also contains BPS's KBLI 2020 → 2025 change tables (Tabel 5.2.1–5.2.22), which could be parsed later as an independent check on OSS's conversions.
 
 ## PP 28 Tahun 2025: `sources/pp28_2025/`
 
