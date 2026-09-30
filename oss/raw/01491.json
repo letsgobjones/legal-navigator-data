@@ -1,0 +1,1623 @@
+{
+ "code": "01491",
+ "found": true,
+ "ossId": "c6f2cd4d-7b8a-5407-82a8-25dd1d89c78c",
+ "url": "https://oss.go.id/id/kbli/detail/c6f2cd4d-7b8a-5407-82a8-25dd1d89c78c",
+ "fetchedAt": "2026-09-30T06:01:08+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 01491 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "01491"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "8db92aa4-61ca-56b2-906b-2e2b19266099",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "c6f2cd4d-7b8a-5407-82a8-25dd1d89c78c",
+    "localization": {
+     "en": {
+      "judul": "Budi Daya dan Pembibitan Burung Unta",
+      "uraian": "Kelompok ini mencakup kegiatan budi daya burung unta konsumsi untuk menghasilkan burung unta potong, telur dan lainnya, dan kegiatan pembibitan untuk menghasilkan bibit ternak burung unta atau telur tetas."
+     },
+     "id": {
+      "judul": "Budi Daya dan Pembibitan Burung Unta",
+      "uraian": "Kelompok ini mencakup kegiatan budi daya burung unta konsumsi untuk menghasilkan burung unta potong, telur dan lainnya, dan kegiatan pembibitan untuk menghasilkan bibit ternak burung unta atau telur tetas."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "9451dcd1-174a-5519-9c92-0c27ab9ebfac",
+     "kode": "01491-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "79e374c0-6a37-5d4e-81ef-53449f65cff8",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan Cara Pembibitan atau budidaya Ternak yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan Cara Pembibitan atau budidaya Ternak yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "7e7328e3-e54c-5e53-966d-8f07c9f80de4",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan produksi dan distribusi kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan produksi dan distribusi kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "eb73b45e-53ee-544e-9465-5d45e76aa08e",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e212391a-f5fc-5c1d-a14a-5b66234d1c04",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha lintas Kabupaten/ kota dalam satu provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha lintas Kabupaten/ kota dalam satu provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5ab3e00c-f112-5602-8bab-d5e8edcc6bef",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3c8424ec-c82a-5761-b170-98b16f19339e",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berada di Wilayah Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berada di Wilayah Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "2bd5c617-5c96-5e5d-ab4f-7881c45491e3",
+     "kode": "01491-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "0b26110e-6f60-5843-8acc-e40c3318f192",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan Cara Pembibitan atau budidaya Ternak yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan Cara Pembibitan atau budidaya Ternak yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "bb8a9f9c-b62e-5fe7-935e-5fb5fd63df87",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan produksi dan distribusi kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan produksi dan distribusi kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "07d097f6-7b7a-5b21-adab-e9fd21334794",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e212391a-f5fc-5c1d-a14a-5b66234d1c04",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha lintas Kabupaten/ kota dalam satu provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha lintas Kabupaten/ kota dalam satu provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "966093e8-b266-59c1-ae3f-99c3ca9716d6",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3c8424ec-c82a-5761-b170-98b16f19339e",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berada di Wilayah Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berada di Wilayah Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "b2849e57-b331-50bb-bfdc-5f9df586dad8",
+     "kode": "01491-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "62e169c2-9286-51bf-b8f0-31654bac914b",
+       "localization": {
+        "en": {
+         "uraian": "Surat pernyataan kesanggupan menerapkan cara budidaya ternak yang baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat pernyataan kesanggupan menerapkan cara budidaya ternak yang baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e5bb242d-4088-55ba-a70f-c9bcd3098ced",
+       "localization": {
+        "en": {
+         "uraian": "Surat keterangan mengenai jenis komoditas, rumpun/galur dan lokasi usaha peternakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat keterangan mengenai jenis komoditas, rumpun/galur dan lokasi usaha peternakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5f9c9558-1ac1-51b2-a5e1-dd19afe7d0b2",
+       "localization": {
+        "en": {
+         "uraian": "Rekomendasi bibit dan/atau benih dari komisi bibit untuk pengembangan rumpun/galur baru",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rekomendasi bibit dan/atau benih dari komisi bibit untuk pengembangan rumpun/galur baru",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "a143e103-0e3c-546d-8d31-72af84e9220a",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan Cara Pembibitan atau budidaya Ternak yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan Cara Pembibitan atau budidaya Ternak yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "60d273a4-168c-5f46-b279-43b19b1f50b0",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan produksi dan distribusi kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan produksi dan distribusi kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a08ea98f-126d-52cb-b68a-c11deffe79d1",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan realisasi rencana kerja pembangunan unit usaha peternakan kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan realisasi rencana kerja pembangunan unit usaha peternakan kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "4dbd92f5-e604-5856-820f-354de3b140ca",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "5579e2e5-e29d-5f62-ab3a-870296885296",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "d5cba1b1-dc95-5b29-b12a-8b32f144b98d",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berada dalam wilayah lintas provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berada dalam wilayah lintas provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "699e810e-768e-5607-946f-7e28e2ecd0c9",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e212391a-f5fc-5c1d-a14a-5b66234d1c04",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha lintas Kabupaten/ kota dalam satu provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha lintas Kabupaten/ kota dalam satu provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1e81ab8c-d179-59c1-a870-6d97fa568b0d",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "52923ea4-04b6-5de5-99ce-e30785985a71",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berada di wilayah Kabupaten/ kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berada di wilayah Kabupaten/ kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "946f8c02-dd7e-53d1-a662-d11e49f17f8a",
+     "kode": "01491-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "7269c798-1735-52a1-9959-42ff2884a458",
+       "localization": {
+        "en": {
+         "uraian": "Surat pernyataan kesanggupan menerapkan cara budidaya ternak yang baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat pernyataan kesanggupan menerapkan cara budidaya ternak yang baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "46145b35-1804-53fc-a95e-def4cc317848",
+       "localization": {
+        "en": {
+         "uraian": "Surat keterangan mengenai jenis komoditas, rumpun/galur dan lokasi usaha peternakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat keterangan mengenai jenis komoditas, rumpun/galur dan lokasi usaha peternakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "731abd31-e983-57a9-a1e2-135c37dad5bf",
+       "localization": {
+        "en": {
+         "uraian": "Rekomendasi bibit dan/atau benih dari komisi bibit untuk pengembangan rumpun/galur baru",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rekomendasi bibit dan/atau benih dari komisi bibit untuk pengembangan rumpun/galur baru",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "22b0087c-6468-5f3f-a610-48420c43cfc3",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan Cara Pembibitan atau budidaya Ternak yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan Cara Pembibitan atau budidaya Ternak yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ccae8599-1160-5960-9352-0f9a1d5a1618",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan produksi dan distribusi kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan produksi dan distribusi kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4ac792b3-a155-56d1-9ad5-c5ab614b2742",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan realisasi rencana kerja pembangunan unit usaha peternakan kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan realisasi rencana kerja pembangunan unit usaha peternakan kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "c3211061-f701-55a5-8704-9f5c358c31ee",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "9fb2f4b3-a686-5580-94d7-ab2aa7ba8345",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "d5cba1b1-dc95-5b29-b12a-8b32f144b98d",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berada dalam wilayah lintas provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berada dalam wilayah lintas provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fb4b4002-fec0-5b1c-be91-27b785130760",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e212391a-f5fc-5c1d-a14a-5b66234d1c04",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha lintas Kabupaten/ kota dalam satu provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha lintas Kabupaten/ kota dalam satu provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "42138f4c-d79e-53e4-96ba-55b030e08620",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "52923ea4-04b6-5de5-99ce-e30785985a71",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berada di wilayah Kabupaten/ kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berada di wilayah Kabupaten/ kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e8a1851e-7462-57ba-a46b-4ba41d2f0d16",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "3c0da883-1b8f-4753-8ece-147eb2de9647",
+    "kode": "018",
+    "localization": {
+     "en": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     },
+     "id": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "b664aeae-575e-4a12-a43d-744654b2993f",
+   "kode": "018000000214",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat cara budidaya ternak yang baik"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat cara budidaya ternak yang baik"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "000a54c2-a241-4fb6-9f3e-278bef43de80",
+     "parameter": "Untuk tujuan ekspor",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "00e8a786-09a9-51cb-8bfc-3ebe10f478b6",
+     "parameter": "Lokasi di lintas kabupaten/kota dalam satu provinsi",
+     "kewenangan": "Gubernur"
+    },
+    {
+     "id": "01df9bc0-1d79-5a0f-9ebd-d3e58e61c4cb",
+     "parameter": "Usaha berlokasi di kabupaten/kota",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "02c060a0-dac5-5454-be36-697cd4ed3405",
+     "parameter": "Lokasi di kabupaten/kota",
+     "kewenangan": "Bupati/Walikota"
+    },
+    {
+     "id": "04aa944b-05c4-42d0-b95e-2cfc7a0812e4",
+     "parameter": "Usaha berlokasi lintas kabupaten/kota",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "0a8097f8-fb25-5a57-b1ce-d2e72534135e",
+     "parameter": "Untuk tujuan ekspor atau untuk usaha yang berlokasi di lintas Provinsi",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<ol>Surat Permohonan ditujukan kepada:\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Direktur Jenderal Peternakan dan Kesehatan Hewan dalam hal kegiatan usaha berada di lintas provinsi dan/atau untuk perluasan pasar dalam negeri atau luar negeri</li>\n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di Provinsi dalam hal kegiatan usaha berada di lintas daerah kabupaten/ kota dalam satu provinsi</li>\n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di kabupaten/Kota dalam hal kegiatan usaha berada di daerah kabupaten/ kota</li>\n</ol></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<ol>Surat Permohonan ditujukan kepada:\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Direktur Jenderal Peternakan dan Kesehatan Hewan dalam hal kegiatan usaha berada di lintas provinsi dan/atau untuk perluasan pasar dalam negeri atau luar negeri</li>\n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di Provinsi dalam hal kegiatan usaha berada di lintas daerah kabupaten/ kota dalam satu provinsi</li>\n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di kabupaten/Kota dalam hal kegiatan usaha berada di daerah kabupaten/ kota</li>\n</ol></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Foto udara lokasi/ denah lokasi lengkap dengan batas- batasannya"
+      },
+      "id": {
+       "syarat_perizinan": "Foto udara lokasi/ denah lokasi lengkap dengan batas- batasannya"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Alur proses produksi dan denah tata letak alat produksi "
+      },
+      "id": {
+       "syarat_perizinan": "Alur proses produksi dan denah tata letak alat produksi "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen jaminan mutu / SOP"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen jaminan mutu / SOP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Pernyataan bahwa telah melaksanakan budidaya ternak yang baik"
+      },
+      "id": {
+       "syarat_perizinan": "Pernyataan bahwa telah melaksanakan budidaya ternak yang baik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Pernyataan bahwa telah melaksanakan budidaya ternak yang baik"
+      },
+      "id": {
+       "syarat_perizinan": "Pernyataan bahwa telah melaksanakan budidaya ternak yang baik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<ol>Surat Permohonan ditujukan kepada:\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Direktur Jenderal Peternakan dan Kesehatan Hewan dalam hal kegiatan usaha berada di lintas provinsi dan/atau untuk perluasan pasar dalam negeri atau luar negeri</li>\n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di Provinsi dalam hal kegiatan usaha berada di lintas daerah kabupaten/ kota dalam satu provinsi</li>\n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di kabupaten/Kota dalam hal kegiatan usaha berada di daerah kabupaten/ kota</li>\n</ol></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<ol>Surat Permohonan ditujukan kepada:\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Direktur Jenderal Peternakan dan Kesehatan Hewan dalam hal kegiatan usaha berada di lintas provinsi dan/atau untuk perluasan pasar dalam negeri atau luar negeri</li>\n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di Provinsi dalam hal kegiatan usaha berada di lintas daerah kabupaten/ kota dalam satu provinsi</li>\n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di kabupaten/Kota dalam hal kegiatan usaha berada di daerah kabupaten/ kota</li>\n</ol></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Alur proses produksi dan denah tata letak alat produksi "
+      },
+      "id": {
+       "syarat_perizinan": "Alur proses produksi dan denah tata letak alat produksi "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Foto udara Iokasi/denah Iokasi lengkap dengan batas batasannya"
+      },
+      "id": {
+       "syarat_perizinan": "Foto udara Iokasi/denah Iokasi lengkap dengan batas batasannya"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Alur proses produksi dan denah tata letak alat produksi"
+      },
+      "id": {
+       "syarat_perizinan": "Alur proses produksi dan denah tata letak alat produksi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen jaminan mutu/ SOP dan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen jaminan mutu/ SOP dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Surat Permohonan yang ditujukan kepada:</p><ol style=\"list-style-type: lower-alpha;\"><li>Direktur Jenderal Peternakan dan Kesehatan Hewan dalam hal kegiatan usaha berada di lintas provinsi dan/atau untuk perluasan pasar dalam negeri atau luar negeri</li><li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di Provinsi dalam hal kegiatan usaha berada di lintas daerah kabupaten/kota dalam satu provinsi</li><li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di kabupaten/kota dalam hal kegiatan usaha berada di daerah kabupaten/kota.</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Surat Permohonan yang ditujukan kepada:</p><ol style=\"list-style-type: lower-alpha;\"><li>Direktur Jenderal Peternakan dan Kesehatan Hewan dalam hal kegiatan usaha berada di lintas provinsi dan/atau untuk perluasan pasar dalam negeri atau luar negeri</li><li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di Provinsi dalam hal kegiatan usaha berada di lintas daerah kabupaten/kota dalam satu provinsi</li><li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di kabupaten/kota dalam hal kegiatan usaha berada di daerah kabupaten/kota.</li></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Pernyataan bahwa telah melaksanakan budidaya ternak yang baik"
+      },
+      "id": {
+       "syarat_perizinan": "Pernyataan bahwa telah melaksanakan budidaya ternak yang baik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Foto udara lokasi/ denah lokasi lengkap dengan batas- batasannya"
+      },
+      "id": {
+       "syarat_perizinan": "Foto udara lokasi/ denah lokasi lengkap dengan batas- batasannya"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen jaminan mutu / SOP"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen jaminan mutu / SOP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaporkan kegiatan usaha dan pengembangan kegiatan usaha Budidaya kepada pimpinan instansi sesuai dengan kewenangannya"
+      },
+      "id": {
+       "syarat_perizinan": "Melaporkan kegiatan usaha dan pengembangan kegiatan usaha Budidaya kepada pimpinan instansi sesuai dengan kewenangannya"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pernyataan komitmen untuk melaksanakan cara Budidaya ternak yang baik secara berkelanjutan."
+      },
+      "id": {
+       "syarat_perizinan": "Pernyataan komitmen untuk melaksanakan cara Budidaya ternak yang baik secara berkelanjutan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Bersedia dilakukan surveilance paling kurang 1 kali dalam 1 periode sertifikat."
+      },
+      "id": {
+       "syarat_perizinan": "Bersedia dilakukan surveilance paling kurang 1 kali dalam 1 periode sertifikat."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan Cara Budidaya Ternak yang Baik kepada instansi yang berwenang"
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan Cara Budidaya Ternak yang Baik kepada instansi yang berwenang"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian penilaian Tim Audit."
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian penilaian Tim Audit."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "3c0da883-1b8f-4753-8ece-147eb2de9647",
+    "kode": "018",
+    "localization": {
+     "en": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     },
+     "id": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "323cc88d-35cd-44df-be34-16ea71143693",
+   "kode": "018000000215",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat cara pembibitan ternak yang baik"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat cara pembibitan ternak yang baik"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "00158ad4-3e00-581d-95ad-0d02b731f0e7",
+     "parameter": "Usaha berlokasi lintas kabupaten/kota",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "0019bd8a-157d-5423-b19e-eca88bf58007",
+     "parameter": "Lokasi di kabupaten/kota",
+     "kewenangan": "Bupati/Walikota"
+    },
+    {
+     "id": "007c9a5c-b17a-540b-8025-ef4f6e423ff2",
+     "parameter": "Usaha berlokasi di kabupaten/kota",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "01c41d87-0674-5c77-a068-b39e64b99479",
+     "parameter": "Untuk tujuan ekspor atau untuk usaha yang berlokasi di lintas Provinsi",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "02378d8c-ba01-5204-9b89-b5b21038d93c",
+     "parameter": "Lokasi di lintas kabupaten/kota dalam satu provinsi",
+     "kewenangan": "Gubernur"
+    },
+    {
+     "id": "03ca7eeb-1d9c-495e-b8eb-f2de71b75ac2",
+     "parameter": "Untuk tujuan ekspor",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<ol>Surat Permohonan ditujukan kepada:\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Direktur Jenderal Peternakan dan Kesehatan Hewan dalam hal kegiatan usaha berada di lintas provinsi dan/atau untuk perluasan pasar dalam negeri atau luar negeri</li>\n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di Provinsi dalam hal kegiatan usaha berada di lintas daerah kabupaten/ kota dalam satu provinsi</li>  \n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di kabupaten/Kota dalam hal kegiatan usaha berada di daerah kabupaten/ kota</li>\n</ol></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<ol>Surat Permohonan ditujukan kepada:\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Direktur Jenderal Peternakan dan Kesehatan Hewan dalam hal kegiatan usaha berada di lintas provinsi dan/atau untuk perluasan pasar dalam negeri atau luar negeri</li>\n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di Provinsi dalam hal kegiatan usaha berada di lintas daerah kabupaten/ kota dalam satu provinsi</li>  \n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di kabupaten/Kota dalam hal kegiatan usaha berada di daerah kabupaten/ kota</li>\n</ol></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Foto udara lokasi/ denah lokasi lengkap dengan batas- batasannya"
+      },
+      "id": {
+       "syarat_perizinan": "Foto udara lokasi/ denah lokasi lengkap dengan batas- batasannya"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Alur proses produksi dan denah tata letak alat produksi "
+      },
+      "id": {
+       "syarat_perizinan": "Alur proses produksi dan denah tata letak alat produksi "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen jaminan mutu / SOP"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen jaminan mutu / SOP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Pernyataan bahwa telah melaksanakan budidaya ternak yang baik"
+      },
+      "id": {
+       "syarat_perizinan": "Pernyataan bahwa telah melaksanakan budidaya ternak yang baik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Alur proses produksi dan denah tata letak alat produksi "
+      },
+      "id": {
+       "syarat_perizinan": "Alur proses produksi dan denah tata letak alat produksi "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Surat Permohonan yang ditujukan kepada:</p><ol style=\"list-style-type: lower-alpha;\"><li>Direktur Jenderal Peternakan dan Kesehatan Hewan dalam hal kegiatan usaha berada di lintas provinsi dan/atau untuk perluasan pasar dalam negeri atau luar negeri</li><li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di Provinsi dalam hal kegiatan usaha berada di lintas daerah kabupaten/kota dalam satu provinsi</li><li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di kabupaten/kota dalam hal kegiatan usaha berada di daerah kabupaten/kota.</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Surat Permohonan yang ditujukan kepada:</p><ol style=\"list-style-type: lower-alpha;\"><li>Direktur Jenderal Peternakan dan Kesehatan Hewan dalam hal kegiatan usaha berada di lintas provinsi dan/atau untuk perluasan pasar dalam negeri atau luar negeri</li><li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di Provinsi dalam hal kegiatan usaha berada di lintas daerah kabupaten/kota dalam satu provinsi</li><li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di kabupaten/kota dalam hal kegiatan usaha berada di daerah kabupaten/kota.</li></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<ol>Surat Permohonan ditujukan kepada:\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Direktur Jenderal Peternakan dan Kesehatan Hewan dalam hal kegiatan usaha berada di lintas provinsi dan/atau untuk perluasan pasar dalam negeri atau luar negeri</li>\n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di Provinsi dalam hal kegiatan usaha berada di lintas daerah kabupaten/ kota dalam satu provinsi</li>  \n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di kabupaten/Kota dalam hal kegiatan usaha berada di daerah kabupaten/ kota</li>\n</ol></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<ol>Surat Permohonan ditujukan kepada:\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Direktur Jenderal Peternakan dan Kesehatan Hewan dalam hal kegiatan usaha berada di lintas provinsi dan/atau untuk perluasan pasar dalam negeri atau luar negeri</li>\n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di Provinsi dalam hal kegiatan usaha berada di lintas daerah kabupaten/ kota dalam satu provinsi</li>  \n<li>Kepala Dinas yang membidangi fungsi peternakan dan kesehatan hewan di kabupaten/Kota dalam hal kegiatan usaha berada di daerah kabupaten/ kota</li>\n</ol></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Pernyataan bahwa telah melaksanakan budidaya ternak yang baik"
+      },
+      "id": {
+       "syarat_perizinan": "Pernyataan bahwa telah melaksanakan budidaya ternak yang baik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Foto udara lokasi/denah lokasi lengkap dengan batas-batasannya"
+      },
+      "id": {
+       "syarat_perizinan": "Foto udara lokasi/denah lokasi lengkap dengan batas-batasannya"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Alur proses produksi dan denah tata letak alat produksi"
+      },
+      "id": {
+       "syarat_perizinan": "Alur proses produksi dan denah tata letak alat produksi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Foto udara lokasi/ denah lokasi lengkap dengan batas- batasannya"
+      },
+      "id": {
+       "syarat_perizinan": "Foto udara lokasi/ denah lokasi lengkap dengan batas- batasannya"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen jaminan mutu/SOP Pernyataan diri (self-declare) telah melaksanakan cara pembibitan ternak yang baik"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen jaminan mutu/SOP Pernyataan diri (self-declare) telah melaksanakan cara pembibitan ternak yang baik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen jaminan mutu / SOP"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen jaminan mutu / SOP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian penilaian Tim Audit."
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian penilaian Tim Audit."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Bersedia dilakukan surveilance paling kurang 1 kali dalam 1 periode sertifikat."
+      },
+      "id": {
+       "syarat_perizinan": "Bersedia dilakukan surveilance paling kurang 1 kali dalam 1 periode sertifikat."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaporkan kegiatan usaha dan pengembangan kegiatan usaha pembibitan kepada pimpinan instansi sesuai dengan kewenangannya"
+      },
+      "id": {
+       "syarat_perizinan": "Melaporkan kegiatan usaha dan pengembangan kegiatan usaha pembibitan kepada pimpinan instansi sesuai dengan kewenangannya"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan surat Pernyataan komitmen untuk melaksanakan cara pembibitan ternak yang baik secara berkelanjutan."
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan surat Pernyataan komitmen untuk melaksanakan cara pembibitan ternak yang baik secara berkelanjutan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian penilaian Tim Audit."
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian penilaian Tim Audit."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "3c0da883-1b8f-4753-8ece-147eb2de9647",
+    "kode": "018",
+    "localization": {
+     "en": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     },
+     "id": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

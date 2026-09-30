@@ -1,0 +1,1572 @@
+{
+ "code": "52106",
+ "found": true,
+ "ossId": "e5ee34fc-50ba-587f-8cd9-32fdf1fb1bb9",
+ "url": "https://oss.go.id/id/kbli/detail/e5ee34fc-50ba-587f-8cd9-32fdf1fb1bb9",
+ "fetchedAt": "2026-09-30T05:05:39+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 52106 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "52106"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "498dc0ed-d9d9-53a2-bd7b-4175959b3748",
+   "localization": {
+    "en": {
+     "uraian": "Fasilitas Penyimpanan Sumber Radioaktif",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Fasilitas Penyimpanan Sumber Radioaktif",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "e5ee34fc-50ba-587f-8cd9-32fdf1fb1bb9",
+    "localization": {
+     "en": {
+      "judul": "Fasilitas Penyimpanan Sumber Radiasi Pengion",
+      "uraian": "Kelompok ini mencakup aktivitas penyimpanan sumber radiasi pengion (zat radioaktif dan pembangkit radiasi pengion).\nKelompok ini juga mencakup\n- pengoperasian penyimpanan sumber radiasi pengion dengan sistem resi gudang;\n- pengoperasian gudang berpendingin untuk penyimpanan sumber radiasi pengion;\n- pengoperasian penyimpanan sumber radiasi pengion di zona perdagangan bebas;\n- pengoperasian tempat penyimpanan komoditas fisik sumber radiasi pengion (zat radioaktif dan pembangkit radiasi pengion).\nKelompok ini tidak mencakup\n- pengoperasian penyimpanan barang radioaktif yang berasal dari alam, lihat kelompok 52107."
+     },
+     "id": {
+      "judul": "Fasilitas Penyimpanan Sumber Radiasi Pengion",
+      "uraian": "Kelompok ini mencakup aktivitas penyimpanan sumber radiasi pengion (zat radioaktif dan pembangkit radiasi pengion).\nKelompok ini juga mencakup\n- pengoperasian penyimpanan sumber radiasi pengion dengan sistem resi gudang;\n- pengoperasian gudang berpendingin untuk penyimpanan sumber radiasi pengion;\n- pengoperasian penyimpanan sumber radiasi pengion di zona perdagangan bebas;\n- pengoperasian tempat penyimpanan komoditas fisik sumber radiasi pengion (zat radioaktif dan pembangkit radiasi pengion).\nKelompok ini tidak mencakup\n- pengoperasian penyimpanan barang radioaktif yang berasal dari alam, lihat kelompok 52107."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "2a1c32ab-4709-53c0-9df6-4d7e43e46a02",
+     "kode": "52106-02-01",
+     "luas_lahan": null,
+     "jangka_waktu": "10",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "d7ad4737-4993-51ab-8267-21a5ec3303c7",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen program perawatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen program perawatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c64bd3c0-1759-541c-81e1-596fd254c3d4",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen program keamanan zat radioaktif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen program keamanan zat radioaktif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5205adb5-16d0-53ee-b34c-3729c3a27434",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen bukti kepemilikan dan/atau penguasaan sumber radiasi pengion",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen bukti kepemilikan dan/atau penguasaan sumber radiasi pengion",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e8cafafd-7d5c-5de1-b33b-fb47f3d21ea4",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen sistem manajemen",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen sistem manajemen",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5e8dd41a-8f00-5f86-80fd-43b220d96398",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen teknis fasilitas penyimpanan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen teknis fasilitas penyimpanan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e8285293-29e7-5fc4-bb4c-3af33429e8a4",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen program proteksi dan keselamatan radiasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen program proteksi dan keselamatan radiasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "374a54d1-bfeb-5149-a9df-d9c22fed2052",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kegiatan sesuai dengan PB yang diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kegiatan sesuai dengan PB yang diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d02a4470-46b5-5734-bdf9-85ee88dbdd46",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ff0bfddc-6d58-5931-84bc-55d3f291b3ae",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan proteksi dan keselamatan radiasi, dan ketentuan keamanan zat radioaktif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan proteksi dan keselamatan radiasi, dan ketentuan keamanan zat radioaktif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c56eaaa2-4faa-514e-bf35-0dbe1745ecfd",
+       "localization": {
+        "en": {
+         "uraian": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5ee5b525-cf17-5a90-80ac-fe1a731697a3",
+       "localization": {
+        "en": {
+         "uraian": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2caa5da6-52bd-53c8-9302-9004a3aa24f2",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4283ae92-cf6a-5933-a560-946b8c3c5712",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan verifikasi keselamatan dan keamanan secara berkala setiap tahun terhitung sejak PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan verifikasi keselamatan dan keamanan secara berkala setiap tahun terhitung sejak PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8ebd5906-450f-53a4-9fd7-be2b55e145d3",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan perawatan sesuai dengan program perawatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan perawatan sesuai dengan program perawatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "99100add-c164-50e0-b73e-1525c00d97b7",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "524761e1-488d-41c3-ab84-4e7dd0889865",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Fasilitas Penyimpanan Sumber Radioaktif"
+         },
+         "id": {
+          "nama_dokumen": "Izin Fasilitas Penyimpanan Sumber Radioaktif"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "48f4e945-ae3e-5a91-aa5e-9e535046454b",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "2a5ec0c6-5f57-5ea1-9f7c-33b31854027c",
+     "kode": "52106-03-02",
+     "luas_lahan": null,
+     "jangka_waktu": "10",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "2b898c2b-04fc-535e-b055-82dfdc278c21",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen teknis fasilitas penyimpanan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen teknis fasilitas penyimpanan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d1107e37-35dd-536f-862c-1ba549ec8f11",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen program proteksi dan keselamatan radiasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen program proteksi dan keselamatan radiasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "912861a1-f591-5e4c-bf5c-b5c6cbefae2a",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen program keamanan zat radioaktif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen program keamanan zat radioaktif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "507998f3-6754-542c-93c9-cbce79dcd6e3",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen bukti kepemilikan dan/atau penguasaan sumber radiasi pengion",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen bukti kepemilikan dan/atau penguasaan sumber radiasi pengion",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4606973c-4891-505a-bcc3-650da936bbe3",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen sistem manajemen",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen sistem manajemen",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a007cd77-3774-5db8-9555-0f94f78dbd51",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen program perawatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen program perawatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "3f5598c2-ebc2-5bc5-80d7-e90742721956",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan proteksi dan keselamatan radiasi, dan ketentuan keamanan zat radioaktif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan proteksi dan keselamatan radiasi, dan ketentuan keamanan zat radioaktif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0d91135f-1c22-5241-a606-14a17ba2de8f",
+       "localization": {
+        "en": {
+         "uraian": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4eaf02f1-60c4-5a23-a18e-8cdcd6e4eafc",
+       "localization": {
+        "en": {
+         "uraian": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "544e8aaa-6685-5011-8927-f7a10c3a5f78",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e86a3305-31fe-51ca-a055-f779186ac5b9",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan verifikasi keselamatan dan keamanan secara berkala setiap tahun terhitung sejak PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan verifikasi keselamatan dan keamanan secara berkala setiap tahun terhitung sejak PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6d966e19-a607-5ac0-9133-fc4745d6f767",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan perawatan sesuai dengan program perawatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan perawatan sesuai dengan program perawatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "00fcf89d-bc2c-5caf-85dc-7f84efaad335",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kegiatan sesuai dengan PB yang diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kegiatan sesuai dengan PB yang diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6eeaeaaa-876c-517e-9a1c-b3b98c7e4747",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "8a4984fa-9af6-5407-afb0-cc394ef4639c",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "524761e1-488d-41c3-ab84-4e7dd0889865",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Fasilitas Penyimpanan Sumber Radioaktif"
+         },
+         "id": {
+          "nama_dokumen": "Izin Fasilitas Penyimpanan Sumber Radioaktif"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "ca037053-a5e2-5dad-b6ef-2d06e5604b8e",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "e9141009-1741-55c3-b637-2a5c982f17ec",
+     "kode": "52106-04-03",
+     "luas_lahan": null,
+     "jangka_waktu": "10",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "03067b64-d716-53f1-b8e4-cef58a873a3e",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen program perawatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen program perawatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a9b1c884-e9a6-5c45-9937-9df450bb214b",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen teknis fasilitas penyimpanan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen teknis fasilitas penyimpanan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6c82b990-f010-5dbf-9f9c-21f8ffb52184",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen program proteksi dan keselamatan radiasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen program proteksi dan keselamatan radiasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "371d2b69-8ffd-5f27-bb68-9eeec46352c3",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen program keamanan zat radioaktif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen program keamanan zat radioaktif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "177a4488-3751-5b96-a191-0287af4b9156",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen bukti kepemilikan dan/atau penguasaan sumber radiasi pengion",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen bukti kepemilikan dan/atau penguasaan sumber radiasi pengion",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f0eb3190-2292-52d8-8c0c-e355f3012a93",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen sistem manajemen",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen sistem manajemen",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "30ea068b-f5c0-5a7e-82e7-33d4732ed35d",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kegiatan sesuai dengan PB yang diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kegiatan sesuai dengan PB yang diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "44b80d52-2aeb-54e2-ad86-7dcfd26c1274",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8d13e56f-9abf-5607-b7f4-0216afb89184",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan proteksi dan keselamatan radiasi, dan ketentuan keamanan zat radioaktif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan proteksi dan keselamatan radiasi, dan ketentuan keamanan zat radioaktif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "12ff58ad-b5c0-503a-8333-d521cb15b71f",
+       "localization": {
+        "en": {
+         "uraian": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "04ade415-d759-523b-9ce1-168dac7d8ce2",
+       "localization": {
+        "en": {
+         "uraian": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9c835e91-20a2-5d17-ac78-3dd07ff9ad47",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ae134ffe-6fb2-5e7b-87cb-3a6f2e50c95e",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan verifikasi keselamatan dan keamanan secara berkala setiap tahun terhitung sejak PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan verifikasi keselamatan dan keamanan secara berkala setiap tahun terhitung sejak PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "25f3df2f-818d-54c4-9e5a-b3243254bac6",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan perawatan sesuai dengan program perawatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan perawatan sesuai dengan program perawatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "26fd2836-ee92-51f6-9a05-91bf6dd2cc36",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "524761e1-488d-41c3-ab84-4e7dd0889865",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Fasilitas Penyimpanan Sumber Radioaktif"
+         },
+         "id": {
+          "nama_dokumen": "Izin Fasilitas Penyimpanan Sumber Radioaktif"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "df66992a-06eb-5255-a085-f05e3eb23a4b",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fc847a83-6ee0-5aee-adfa-a2493806825d",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "50ca7482-d92f-4450-8719-bb4629a2b33f",
+    "kode": "085",
+    "localization": {
+     "en": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     },
+     "id": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

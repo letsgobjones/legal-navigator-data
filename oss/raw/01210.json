@@ -1,0 +1,2343 @@
+{
+ "code": "01210",
+ "found": true,
+ "ossId": "98b2f62d-3150-5930-b40c-e07114a7b979",
+ "url": "https://oss.go.id/id/kbli/detail/98b2f62d-3150-5930-b40c-e07114a7b979",
+ "fetchedAt": "2026-09-30T03:56:06+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 01210 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "01210"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "ec24c26a-8e5d-5264-baea-739d9ac94aa3",
+   "localization": {
+    "en": {
+     "uraian": "Kegiatan pembibitan dan pembenihan tanaman buah anggur",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Kegiatan pembibitan dan pembenihan tanaman buah anggur",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "98b2f62d-3150-5930-b40c-e07114a7b979",
+    "localization": {
+     "en": {
+      "judul": "Pertanian Buah Anggur",
+      "uraian": "Kelompok ini mencakup kegiatan pertanian buah anggur untuk konsumsi langsung atau untuk memproduksi wine, jus, cuka, dan buah yang dikeringkan, seperti kismis, zante currants, dan sultana. Pertanian buah anggur yang dimaksud mencakup kegiatan pengolahan lahan, penanaman, pemeliharaan, pemanenan, dan kegiatan pascapanen yang dilakukan sebagai satu rangkaian kegiatan. Kelompok ini juga mencakup penanaman tanaman anggur untuk menghasilkan benih berupa biji.\nKelompok ini tidak mencakup\n- pembuatan wine, lihat kelompok 11020;\n- pengolahan dan pengawetan anggur, lihat subgolongan 1030."
+     },
+     "id": {
+      "judul": "Pertanian Buah Anggur",
+      "uraian": "Kelompok ini mencakup kegiatan pertanian buah anggur untuk konsumsi langsung atau untuk memproduksi wine, jus, cuka, dan buah yang dikeringkan, seperti kismis, zante currants, dan sultana. Pertanian buah anggur yang dimaksud mencakup kegiatan pengolahan lahan, penanaman, pemeliharaan, pemanenan, dan kegiatan pascapanen yang dilakukan sebagai satu rangkaian kegiatan. Kelompok ini juga mencakup penanaman tanaman anggur untuk menghasilkan benih berupa biji.\nKelompok ini tidak mencakup\n- pembuatan wine, lihat kelompok 11020;\n- pengolahan dan pengawetan anggur, lihat subgolongan 1030."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "23528dd6-f528-5eab-b0a7-1aa8ed58e651",
+     "kode": "01210-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliIzins": [
+      {
+       "id": "decf04b9-6c6a-5296-86f8-cb375d3349f5",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "2d4a2809-2c73-553b-8367-6ce7ae503acf",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan usaha secara periodik kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan usaha secara periodik kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "7492ae7f-1fae-5e69-adc8-134cb152ecb8",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan peraturan Perbenihan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan peraturan Perbenihan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "393f463c-55b4-5f3c-a1f5-464644ce7787",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a79a0715-9d2d-500a-a6d5-43977403dd65",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cdccf6b1-9702-5eea-8a5a-6a9b3713b2c1",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a0335a89-4b41-5f83-a7ec-cdb428e7c1aa",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "001b8224-4355-57f0-883f-634669a67581",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "300407fd-aacf-5f24-8ae7-b9ab7bd3fbf4",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "8d28bfb5-e10a-5802-806b-88bbe4effdad",
+     "kode": "01210-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliIzins": [
+      {
+       "id": "c3c097a8-7fad-5caf-b788-b3f50dc2c588",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "8c89693b-9076-50b8-ac0b-e02c6bb41b45",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan usaha secara periodik kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan usaha secara periodik kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "2438ee76-ff11-5231-8fca-26a55a0b7a2d",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan peraturan Perbenihan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan peraturan Perbenihan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "4ac1fdc5-bdfd-5313-a7b4-ad374fcace40",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a79a0715-9d2d-500a-a6d5-43977403dd65",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "57ccc1ca-f42a-501c-b498-711ae1a74053",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a0335a89-4b41-5f83-a7ec-cdb428e7c1aa",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "417f2397-6e1b-5661-af18-7590df32000f",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "300407fd-aacf-5f24-8ae7-b9ab7bd3fbf4",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "b96a9345-2325-5aa0-8695-fa25a259140d",
+     "kode": "01210-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliIzins": [
+      {
+       "id": "1e7c3dd1-0fa0-5882-9a05-7d515db53be8",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "9a883f5c-f15d-51fc-8dd0-165f6d67ae6d",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan usaha secara periodik kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan usaha secara periodik kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "fbe54e46-66c3-5057-94b2-bc881a7d35b4",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan peraturan Perbenihan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan peraturan Perbenihan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "4d79dc7e-3417-5b7d-89a8-13964372a4e4",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "300407fd-aacf-5f24-8ae7-b9ab7bd3fbf4",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c68b6373-5c5c-54cd-a2f0-3739bc44551a",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a79a0715-9d2d-500a-a6d5-43977403dd65",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "743ed80a-3efc-5d74-846d-97e09b8a2530",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a0335a89-4b41-5f83-a7ec-cdb428e7c1aa",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "8b32828b-0abd-5161-af63-90fa04b7a9cb",
+     "kode": "01210-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "badb8cd8-6c9f-5007-8dfa-1b624d5b3170",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan menguasai tempat usaha produksi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan menguasai tempat usaha produksi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f6a48a17-9388-5464-8eb1-4eacf79a7a71",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki sumber daya manusia yang mempunyai pengetahuan dan keterampilan di bidang perbenihan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki sumber daya manusia yang mempunyai pengetahuan dan keterampilan di bidang perbenihan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d9ec06bf-8583-5b63-b154-f6dbfbdddd9f",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki atau menguasai sarana produksi benih atau peredaran benih",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki atau menguasai sarana produksi benih atau peredaran benih",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d006ce09-1a0c-533c-bb78-5c65321698f3",
+       "localization": {
+        "en": {
+         "uraian": "Surat Keterangan kompetensi sebagai produsen atau pengedar benih dari Institusi yang berwenang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Keterangan kompetensi sebagai produsen atau pengedar benih dari Institusi yang berwenang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "aa152326-f667-5b36-a83f-73d72e9694a2",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "42fd6df3-60f1-5c3b-9291-df62b51ee35a",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan usaha dan pelaksanaan corporate social responsibility (CSR) secara periodik kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan usaha dan pelaksanaan corporate social responsibility (CSR) secara periodik kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6cf0bd11-101d-5054-b89c-665f6cb99833",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan peraturan Perbenihan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan peraturan Perbenihan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "788a02cb-4e8b-5107-8f2d-83287842e827",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "05a5ccea-3006-51ac-b347-a9c94a9bb61d",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a0335a89-4b41-5f83-a7ec-cdb428e7c1aa",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "01b011c7-9c81-5bd8-a4f8-8c2555c03eb6",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "300407fd-aacf-5f24-8ae7-b9ab7bd3fbf4",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "dff15e58-45a2-5ad5-8979-9fec1e89a51e",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a79a0715-9d2d-500a-a6d5-43977403dd65",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "3c0da883-1b8f-4753-8ece-147eb2de9647",
+    "kode": "018",
+    "localization": {
+     "en": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     },
+     "id": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "11852887-0907-5f9c-baa3-20d99a19e7d2",
+   "localization": {
+    "en": {
+     "uraian": "Kegiatan penyiapan atau pelaksanaan, penanaman, pemeliharaan, pemanenan dan pascapanen buah anggur",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Kegiatan penyiapan atau pelaksanaan, penanaman, pemeliharaan, pemanenan dan pascapanen buah anggur",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "98b2f62d-3150-5930-b40c-e07114a7b979",
+    "localization": {
+     "en": {
+      "judul": "Pertanian Buah Anggur",
+      "uraian": "Kelompok ini mencakup kegiatan pertanian buah anggur untuk konsumsi langsung atau untuk memproduksi wine, jus, cuka, dan buah yang dikeringkan, seperti kismis, zante currants, dan sultana. Pertanian buah anggur yang dimaksud mencakup kegiatan pengolahan lahan, penanaman, pemeliharaan, pemanenan, dan kegiatan pascapanen yang dilakukan sebagai satu rangkaian kegiatan. Kelompok ini juga mencakup penanaman tanaman anggur untuk menghasilkan benih berupa biji.\nKelompok ini tidak mencakup\n- pembuatan wine, lihat kelompok 11020;\n- pengolahan dan pengawetan anggur, lihat subgolongan 1030."
+     },
+     "id": {
+      "judul": "Pertanian Buah Anggur",
+      "uraian": "Kelompok ini mencakup kegiatan pertanian buah anggur untuk konsumsi langsung atau untuk memproduksi wine, jus, cuka, dan buah yang dikeringkan, seperti kismis, zante currants, dan sultana. Pertanian buah anggur yang dimaksud mencakup kegiatan pengolahan lahan, penanaman, pemeliharaan, pemanenan, dan kegiatan pascapanen yang dilakukan sebagai satu rangkaian kegiatan. Kelompok ini juga mencakup penanaman tanaman anggur untuk menghasilkan benih berupa biji.\nKelompok ini tidak mencakup\n- pembuatan wine, lihat kelompok 11020;\n- pengolahan dan pengawetan anggur, lihat subgolongan 1030."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "afe0bd89-f5a7-57b8-b9f7-46280b7c5dbb",
+     "kode": "01210-01-05",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliIzins": [],
+     "KbliKewajibans": [
+      {
+       "id": "8e8bfed7-ca2e-5187-8b1f-856b313c8f65",
+       "localization": {
+        "en": {
+         "uraian": "Membuat catatan kegiatan usaha.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membuat catatan kegiatan usaha.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "1546215f-496b-5415-817b-e4cb63b813b3",
+       "localization": {
+        "en": {
+         "uraian": "Membuat pernyataan melakukan budidaya yang baik sesuai SOP.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membuat pernyataan melakukan budidaya yang baik sesuai SOP.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "4d6209b0-b63a-5b50-a2f6-f67f1b1cde53",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a79a0715-9d2d-500a-a6d5-43977403dd65",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c9a10932-c778-52be-ac4a-027ad190882b",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "300407fd-aacf-5f24-8ae7-b9ab7bd3fbf4",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "64082c72-3f1a-54b1-b318-cfc912f99115",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a0335a89-4b41-5f83-a7ec-cdb428e7c1aa",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "1b177d3b-6fed-58f9-b500-f90995c2d32c",
+     "kode": "01210-02-06",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliIzins": [],
+     "KbliKewajibans": [
+      {
+       "id": "a5fca33c-8189-5a8e-aa1c-e4cc796e87cb",
+       "localization": {
+        "en": {
+         "uraian": "Membuat catatan kegiatan usaha.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membuat catatan kegiatan usaha.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "4c413b10-4bf4-5aa7-a0a6-f8794b4560c4",
+       "localization": {
+        "en": {
+         "uraian": "Membuat pernyataan melakukan budidaya yang baik sesuai SOP.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membuat pernyataan melakukan budidaya yang baik sesuai SOP.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "83920a20-b294-51e6-b451-49809a00ca09",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a0335a89-4b41-5f83-a7ec-cdb428e7c1aa",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "17c49283-9ad4-57e7-84cf-9c19ebe550a5",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "300407fd-aacf-5f24-8ae7-b9ab7bd3fbf4",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "460e8c91-1c3d-57ad-a0b1-fd8f10dfbd23",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a79a0715-9d2d-500a-a6d5-43977403dd65",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "f783829c-1cb6-58db-a508-66c793bece2c",
+     "kode": "01210-03-07",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliIzins": [
+      {
+       "id": "9feb6a2d-4fb7-5486-a9f6-468da4e5989c",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "4632834e-eaee-5fc0-bdfd-b28e1d56bc99",
+       "localization": {
+        "en": {
+         "uraian": "Produk yang dihasilkan memenuhi standar mutu dan persyaratan keamanan pangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Produk yang dihasilkan memenuhi standar mutu dan persyaratan keamanan pangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "7e937f21-d74b-5322-bd03-909630620238",
+       "localization": {
+        "en": {
+         "uraian": "Membuat catatan kegiatan usaha dan melaporkan secara periodik kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membuat catatan kegiatan usaha dan melaporkan secara periodik kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "ad39c58d-731f-566b-bcc8-659c364f7414",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan budidaya yang baik melalui penerapan GAP.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan budidaya yang baik melalui penerapan GAP.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "fea8e095-5e3e-55b8-9567-b42770c046ad",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a79a0715-9d2d-500a-a6d5-43977403dd65",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d10ecf5b-330a-5275-9e15-670d6df6b38f",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a0335a89-4b41-5f83-a7ec-cdb428e7c1aa",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "88c9dbc4-2d7e-5074-ae1c-352731dccbb8",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "300407fd-aacf-5f24-8ae7-b9ab7bd3fbf4",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "3b25e0cd-224b-5d36-97dd-9f2c3c2b9d50",
+     "kode": "01210-04-08",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "f79f7dfd-3cd4-5fef-8934-364918a80d0c",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki/ menguasai lahan/kebun untuk usaha budidaya yang sesuai dengan RUTW.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki/ menguasai lahan/kebun untuk usaha budidaya yang sesuai dengan RUTW.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a1f24b6a-6dc4-5691-bf96-b4a026dbc5d5",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan ketersediaan sarana prasarana yang memadai untuk usaha budidaya (dilengkapi dokumen perizinan sarana prasarana jika diperlukan).",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan ketersediaan sarana prasarana yang memadai untuk usaha budidaya (dilengkapi dokumen perizinan sarana prasarana jika diperlukan).",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ded37cdc-02e6-5c2b-966a-d435ebc0523e",
+       "localization": {
+        "en": {
+         "uraian": "Rencana usaha.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana usaha.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c30e1942-996d-5796-a36b-33e2006939c6",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan ketersediaan tenaga kerja yang terampil untuk usaha budidaya.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan ketersediaan tenaga kerja yang terampil untuk usaha budidaya.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "43d08d79-74e3-5081-ae4c-daf57cf4d58f",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan menerapkan GAP terutama menjaga konservasi lahan dan air, serta tata kelola limbah.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan menerapkan GAP terutama menjaga konservasi lahan dan air, serta tata kelola limbah.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "28ad6a97-6bf2-59da-8530-bce9e180965a",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "2de74b27-c742-5dc1-8a21-860c9c27474d",
+       "localization": {
+        "en": {
+         "uraian": "Kebun/Lahan usaha teregistrasi dalam penerapan GAP/sudah memiliki sertifikat GAP.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kebun/Lahan usaha teregistrasi dalam penerapan GAP/sudah memiliki sertifikat GAP.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "18840b47-854b-5114-831d-c9967814f42c",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan transfer teknologi.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan transfer teknologi.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9e41654b-e851-570d-ba0c-f3fca67b8dfe",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan usahanya secara periodik kepada pimpinan instansi sesuai dengan kewenangannya .",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan usahanya secara periodik kepada pimpinan instansi sesuai dengan kewenangannya .",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b0a36e19-58cf-5637-946d-372275f7386a",
+       "localization": {
+        "en": {
+         "uraian": "Membuat prosedur kerja dalam memenuhi standar K3L.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membuat prosedur kerja dalam memenuhi standar K3L.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "c6f06af1-b23f-5b63-991e-699e7ab80655",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "300407fd-aacf-5f24-8ae7-b9ab7bd3fbf4",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2275ad6d-3b1a-5c5a-ac02-1b21fcbd6404",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8dd330e6-2d25-5dd3-936f-fe38c5d4d2c6",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a79a0715-9d2d-500a-a6d5-43977403dd65",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7a784109-1bff-5d72-abaa-205c13a92e14",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a0335a89-4b41-5f83-a7ec-cdb428e7c1aa",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berlokasi di Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "3c0da883-1b8f-4753-8ece-147eb2de9647",
+    "kode": "018",
+    "localization": {
+     "en": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     },
+     "id": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "76f8c423-3a27-4ed9-a3f4-c62e9a9ac7ef",
+   "kode": "018000000225",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Pendaftaran varietas tanaman hortikultura"
+    },
+    "id": {
+     "nama_dokumen": "Pendaftaran varietas tanaman hortikultura"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "00478212-390e-5107-8919-d2e6c6289989",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "175ad4fb-c196-420a-ae74-f3f69d5bdaf7",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "$7f"
+      },
+      "id": {
+       "syarat_perizinan": "$80"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": " <ol>Persyaratan Teknis <br>  <ol style=\"l\"> <li>Proposal Pendaftaran/Summary Executive</li> <li>Hasil Uji Kebenaran</li> <li>Hasil Uji Keunggulan</li> </ol>"
+      },
+      "id": {
+       "syarat_perizinan": " <ol>Persyaratan Teknis <br>  <ol style=\"l\"> <li>Proposal Pendaftaran/Summary Executive</li> <li>Hasil Uji Kebenaran</li> <li>Hasil Uji Keunggulan</li> </ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat pernyataan kesanggupan untuk melaksanakan perbanyakan benih yang memenuhi PTM"
+      },
+      "id": {
+       "syarat_perizinan": "Surat pernyataan kesanggupan untuk melaksanakan perbanyakan benih yang memenuhi PTM"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "$81"
+      },
+      "id": {
+       "syarat_perizinan": "$82"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat Izin Pemasukan (SIP) untuk varietas introduksi"
+      },
+      "id": {
+       "syarat_perizinan": "Surat Izin Pemasukan (SIP) untuk varietas introduksi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "memiliki keunggulan tertentu sebagaimana diakui oleh pemulia atau pemilik calon varietas/kuasanya"
+      },
+      "id": {
+       "syarat_perizinan": "memiliki keunggulan tertentu sebagaimana diakui oleh pemulia atau pemilik calon varietas/kuasanya"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil Uji Keunggulan calon varietas"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil Uji Keunggulan calon varietas"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Foto penciri utama calon varietas"
+      },
+      "id": {
+       "syarat_perizinan": "Foto penciri utama calon varietas"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Nama varietas mengikuti penamaan peraturan perundangan perlindungan varietas tanaman"
+      },
+      "id": {
+       "syarat_perizinan": "Nama varietas mengikuti penamaan peraturan perundangan perlindungan varietas tanaman"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Deskripsi varietas"
+      },
+      "id": {
+       "syarat_perizinan": "Deskripsi varietas"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil Uji Kebenaran calon varietas"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil Uji Kebenaran calon varietas"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": " <ol>Persyaratan Teknis <br>  <ol style=\"l\"> <li>Proposal Pendaftaran/Summary Executive</li> <li>Hasil Uji Kebenaran</li> <li>Hasil Uji Keunggulan</li> </ol>"
+      },
+      "id": {
+       "syarat_perizinan": " <ol>Persyaratan Teknis <br>  <ol style=\"l\"> <li>Proposal Pendaftaran/Summary Executive</li> <li>Hasil Uji Kebenaran</li> <li>Hasil Uji Keunggulan</li> </ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Belum pernah didaftarkan untuk peredaran"
+      },
+      "id": {
+       "syarat_perizinan": "Belum pernah didaftarkan untuk peredaran"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan Calon Varietas\nMemiliki deskripsi varietas sesuai standar yang ditetapkan oleh Direktur Jenderal Hortikultura"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan Calon Varietas\nMemiliki deskripsi varietas sesuai standar yang ditetapkan oleh Direktur Jenderal Hortikultura"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat pertanyaan kesanggupan memelihara arsip benih/tanaman yang didaftarkan sebagai varietas asli"
+      },
+      "id": {
+       "syarat_perizinan": "Surat pertanyaan kesanggupan memelihara arsip benih/tanaman yang didaftarkan sebagai varietas asli"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat pernyataan kesanggupan menjamin kebenaran varietas yang diedarkan sesuai dengan deskripsi"
+      },
+      "id": {
+       "syarat_perizinan": "Surat pernyataan kesanggupan menjamin kebenaran varietas yang diedarkan sesuai dengan deskripsi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan Permohonan Pendaftaran Varietas\nMemiliki/menguasai calon varietas"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan Permohonan Pendaftaran Varietas\nMemiliki/menguasai calon varietas"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Kesanggupan untuk melaksanakan perbanyakan benih yang memenuhi PTM</p><ol style=\"list-style-type: lower-alpha;\"><li>Menjamin kebenaran varietas yang diedarkan sesuai dengan deskripsi</li><li>Memelihara arsip benih/tanaman yang didaftarkan sebagai varietas asli</li><li>Menarik benih yang beredar apabila varietas dimaksud dicabut tanda daftarnya</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Kesanggupan untuk melaksanakan perbanyakan benih yang memenuhi PTM</p><ol style=\"list-style-type: lower-alpha;\"><li>Menjamin kebenaran varietas yang diedarkan sesuai dengan deskripsi</li><li>Memelihara arsip benih/tanaman yang didaftarkan sebagai varietas asli</li><li>Menarik benih yang beredar apabila varietas dimaksud dicabut tanda daftarnya</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menarik benih yang beredar apabila varietas dimaksud dicabut tanda daftarnya"
+      },
+      "id": {
+       "syarat_perizinan": "Menarik benih yang beredar apabila varietas dimaksud dicabut tanda daftarnya"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Kesanggupan untuk melaksanakan perbanyakan benih yang memenuhi PTM"
+      },
+      "id": {
+       "syarat_perizinan": "Kesanggupan untuk melaksanakan perbanyakan benih yang memenuhi PTM"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memelihara arsip benih/tanaman yang didaftarkan sebagai varietas asli"
+      },
+      "id": {
+       "syarat_perizinan": "Memelihara arsip benih/tanaman yang didaftarkan sebagai varietas asli"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjamin kebenaran varietas yang diedarkan sesuai dengan deskripsi"
+      },
+      "id": {
+       "syarat_perizinan": "Menjamin kebenaran varietas yang diedarkan sesuai dengan deskripsi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "28 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "3c0da883-1b8f-4753-8ece-147eb2de9647",
+    "kode": "018",
+    "localization": {
+     "en": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     },
+     "id": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

@@ -1,0 +1,676 @@
+{
+ "code": "77400",
+ "found": true,
+ "ossId": "6d270a0b-1807-5c5a-a75a-62027ddcb53b",
+ "url": "https://oss.go.id/id/kbli/detail/6d270a0b-1807-5c5a-a75a-62027ddcb53b",
+ "fetchedAt": "2026-09-30T05:27:19+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 77400 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "77400"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "25e6976a-f195-5fe4-bcc3-8d8f2c6d00ed",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "6d270a0b-1807-5c5a-a75a-62027ddcb53b",
+    "localization": {
+     "en": {
+      "judul": "Sewa Guna Usaha Kekayaan Intelektual dan Produk Sejenis, Bukan Karya Berhak Cipta",
+      "uraian": "$4b"
+     },
+     "id": {
+      "judul": "Sewa Guna Usaha Kekayaan Intelektual dan Produk Sejenis, Bukan Karya Berhak Cipta",
+      "uraian": "$4c"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "7409e306-2d0c-5bd4-a1a9-c2b17a76f37b",
+     "kode": "77400-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "9e7da631-c3a7-578f-b47a-f945ca2220ed",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada Menteri Perdagangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada Menteri Perdagangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "8801eab4-0923-5370-ae6c-34fb333705e1",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "908ba3c9-85d5-527f-b27a-86d0532ede42",
+        "local": {
+         "en": {
+          "uraian": "Provinsi Daerah Khusus Jakarta",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Provinsi Daerah Khusus Jakarta",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7e18d774-744f-56cb-ad8c-120882998622",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "bdce2492-918a-51b9-9a3c-b32cbef20f6d",
+        "local": {
+         "en": {
+          "uraian": "Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4239bf4c-a62d-5096-b360-914c29f1b0cd",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "02c31881-615a-58d3-abe8-8bc9a9094522",
+     "kode": "77400-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "a927b97d-1566-556b-965f-7da738449e6d",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada Menteri Perdagangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada Menteri Perdagangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "abd7527f-cbe4-5f9f-95c3-441b089a9ff2",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "46dd8c4a-e9ca-523f-a9f2-6603f8e01159",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "908ba3c9-85d5-527f-b27a-86d0532ede42",
+        "local": {
+         "en": {
+          "uraian": "Provinsi Daerah Khusus Jakarta",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Provinsi Daerah Khusus Jakarta",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f702a213-8c5c-5cc0-8377-795f35e6fe91",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "bdce2492-918a-51b9-9a3c-b32cbef20f6d",
+        "local": {
+         "en": {
+          "uraian": "Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "51dec809-da09-5937-8692-c9ef43cf0620",
+     "kode": "77400-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "455cbe9a-79e5-5ad4-b87b-bdd8638b5cb3",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada Menteri Perdagangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada Menteri Perdagangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "2fedec24-f15c-554e-a1cc-ef1d76dbee2c",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "908ba3c9-85d5-527f-b27a-86d0532ede42",
+        "local": {
+         "en": {
+          "uraian": "Provinsi Daerah Khusus Jakarta",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Provinsi Daerah Khusus Jakarta",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "319babe9-d555-54c5-b486-bf2392cfc6b7",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9f573ff4-bc09-58db-a5f1-706f145d389d",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "bdce2492-918a-51b9-9a3c-b32cbef20f6d",
+        "local": {
+         "en": {
+          "uraian": "Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "f208a146-8429-5e06-9ba7-3ee7e458f766",
+     "kode": "77400-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "3ed445d5-5634-5631-980f-b40e07807448",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada Menteri Perdagangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada Menteri Perdagangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "3ad4c098-644d-5036-aeec-0cc17e528993",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4a42aae6-378d-599f-919a-ddb2af0496cf",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4ad9b970-e477-59b3-bde5-d4c3bcd4e428",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "908ba3c9-85d5-527f-b27a-86d0532ede42",
+        "local": {
+         "en": {
+          "uraian": "Provinsi Daerah Khusus Jakarta",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Provinsi Daerah Khusus Jakarta",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a195922e-ce97-5e95-a712-25b3a7d1d6b7",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "bdce2492-918a-51b9-9a3c-b32cbef20f6d",
+        "local": {
+         "en": {
+          "uraian": "Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "8452cc8c-89ba-4d1d-956e-7b45b938e43f",
+    "kode": "090",
+    "localization": {
+     "en": {
+      "uraian": "Perdagangan",
+      "deskripsi": "Kementerian Perdagangan"
+     },
+     "id": {
+      "uraian": "Perdagangan",
+      "deskripsi": "Kementerian Perdagangan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

@@ -1,0 +1,3603 @@
+{
+ "code": "01199",
+ "found": true,
+ "ossId": "9f0e1ba7-7add-59ac-b200-0cc320f14917",
+ "url": "https://oss.go.id/id/kbli/detail/9f0e1ba7-7add-59ac-b200-0cc320f14917",
+ "fetchedAt": "2026-09-30T03:56:01+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 01199 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "01199"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "62d146ec-2b0f-5cfe-8e50-6bc9b6852986",
+   "localization": {
+    "en": {
+     "uraian": "Kegiatan penyiapan dan pengolahan lahan, penyemaian, penanaman, pemeliharaan , pemanenan dan pengolahan pasca-panen. Meliputi pertanian tanaman semusim lainnya yang belum terklasifikasi di tempat lain",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Kegiatan penyiapan dan pengolahan lahan, penyemaian, penanaman, pemeliharaan , pemanenan dan pengolahan pasca-panen. Meliputi pertanian tanaman semusim lainnya yang belum terklasifikasi di tempat lain",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "9f0e1ba7-7add-59ac-b200-0cc320f14917",
+    "localization": {
+     "en": {
+      "judul": "Pertanian Tanaman Semusim Lainnya YTDL",
+      "uraian": "Kelompok ini mencakup kegiatan pertanian tanaman semusim lainnya yang belum terklasifikasi di tempat lain dan kegiatan penanaman untuk menghasilkan benih berupa biji."
+     },
+     "id": {
+      "judul": "Pertanian Tanaman Semusim Lainnya YTDL",
+      "uraian": "Kelompok ini mencakup kegiatan pertanian tanaman semusim lainnya yang belum terklasifikasi di tempat lain dan kegiatan penanaman untuk menghasilkan benih berupa biji."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": [
+     {
+      "id": "d565d0d8-ff02-45b9-a523-532247e4a386",
+      "localization": {
+       "en": {
+        "uraian": "<p>Ruang Lingkup Kegiatan Budi Daya Tanaman Semusim Lain, berlaku ketentuan luas lahan berdasarkan skala usaha:</p>\r\n<ul>\r\n<li>mikro &amp; kecil: &lt; 25 ha, atau</li>\r\n<li>menengah &amp; besar: &gt; 25 ha.</li>\r\n</ul>\r\n<p>Hal ini berdasarkan Peraturan Pemerintah Nomor 5 Tahun 2021 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko pada Lampiran I Sektor Pertanian.</p>"
+       },
+       "id": {
+        "uraian": "<p>Ruang Lingkup Kegiatan Budi Daya Tanaman Semusim Lain, berlaku ketentuan luas lahan berdasarkan skala usaha:</p>\r\n<ul>\r\n<li>mikro &amp; kecil: &lt; 25 ha, atau</li>\r\n<li>menengah &amp; besar: &gt; 25 ha.</li>\r\n</ul>\r\n<p>Hal ini berdasarkan Peraturan Pemerintah Nomor 5 Tahun 2021 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko pada Lampiran I Sektor Pertanian.</p>"
+       }
+      }
+     }
+    ]
+   },
+   "KbliResikos": [
+    {
+     "id": "2d78d2b9-be02-5029-bbc7-6620ecab61d8",
+     "kode": "01199-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliIzins": [],
+     "KbliKewajibans": [
+      {
+       "id": "0eeabd81-5797-503d-94a9-47d23dc06459",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan budidaya sesuai pedoman budidaya yang baik (GAP)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan budidaya sesuai pedoman budidaya yang baik (GAP)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "871b3a02-93da-56ba-98ad-9c31a7a3376f",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e6c0f143-f433-5867-bc42-afe678ef912f",
+        "local": {
+         "en": {
+          "uraian": "Dalam Satu Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Dalam Satu Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "aafec612-d628-5739-b526-9e96a970a2f6",
+     "kode": "01199-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliIzins": [],
+     "KbliKewajibans": [
+      {
+       "id": "1c9150e4-2f29-5561-a587-0310c51fc233",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan budidaya sesuai pedoman budidaya yang baik (GAP)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan budidaya sesuai pedoman budidaya yang baik (GAP)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "cc65f9ae-4669-5aff-a9bd-9c26cc6b69c3",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e6c0f143-f433-5867-bc42-afe678ef912f",
+        "local": {
+         "en": {
+          "uraian": "Dalam Satu Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Dalam Satu Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "4c195060-5522-544c-8d62-270bead14989",
+     "kode": "01199-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliIzins": [
+      {
+       "id": "d0c179e6-7628-5b67-a76c-567878ac8cba",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "c3467a7a-a698-56e9-ab3f-50e552021ee1",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan teknologi pembukaan lahan tanpa bakar dan mengelola sumber daya alam secara lestari",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan teknologi pembukaan lahan tanpa bakar dan mengelola sumber daya alam secara lestari",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "55876374-7d0e-5bdf-bd18-2eb1f4ef8506",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan teknik budidaya yang baik dan benar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan teknik budidaya yang baik dan benar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "f52bd784-f3ff-5883-a12a-9cd503b8190c",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengendalian organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengendalian organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "d828bfb6-5ad0-5ac5-9050-01f68d271044",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan peta digital lokasi Izin Usaha Perkebunan skala 1:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan peta digital lokasi Izin Usaha Perkebunan skala 1:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "4cb30baa-e08c-598b-a49d-a1560498ae19",
+       "localization": {
+        "en": {
+         "uraian": "000 atau 1:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "000 atau 1:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "5681ff42-008b-5533-9255-13965de060b3",
+       "localization": {
+        "en": {
+         "uraian": "000 (cetak peta dan file elektronik) disertai dengan koordinat yang lengkap sesuai dengan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "000 (cetak peta dan file elektronik) disertai dengan koordinat yang lengkap sesuai dengan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "1dce1a74-0a27-54f3-b5bc-1247c425fea4",
+       "localization": {
+        "en": {
+         "uraian": "Mengusahakan lahan paling lambat 2 (dua) tahun setelah pemberian status hak atas tanah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengusahakan lahan paling lambat 2 (dua) tahun setelah pemberian status hak atas tanah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "69b0de07-a51e-51d0-b777-7e1d3df28246",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan fasilitasi pembangunan kebun masyarakat sekitar dilaksanakan dalam jangka waktu paling lambat 3 (tiga) tahun sejak hak guna usaha diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan fasilitasi pembangunan kebun masyarakat sekitar dilaksanakan dalam jangka waktu paling lambat 3 (tiga) tahun sejak hak guna usaha diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "2d19ff56-461a-5125-8298-9edbcb2c3964",
+       "localization": {
+        "en": {
+         "uraian": "Kemitraan dengan Pekebun, karyawan dan masyarakat sekitar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kemitraan dengan Pekebun, karyawan dan masyarakat sekitar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "a03a323e-1de2-5a01-a70a-2542f20948dc",
+       "localization": {
+        "en": {
+         "uraian": "Menjaga kelestarian fungsi lingkungan dan keragaman sumber daya genetik serta mencegah berjangkitnya organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjaga kelestarian fungsi lingkungan dan keragaman sumber daya genetik serta mencegah berjangkitnya organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b8e1d3eb-28e0-51c3-a9c0-35c64f2a363c",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan tanggung jawab sosial dan lingkungan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan tanggung jawab sosial dan lingkungan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "7623d036-79a3-5517-8ef9-ff0318667cea",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Kegiatan Usaha Secara Periodik kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Kegiatan Usaha Secara Periodik kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "ae272d83-f476-5631-ba34-7547d9ea5134",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "39fe0707-4573-59d9-8094-cae34ac988df",
+        "local": {
+         "en": {
+          "uraian": "Lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ee02cf8f-55d9-59b7-8bf6-688b16c80a61",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "8392a8e9-4fb4-5e9b-b26c-949285424b58",
+        "local": {
+         "en": {
+          "uraian": "Lintas Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lintas Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a35774b9-27db-5cf0-8480-283d183df42c",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e6c0f143-f433-5867-bc42-afe678ef912f",
+        "local": {
+         "en": {
+          "uraian": "Dalam Satu Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Dalam Satu Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "1b669242-c2c9-517f-89d2-8431ddef9c1a",
+     "kode": "01199-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliIzins": [
+      {
+       "id": "1d4370a9-c0a8-5c88-a6f3-83da753aa907",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "4ede4775-121e-5744-9ccd-6c628e1167f7",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan teknologi pembukaan lahan tanpa bakar dan mengelola sumber daya alam secara lestari",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan teknologi pembukaan lahan tanpa bakar dan mengelola sumber daya alam secara lestari",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "597d56e8-7077-5120-a625-f1407ca21dd4",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan teknik budidaya yang baik dan benar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan teknik budidaya yang baik dan benar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "d55be078-4d3e-558b-96fb-de745873ef70",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengendalian organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengendalian organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "91d6b7fc-1652-52ab-986d-70c851de693d",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan peta digital lokasi Izin Usaha Perkebunan skala 1:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan peta digital lokasi Izin Usaha Perkebunan skala 1:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b176f0a5-3417-5bb6-8538-eb2b70cd1166",
+       "localization": {
+        "en": {
+         "uraian": "000 atau 1:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "000 atau 1:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "6833f2a5-e2cd-52a8-9c8f-4c2ba69db170",
+       "localization": {
+        "en": {
+         "uraian": "000 (cetak peta dan file elektronik) disertai dengan koordinat yang lengkap sesuai dengan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "000 (cetak peta dan file elektronik) disertai dengan koordinat yang lengkap sesuai dengan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "8d957d74-392b-55c5-993c-8013071b8d84",
+       "localization": {
+        "en": {
+         "uraian": "Mengusahakan lahan paling lambat 2 (dua) tahun setelah pemberian status hak atas tanah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengusahakan lahan paling lambat 2 (dua) tahun setelah pemberian status hak atas tanah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "dd0cd0fc-bc7a-568e-9aa8-5a44598d5ae1",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan fasilitasi pembangunan kebun masyarakat sekitar dilaksanakan dalam jangka waktu paling lambat 3 (tiga) tahun sejak hak guna usaha diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan fasilitasi pembangunan kebun masyarakat sekitar dilaksanakan dalam jangka waktu paling lambat 3 (tiga) tahun sejak hak guna usaha diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "e7660ae2-9115-5f9e-84c5-5463c47f1622",
+       "localization": {
+        "en": {
+         "uraian": "Kemitraan dengan Pekebun, karyawan dan masyarakat sekitar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kemitraan dengan Pekebun, karyawan dan masyarakat sekitar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "df3a2966-e49a-5dca-adbc-b75026712800",
+       "localization": {
+        "en": {
+         "uraian": "Menjaga kelestarian fungsi lingkungan dan keragaman sumber daya genetik serta mencegah berjangkitnya organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjaga kelestarian fungsi lingkungan dan keragaman sumber daya genetik serta mencegah berjangkitnya organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "a673d5ad-ca65-5777-bf69-509f0804b6ce",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan tanggung jawab sosial dan lingkungan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan tanggung jawab sosial dan lingkungan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "ae50606e-7e90-5fff-8e2e-2540ff555d6d",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Kegiatan Usaha Secara Periodik kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Kegiatan Usaha Secara Periodik kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "584a87e6-5f81-5c79-a3da-d4f76da91406",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "39fe0707-4573-59d9-8094-cae34ac988df",
+        "local": {
+         "en": {
+          "uraian": "Lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "38655454-44fd-5ff9-9130-feb3849a650f",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "8392a8e9-4fb4-5e9b-b26c-949285424b58",
+        "local": {
+         "en": {
+          "uraian": "Lintas Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lintas Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a838d77b-8c3b-59bf-9051-6a1dd79fa135",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e6c0f143-f433-5867-bc42-afe678ef912f",
+        "local": {
+         "en": {
+          "uraian": "Dalam Satu Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Dalam Satu Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "df5e2fb9-f223-5800-881a-2d22359eb17d",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "3c0da883-1b8f-4753-8ece-147eb2de9647",
+    "kode": "018",
+    "localization": {
+     "en": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     },
+     "id": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "f6c6ff75-454a-57ff-a4a2-92bec5392d91",
+   "localization": {
+    "en": {
+     "uraian": "Kegiatan perbenihan tanaman semusim lainnya. Meliputi pertanian tanaman semusim lainnya yang belum terklasifikasi di tempat lain",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Kegiatan perbenihan tanaman semusim lainnya. Meliputi pertanian tanaman semusim lainnya yang belum terklasifikasi di tempat lain",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "9f0e1ba7-7add-59ac-b200-0cc320f14917",
+    "localization": {
+     "en": {
+      "judul": "Pertanian Tanaman Semusim Lainnya YTDL",
+      "uraian": "Kelompok ini mencakup kegiatan pertanian tanaman semusim lainnya yang belum terklasifikasi di tempat lain dan kegiatan penanaman untuk menghasilkan benih berupa biji."
+     },
+     "id": {
+      "judul": "Pertanian Tanaman Semusim Lainnya YTDL",
+      "uraian": "Kelompok ini mencakup kegiatan pertanian tanaman semusim lainnya yang belum terklasifikasi di tempat lain dan kegiatan penanaman untuk menghasilkan benih berupa biji."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": [
+     {
+      "id": "d565d0d8-ff02-45b9-a523-532247e4a386",
+      "localization": {
+       "en": {
+        "uraian": "<p>Ruang Lingkup Kegiatan Budi Daya Tanaman Semusim Lain, berlaku ketentuan luas lahan berdasarkan skala usaha:</p>\r\n<ul>\r\n<li>mikro &amp; kecil: &lt; 25 ha, atau</li>\r\n<li>menengah &amp; besar: &gt; 25 ha.</li>\r\n</ul>\r\n<p>Hal ini berdasarkan Peraturan Pemerintah Nomor 5 Tahun 2021 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko pada Lampiran I Sektor Pertanian.</p>"
+       },
+       "id": {
+        "uraian": "<p>Ruang Lingkup Kegiatan Budi Daya Tanaman Semusim Lain, berlaku ketentuan luas lahan berdasarkan skala usaha:</p>\r\n<ul>\r\n<li>mikro &amp; kecil: &lt; 25 ha, atau</li>\r\n<li>menengah &amp; besar: &gt; 25 ha.</li>\r\n</ul>\r\n<p>Hal ini berdasarkan Peraturan Pemerintah Nomor 5 Tahun 2021 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko pada Lampiran I Sektor Pertanian.</p>"
+       }
+      }
+     }
+    ]
+   },
+   "KbliResikos": [
+    {
+     "id": "520aadb1-c76b-551c-af9d-1e9d2297f1cc",
+     "kode": "01199-01-05",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliIzins": [
+      {
+       "id": "15253a34-cb8b-5c53-a621-7814b0c9c59f",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "4a3797bf-0692-5e54-b9bb-fc6c399e3a81",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengganggu Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengganggu Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "5954096a-c6f0-51eb-a8ba-06ccab3863d0",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengendalian organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengendalian organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "86a74fd0-f3aa-5313-8b13-dd4dac1c24e4",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan kelestarian lingkungan sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan kelestarian lingkungan sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "2d95ca3e-c494-58d2-8b5a-d7556d39d029",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "2eb099e1-c7f1-5111-8499-5239ed1d2b8c",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki perjanjian kerjasama/ MoU dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki perjanjian kerjasama/ MoU dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "0d9541ac-75b6-5962-a2ae-141afe7fafed",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau menguasai unit produksi benih yang dilengkapi dengan sarana dan prasarana yang memadai sesuai jenis tanaman",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau menguasai unit produksi benih yang dilengkapi dengan sarana dan prasarana yang memadai sesuai jenis tanaman",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "6a7228fa-f44f-5ed9-9de3-f7bac2428469",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki SDM di bidang perbenihan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki SDM di bidang perbenihan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "ffe79e1e-4197-56e9-9fda-8f39507c207c",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki rencana produksi benih yang dibuat per tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki rencana produksi benih yang dibuat per tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "28d73451-b9b4-5d75-b910-7ad5668b5ca9",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki prosedur operasional baku produksi benih bermutu sesuai dengan komoditas yang direncanakan berdasarkan ketentuan peraturan perundang undangan di bidang pembenihan tanaman perkebunan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki prosedur operasional baku produksi benih bermutu sesuai dengan komoditas yang direncanakan berdasarkan ketentuan peraturan perundang undangan di bidang pembenihan tanaman perkebunan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "abb9883f-6eb2-5aeb-bb15-7e518f94502c",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin mutu yang dihasilkan sesuai standar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin mutu yang dihasilkan sesuai standar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "7e6c15b9-62a5-5728-b4a6-7e53c6c75143",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "0ce9a74d-a5f3-599d-86e0-6c9829822dd7",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan dokumen asal usul benih",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan dokumen asal usul benih",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "ed025963-ac1b-526e-a5d7-95ad32ffd9cb",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pencatatan kegiatan setiap tahapan pembenihan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pencatatan kegiatan setiap tahapan pembenihan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "182c4eef-866b-5b91-9573-e4c2d7c0d0c2",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pencatatan data benih yang diproduksi dan diedarkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pencatatan data benih yang diproduksi dan diedarkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "01683059-09ba-56e5-a933-809bb934b92c",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengendalian Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengendalian Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "0bf86ced-6434-5e03-ad6d-97d22c7b6574",
+       "localization": {
+        "en": {
+         "uraian": "Menguasai sarana pengolahan benih (jenis, jumlah, kapasitas, dan kondisi) baik itu milik sendiri atau sewa; menguasai sarana penunjang (alat transportasi, gudang / tempat penyimpanan benih, dll); memiliki tenaga kerja yang mempunyai pengetahuan dan keterampilan di bidang perbenihan (bukti berupa Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menguasai sarana pengolahan benih (jenis, jumlah, kapasitas, dan kondisi) baik itu milik sendiri atau sewa; menguasai sarana penunjang (alat transportasi, gudang / tempat penyimpanan benih, dll); memiliki tenaga kerja yang mempunyai pengetahuan dan keterampilan di bidang perbenihan (bukti berupa Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "a7c87cb1-a98f-5875-b4c2-82d4c2445625",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan prosedur operasional baku produksi benih sesuai dengan peraturan perundangan perbenihan perkebunan (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan prosedur operasional baku produksi benih sesuai dengan peraturan perundangan perbenihan perkebunan (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "a6028ab4-ae8c-5e71-888f-9932934f1d48",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber dapat berupa:<br> <ol type=\"a\"> <li>perjanjian kerjasama dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber, atau</li> <li>Surat Penetapan Kebun Sumber Benih, atau</li> <li>Bukti pembelian benih sumber;</li> </ol>",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber dapat berupa:<br> <ol type=\"a\"> <li>perjanjian kerjasama dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber, atau</li> <li>Surat Penetapan Kebun Sumber Benih, atau</li> <li>Bukti pembelian benih sumber;</li> </ol>",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "934b7713-59b6-58c4-aeeb-2fa6c888f1ba",
+       "localization": {
+        "en": {
+         "uraian": "Surat keterangan kelayakan teknis sebagai produsen benih perkebunan dari UPT Pusat/UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat keterangan kelayakan teknis sebagai produsen benih perkebunan dari UPT Pusat/UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b0801c04-7b6b-5329-a552-0ad03c6959af",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan Data benih yang diproduksi, Proses produksi, Penyaluran benih dan Sertifikat Benih kepada UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan minimal 1 tahun sekali.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan Data benih yang diproduksi, Proses produksi, Penyaluran benih dan Sertifikat Benih kepada UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan minimal 1 tahun sekali.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "a7b6d53e-f8f4-5a96-89ca-c268df878ce8",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "a0e3e715-0e7a-5cde-bb82-033b54dabf0a",
+     "kode": "01199-02-06",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliIzins": [
+      {
+       "id": "be742b45-760f-52bf-ae0b-3d954f17bed3",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "709e5e6f-9975-5fb3-92ed-ebc4e155c447",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengganggu Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengganggu Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "7456753c-e66a-546d-895e-886fb4f018e0",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengendalian organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengendalian organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "cd2db782-f240-5f45-8a87-9e4ff8d421f3",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan kelestarian lingkungan sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan kelestarian lingkungan sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "940da742-254c-5b03-9c28-67085aa845a4",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "d8fdf3cc-498d-5e67-be73-669520c7e697",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki perjanjian kerjasama/ MoU dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki perjanjian kerjasama/ MoU dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "70a4188f-11cc-5ba8-899a-57b8a77afe7d",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau menguasai unit produksi benih yang dilengkapi dengan sarana dan prasarana yang memadai sesuai jenis tanaman",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau menguasai unit produksi benih yang dilengkapi dengan sarana dan prasarana yang memadai sesuai jenis tanaman",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "816bf3fa-6315-5aaf-8af9-f88708f5cdb6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki SDM di bidang perbenihan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki SDM di bidang perbenihan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "ff42a6ca-1cf6-5fd7-8e0e-379941149984",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki rencana produksi benih yang dibuat per tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki rencana produksi benih yang dibuat per tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "434d1531-f8b0-5fa4-aa07-6376ba5bd0a2",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki prosedur operasional baku produksi benih bermutu sesuai dengan komoditas yang direncanakan berdasarkan ketentuan peraturan perundang undangan di bidang pembenihan tanaman perkebunan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki prosedur operasional baku produksi benih bermutu sesuai dengan komoditas yang direncanakan berdasarkan ketentuan peraturan perundang undangan di bidang pembenihan tanaman perkebunan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "8086fe53-f472-5bb5-9768-35724a858485",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin mutu yang dihasilkan sesuai standar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin mutu yang dihasilkan sesuai standar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "5f9d1651-615b-5ad9-98c7-e472ad241085",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "d12efc81-0bb9-517f-a521-048242a289a9",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan dokumen asal usul benih",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan dokumen asal usul benih",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "60111cb9-8ce4-5b99-9536-1ce1e01d7e35",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pencatatan kegiatan setiap tahapan pembenihan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pencatatan kegiatan setiap tahapan pembenihan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "6926cc91-02ab-519f-be91-9328ff8b9d57",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pencatatan data benih yang diproduksi dan diedarkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pencatatan data benih yang diproduksi dan diedarkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "4bf158c8-62d8-548c-bb79-b9c2ddd3edf4",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengendalian Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengendalian Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "ce994394-fa7e-5b0c-ace7-be5f0810ade3",
+       "localization": {
+        "en": {
+         "uraian": "Menguasai sarana pengolahan benih (jenis, jumlah, kapasitas, dan kondisi) baik itu milik sendiri atau sewa; menguasai sarana penunjang (alat transportasi, gudang / tempat penyimpanan benih, dll); memiliki tenaga kerja yang mempunyai pengetahuan dan keterampilan di bidang perbenihan (bukti berupa Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menguasai sarana pengolahan benih (jenis, jumlah, kapasitas, dan kondisi) baik itu milik sendiri atau sewa; menguasai sarana penunjang (alat transportasi, gudang / tempat penyimpanan benih, dll); memiliki tenaga kerja yang mempunyai pengetahuan dan keterampilan di bidang perbenihan (bukti berupa Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "c6a72084-3c50-595e-b740-cffcad06db30",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan prosedur operasional baku produksi benih sesuai dengan peraturan perundangan perbenihan perkebunan (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan prosedur operasional baku produksi benih sesuai dengan peraturan perundangan perbenihan perkebunan (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "393edaf3-6b7b-562d-8d28-56ee71e2c5b6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber dapat berupa:<br> <ol type=\"a\"> <li>perjanjian kerjasama dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber, atau</li> <li>Surat Penetapan Kebun Sumber Benih, atau</li> <li>Bukti pembelian benih sumber;</li> </ol>",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber dapat berupa:<br> <ol type=\"a\"> <li>perjanjian kerjasama dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber, atau</li> <li>Surat Penetapan Kebun Sumber Benih, atau</li> <li>Bukti pembelian benih sumber;</li> </ol>",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "6778acaf-65ac-52ff-abd0-03df4ee1ad9a",
+       "localization": {
+        "en": {
+         "uraian": "Surat keterangan kelayakan teknis sebagai produsen benih perkebunan dari UPT Pusat/UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat keterangan kelayakan teknis sebagai produsen benih perkebunan dari UPT Pusat/UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b20c96c2-c22b-5aac-aca2-3ed6b5b0889a",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan Data benih yang diproduksi, Proses produksi, Penyaluran benih dan Sertifikat Benih kepada UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan minimal 1 tahun sekali.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan Data benih yang diproduksi, Proses produksi, Penyaluran benih dan Sertifikat Benih kepada UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan minimal 1 tahun sekali.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "07fffde1-6629-58d5-882b-f069d2f252c5",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "065ec82e-0c84-58b6-a086-518afd0ec071",
+     "kode": "01199-03-07",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliIzins": [
+      {
+       "id": "defd508e-e578-5e8e-a0d6-bfd249920733",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "3421bc85-02af-5ff6-8fe6-ece2fbc22824",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengganggu Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengganggu Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "bc5a5308-fcf1-578b-ba24-9a3fff361f36",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengendalian organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengendalian organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "925d69b6-ba53-59ce-ba67-c804a1f2dac4",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan kelestarian lingkungan sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan kelestarian lingkungan sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "9ffffc22-1b99-5232-b5b1-55420f4b09e0",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "1681afd5-4295-5799-8ee7-111e727161af",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki perjanjian kerjasama/ MoU dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki perjanjian kerjasama/ MoU dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "f8adec9c-01d1-519f-884c-8f3600ed4779",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau menguasai unit produksi benih yang dilengkapi dengan sarana dan prasarana yang memadai sesuai jenis tanaman",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau menguasai unit produksi benih yang dilengkapi dengan sarana dan prasarana yang memadai sesuai jenis tanaman",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b641e4fa-fa47-5e7c-ab39-03506812020e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki SDM di bidang perbenihan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki SDM di bidang perbenihan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "93d451a2-3dac-5246-879a-ced8a7caedd6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki rencana produksi benih yang dibuat per tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki rencana produksi benih yang dibuat per tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "28c0f46a-20c7-54f4-9efa-b07b170978c6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki prosedur operasional baku produksi benih bermutu sesuai dengan komoditas yang direncanakan berdasarkan ketentuan peraturan perundang undangan di bidang pembenihan tanaman perkebunan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki prosedur operasional baku produksi benih bermutu sesuai dengan komoditas yang direncanakan berdasarkan ketentuan peraturan perundang undangan di bidang pembenihan tanaman perkebunan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "5cfcc294-f164-5542-a242-8b3a9aad3927",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin mutu yang dihasilkan sesuai standar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin mutu yang dihasilkan sesuai standar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "445b9bb8-6767-5ce4-bd99-1d88b600063a",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "73807ad7-0dbf-5783-ad98-5a1b17d7e044",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan dokumen asal usul benih",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan dokumen asal usul benih",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "e8a69598-3610-525a-9fe8-9547a42a53ba",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pencatatan kegiatan setiap tahapan pembenihan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pencatatan kegiatan setiap tahapan pembenihan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "72522073-c0e2-57c3-a5f6-7bdb440e303a",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pencatatan data benih yang diproduksi dan diedarkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pencatatan data benih yang diproduksi dan diedarkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "1d21dc64-c134-533a-9a04-5f665f3b3611",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengendalian Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengendalian Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "161e4378-2d1f-5e81-b25d-871d225ba593",
+       "localization": {
+        "en": {
+         "uraian": "Menguasai sarana pengolahan benih (jenis, jumlah, kapasitas, dan kondisi) baik itu milik sendiri atau sewa; menguasai sarana penunjang (alat transportasi, gudang / tempat penyimpanan benih, dll); memiliki tenaga kerja yang mempunyai pengetahuan dan keterampilan di bidang perbenihan (bukti berupa Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menguasai sarana pengolahan benih (jenis, jumlah, kapasitas, dan kondisi) baik itu milik sendiri atau sewa; menguasai sarana penunjang (alat transportasi, gudang / tempat penyimpanan benih, dll); memiliki tenaga kerja yang mempunyai pengetahuan dan keterampilan di bidang perbenihan (bukti berupa Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "1909f4e3-c262-59b7-9129-c360a8937cd3",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan prosedur operasional baku produksi benih sesuai dengan peraturan perundangan perbenihan perkebunan (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan prosedur operasional baku produksi benih sesuai dengan peraturan perundangan perbenihan perkebunan (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "6f4b3645-f982-5bf3-bc7a-8ec9048c9079",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber dapat berupa:<br> <ol type=\"a\"> <li>perjanjian kerjasama dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber, atau</li> <li>Surat Penetapan Kebun Sumber Benih, atau</li> <li>Bukti pembelian benih sumber;</li> </ol>",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber dapat berupa:<br> <ol type=\"a\"> <li>perjanjian kerjasama dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber, atau</li> <li>Surat Penetapan Kebun Sumber Benih, atau</li> <li>Bukti pembelian benih sumber;</li> </ol>",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "f2f9221a-d9b3-5e31-ae38-1a68c3928ec6",
+       "localization": {
+        "en": {
+         "uraian": "Surat keterangan kelayakan teknis sebagai produsen benih perkebunan dari UPT Pusat/UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat keterangan kelayakan teknis sebagai produsen benih perkebunan dari UPT Pusat/UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "a6b9bfe7-63d7-5dd1-a855-7a062784c21d",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan Data benih yang diproduksi, Proses produksi, Penyaluran benih dan Sertifikat Benih kepada UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan minimal 1 tahun sekali.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan Data benih yang diproduksi, Proses produksi, Penyaluran benih dan Sertifikat Benih kepada UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan minimal 1 tahun sekali.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "6a2c838c-c254-51d5-8ad1-12a1046c5dd4",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "0c47e3d6-d8ea-5118-bdb3-d0d649884336",
+     "kode": "01199-04-08",
+     "luas_lahan": null,
+     "jangka_waktu": "15",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "b53296f7-d1b3-55dc-9e19-59f4ad6c97ed",
+       "localization": {
+        "en": {
+         "uraian": "Surat Keterangan kelayakan sebagai produsen benih yang diterbitkan oleh UPT Pusat/UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Keterangan kelayakan sebagai produsen benih yang diterbitkan oleh UPT Pusat/UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7e5b46d3-c3fb-5793-8a4e-20cbb38f5146",
+       "localization": {
+        "en": {
+         "uraian": "Surat keterangan dari unit pelayanan teknis (UPT) provinsi yang menangani proteksi/ perlindungan tanaman bahwa lokasi produksi benih bukan daerah endemis OPT utama;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat keterangan dari unit pelayanan teknis (UPT) provinsi yang menangani proteksi/ perlindungan tanaman bahwa lokasi produksi benih bukan daerah endemis OPT utama;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "0385f7bb-db4b-564e-9634-799c2bbb3979",
+       "localization": {
+        "en": {
+         "uraian": "Surat keterangan kelayakan teknis sebagai produsen benih perkebunan dari UPT Pusat/ UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat keterangan kelayakan teknis sebagai produsen benih perkebunan dari UPT Pusat/ UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "39bdfb68-6bba-5185-9adc-ade96bb43d6a",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "4a6f6c3d-b870-5490-ba3c-2836e6d5f826",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan teknologi pembukaan lahan tanpa bakar dan mengelola sumber daya alam secara lestari",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan teknologi pembukaan lahan tanpa bakar dan mengelola sumber daya alam secara lestari",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7703cf37-f2c6-51b3-a50f-89a237e7a5e9",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengendalian organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengendalian organisme pengganggu tumbuhan (OPT)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ee39e2a5-695e-5c2f-8c0e-4d10ab93e497",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan kelestarian lingkungan sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan kelestarian lingkungan sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "adadc753-b969-5575-bbe7-7af43ce517b6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3ee67bd1-c3ff-52a8-99b5-6dcec4c43a9c",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki perjanjian kerjasama/ MoU dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki perjanjian kerjasama/ MoU dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "031bc165-9b5e-5e3f-9080-31238c23cb8f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau menguasai unit produksi benih yang dilengkapi dengan sarana dan prasarana yang memadai sesuai jenis tanaman",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau menguasai unit produksi benih yang dilengkapi dengan sarana dan prasarana yang memadai sesuai jenis tanaman",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "49373d01-e37b-50a0-a893-1a171fc582aa",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki SDM di bidang perbenihan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki SDM di bidang perbenihan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e491df23-e19d-5b87-994c-a6a98844ac84",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki rencana produksi benih yang dibuat per tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki rencana produksi benih yang dibuat per tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a61cab1e-04d0-55d2-a05a-b0ac3e1bbebc",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki prosedur operasional baku produksi benih bermutu sesuai dengan komoditas yang direncanakan berdasarkan ketentuan peraturan perundang undangan di bidang pembenihan tanaman perkebunan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki prosedur operasional baku produksi benih bermutu sesuai dengan komoditas yang direncanakan berdasarkan ketentuan peraturan perundang undangan di bidang pembenihan tanaman perkebunan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4d880133-50a0-5083-94b1-d11b1ae29d3f",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin mutu yang dihasilkan sesuai standar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin mutu yang dihasilkan sesuai standar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "872d38e3-ad8b-5951-a637-3dbb073878da",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "53ef9d5f-9f22-567b-b85a-3be90b75c4ea",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan dokumen asal usul benih",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan dokumen asal usul benih",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8dc09ae3-40de-5ccb-b8bb-8641bdd717d3",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pencatatan kegiatan setiap tahapan pembenihan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pencatatan kegiatan setiap tahapan pembenihan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3fe9055b-42e2-58c8-b065-c5c18b96b3fe",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pencatatan data benih yang diproduksi dan diedarkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pencatatan data benih yang diproduksi dan diedarkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8ae683a0-9502-527d-95ae-bd07e426de4d",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengendalian Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengendalian Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "f2449a59-485c-5816-93ad-d21935a63f9f",
+       "localization": {
+        "en": {
+         "uraian": "Menguasai sarana pengolahan benih (jenis, jumlah, kapasitas, dan kondisi) baik itu milik sendiri atau sewa; menguasai sarana penunjang (alat transportasi, gudang / tempat penyimpanan benih, dll); memiliki tenaga kerja yang mempunyai pengetahuan dan keterampilan di bidang perbenihan (bukti berupa Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menguasai sarana pengolahan benih (jenis, jumlah, kapasitas, dan kondisi) baik itu milik sendiri atau sewa; menguasai sarana penunjang (alat transportasi, gudang / tempat penyimpanan benih, dll); memiliki tenaga kerja yang mempunyai pengetahuan dan keterampilan di bidang perbenihan (bukti berupa Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "8b6a7fad-d11e-5572-a134-434acaf17d16",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan prosedur operasional baku produksi benih sesuai dengan peraturan perundangan perbenihan perkebunan (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan prosedur operasional baku produksi benih sesuai dengan peraturan perundangan perbenihan perkebunan (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "04094ebe-0fc7-5c02-bd08-3ab42a1fe1a9",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber dapat berupa:<br> <ol type='a'> <li>perjanjian kerjasama dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber, atau</li> <li>Surat Penetapan Kebun Sumber Benih, atau</li> <li>Bukti pembelian benih sumber;</li> </ol>",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau menguasai benih sumber dapat berupa:<br> <ol type='a'> <li>perjanjian kerjasama dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber, atau</li> <li>Surat Penetapan Kebun Sumber Benih, atau</li> <li>Bukti pembelian benih sumber;</li> </ol>",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "62d0f88c-a23a-57d3-9ccd-7e9de4aa5468",
+       "localization": {
+        "en": {
+         "uraian": "Surat keterangan kelayakan teknis sebagai produsen benih perkebunan dari UPT Pusat/UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat keterangan kelayakan teknis sebagai produsen benih perkebunan dari UPT Pusat/UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "8bfdf124-6a6b-5a8f-a952-87c0824044dd",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan Data benih yang diproduksi, Proses produksi, Penyaluran benih dan Sertifikat Benih kepada UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan minimal 1 tahun sekali.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan Data benih yang diproduksi, Proses produksi, Penyaluran benih dan Sertifikat Benih kepada UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan minimal 1 tahun sekali.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "0a2e33fe-455d-5b42-861d-d6dfaf5c6881",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan prosedur operasional baku produksi benih sesuai dengan peraturan perundangan perbenihan perkebunan (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan prosedur operasional baku produksi benih sesuai dengan peraturan perundangan perbenihan perkebunan (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "4ef4470e-1817-5746-bc2e-c5f785e272be",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengganggu Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengendalian Organisme Pengganggu Tumbuhan (OPT) (dibuktikan dengan Surat pernyataan dari pelaku usaha);",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "d132ef8a-fba5-5f8f-82cc-68a3b9e7227e",
+       "localization": {
+        "en": {
+         "uraian": "Menguasai sarana pengolahan benih (jenis, jumlah, kapasitas, dan kondisi) baik itu milik sendiri atau sewa; menguasai sarana penunjang (alat transportasi, gudang / tempat penyimpanan benih, dll); memiliki tenaga kerja yang mempunyai pengetahuan dan keterampilan di bidang perbenihan (dibuktikan dengan Surat pernyataan dari pelaku usaha)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menguasai sarana pengolahan benih (jenis, jumlah, kapasitas, dan kondisi) baik itu milik sendiri atau sewa; menguasai sarana penunjang (alat transportasi, gudang / tempat penyimpanan benih, dll); memiliki tenaga kerja yang mempunyai pengetahuan dan keterampilan di bidang perbenihan (dibuktikan dengan Surat pernyataan dari pelaku usaha)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "76926448-2f9e-5787-a3d8-00d24881348d",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan / atau menguasai benih sumber dapat berupa:<br> <ol type='a'> <li>perjanjian kerjasama dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber atau</li> <li>Surat Penetapan Kebun Sumber Benih atau</li> <li>Bukti pembelian benih sumber</li> </ol>",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan / atau menguasai benih sumber dapat berupa:<br> <ol type='a'> <li>perjanjian kerjasama dengan produsen benih sumber apabila pelaku usaha tidak memiliki dan/atau menguasai benih sumber atau</li> <li>Surat Penetapan Kebun Sumber Benih atau</li> <li>Bukti pembelian benih sumber</li> </ol>",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "9f6ae826-d580-532e-bb2b-99e9c46a197a",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan data benih yang diproduksi, Proses produksi, Penyaluran benih dan Sertifikat Benih kepada UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan minimal 1 tahun sekali",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan data benih yang diproduksi, Proses produksi, Penyaluran benih dan Sertifikat Benih kepada UPTD Provinsi yang menyelenggarakan tugas dan fungsi pengawasan dan sertifikasi benih tanaman perkebunan minimal 1 tahun sekali",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "71fbdd3d-ddd1-5033-8429-a2da8882d620",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "33d5dd02-1a8d-5816-a2e8-5b23aa1d6fa7",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "3c0da883-1b8f-4753-8ece-147eb2de9647",
+    "kode": "018",
+    "localization": {
+     "en": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     },
+     "id": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "26453216-bca9-4f7e-aa9e-78b3403509fa",
+   "kode": "018000000224",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Pelepasan varietas tanaman Perkebunan"
+    },
+    "id": {
+     "nama_dokumen": "Pelepasan varietas tanaman Perkebunan"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "0089c375-958d-44c7-8ae9-c63016376395",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "032239f3-62d1-574b-8ee3-7acffabb79a6",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "$80"
+      },
+      "id": {
+       "syarat_perizinan": "$81"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<ol> Persyaratan Teknis <br>  <ol style=\"1\">  <li>Rekomendasi Tim Penilai Varietas</li> <li>Ringkasan Proposal (Executive Summary)</li>  <li>Silsilah varietas</li>  <li>Matriks keunggulan</li> <li>Nama Varietas yang diusulkan dan disetujui oleh Pusat PVTPP</li>  <li>Deskripsi varietas, untuk varietas hibrida deskripsi tetua juga dilampirkan</li>  </ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<ol> Persyaratan Teknis <br>  <ol style=\"1\">  <li>Rekomendasi Tim Penilai Varietas</li> <li>Ringkasan Proposal (Executive Summary)</li>  <li>Silsilah varietas</li>  <li>Matriks keunggulan</li> <li>Nama Varietas yang diusulkan dan disetujui oleh Pusat PVTPP</li>  <li>Deskripsi varietas, untuk varietas hibrida deskripsi tetua juga dilampirkan</li>  </ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat jaminan produksi benih hibirida dari pengusul untuk calon varietas hibrida introduksi"
+      },
+      "id": {
+       "syarat_perizinan": "Surat jaminan produksi benih hibirida dari pengusul untuk calon varietas hibrida introduksi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Rekomendasi pelepasan varietas oleh Ketua Tim Penilai Varietas"
+      },
+      "id": {
+       "syarat_perizinan": "Rekomendasi pelepasan varietas oleh Ketua Tim Penilai Varietas"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat pernyataan bermaterai dari pemilik bahwa benih penjenis (breeder seed) tersedia dalam jumlah yang cukup untuk perbanyakan lebih lanjut."
+      },
+      "id": {
+       "syarat_perizinan": "Surat pernyataan bermaterai dari pemilik bahwa benih penjenis (breeder seed) tersedia dalam jumlah yang cukup untuk perbanyakan lebih lanjut."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Matrik keunggulan varietas terhadap pembanding"
+      },
+      "id": {
+       "syarat_perizinan": "Matrik keunggulan varietas terhadap pembanding"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat izin dari pemilik varietas untuk varietas introduksi."
+      },
+      "id": {
+       "syarat_perizinan": "Surat izin dari pemilik varietas untuk varietas introduksi."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Deskripsi tetua untuk varietas hibrida"
+      },
+      "id": {
+       "syarat_perizinan": "Deskripsi tetua untuk varietas hibrida"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat pernyataan bermaterai dari pemilik varietas yang menyatakan bahwa produksi benih hibrida (F1) untuk tanaman perkebunan akan dilakukan paling lama 3 (tiga) tahun untuk tanaman semusim dan dalam jangka waktu paling lama 6 (enam) tahun untuk tanaman tahunan sejak pelepasan"
+      },
+      "id": {
+       "syarat_perizinan": "Surat pernyataan bermaterai dari pemilik varietas yang menyatakan bahwa produksi benih hibrida (F1) untuk tanaman perkebunan akan dilakukan paling lama 3 (tiga) tahun untuk tanaman semusim dan dalam jangka waktu paling lama 6 (enam) tahun untuk tanaman tahunan sejak pelepasan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat keterangan persetujuan nama varietas dari Kepala Pusat PVTPP"
+      },
+      "id": {
+       "syarat_perizinan": "Surat keterangan persetujuan nama varietas dari Kepala Pusat PVTPP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Tanda daftar dari Pusat Perlindungan Varietas Tanaman dan Perizinan Pertanian (Pusat PVTPP) untuk varietas lokal."
+      },
+      "id": {
+       "syarat_perizinan": "Tanda daftar dari Pusat Perlindungan Varietas Tanaman dan Perizinan Pertanian (Pusat PVTPP) untuk varietas lokal."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Rencana pengembangan produksi benih untuk 5 (lima) tahun ke depan."
+      },
+      "id": {
+       "syarat_perizinan": "Rencana pengembangan produksi benih untuk 5 (lima) tahun ke depan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<ol> Persyaratan Teknis <br>  <ol style=\"1\">  <li>Rekomendasi Tim Penilai Varietas</li> <li>Ringkasan Proposal (Executive Summary)</li>  <li>Silsilah varietas</li>  <li>Matriks keunggulan</li> <li>Nama Varietas yang diusulkan dan disetujui oleh Pusat PVTPP</li>  <li>Deskripsi varietas, untuk varietas hibrida deskripsi tetua juga dilampirkan</li>  </ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<ol> Persyaratan Teknis <br>  <ol style=\"1\">  <li>Rekomendasi Tim Penilai Varietas</li> <li>Ringkasan Proposal (Executive Summary)</li>  <li>Silsilah varietas</li>  <li>Matriks keunggulan</li> <li>Nama Varietas yang diusulkan dan disetujui oleh Pusat PVTPP</li>  <li>Deskripsi varietas, untuk varietas hibrida deskripsi tetua juga dilampirkan</li>  </ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Analisis ekonomi dari calon varietas yang diusulkan."
+      },
+      "id": {
+       "syarat_perizinan": "Analisis ekonomi dari calon varietas yang diusulkan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "$82"
+      },
+      "id": {
+       "syarat_perizinan": "$83"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan akhir pelaksanaan pengujian dalam bentuk ringkasan proposal (executive summary)"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan akhir pelaksanaan pengujian dalam bentuk ringkasan proposal (executive summary)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "16 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjamin ketersediaan benih penjenis (Breeder Seed)"
+      },
+      "id": {
+       "syarat_perizinan": "Menjamin ketersediaan benih penjenis (Breeder Seed)"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Menjamin ketersediaan benih penjenis (Breeder Seed)</p><ol style=\"list-style-type: lower-alpha;\"><li>Menjamin kebenaran varietas yang diedarkan sesuai deskripsi</li><li>Menarik benih yang beredar apabila keputusan pelepasan varietas benih tersebut dicabut</li><li>Menjamin bahwa benih F1 akan dihasilkan di dalam negeri dan pengembangan produksi untuk lima tahun ke depan</li><li>Bila benih tetua merupakan benih introduksi maka berkewajiban membangun benih sumber dengan materi tetua jantan dan betina dalam rangka memproduksi benih di Indonesia</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menjamin ketersediaan benih penjenis (Breeder Seed)</p><ol style=\"list-style-type: lower-alpha;\"><li>Menjamin kebenaran varietas yang diedarkan sesuai deskripsi</li><li>Menarik benih yang beredar apabila keputusan pelepasan varietas benih tersebut dicabut</li><li>Menjamin bahwa benih F1 akan dihasilkan di dalam negeri dan pengembangan produksi untuk lima tahun ke depan</li><li>Bila benih tetua merupakan benih introduksi maka berkewajiban membangun benih sumber dengan materi tetua jantan dan betina dalam rangka memproduksi benih di Indonesia</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjamin bahwa benih F1 akan dihasilkan di dalam negeri dan pengembangan produksi untuk lima tahun ke depan"
+      },
+      "id": {
+       "syarat_perizinan": "Menjamin bahwa benih F1 akan dihasilkan di dalam negeri dan pengembangan produksi untuk lima tahun ke depan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Bila benih tetua merupakan benih introduksi maka berkewajiban membangun benih sumber dengan materi tetua jantan dan betina dalam rangka memproduksi benih di Indonesia"
+      },
+      "id": {
+       "syarat_perizinan": "Bila benih tetua merupakan benih introduksi maka berkewajiban membangun benih sumber dengan materi tetua jantan dan betina dalam rangka memproduksi benih di Indonesia"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjamin kebenaran varietas yang diedarkan sesuai deskripsi"
+      },
+      "id": {
+       "syarat_perizinan": "Menjamin kebenaran varietas yang diedarkan sesuai deskripsi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "16 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menarik benih yang beredar apabila keputusan pelepasan varietas benih tersebut dicabut"
+      },
+      "id": {
+       "syarat_perizinan": "Menarik benih yang beredar apabila keputusan pelepasan varietas benih tersebut dicabut"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "16 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "3c0da883-1b8f-4753-8ece-147eb2de9647",
+    "kode": "018",
+    "localization": {
+     "en": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     },
+     "id": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "76f8c423-3a27-4ed9-a3f4-c62e9a9ac7ef",
+   "kode": "018000000225",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Pendaftaran varietas tanaman hortikultura"
+    },
+    "id": {
+     "nama_dokumen": "Pendaftaran varietas tanaman hortikultura"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "00478212-390e-5107-8919-d2e6c6289989",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "175ad4fb-c196-420a-ae74-f3f69d5bdaf7",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "$84"
+      },
+      "id": {
+       "syarat_perizinan": "$85"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": " <ol>Persyaratan Teknis <br>  <ol style=\"l\"> <li>Proposal Pendaftaran/Summary Executive</li> <li>Hasil Uji Kebenaran</li> <li>Hasil Uji Keunggulan</li> </ol>"
+      },
+      "id": {
+       "syarat_perizinan": " <ol>Persyaratan Teknis <br>  <ol style=\"l\"> <li>Proposal Pendaftaran/Summary Executive</li> <li>Hasil Uji Kebenaran</li> <li>Hasil Uji Keunggulan</li> </ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat pernyataan kesanggupan untuk melaksanakan perbanyakan benih yang memenuhi PTM"
+      },
+      "id": {
+       "syarat_perizinan": "Surat pernyataan kesanggupan untuk melaksanakan perbanyakan benih yang memenuhi PTM"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "$86"
+      },
+      "id": {
+       "syarat_perizinan": "$87"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat Izin Pemasukan (SIP) untuk varietas introduksi"
+      },
+      "id": {
+       "syarat_perizinan": "Surat Izin Pemasukan (SIP) untuk varietas introduksi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "memiliki keunggulan tertentu sebagaimana diakui oleh pemulia atau pemilik calon varietas/kuasanya"
+      },
+      "id": {
+       "syarat_perizinan": "memiliki keunggulan tertentu sebagaimana diakui oleh pemulia atau pemilik calon varietas/kuasanya"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil Uji Keunggulan calon varietas"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil Uji Keunggulan calon varietas"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Foto penciri utama calon varietas"
+      },
+      "id": {
+       "syarat_perizinan": "Foto penciri utama calon varietas"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Nama varietas mengikuti penamaan peraturan perundangan perlindungan varietas tanaman"
+      },
+      "id": {
+       "syarat_perizinan": "Nama varietas mengikuti penamaan peraturan perundangan perlindungan varietas tanaman"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Deskripsi varietas"
+      },
+      "id": {
+       "syarat_perizinan": "Deskripsi varietas"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil Uji Kebenaran calon varietas"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil Uji Kebenaran calon varietas"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": " <ol>Persyaratan Teknis <br>  <ol style=\"l\"> <li>Proposal Pendaftaran/Summary Executive</li> <li>Hasil Uji Kebenaran</li> <li>Hasil Uji Keunggulan</li> </ol>"
+      },
+      "id": {
+       "syarat_perizinan": " <ol>Persyaratan Teknis <br>  <ol style=\"l\"> <li>Proposal Pendaftaran/Summary Executive</li> <li>Hasil Uji Kebenaran</li> <li>Hasil Uji Keunggulan</li> </ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Belum pernah didaftarkan untuk peredaran"
+      },
+      "id": {
+       "syarat_perizinan": "Belum pernah didaftarkan untuk peredaran"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan Calon Varietas\nMemiliki deskripsi varietas sesuai standar yang ditetapkan oleh Direktur Jenderal Hortikultura"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan Calon Varietas\nMemiliki deskripsi varietas sesuai standar yang ditetapkan oleh Direktur Jenderal Hortikultura"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat pertanyaan kesanggupan memelihara arsip benih/tanaman yang didaftarkan sebagai varietas asli"
+      },
+      "id": {
+       "syarat_perizinan": "Surat pertanyaan kesanggupan memelihara arsip benih/tanaman yang didaftarkan sebagai varietas asli"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat pernyataan kesanggupan menjamin kebenaran varietas yang diedarkan sesuai dengan deskripsi"
+      },
+      "id": {
+       "syarat_perizinan": "Surat pernyataan kesanggupan menjamin kebenaran varietas yang diedarkan sesuai dengan deskripsi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan Permohonan Pendaftaran Varietas\nMemiliki/menguasai calon varietas"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan Permohonan Pendaftaran Varietas\nMemiliki/menguasai calon varietas"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "28 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Kesanggupan untuk melaksanakan perbanyakan benih yang memenuhi PTM</p><ol style=\"list-style-type: lower-alpha;\"><li>Menjamin kebenaran varietas yang diedarkan sesuai dengan deskripsi</li><li>Memelihara arsip benih/tanaman yang didaftarkan sebagai varietas asli</li><li>Menarik benih yang beredar apabila varietas dimaksud dicabut tanda daftarnya</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Kesanggupan untuk melaksanakan perbanyakan benih yang memenuhi PTM</p><ol style=\"list-style-type: lower-alpha;\"><li>Menjamin kebenaran varietas yang diedarkan sesuai dengan deskripsi</li><li>Memelihara arsip benih/tanaman yang didaftarkan sebagai varietas asli</li><li>Menarik benih yang beredar apabila varietas dimaksud dicabut tanda daftarnya</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menarik benih yang beredar apabila varietas dimaksud dicabut tanda daftarnya"
+      },
+      "id": {
+       "syarat_perizinan": "Menarik benih yang beredar apabila varietas dimaksud dicabut tanda daftarnya"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Kesanggupan untuk melaksanakan perbanyakan benih yang memenuhi PTM"
+      },
+      "id": {
+       "syarat_perizinan": "Kesanggupan untuk melaksanakan perbanyakan benih yang memenuhi PTM"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memelihara arsip benih/tanaman yang didaftarkan sebagai varietas asli"
+      },
+      "id": {
+       "syarat_perizinan": "Memelihara arsip benih/tanaman yang didaftarkan sebagai varietas asli"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "28 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjamin kebenaran varietas yang diedarkan sesuai dengan deskripsi"
+      },
+      "id": {
+       "syarat_perizinan": "Menjamin kebenaran varietas yang diedarkan sesuai dengan deskripsi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "28 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "3c0da883-1b8f-4753-8ece-147eb2de9647",
+    "kode": "018",
+    "localization": {
+     "en": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     },
+     "id": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

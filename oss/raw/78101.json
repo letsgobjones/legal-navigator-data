@@ -1,0 +1,1956 @@
+{
+ "code": "78101",
+ "found": true,
+ "ossId": "31464710-f829-5dbc-9e40-b68a157ba4ef",
+ "url": "https://oss.go.id/id/kbli/detail/31464710-f829-5dbc-9e40-b68a157ba4ef",
+ "fetchedAt": "2026-09-30T05:27:35+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 78101 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "78101"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "66a9a12c-b522-5cb2-994c-27638fc60cfe",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "31464710-f829-5dbc-9e40-b68a157ba4ef",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Penempatan Tenaga Kerja untuk Usaha di Dalam Negeri",
+      "uraian": "Kelompok ini mencakup kegiatan pendaftaran, penyeleksian dan penempatan tenaga kerja untuk kegiatan pada berbagai bidang usaha di dalam negeri. Dalam kelompok ini, tenaga kerja yang ditempatkan tidak berstatus sebagai pegawai dari perusahaan penempatan tenaga kerja. Kelompok ini juga mencakup penyediaan tenaga kerja eksekutif untuk pihak lain. Kelompok ini tidak mencakup penyediaan tenaga kerja untuk kegiatan rumah tangga sebagai pemberi kerja di dalam negeri, seperti penempatan asisten rumah tangga dan sopir pribadi, lihat kelompok 78102."
+     },
+     "id": {
+      "judul": "Aktivitas Penempatan Tenaga Kerja untuk Usaha di Dalam Negeri",
+      "uraian": "Kelompok ini mencakup kegiatan pendaftaran, penyeleksian dan penempatan tenaga kerja untuk kegiatan pada berbagai bidang usaha di dalam negeri. Dalam kelompok ini, tenaga kerja yang ditempatkan tidak berstatus sebagai pegawai dari perusahaan penempatan tenaga kerja. Kelompok ini juga mencakup penyediaan tenaga kerja eksekutif untuk pihak lain. Kelompok ini tidak mencakup penyediaan tenaga kerja untuk kegiatan rumah tangga sebagai pemberi kerja di dalam negeri, seperti penempatan asisten rumah tangga dan sopir pribadi, lihat kelompok 78102."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "e4594c13-6cec-58a7-a0d7-4392aa425e5a",
+     "kode": "78101-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "6f13c738-6dc1-55f8-9f5a-b04c5484241f",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "a8290480-1822-510d-8f90-d82193dbb72e",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan penempatan tenaga kerja paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan penempatan tenaga kerja paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8eba851a-326f-58e4-8f77-3c6f46b85c28",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9386cd41-594c-5c84-adb2-3df919bc3692",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB yang diterbitkan berupa dokumen Sertifikat ISO",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB yang diterbitkan berupa dokumen Sertifikat ISO",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "7f36ee5e-9474-5f30-b99c-5ac06d9a5ab4",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "42fac39f-97bb-402f-869d-d1423ad65e9b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "c90e2030-1b4e-5f9b-afe5-f576c38a218f",
+       "localization": {
+        "en": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6d481dd8-1040-5cf8-963f-c095aabeedc4",
+       "localization": {
+        "en": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama paling singkat 3 tahun berupa dokumen Surat Perjanjian Sewa dengan Materai Cukup",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama paling singkat 3 tahun berupa dokumen Surat Perjanjian Sewa dengan Materai Cukup",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1a58b743-7ac4-5787-8eed-2b700baf054a",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja dalam negeri paling singkat 1 tahun berupa dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja dalam negeri paling singkat 1 tahun berupa dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d40357b7-1439-59bc-a5b9-eef7eee52c25",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki perjanjian kerja sama dengan pengguna tenaga kerja atau perjanjian keagenan dengan Prinsipal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki perjanjian kerja sama dengan pengguna tenaga kerja atau perjanjian keagenan dengan Prinsipal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bd1d63af-a397-5732-b324-5ca28c915e70",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dalam negeri b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja dalam negeri lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja dalam negeri d. Bersedia memiliki petugas antar kerja paling sedikit 1 orang e. Mengutamakan keterlibatan tenaga kerja lokal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dalam negeri b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja dalam negeri lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja dalam negeri d. Bersedia memiliki petugas antar kerja paling sedikit 1 orang e. Mengutamakan keterlibatan tenaga kerja lokal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d13aa947-c345-5639-b9e7-4b128123a6b4",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki alur bisnis penempatan tenaga kerja dalam negeri berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki alur bisnis penempatan tenaga kerja dalam negeri berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c4b67483-1481-572d-b00d-6f6d46d1e196",
+       "localization": {
+        "en": {
+         "uraian": "Melampirkan profil perusahaan penempatan tenaga kerja dalam negeri yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melampirkan profil perusahaan penempatan tenaga kerja dalam negeri yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0b9bc177-39d4-59bd-8348-20241cd75bcc",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki tenaga ahli di bidang pengawakan kapal perikanan/niaga yang dibuktikan dengan Sertifikat Ahli Nautika Kapal perikanan/niaga atau Sertifikat Ahli Teknika Kapal perikanan/niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki tenaga ahli di bidang pengawakan kapal perikanan/niaga yang dibuktikan dengan Sertifikat Ahli Nautika Kapal perikanan/niaga atau Sertifikat Ahli Teknika Kapal perikanan/niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "da3c0b27-24b0-5986-b855-dfafda0df506",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti lulus seleksi teknis dari kementerian yang menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan (*bagi PPTKS yang menempatkan awak kapal perikanan) dan dari kementerian yang menyelenggarakan urusan pemerintahan di bidang transportasi (*bagi PPTKS yang menempatkan awak kapal niaga).",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti lulus seleksi teknis dari kementerian yang menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan (*bagi PPTKS yang menempatkan awak kapal perikanan) dan dari kementerian yang menyelenggarakan urusan pemerintahan di bidang transportasi (*bagi PPTKS yang menempatkan awak kapal niaga).",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "18049f1c-5bb9-5903-8df4-2906cf074e47",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem pendataan awak kapal perikanan/awak kapal niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem pendataan awak kapal perikanan/awak kapal niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "f52a96a0-84ef-5dc1-a192-6555bfaa67d5",
+     "kode": "78101-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "00cb7d2e-1560-527e-a6b3-a53abafca114",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "1c46d854-8e77-530a-ac5b-1d47e3757238",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan penempatan tenaga kerja paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan penempatan tenaga kerja paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7d671f2b-8719-5adc-b563-70323c3b9a1b",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ff15782a-5b16-575b-b1a2-4d06380b7c07",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB yang diterbitkan berupa dokumen Sertifikat ISO",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB yang diterbitkan berupa dokumen Sertifikat ISO",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "3f366ff6-8058-5370-8ab1-17c904140f36",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "42fac39f-97bb-402f-869d-d1423ad65e9b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "94b7d886-b87e-553c-a119-9fdf5a0a8c95",
+       "localization": {
+        "en": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7fd524c8-f883-5b0c-8934-fdbcdbd47ba5",
+       "localization": {
+        "en": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama paling singkat 3 tahun berupa dokumen Surat Perjanjian Sewa dengan Materai Cukup",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama paling singkat 3 tahun berupa dokumen Surat Perjanjian Sewa dengan Materai Cukup",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3d6d5c2a-2424-53f6-8675-27acf22d83a9",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja dalam negeri paling singkat 1 tahun berupa dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja dalam negeri paling singkat 1 tahun berupa dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5686478f-ab32-5aef-89c1-2f7ead8b22a9",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki perjanjian kerja sama dengan pengguna tenaga kerja atau perjanjian keagenan dengan Prinsipal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki perjanjian kerja sama dengan pengguna tenaga kerja atau perjanjian keagenan dengan Prinsipal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "dc636839-184d-5fc3-b00c-419dba644974",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dalam negeri b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja dalam negeri lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja dalam negeri d. Bersedia memiliki petugas antar kerja paling sedikit 1 orang e. Mengutamakan keterlibatan tenaga kerja lokal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dalam negeri b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja dalam negeri lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja dalam negeri d. Bersedia memiliki petugas antar kerja paling sedikit 1 orang e. Mengutamakan keterlibatan tenaga kerja lokal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2f2e2e07-209d-56af-b4d7-0261a6ca427d",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki alur bisnis penempatan tenaga kerja dalam negeri berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki alur bisnis penempatan tenaga kerja dalam negeri berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8a1bbe5b-c3c5-50b5-a13d-f846c9e5aacc",
+       "localization": {
+        "en": {
+         "uraian": "Melampirkan profil perusahaan penempatan tenaga kerja dalam negeri yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melampirkan profil perusahaan penempatan tenaga kerja dalam negeri yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0e8bf0c8-4f6a-5d4c-9e65-d4a5357ec80e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki tenaga ahli di bidang pengawakan kapal perikanan/niaga yang dibuktikan dengan Sertifikat Ahli Nautika Kapal perikanan/niaga atau Sertifikat Ahli Teknika Kapal perikanan/niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki tenaga ahli di bidang pengawakan kapal perikanan/niaga yang dibuktikan dengan Sertifikat Ahli Nautika Kapal perikanan/niaga atau Sertifikat Ahli Teknika Kapal perikanan/niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2208d36d-383b-5e43-8d15-959d951e340b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti lulus seleksi teknis dari kementerian yang menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan (*bagi PPTKS yang menempatkan awak kapal perikanan) dan dari kementerian yang menyelenggarakan urusan pemerintahan di bidang transportasi (*bagi PPTKS yang menempatkan awak kapal niaga).",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti lulus seleksi teknis dari kementerian yang menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan (*bagi PPTKS yang menempatkan awak kapal perikanan) dan dari kementerian yang menyelenggarakan urusan pemerintahan di bidang transportasi (*bagi PPTKS yang menempatkan awak kapal niaga).",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1614eefd-bcb6-5ac7-b8d6-75602354f051",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem pendataan awak kapal perikanan/awak kapal niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem pendataan awak kapal perikanan/awak kapal niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "d31cacc5-b047-5bf0-b49d-e86023d3c21b",
+     "kode": "78101-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "33ae68e4-ed04-5194-bdde-986dd6d370be",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "54ab09d8-2032-50af-b90b-563800957ee0",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan penempatan tenaga kerja paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan penempatan tenaga kerja paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8ab27049-afb9-5184-95fd-0b7be6838450",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b3e95762-50dc-5ee9-a250-306f37d4b2e1",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB yang diterbitkan berupa dokumen Sertifikat ISO",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB yang diterbitkan berupa dokumen Sertifikat ISO",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "22bbdf17-0abc-5095-b915-47e44d721609",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "42fac39f-97bb-402f-869d-d1423ad65e9b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "73957b27-ebe1-5d10-8f05-0d3272ed0ceb",
+       "localization": {
+        "en": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9481a957-7658-50a7-a0ce-b4a23a1a3de2",
+       "localization": {
+        "en": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama paling singkat 3 tahun berupa dokumen Surat Perjanjian Sewa dengan Materai Cukup",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama paling singkat 3 tahun berupa dokumen Surat Perjanjian Sewa dengan Materai Cukup",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2b7a6682-7619-5f8a-8fd0-cc08dd6bf763",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja dalam negeri paling singkat 1 tahun berupa dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja dalam negeri paling singkat 1 tahun berupa dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "36aa72ba-feff-56ea-a465-244a13f8b67f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki perjanjian kerja sama dengan pengguna tenaga kerja atau perjanjian keagenan dengan Prinsipal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki perjanjian kerja sama dengan pengguna tenaga kerja atau perjanjian keagenan dengan Prinsipal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4d222507-f21c-5bc7-9c1b-20188844eecb",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dalam negeri b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja dalam negeri lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja dalam negeri d. Bersedia memiliki petugas antar kerja paling sedikit 1 orang e. Mengutamakan keterlibatan tenaga kerja lokal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dalam negeri b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja dalam negeri lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja dalam negeri d. Bersedia memiliki petugas antar kerja paling sedikit 1 orang e. Mengutamakan keterlibatan tenaga kerja lokal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c1c5dc54-c7ee-51c5-8517-ffdcc9454200",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki alur bisnis penempatan tenaga kerja dalam negeri berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki alur bisnis penempatan tenaga kerja dalam negeri berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2fd42cd6-5c9f-5b4b-914f-51254f301dad",
+       "localization": {
+        "en": {
+         "uraian": "Melampirkan profil perusahaan penempatan tenaga kerja dalam negeri yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melampirkan profil perusahaan penempatan tenaga kerja dalam negeri yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4561c822-ba6a-5223-b866-014492fb51ba",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki tenaga ahli di bidang pengawakan kapal perikanan/niaga yang dibuktikan dengan Sertifikat Ahli Nautika Kapal perikanan/niaga atau Sertifikat Ahli Teknika Kapal perikanan/niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki tenaga ahli di bidang pengawakan kapal perikanan/niaga yang dibuktikan dengan Sertifikat Ahli Nautika Kapal perikanan/niaga atau Sertifikat Ahli Teknika Kapal perikanan/niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8b58cb95-bd61-57e5-bc48-01baa28caf2e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti lulus seleksi teknis dari kementerian yang menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan (*bagi PPTKS yang menempatkan awak kapal perikanan) dan dari kementerian yang menyelenggarakan urusan pemerintahan di bidang transportasi (*bagi PPTKS yang menempatkan awak kapal niaga).",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti lulus seleksi teknis dari kementerian yang menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan (*bagi PPTKS yang menempatkan awak kapal perikanan) dan dari kementerian yang menyelenggarakan urusan pemerintahan di bidang transportasi (*bagi PPTKS yang menempatkan awak kapal niaga).",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fdaf292f-343b-5877-aaf3-dd0a5015042c",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem pendataan awak kapal perikanan/awak kapal niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem pendataan awak kapal perikanan/awak kapal niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "5d33b29f-dd16-574d-9405-76678cc6eb70",
+     "kode": "78101-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "42e807f3-08b7-52f9-93d6-f4e70ee9fb45",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "03195883-db9c-5475-9576-13f3c63166c5",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "6ae676f0-a255-59e3-adac-a3519be6423b",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan penempatan tenaga kerja paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan penempatan tenaga kerja paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b578e667-165f-58d0-8a55-bc67ce01d7f5",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e21f0554-19d4-538f-b181-463eedca2f45",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB yang diterbitkan berupa dokumen Sertifikat ISO",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB yang diterbitkan berupa dokumen Sertifikat ISO",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "9c2a3781-bbf9-5128-bc75-801a3bdef737",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "42fac39f-97bb-402f-869d-d1423ad65e9b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "c4540d52-2263-58f9-9b11-c0c0398cce8f",
+       "localization": {
+        "en": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3d27fcfd-70ed-58b1-8fbd-64567f416f1e",
+       "localization": {
+        "en": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama paling singkat 3 tahun berupa dokumen Surat Perjanjian Sewa dengan Materai Cukup",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama paling singkat 3 tahun berupa dokumen Surat Perjanjian Sewa dengan Materai Cukup",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5915c387-7cfb-52d2-9e2b-e94a9669a5d0",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja dalam negeri paling singkat 1 tahun berupa dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja dalam negeri paling singkat 1 tahun berupa dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fccdcc72-2426-5043-9917-9681d7c51eaa",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki perjanjian kerja sama dengan pengguna tenaga kerja atau perjanjian keagenan dengan Prinsipal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki perjanjian kerja sama dengan pengguna tenaga kerja atau perjanjian keagenan dengan Prinsipal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6473881f-aa66-5e84-b36d-0a540f0f7bc6",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dalam negeri b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja dalam negeri lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja dalam negeri d. Bersedia memiliki petugas antar kerja paling sedikit 1 orang e. Mengutamakan keterlibatan tenaga kerja lokal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dalam negeri b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja dalam negeri lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja dalam negeri d. Bersedia memiliki petugas antar kerja paling sedikit 1 orang e. Mengutamakan keterlibatan tenaga kerja lokal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "04422ae0-e214-54a6-bd54-3e9588b50271",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki alur bisnis penempatan tenaga kerja dalam negeri berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki alur bisnis penempatan tenaga kerja dalam negeri berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "406c5010-c577-5ce5-9f97-231cc364742a",
+       "localization": {
+        "en": {
+         "uraian": "Melampirkan profil perusahaan penempatan tenaga kerja dalam negeri yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melampirkan profil perusahaan penempatan tenaga kerja dalam negeri yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0437f62b-75a1-5e2a-ab07-1c2316d8ab3e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki tenaga ahli di bidang pengawakan kapal perikanan/niaga yang dibuktikan dengan Sertifikat Ahli Nautika Kapal perikanan/niaga atau Sertifikat Ahli Teknika Kapal perikanan/niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki tenaga ahli di bidang pengawakan kapal perikanan/niaga yang dibuktikan dengan Sertifikat Ahli Nautika Kapal perikanan/niaga atau Sertifikat Ahli Teknika Kapal perikanan/niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e76ae37e-692b-5ca9-a063-0aaa8c02b545",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti lulus seleksi teknis dari kementerian yang menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan (*bagi PPTKS yang menempatkan awak kapal perikanan) dan dari kementerian yang menyelenggarakan urusan pemerintahan di bidang transportasi (*bagi PPTKS yang menempatkan awak kapal niaga).",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti lulus seleksi teknis dari kementerian yang menyelenggarakan urusan pemerintahan di bidang kelautan dan perikanan (*bagi PPTKS yang menempatkan awak kapal perikanan) dan dari kementerian yang menyelenggarakan urusan pemerintahan di bidang transportasi (*bagi PPTKS yang menempatkan awak kapal niaga).",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f377f319-aa55-5c11-9053-8a005c8d8afe",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem pendataan awak kapal perikanan/awak kapal niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem pendataan awak kapal perikanan/awak kapal niaga (*bagi PPTKS yang menempatkan awak kapal perikanan/niaga)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "7213abba-4b78-429f-9317-817c21f3230b",
+    "kode": "026",
+    "localization": {
+     "en": {
+      "uraian": "Ketenagakerjaan",
+      "deskripsi": "Kementerian Ketenagakerjaan"
+     },
+     "id": {
+      "uraian": "Ketenagakerjaan",
+      "deskripsi": "Kementerian Ketenagakerjaan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

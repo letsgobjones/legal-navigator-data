@@ -1,0 +1,944 @@
+{
+ "code": "69202",
+ "found": true,
+ "ossId": "2ef6abbf-54d5-54cf-a244-408ac8254f6a",
+ "url": "https://oss.go.id/id/kbli/detail/2ef6abbf-54d5-54cf-a244-408ac8254f6a",
+ "fetchedAt": "2026-09-30T05:22:18+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 69202 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "69202"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "6ed0dd2f-3613-5c69-a1d0-685d3d823330",
+   "localization": {
+    "en": {
+     "uraian": "Kelompok ini mencakup kegiatan penyediaan jasa konsultasi perpajakan seperti penyiapan pengembalian pajak pendapatan usaha atau perorangan. Termasuk dalam kelompok ini penyediaan jasa bantuan nasihat dan perwakilan (selain perwakilan hukum) atas nama klien dihadapan petugas pajak.",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Kelompok ini mencakup kegiatan penyediaan jasa konsultasi perpajakan seperti penyiapan pengembalian pajak pendapatan usaha atau perorangan. Termasuk dalam kelompok ini penyediaan jasa bantuan nasihat dan perwakilan (selain perwakilan hukum) atas nama klien dihadapan petugas pajak.",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "2ef6abbf-54d5-54cf-a244-408ac8254f6a",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Konsultansi Pajak",
+      "uraian": "Kelompok ini mencakup kegiatan penyediaan jasa konsultansi perpajakan seperti penyiapan pengembalian pajak pendapatan usaha atau perorangan, termasuk dalam kelompok ini penyediaan jasa konsultansi akuntansi dan perwakilan (selain perwakilan hukum) atas nama klien di hadapan petugas pajak atau pengadilan pajak."
+     },
+     "id": {
+      "judul": "Aktivitas Konsultansi Pajak",
+      "uraian": "Kelompok ini mencakup kegiatan penyediaan jasa konsultansi perpajakan seperti penyiapan pengembalian pajak pendapatan usaha atau perorangan, termasuk dalam kelompok ini penyediaan jasa konsultansi akuntansi dan perwakilan (selain perwakilan hukum) atas nama klien di hadapan petugas pajak atau pengadilan pajak."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": [
+     {
+      "id": "46ab5d21-1c51-46a9-bc03-f5724c24e97d",
+      "localization": {
+       "en": {
+        "uraian": "Untuk KBLI {kode_kbli}, Lembaga OSS hanya menerbitkan NIB."
+       },
+       "id": {
+        "uraian": "Untuk KBLI {kode_kbli}, Lembaga OSS hanya menerbitkan NIB."
+       }
+      }
+     }
+    ]
+   },
+   "KbliResikos": [
+    {
+     "id": "a80d340d-eec7-5dda-8310-0636117f73be",
+     "kode": "69202-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "4c98aa29-4f73-5b7a-8af9-563614e852fd",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "697ca784-b2c6-5562-95a2-e696873a3dc9",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "1e7e832b-4c8d-5cf3-bb23-89b91279c597",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "4bd577a3-1024-4358-91f5-bba37842be22",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "adb12f8d-1dec-5798-b21f-b8461bf76205",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "a25bb93b-05b3-55fd-835a-e980ac32f65c",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8d0fe070-a8eb-556d-a193-4a5fee932f16",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "0c6b29e5-85f8-5ff3-bb47-c128e77ce4f0",
+     "kode": "69202-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "c16864bf-df85-535f-bd41-5d2ea9533906",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c7d5315e-587a-5763-955b-0e9142d5f651",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "9d570d09-459c-5c75-a329-d66ce15ce48f",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "4bd577a3-1024-4358-91f5-bba37842be22",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "7a746424-2eb3-5a73-80e6-b458aa63a6ad",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "ee89e865-a94f-5a3a-a0be-cb74efb01f47",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6646e5b5-16cf-53e5-8d0d-2b1222f03d44",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "a0dc9c51-c7bc-5f3f-b69f-f0f679b055b3",
+     "kode": "69202-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "19c61472-9a3f-5ac6-b084-05d11391f073",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "da382a5d-df80-5803-b40e-1db7d06d2256",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "6dde39c6-64ba-57c3-9bcc-a046c465577b",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "4bd577a3-1024-4358-91f5-bba37842be22",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "61841bed-1f87-5188-8bf1-9012446edf56",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "79b166ef-e6b2-5c6f-a671-66875f74985b",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "34001468-1425-5481-aaac-4c3746549170",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "31c71f80-ecb5-58ea-905e-a31994a56f29",
+     "kode": "69202-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "f822e1bf-dd10-5595-88dd-233ef3089865",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e904072b-d1d0-5809-b403-5fe2012791f9",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi  kewajiban yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "c1aeab12-f195-510f-975c-31487029cccd",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "4bd577a3-1024-4358-91f5-bba37842be22",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "9fd81298-6303-5f4e-b659-7257763f15c0",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "57a049a5-e7d2-534f-b028-6bd1c1c37975",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "c935f2b8-1459-50f7-9be0-477913a59b4b",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "87e4fccc-afe0-59cb-8527-ff6eb6dd636e",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Menteri Keuangan cq. Direktur Jenderal Pajak, secara online melalui SIKOP (https://konsultan.pajak.go.id/), sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "427ec8cb-4cf2-4e89-b5ee-12bc044d4712",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Menteri Keuangan cq. Direktur Jenderal Pajak.",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "ce9f0390-c045-403a-a41b-1204bb5e9576",
+    "kode": "015",
+    "localization": {
+     "en": {
+      "uraian": "Keuangan",
+      "deskripsi": "Kementerian Keuangan"
+     },
+     "id": {
+      "uraian": "Keuangan",
+      "deskripsi": "Kementerian Keuangan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

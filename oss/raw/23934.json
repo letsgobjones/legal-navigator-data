@@ -1,0 +1,1148 @@
+{
+ "code": "23934",
+ "found": true,
+ "ossId": "87d0da21-2a6f-5943-a69a-d21ab9341863",
+ "url": "https://oss.go.id/id/kbli/detail/87d0da21-2a6f-5943-a69a-d21ab9341863",
+ "fetchedAt": "2026-09-30T04:31:13+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 23923 berubah menjadi 23934 pada KBLI 2025.",
+  "from2020": [
+   "23923"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "5b2b23c9-dbeb-5fe3-83c5-7d1c3537418b",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "87d0da21-2a6f-5943-a69a-d21ab9341863",
+    "localization": {
+     "en": {
+      "judul": "Industri Peralatan Sanitasi dari Porselen",
+      "uraian": "Kelompok ini mencakup kegiatan pembuatan berbagai macam peralatan sanitasi dari porselen, seperti kloset, bidet, wastafel, urinoir, bak cuci, dan bak mandi."
+     },
+     "id": {
+      "judul": "Industri Peralatan Sanitasi dari Porselen",
+      "uraian": "Kelompok ini mencakup kegiatan pembuatan berbagai macam peralatan sanitasi dari porselen, seperti kloset, bidet, wastafel, urinoir, bak cuci, dan bak mandi."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "4ae5ba63-ea19-5c4a-8306-adaf672a6fa3",
+     "kode": "23934-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "f71474fc-e911-5b1d-a2f9-0e76ba14bba2",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "40771fb4-dd01-572f-8697-80c9b5cb6b8c",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab /Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab /Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "09974ef2-add3-50cb-9ce3-c341181269da",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "dcbbabf4-7a59-5d23-be8a-0f6ae155f8d8",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0e1b92a4-6966-5690-97b7-7afff4e3b32f",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab /Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab /Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [],
+     "KbliKewajibans": [
+      {
+       "id": "a49f4622-b778-524e-b770-54d4ed3025cc",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "a3ef04c6-84e5-5183-8de8-0c128f364a07",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "52ccd379-0c58-5dad-ac7d-052e36c708db",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "a98a0afb-0021-509b-9338-7a665fabd3c2",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ]
+    },
+    {
+     "id": "9f0e9ddb-cc30-5abd-82b6-0f7c603dbc19",
+     "kode": "23934-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "4c872b98-a126-53b4-83f9-0ed9562e8ee9",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "40771fb4-dd01-572f-8697-80c9b5cb6b8c",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab /Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab /Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fc1e27e9-42e1-5e9a-ab25-bef50d961924",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0e1b92a4-6966-5690-97b7-7afff4e3b32f",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab /Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab /Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5fc91b0d-135e-5480-9848-5a5f89bfec58",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [],
+     "KbliKewajibans": [
+      {
+       "id": "b68b0c9f-d00f-5d54-9a5e-dc949006096d",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "76811e75-e474-50a6-85a2-5df0d3d92c91",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "13d10f71-f0f4-5aca-87ab-4d98d46ab4b2",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "df4cf72f-8401-5cfe-88c9-83200fe3c90f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ]
+    },
+    {
+     "id": "d86f9650-94d0-50d7-8718-b8f498b7aabf",
+     "kode": "23934-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "374a42d1-d0e1-5959-b372-14474604d752",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "43b0bcf5-e0ea-56aa-8103-09d3e8a04592",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0e1b92a4-6966-5690-97b7-7afff4e3b32f",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab /Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab /Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5a86218a-a546-5751-9d41-d429451345ec",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "40771fb4-dd01-572f-8697-80c9b5cb6b8c",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab /Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab /Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [],
+     "KbliKewajibans": [
+      {
+       "id": "2ce23c1e-1910-5a43-8cd8-7a6556a8f088",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "33ec8de3-9c6b-541c-ae40-0ca25ffe3713",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "87ca1e14-1131-581b-90f7-475650534033",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "2b5305c9-0704-5135-beb1-6ab1334177f3",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "46195db4-aea2-5649-96e7-c551357d0cfb",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa SOP evakuasi bencana, termasuk penataan rambu keselamatan kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa SOP evakuasi bencana, termasuk penataan rambu keselamatan kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ]
+    },
+    {
+     "id": "51a9df9b-f579-5b5c-9e43-1758478db7df",
+     "kode": "23934-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "17974995-80c9-556b-b9d5-6113c30742e4",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) bulan ke depan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) bulan ke depan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "38b6f3f9-9cfe-56cc-8867-da40f598b8ba",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa: a. Spesifikasi mesin dan/atau daftar peralatan b. Foto mesin/ peralatan c. Perjanjian jual beli/sewa yang membukti-kan: 1) Penguasaan (kepemilikan/ sewa) mesin untuk menghasilkan produk industri material bangunan dan konstruksi serta peralatan pengujian kualitas produk 2) Kesesuaian kapasitas produksi terpasang pada data usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa: a. Spesifikasi mesin dan/atau daftar peralatan b. Foto mesin/ peralatan c. Perjanjian jual beli/sewa yang membukti-kan: 1) Penguasaan (kepemilikan/ sewa) mesin untuk menghasilkan produk industri material bangunan dan konstruksi serta peralatan pengujian kualitas produk 2) Kesesuaian kapasitas produksi terpasang pada data usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5f2bb927-06bb-517c-8bef-5e27881712f5",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen struktur organisasi SDM minimal terdiri dari: a. Pimpinan perusahaan b. Bagian produksi dan/atau quality control c. Bagian pemasaran",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen struktur organisasi SDM minimal terdiri dari: a. Pimpinan perusahaan b. Bagian produksi dan/atau quality control c. Bagian pemasaran",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "74d38847-0862-5129-af25-2a3cfbb5e79f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen bagan alur: a. Pengadaan, penerimaan, penyimpanan bahan baku b. Proses produksi c. Proses quality control d. Pengemasan, penyimpanan, pengangkutan dan distribusi hasil produksi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen bagan alur: a. Pengadaan, penerimaan, penyimpanan bahan baku b. Proses produksi c. Proses quality control d. Pengemasan, penyimpanan, pengangkutan dan distribusi hasil produksi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "64531522-3e28-56ec-9c8a-f32b6c49caf5",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa foto yang membuktikan tersedianya Fasilitas penanganan kecelakaan kerja, ruang istirahat bagi pekerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa foto yang membuktikan tersedianya Fasilitas penanganan kecelakaan kerja, ruang istirahat bagi pekerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6f454faf-e877-50a5-8eaa-c2b2ea610d5b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen perencanaan tata letak Fasilitas pabrik/plant layout facilities, yang membuktikan tersedianya: a. Ruang produksi khusus b. Ruang quality control",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen perencanaan tata letak Fasilitas pabrik/plant layout facilities, yang membuktikan tersedianya: a. Ruang produksi khusus b. Ruang quality control",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "d9281c08-27d8-5bbe-81a3-34b9e251ad80",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "af903ade-58d5-5f80-9955-dd0ed496edd8",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Provinsi bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Provinsi bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7853b8ab-073e-517d-bb52-d9be8b4805e3",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3fc8163e-f63d-5e7f-8fbb-fc8ea2b613e6",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "a573c554-8967-50ba-8ac2-4c627c34cf98",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "b9c964fb-f836-4465-8112-f1dddf60ac8e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "ca7924a9-9a15-5ed7-9be9-64343f3c2503",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "99338780-55b4-53f6-9ca0-675b00b3a632",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5fb56d8c-15c6-51ee-950a-dc2a7e71d374",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "19c0b340-882d-5835-80c2-c95617bf2aaf",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3279d4d7-0dfa-53dc-9597-0e739e0b5272",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa SOP evakuasi bencana, termasuk penataan rambu keselamatan kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa SOP evakuasi bencana, termasuk penataan rambu keselamatan kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7931645f-e9e3-5914-9075-cc743a36f215",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat Sistem Manajemen Mutu (ISO 9001)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat Sistem Manajemen Mutu (ISO 9001)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "7a95258a-2889-422e-83d6-6cb9cc14569f",
+    "kode": "019",
+    "localization": {
+     "en": {
+      "uraian": "Perindustrian",
+      "deskripsi": "Kementerian Perindustrian"
+     },
+     "id": {
+      "uraian": "Perindustrian",
+      "deskripsi": "Kementerian Perindustrian"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

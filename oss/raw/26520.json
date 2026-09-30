@@ -1,0 +1,3241 @@
+{
+ "code": "26520",
+ "found": true,
+ "ossId": "0bb7019d-759f-553a-956e-a8095154d4c1",
+ "url": "https://oss.go.id/id/kbli/detail/0bb7019d-759f-553a-956e-a8095154d4c1",
+ "fetchedAt": "2026-09-30T04:35:37+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 26520 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "26520"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "7ddd2ec8-315f-5f16-a105-6a85dee5fc34",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "0bb7019d-759f-553a-956e-a8095154d4c1",
+    "localization": {
+     "en": {
+      "judul": "Industri Alat Ukur Waktu",
+      "uraian": "$4b"
+     },
+     "id": {
+      "judul": "Industri Alat Ukur Waktu",
+      "uraian": "$4c"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "84bb5f79-e7df-5ee8-8654-a2688344dac6",
+     "kode": "26520-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "69797d97-a17d-5ca7-a320-ff2915bd054a",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "3d92b7e4-8576-5287-83a9-efe77e1bae61",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "a09e3d12-1248-57cb-bda5-b5666736a3bf",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/ surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/ surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "63271f40-b7d5-583c-8235-4bb03aa8f93e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b4050623-4160-517a-9783-ccd8b0594e03",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP proses kalibrasi periodik untuk peralatan quality control",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP proses kalibrasi periodik untuk peralatan quality control",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "f0b8fb8e-7544-5c3c-b073-5b3f8701b8f0",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil uji laboratorium independen secara periodik untuk produk yang dihasilkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil uji laboratorium independen secara periodik untuk produk yang dihasilkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "07a8e0e3-f884-56f8-9a91-d9f6b80db8d2",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "b9c964fb-f836-4465-8112-f1dddf60ac8e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "56762bb0-9808-54e0-90bc-d50e4705220d",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "cc4d2566-fe47-51b2-9031-219fc3048559",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "892a934f-032b-5aa6-ad8d-df0349188b63",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "83c29f6e-c362-50bc-be27-1afeb893b0bb",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "39661b39-f778-59ed-a270-9a52f4908e29",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "c1f44f0d-38c2-5a00-af61-4405ba86ba03",
+     "kode": "26520-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "13fdec6e-6543-51a0-acac-115090ad216e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "f8abd6dd-2862-59ff-97c4-adcaf50a1e66",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "a50d3bed-84af-5022-ba74-b74d4f905c15",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/ surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/ surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "8d63afa6-f0ef-584b-9889-d3ac73203f7d",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "395611f9-c628-54ca-b1a0-8a2ceaeb0e1f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP proses kalibrasi periodik untuk peralatan quality control",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP proses kalibrasi periodik untuk peralatan quality control",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "db536a9e-71d0-553c-b4ef-1469ae2edd92",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil uji laboratorium independen secara periodik untuk produk yang dihasilkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil uji laboratorium independen secara periodik untuk produk yang dihasilkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "abafbd43-a9ef-53bd-87bc-4a6f847f1a36",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "b9c964fb-f836-4465-8112-f1dddf60ac8e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "1531f1d9-7e61-52f8-b4df-261c1e01b64d",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "83c29f6e-c362-50bc-be27-1afeb893b0bb",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fa05641d-7892-5297-a8b8-4d844223d1b8",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "15adff2f-74ee-5ad6-8fb6-d6cdf8a36518",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "cc4d2566-fe47-51b2-9031-219fc3048559",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "cb1e1614-0e86-5f3d-8cdd-9d1dd1f35fb0",
+     "kode": "26520-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "f36ece02-75dd-5fec-ba1b-71e99b0c7eed",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "bf3deaf8-7631-53c3-bffd-1374b6403f19",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "2960e5f3-d239-51d9-8def-c224cc143822",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/ surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/ surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "f7e21883-4d71-58f7-b972-2cdfab56142f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "0bbce1f1-99c2-5a0e-8105-77bef67dee56",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP proses kalibrasi periodik untuk peralatan quality control",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP proses kalibrasi periodik untuk peralatan quality control",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "e31f5fb8-f686-5450-8aca-3b84d91d8f17",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil uji laboratorium independen secara periodik untuk produk yang dihasilkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil uji laboratorium independen secara periodik untuk produk yang dihasilkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "3f6c68a9-1977-5aec-bd1e-b8857b7e0b0d",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa SOP evakuasi bencana, termasuk penataan rambu keselamatan kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa SOP evakuasi bencana, termasuk penataan rambu keselamatan kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "773ae02c-963d-570a-9b20-e913724407e6",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "b9c964fb-f836-4465-8112-f1dddf60ac8e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "7e6b5d21-1656-5a1c-a39b-a65cecd486ee",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "cc4d2566-fe47-51b2-9031-219fc3048559",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "19d190d5-77b3-5d24-9c45-b4f571a7074d",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7278e8b5-b9c6-580d-aa76-052aea767f15",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "83c29f6e-c362-50bc-be27-1afeb893b0bb",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "d9987fb8-54fe-5db2-bea0-f955bcccf0a6",
+     "kode": "26520-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "d265932f-0b1f-5ed6-a30c-9ddfe3f2d734",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "7c427a6b-3ab1-560d-8e37-0206e51be430",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "1733703b-a36c-5517-8e47-37e246f6c684",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/ surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/ surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b39340ef-541c-508e-adaa-575c991f26e7",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "a863714c-7299-5758-8cd4-61d8b8f25a8f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP proses kalibrasi periodik untuk peralatan quality control",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP proses kalibrasi periodik untuk peralatan quality control",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "7322f937-e1a2-5bd0-a21f-e029a067bade",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil uji laboratorium independen secara periodik untuk produk yang dihasilkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil uji laboratorium independen secara periodik untuk produk yang dihasilkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "69a7e6dd-6f33-5d6f-8667-dbb78531359e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa SOP evakuasi bencana, termasuk penataan rambu keselamatan kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa SOP evakuasi bencana, termasuk penataan rambu keselamatan kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "84eb11b8-9893-5d7a-b6f5-e739f2740649",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat Sistem Manajemen Mutu (ISO 9001)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat Sistem Manajemen Mutu (ISO 9001)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "a7cb2198-a294-5d5f-ae52-60cc2ac232b6",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "b9c964fb-f836-4465-8112-f1dddf60ac8e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "38fbed0a-4c87-5483-9e24-ae95157c8d20",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3b70bfb7-4795-56f6-9398-2a64bff0d612",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "af903ade-58d5-5f80-9955-dd0ed496edd8",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Provinsi bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Provinsi bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c05c9d76-a9a9-5346-b981-42d3e0981abb",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "7a95258a-2889-422e-83d6-6cb9cc14569f",
+    "kode": "019",
+    "localization": {
+     "en": {
+      "uraian": "Perindustrian",
+      "deskripsi": "Kementerian Perindustrian"
+     },
+     "id": {
+      "uraian": "Perindustrian",
+      "deskripsi": "Kementerian Perindustrian"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "2d7810c7-180f-4698-b69d-d16cfa1b70a6",
+   "kode": "085000000053",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Izin Dekomisioning Fasilitas Produksi Barang Konsumen"
+    },
+    "id": {
+     "nama_dokumen": "Izin Dekomisioning Fasilitas Produksi Barang Konsumen"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "009ec3c3-49f5-5d08-9a81-11313b18f83a",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program dekomisioning sesuai dengan kondisi terkini; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program dekomisioning sesuai dengan kondisi terkini; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen sistem manajemen sesuai dengan kondisi terkini."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen sistem manajemen sesuai dengan kondisi terkini."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program dekomisioning yang diperbarui sesuai dengan kondisi terkini"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program dekomisioning yang diperbarui sesuai dengan kondisi terkini"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen sistem manajemen yang diperbarui sesuai dengan tahap dekomisioning"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen sistem manajemen yang diperbarui sesuai dengan tahap dekomisioning"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen sistem manajemen yang diperbarui sesuai dengan tahap dekomisioning"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen sistem manajemen yang diperbarui sesuai dengan tahap dekomisioning"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program dekomisioning sesuai dengan kondisi terkini; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program dekomisioning sesuai dengan kondisi terkini; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen sistem manajemen sesuai dengan kondisi terkini."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen sistem manajemen sesuai dengan kondisi terkini."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program dekomisioning yang diperbarui sesuai dengan kondisi terkini"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program dekomisioning yang diperbarui sesuai dengan kondisi terkini"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pelaku Usaha menghentikan kegiatannya secara tetap;"
+      },
+      "id": {
+       "syarat_perizinan": "Pelaku Usaha menghentikan kegiatannya secara tetap;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan kegiatan dekomisoning setelah izin diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan kegiatan dekomisoning setelah izin diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakuan penangananan dilaksanakan setelah izin dekomisioning diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Melakuan penangananan dilaksanakan setelah izin dekomisioning diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan sistem manajemen pada saat proses dekomisioning dilakukan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan sistem manajemen pada saat proses dekomisioning dilakukan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi pada saat proses dekomisioning"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi pada saat proses dekomisioning"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaporkan hasil pelaksanaan dekomisioning kepada Badan Pengawas."
+      },
+      "id": {
+       "syarat_perizinan": "Melaporkan hasil pelaksanaan dekomisioning kepada Badan Pengawas."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pelaku Usaha menghentikan kegiatannya secara tetap"
+      },
+      "id": {
+       "syarat_perizinan": "Pelaku Usaha menghentikan kegiatannya secara tetap"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan kegiatan dekomisioning setelah PB UMKU dekomisioning diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan kegiatan dekomisioning setelah PB UMKU dekomisioning diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan penanganan limbah radioaktif yang ditimbulkan dari pelaksanaan dekomisioning"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan penanganan limbah radioaktif yang ditimbulkan dari pelaksanaan dekomisioning"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan sistem manajemen pada saat proses dekomisioning dilakukan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan sistem manajemen pada saat proses dekomisioning dilakukan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi pada saat proses dekomisioning"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi pada saat proses dekomisioning"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaporkan hasil pelaksanaan dekomisioning kepada BAPETEN"
+      },
+      "id": {
+       "syarat_perizinan": "Melaporkan hasil pelaksanaan dekomisioning kepada BAPETEN"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaporkan hasil pelaksanaan dekomisioning kepada BAPETEN"
+      },
+      "id": {
+       "syarat_perizinan": "Melaporkan hasil pelaksanaan dekomisioning kepada BAPETEN"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Pelaku Usaha menghentikan kegiatannya secara tetap</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaksanakan kegiatan dekomisioning setelah PB UMKU dekomisioning diterbitkan</li><li>Melakukan penanganan limbah radioaktif yang ditimbulkan dari pelaksanaan dekomisioning</li><li>Melaksanakan sistem manajemen pada saat proses dekomisioning dilakukan</li><li>Memberikan akses kepada BAPETEN untuk melakukan inspeksi pada saat proses dekomisioning</li><li>Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati</li><li>Melaporkan hasil pelaksanaan dekomisioning kepada BAPETEN</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Pelaku Usaha menghentikan kegiatannya secara tetap</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaksanakan kegiatan dekomisioning setelah PB UMKU dekomisioning diterbitkan</li><li>Melakukan penanganan limbah radioaktif yang ditimbulkan dari pelaksanaan dekomisioning</li><li>Melaksanakan sistem manajemen pada saat proses dekomisioning dilakukan</li><li>Memberikan akses kepada BAPETEN untuk melakukan inspeksi pada saat proses dekomisioning</li><li>Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati</li><li>Melaporkan hasil pelaksanaan dekomisioning kepada BAPETEN</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan sistem manajemen pada saat proses dekomisioning dilakukan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan sistem manajemen pada saat proses dekomisioning dilakukan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan sistem manajemen pada saat proses dekomisioning dilakukan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan sistem manajemen pada saat proses dekomisioning dilakukan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi pada saat proses dekomisioning"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi pada saat proses dekomisioning"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pelaku Usaha menghentikan kegiatannya secara tetap;"
+      },
+      "id": {
+       "syarat_perizinan": "Pelaku Usaha menghentikan kegiatannya secara tetap;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan kegiatan dekomisioning setelah PB UMKU dekomisioning diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan kegiatan dekomisioning setelah PB UMKU dekomisioning diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi pada saat proses dekomisioning"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi pada saat proses dekomisioning"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan kegiatan dekomisoning setelah izin diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan kegiatan dekomisoning setelah izin diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaporkan hasil pelaksanaan dekomisioning kepada Badan Pengawas."
+      },
+      "id": {
+       "syarat_perizinan": "Melaporkan hasil pelaksanaan dekomisioning kepada Badan Pengawas."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pelaku Usaha menghentikan kegiatannya secara tetap"
+      },
+      "id": {
+       "syarat_perizinan": "Pelaku Usaha menghentikan kegiatannya secara tetap"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakuan penangananan dilaksanakan setelah izin dekomisioning diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Melakuan penangananan dilaksanakan setelah izin dekomisioning diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan penanganan limbah radioaktif yang ditimbulkan dari pelaksanaan dekomisioning"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan penanganan limbah radioaktif yang ditimbulkan dari pelaksanaan dekomisioning"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "50ca7482-d92f-4450-8719-bb4629a2b33f",
+    "kode": "085",
+    "localization": {
+     "en": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     },
+     "id": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "8a492c19-1134-435f-98c5-6a4cd4b57ce2",
+   "kode": "085000000069",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Izin Konstruksi Fasilitas Produksi Barang Konsumen"
+    },
+    "id": {
+     "nama_dokumen": "Izin Konstruksi Fasilitas Produksi Barang Konsumen"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "0a25b011-81c1-5e11-a59c-bd1373e045dd",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana teknis bangunan penahan radiasi;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana teknis bangunan penahan radiasi;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana bangunan utilitas operasi pemanfaatan Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana bangunan utilitas operasi pemanfaatan Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen kajian keselamatan radiasi dan keamanan zat radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen kajian keselamatan radiasi dan keamanan zat radioaktif;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi dan dokumen program keamanan zat radioaktif; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi dan dokumen program keamanan zat radioaktif; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program komisioning."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program komisioning."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen teknis fasilitas radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen teknis fasilitas radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program keamanan zat radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program keamanan zat radioaktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program komisioning"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program komisioning"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program pengelolaan limbah radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program pengelolaan limbah radioaktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen sistem manajemen"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen sistem manajemen"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program keamanan zat radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program keamanan zat radioaktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen sistem manajemen"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen sistem manajemen"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program komisioning."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program komisioning."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana bangunan utilitas operasi pemanfaatan Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana bangunan utilitas operasi pemanfaatan Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen kajian keselamatan radiasi dan keamanan zat radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen kajian keselamatan radiasi dan keamanan zat radioaktif;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program komisioning"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program komisioning"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen teknis fasilitas radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen teknis fasilitas radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi dan dokumen program keamanan zat radioaktif; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi dan dokumen program keamanan zat radioaktif; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program pengelolaan limbah radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program pengelolaan limbah radioaktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana teknis bangunan penahan radiasi;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana teknis bangunan penahan radiasi;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan konstruksi sesuai dengan desain dan program konstruksi yang telah disetujui oleh Badan Pengawas;"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan konstruksi sesuai dengan desain dan program konstruksi yang telah disetujui oleh Badan Pengawas;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan konstruksi paling lama 2 tahun terhitung sejak izin konstruksi diterbitkan;"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan konstruksi paling lama 2 tahun terhitung sejak izin konstruksi diterbitkan;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi;"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati;"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan uji untuk masing-masing struktur, sistem dan komponen; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan uji untuk masing-masing struktur, sistem dan komponen; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan uji terintegrasi struktur, sistem dan komponen tanpa Sumber Radiasi Pengion."
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan uji terintegrasi struktur, sistem dan komponen tanpa Sumber Radiasi Pengion."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan konstruksi sesuai dengan dokumen rencana teknis fasilitas radiasi yang telah disetujui oleh BAPETEN"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan konstruksi sesuai dengan dokumen rencana teknis fasilitas radiasi yang telah disetujui oleh BAPETEN"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan konstruksi paling lambat 2 tahun terhitung sejak PB UMKU konstruksi diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan konstruksi paling lambat 2 tahun terhitung sejak PB UMKU konstruksi diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan uji untuk masing-masing struktur, sistem, dan komponen"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan uji untuk masing-masing struktur, sistem, dan komponen"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan uji terintegrasi struktur, sistem, dan komponen dengan sumber radiasi pengion"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan uji terintegrasi struktur, sistem, dan komponen dengan sumber radiasi pengion"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan konstruksi sesuai dengan dokumen rencana teknis fasilitas radiasi yang telah disetujui oleh BAPETEN"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan konstruksi sesuai dengan dokumen rencana teknis fasilitas radiasi yang telah disetujui oleh BAPETEN"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan uji terintegrasi struktur, sistem, dan komponen dengan sumber radiasi pengion"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan uji terintegrasi struktur, sistem, dan komponen dengan sumber radiasi pengion"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan uji untuk masing-masing struktur, sistem, dan komponen"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan uji untuk masing-masing struktur, sistem, dan komponen"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan uji untuk masing-masing struktur, sistem dan komponen; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan uji untuk masing-masing struktur, sistem dan komponen; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan konstruksi paling lama 2 tahun terhitung sejak izin konstruksi diterbitkan;"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan konstruksi paling lama 2 tahun terhitung sejak izin konstruksi diterbitkan;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan uji terintegrasi struktur, sistem dan komponen tanpa Sumber Radiasi Pengion."
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan uji terintegrasi struktur, sistem dan komponen tanpa Sumber Radiasi Pengion."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Melaksanakan konstruksi sesuai dengan dokumen rencana teknis fasilitas radiasi yang telah disetujui oleh BAPETEN</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaksanakan konstruksi paling lambat 2 tahun terhitung sejak PB UMKU konstruksi diterbitkan</li><li>Melaksanakan ketentuan yang tertuang dalam sistem manajemen</li><li>Memberikan akses kepada BAPETEN untuk melakukan inspeksi</li><li>Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati</li><li>Memastikan uji untuk masing-masing struktur, sistem, dan komponen</li><li>Memastikan uji terintegrasi struktur, sistem, dan komponen dengan sumber radiasi pengion</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Melaksanakan konstruksi sesuai dengan dokumen rencana teknis fasilitas radiasi yang telah disetujui oleh BAPETEN</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaksanakan konstruksi paling lambat 2 tahun terhitung sejak PB UMKU konstruksi diterbitkan</li><li>Melaksanakan ketentuan yang tertuang dalam sistem manajemen</li><li>Memberikan akses kepada BAPETEN untuk melakukan inspeksi</li><li>Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati</li><li>Memastikan uji untuk masing-masing struktur, sistem, dan komponen</li><li>Memastikan uji terintegrasi struktur, sistem, dan komponen dengan sumber radiasi pengion</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan konstruksi sesuai dengan desain dan program konstruksi yang telah disetujui oleh Badan Pengawas;"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan konstruksi sesuai dengan desain dan program konstruksi yang telah disetujui oleh Badan Pengawas;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi;"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan konstruksi paling lambat 2 tahun terhitung sejak PB UMKU konstruksi diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan konstruksi paling lambat 2 tahun terhitung sejak PB UMKU konstruksi diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "45 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati;"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "50ca7482-d92f-4450-8719-bb4629a2b33f",
+    "kode": "085",
+    "localization": {
+     "en": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     },
+     "id": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "5921a62f-6479-4533-b2b7-96be96b1c6b1",
+   "kode": "085000000083",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Izin Operasi Fasilitas Produksi Barang Konsumen"
+    },
+    "id": {
+     "nama_dokumen": "Izin Operasi Fasilitas Produksi Barang Konsumen"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "14cf9cc4-38bb-5867-8423-e364ce0645d2",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan hasil pelaksanaan komisioning;"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan hasil pelaksanaan komisioning;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Gambar terbangun (as built drawing);"
+      },
+      "id": {
+       "syarat_perizinan": "Gambar terbangun (as built drawing);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat kesesuaian mutu Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat kesesuaian mutu Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Data kompetensi dan kewenangan petugas;</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Petugas proteksi radiasi;</li>\n<li>Petugas keamanan zat radioaktif; dan</li>\n<li>Petugas lainnya</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Data kompetensi dan kewenangan petugas;</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Petugas proteksi radiasi;</li>\n<li>Petugas keamanan zat radioaktif; dan</li>\n<li>Petugas lainnya</li>\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi dan program keamanan zat radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi dan program keamanan zat radioaktif;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti kepemilikan dan/atau penguasaan Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti kepemilikan dan/atau penguasaan Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen kajian keselamatan Sumber Radiasi Pengion dan kajian keamanan zat radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen kajian keselamatan Sumber Radiasi Pengion dan kajian keamanan zat radioaktif;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen sistem manajemen;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen sistem manajemen;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program perawatan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program perawatan; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program dekomisioning fasilitas Sumber Radiasi Pengion."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program dekomisioning fasilitas Sumber Radiasi Pengion."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan hasil pelaksanaan komisioning"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan hasil pelaksanaan komisioning"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi yang diperbarui sesuai dengan tahap operasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi yang diperbarui sesuai dengan tahap operasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program keamanan zat radioaktif yang diperbarui sesuai dengan tahap operasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program keamanan zat radioaktif yang diperbarui sesuai dengan tahap operasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen sistem manajemen yang diperbarui sesuai dengan tahap operasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen sistem manajemen yang diperbarui sesuai dengan tahap operasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program perawatan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program perawatan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program dekomisioning fasilitas sumber radiasi pengion"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program dekomisioning fasilitas sumber radiasi pengion"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Jaminan finansial untuk pelaksanaan dekomisioning dan penanganan limbah radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Jaminan finansial untuk pelaksanaan dekomisioning dan penanganan limbah radioaktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Program pengelolaan limbah radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Program pengelolaan limbah radioaktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program perawatan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program perawatan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Gambar terbangun (as built drawing);"
+      },
+      "id": {
+       "syarat_perizinan": "Gambar terbangun (as built drawing);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program dekomisioning fasilitas Sumber Radiasi Pengion."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program dekomisioning fasilitas Sumber Radiasi Pengion."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi dan program keamanan zat radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi dan program keamanan zat radioaktif;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Jaminan finansial untuk pelaksanaan dekomisioning dan penanganan limbah radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Jaminan finansial untuk pelaksanaan dekomisioning dan penanganan limbah radioaktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan hasil pelaksanaan komisioning"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan hasil pelaksanaan komisioning"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Program pengelolaan limbah radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Program pengelolaan limbah radioaktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi yang diperbarui sesuai dengan tahap operasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi yang diperbarui sesuai dengan tahap operasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Data kompetensi dan kewenangan petugas;</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Petugas proteksi radiasi;</li>\n<li>Petugas keamanan zat radioaktif; dan</li>\n<li>Petugas lainnya</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Data kompetensi dan kewenangan petugas;</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Petugas proteksi radiasi;</li>\n<li>Petugas keamanan zat radioaktif; dan</li>\n<li>Petugas lainnya</li>\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen kajian keselamatan Sumber Radiasi Pengion dan kajian keamanan zat radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen kajian keselamatan Sumber Radiasi Pengion dan kajian keamanan zat radioaktif;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen sistem manajemen yang diperbarui sesuai dengan tahap operasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen sistem manajemen yang diperbarui sesuai dengan tahap operasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen sistem manajemen;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen sistem manajemen;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat kesesuaian mutu Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat kesesuaian mutu Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program dekomisioning fasilitas sumber radiasi pengion"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program dekomisioning fasilitas sumber radiasi pengion"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti kepemilikan dan/atau penguasaan Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti kepemilikan dan/atau penguasaan Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan hasil pelaksanaan komisioning;"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan hasil pelaksanaan komisioning;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program perawatan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program perawatan; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program keamanan zat radioaktif yang diperbarui sesuai dengan tahap operasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program keamanan zat radioaktif yang diperbarui sesuai dengan tahap operasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menghasilkan produk sesuai dengan izin yang diberikan oleh Badan Pengawas;"
+      },
+      "id": {
+       "syarat_perizinan": "Menghasilkan produk sesuai dengan izin yang diberikan oleh Badan Pengawas;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen;"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi dan keamanan zat radioaktif dilakukan;"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi dan keamanan zat radioaktif dilakukan;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi selama masa izin berlaku;"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi selama masa izin berlaku;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan izin yang diberikan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan izin yang diberikan; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan dan keamanan zat radiokatif kepada Badan Pengawas secara berkala setiap tahun terhitung sejak Perizinan Berusaha diterbitkan."
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan dan keamanan zat radiokatif kepada Badan Pengawas secara berkala setiap tahun terhitung sejak Perizinan Berusaha diterbitkan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan kegiatan dan menghasilkan produk sesuai dengan PB UMKU yang diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan kegiatan dan menghasilkan produk sesuai dengan PB UMKU yang diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen pada tahap operasi"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen pada tahap operasi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi, dan ketentuan keamanan zat radioaktif dilakukan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi, dan ketentuan keamanan zat radioaktif dilakukan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan dan keamanan secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan dan keamanan secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan perawatan sesuai dengan program perawatan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan perawatan sesuai dengan program perawatan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan pengelolaan limbah radioaktif sesuai dengan program pengelolaan limbah radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan pengelolaan limbah radioaktif sesuai dengan program pengelolaan limbah radioaktif"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan pengelolaan limbah radioaktif sesuai dengan program pengelolaan limbah radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan pengelolaan limbah radioaktif sesuai dengan program pengelolaan limbah radioaktif"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan izin yang diberikan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan izin yang diberikan; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menghasilkan produk sesuai dengan izin yang diberikan oleh Badan Pengawas;"
+      },
+      "id": {
+       "syarat_perizinan": "Menghasilkan produk sesuai dengan izin yang diberikan oleh Badan Pengawas;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Melaksanakan kegiatan dan menghasilkan produk sesuai dengan PB UMKU yang diterbitkan</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaksanakan ketentuan yang tertuang dalam sistem manajemen pada tahap operasi</li><li>Memastikan bahwa ketentuan proteksi dan keselamatan radiasi, dan ketentuan keamanan zat radioaktif dilakukan</li><li>Memberikan akses kepada BAPETEN untuk melakukan inspeksi</li><li>Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati</li><li>Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif</li><li>Menyampaikan laporan verifikasi keselamatan dan keamanan secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan</li><li>Melaksanakan perawatan sesuai dengan program perawatan</li><li>Melakukan pengelolaan limbah radioaktif sesuai dengan program pengelolaan limbah radioaktif</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Melaksanakan kegiatan dan menghasilkan produk sesuai dengan PB UMKU yang diterbitkan</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaksanakan ketentuan yang tertuang dalam sistem manajemen pada tahap operasi</li><li>Memastikan bahwa ketentuan proteksi dan keselamatan radiasi, dan ketentuan keamanan zat radioaktif dilakukan</li><li>Memberikan akses kepada BAPETEN untuk melakukan inspeksi</li><li>Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati</li><li>Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif</li><li>Menyampaikan laporan verifikasi keselamatan dan keamanan secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan</li><li>Melaksanakan perawatan sesuai dengan program perawatan</li><li>Melakukan pengelolaan limbah radioaktif sesuai dengan program pengelolaan limbah radioaktif</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan tindakan yang diperlukan untuk mencegah pemindahan tidak sah, pencurian, dan sabotase zat radioaktif;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi selama masa izin berlaku;"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi selama masa izin berlaku;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan kegiatan dan menghasilkan produk sesuai dengan PB UMKU yang diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan kegiatan dan menghasilkan produk sesuai dengan PB UMKU yang diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan dan keamanan zat radiokatif kepada Badan Pengawas secara berkala setiap tahun terhitung sejak Perizinan Berusaha diterbitkan."
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan dan keamanan zat radiokatif kepada Badan Pengawas secara berkala setiap tahun terhitung sejak Perizinan Berusaha diterbitkan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan perawatan sesuai dengan program perawatan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan perawatan sesuai dengan program perawatan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen;"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan dan keamanan secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan dan keamanan secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi, dan ketentuan keamanan zat radioaktif dilakukan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi, dan ketentuan keamanan zat radioaktif dilakukan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi dan keamanan zat radioaktif dilakukan;"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi dan keamanan zat radioaktif dilakukan;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen pada tahap operasi"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen pada tahap operasi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "50ca7482-d92f-4450-8719-bb4629a2b33f",
+    "kode": "085",
+    "localization": {
+     "en": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     },
+     "id": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "9dc47034-01da-4ea6-88d9-24761636b2cc",
+   "kode": "085000000112",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Pernyataan Pembebasan Fasilitas Produksi Barang Konsumen"
+    },
+    "id": {
+     "nama_dokumen": "Pernyataan Pembebasan Fasilitas Produksi Barang Konsumen"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "051917b1-0a29-4fff-89a6-606f91f3901f",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan penanganan akhir Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan penanganan akhir Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan hasil pengukuran paparan radiasi dan kontaminasi zat radioaktif; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan hasil pengukuran paparan radiasi dan kontaminasi zat radioaktif; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan pelaksanaan dekomisioning."
+      },
+      "id": {
+       "syarat_perizinan": "Laporan pelaksanaan dekomisioning."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan pelaksanaan dekomisioning"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan pelaksanaan dekomisioning"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan pelaksanaan sistem manajemen"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan pelaksanaan sistem manajemen"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan penanganan akhir Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan penanganan akhir Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan hasil pengukuran paparan radiasi dan kontaminasi zat radioaktif; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan hasil pengukuran paparan radiasi dan kontaminasi zat radioaktif; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan pelaksanaan sistem manajemen"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan pelaksanaan sistem manajemen"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan pelaksanaan dekomisioning."
+      },
+      "id": {
+       "syarat_perizinan": "Laporan pelaksanaan dekomisioning."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan pelaksanaan dekomisioning"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan pelaksanaan dekomisioning"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "50ca7482-d92f-4450-8719-bb4629a2b33f",
+    "kode": "085",
+    "localization": {
+     "en": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     },
+     "id": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

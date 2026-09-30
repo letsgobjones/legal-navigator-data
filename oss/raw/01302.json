@@ -1,0 +1,1738 @@
+{
+ "code": "01302",
+ "found": true,
+ "ossId": "6780b9b5-5512-5e58-96d2-8177689cae7f",
+ "url": "https://oss.go.id/id/kbli/detail/6780b9b5-5512-5e58-96d2-8177689cae7f",
+ "fetchedAt": "2026-09-30T03:57:48+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 02209 berubah menjadi 01302 pada KBLI 2025.",
+  "from2020": [
+   "02209"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "195d7e37-7c4e-5dbf-8d68-ecec754c052f",
+   "localization": {
+    "en": {
+     "uraian": "Penangkaran jenis tumbuhan dan satwa liar",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Penangkaran jenis tumbuhan dan satwa liar",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "6780b9b5-5512-5e58-96d2-8177689cae7f",
+    "localization": {
+     "en": {
+      "judul": "Penangkaran Tumbuhan Liar",
+      "uraian": "Kelompok ini mencakup kegiatan penangkaran tumbuhan liar, termasuk pembiakan secara vegetatif melalui batang stek, potongan, dan bibit untuk kelangsungan pengembangbiakan tanaman."
+     },
+     "id": {
+      "judul": "Penangkaran Tumbuhan Liar",
+      "uraian": "Kelompok ini mencakup kegiatan penangkaran tumbuhan liar, termasuk pembiakan secara vegetatif melalui batang stek, potongan, dan bibit untuk kelangsungan pengembangbiakan tanaman."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "3e56af8e-d283-55f5-895d-2769dc3d1051",
+     "kode": "01302-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "14",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "68902a88-7f8b-5a30-b32e-e2c261b4cfae",
+       "localization": {
+        "en": {
+         "uraian": "Membangun sarana dan prasarana seperti fasilitas kendang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membangun sarana dan prasarana seperti fasilitas kendang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3486632f-6878-58d2-9a83-372e57cd9b2f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki SDM yang melakukan pemeliharaan dan melakukan pengelolaan limbah kotoran dan sisa makanan satwa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki SDM yang melakukan pemeliharaan dan melakukan pengelolaan limbah kotoran dan sisa makanan satwa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3f65d747-103c-57c5-831d-14fc8b9da503",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun laporan triwulan, membuat studbook, logbook, melakukan penandaan dan/atau pencatatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun laporan triwulan, membuat studbook, logbook, melakukan penandaan dan/atau pencatatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5f4cd452-1222-55fc-84ff-904e88daa729",
+       "localization": {
+        "en": {
+         "uraian": "Memperhatikan kondisi satwa, baik kesehatan maupun kesejahteraan satwa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperhatikan kondisi satwa, baik kesehatan maupun kesejahteraan satwa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "a8b8d1d7-b450-5cd4-be10-e5b17d61d9d9",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "6804be7d-fb91-4c23-bb41-10ba9cdeb2e5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Penangkaran jenis tumbuhan dan satwa liar"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Penangkaran jenis tumbuhan dan satwa liar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "b30c3432-6896-518c-9305-048566e21824",
+       "localization": {
+        "en": {
+         "uraian": "Pemohon merupakan pelaku usaha perseorangan atau non perseorangan (BUMN, BUMD, PT, PT Perorangan, CV, BUMDes atau Koperasi)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemohon merupakan pelaku usaha perseorangan atau non perseorangan (BUMN, BUMD, PT, PT Perorangan, CV, BUMDes atau Koperasi)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9e9d9bea-1182-555e-a32c-72264affdbf0",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen legalitas asal usul induk, benih atau bibit",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen legalitas asal usul induk, benih atau bibit",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "72d39ad8-0104-5458-a476-444057b93456",
+       "localization": {
+        "en": {
+         "uraian": "Proposal teknis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Proposal teknis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0dfa53e3-0368-597d-a6d4-91747700bebf",
+       "localization": {
+        "en": {
+         "uraian": "Bukti kepemilikan atau legalitas penguasaan lahan yang sah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti kepemilikan atau legalitas penguasaan lahan yang sah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bd5df08f-7f9b-52d0-9015-abfa2e9a6782",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6d19df34-f63c-5522-bc3f-18a4f84343b6",
+       "localization": {
+        "en": {
+         "uraian": "Pakta integritas yang bermaterai",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pakta integritas yang bermaterai",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a042cb18-d4fb-5f4a-9a6e-587e8bc1789f",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pembayaran PNBP sesuai ketentuan peraturan perundang- undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pembayaran PNBP sesuai ketentuan peraturan perundang- undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "de2225cc-e250-5b4c-84b6-16418739206b",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "0d218929-db00-596a-a076-c3b6c8bbe780",
+     "kode": "01302-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "14",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "6c1eb87c-88f9-5349-be09-d6756fd08935",
+       "localization": {
+        "en": {
+         "uraian": "Membangun sarana dan prasarana seperti fasilitas kendang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membangun sarana dan prasarana seperti fasilitas kendang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cbf217a5-1b67-5cf8-a857-7cf511ef67fa",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki SDM yang melakukan pemeliharaan dan melakukan pengelolaan limbah kotoran dan sisa makanan satwa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki SDM yang melakukan pemeliharaan dan melakukan pengelolaan limbah kotoran dan sisa makanan satwa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5a7c4523-85f0-505b-a84e-f03d76fba875",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun laporan triwulan, membuat studbook, logbook, melakukan penandaan dan/atau pencatatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun laporan triwulan, membuat studbook, logbook, melakukan penandaan dan/atau pencatatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "deb06fc7-0499-52f2-9190-dbdfd17b015c",
+       "localization": {
+        "en": {
+         "uraian": "Memperhatikan kondisi satwa, baik kesehatan maupun kesejahteraan satwa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperhatikan kondisi satwa, baik kesehatan maupun kesejahteraan satwa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "ef715058-ce0c-50a5-b51a-699498b504d8",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "6804be7d-fb91-4c23-bb41-10ba9cdeb2e5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Penangkaran jenis tumbuhan dan satwa liar"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Penangkaran jenis tumbuhan dan satwa liar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "f72629b8-ec18-5c53-b7a3-2216c6b7d3ee",
+       "localization": {
+        "en": {
+         "uraian": "Pemohon merupakan pelaku usaha perseorangan atau non perseorangan (BUMN, BUMD, PT, PT Perorangan, CV, BUMDes atau Koperasi)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemohon merupakan pelaku usaha perseorangan atau non perseorangan (BUMN, BUMD, PT, PT Perorangan, CV, BUMDes atau Koperasi)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "779a43b1-4290-5e46-9bc2-4efdc6dad92b",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen legalitas asal usul induk, benih atau bibit",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen legalitas asal usul induk, benih atau bibit",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "76698f8d-2c8e-5f8b-8cd8-fa4373175149",
+       "localization": {
+        "en": {
+         "uraian": "Proposal teknis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Proposal teknis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b9af44db-e8fa-5b3b-84f4-e42ef05420df",
+       "localization": {
+        "en": {
+         "uraian": "Bukti kepemilikan atau legalitas penguasaan lahan yang sah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti kepemilikan atau legalitas penguasaan lahan yang sah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f1a81f14-4d20-55b8-a860-63b10bdbc2e1",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3b35c16b-745f-5835-915f-e27a2b02063c",
+       "localization": {
+        "en": {
+         "uraian": "Pakta integritas yang bermaterai",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pakta integritas yang bermaterai",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a2ac70bd-2842-5712-889e-799209872eac",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pembayaran PNBP sesuai ketentuan peraturan perundang- undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pembayaran PNBP sesuai ketentuan peraturan perundang- undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "96e95f0d-ee5b-59a6-9b32-8e2da107717e",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "b7183d6c-0bf0-532f-ae97-43f581f9e450",
+     "kode": "01302-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "14",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "8874fa64-a102-5bf0-8522-08b4ff46c0fb",
+       "localization": {
+        "en": {
+         "uraian": "Membangun sarana dan prasarana seperti fasilitas kendang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membangun sarana dan prasarana seperti fasilitas kendang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fe7c4c51-29bf-5209-a794-f811177ae83f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki SDM yang melakukan pemeliharaan dan melakukan pengelolaan limbah kotoran dan sisa makanan satwa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki SDM yang melakukan pemeliharaan dan melakukan pengelolaan limbah kotoran dan sisa makanan satwa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "499602a4-b2f2-547a-8282-5042c2e41d90",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun laporan triwulan, membuat studbook, logbook, melakukan penandaan dan/atau pencatatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun laporan triwulan, membuat studbook, logbook, melakukan penandaan dan/atau pencatatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4029cf21-391f-5c3b-bf8b-76896aaf8bc3",
+       "localization": {
+        "en": {
+         "uraian": "Memperhatikan kondisi satwa, baik kesehatan maupun kesejahteraan satwa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperhatikan kondisi satwa, baik kesehatan maupun kesejahteraan satwa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "9fa9ba58-2e79-5352-b4a3-7a00d34ce1e8",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "6804be7d-fb91-4c23-bb41-10ba9cdeb2e5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Penangkaran jenis tumbuhan dan satwa liar"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Penangkaran jenis tumbuhan dan satwa liar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "08b22b44-a94c-50d4-8693-ce61bdbcc703",
+       "localization": {
+        "en": {
+         "uraian": "Pemohon merupakan pelaku usaha perseorangan atau non perseorangan (BUMN, BUMD, PT, PT Perorangan, CV, BUMDes atau Koperasi)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemohon merupakan pelaku usaha perseorangan atau non perseorangan (BUMN, BUMD, PT, PT Perorangan, CV, BUMDes atau Koperasi)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8ef5fec1-0aec-5ebe-adfb-c6d77f655f2f",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen legalitas asal usul induk, benih atau bibit",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen legalitas asal usul induk, benih atau bibit",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5a934ee6-fbc5-5faf-a4af-991652674728",
+       "localization": {
+        "en": {
+         "uraian": "Proposal teknis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Proposal teknis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "11de6ac4-2eb0-5cfb-9631-e1a106fe2a2b",
+       "localization": {
+        "en": {
+         "uraian": "Bukti kepemilikan atau legalitas penguasaan lahan yang sah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti kepemilikan atau legalitas penguasaan lahan yang sah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "751bcafe-1b70-59e3-83c6-9251b633fb21",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b224762f-722c-5d39-8871-d7b462ce530f",
+       "localization": {
+        "en": {
+         "uraian": "Pakta integritas yang bermaterai",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pakta integritas yang bermaterai",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "67df112a-f8e7-5592-8109-30acfedc688b",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pembayaran PNBP sesuai ketentuan peraturan perundang- undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pembayaran PNBP sesuai ketentuan peraturan perundang- undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "292eed8f-cc67-5edc-b622-98ec1ead4636",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "70803ed7-d1ab-5d53-992d-e536b8bc7041",
+     "kode": "01302-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "14",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "f3f544fe-cace-5693-859f-344706686826",
+       "localization": {
+        "en": {
+         "uraian": "Membangun sarana dan prasarana seperti fasilitas kendang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membangun sarana dan prasarana seperti fasilitas kendang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5f190fb2-847f-5f7b-853a-fae4805a7962",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki SDM yang melakukan pemeliharaan dan melakukan pengelolaan limbah kotoran dan sisa makanan satwa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki SDM yang melakukan pemeliharaan dan melakukan pengelolaan limbah kotoran dan sisa makanan satwa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0f78dc6e-1c87-5e08-a716-f496b5872ac6",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun laporan triwulan, membuat studbook, logbook, melakukan penandaan dan/atau pencatatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun laporan triwulan, membuat studbook, logbook, melakukan penandaan dan/atau pencatatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bbd0b9fd-8c68-57dc-a21b-ede411e73287",
+       "localization": {
+        "en": {
+         "uraian": "Memperhatikan kondisi satwa, baik kesehatan maupun kesejahteraan satwa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperhatikan kondisi satwa, baik kesehatan maupun kesejahteraan satwa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "a5801c48-923b-53b9-be20-ed04f9fb965c",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "6804be7d-fb91-4c23-bb41-10ba9cdeb2e5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Penangkaran jenis tumbuhan dan satwa liar"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Penangkaran jenis tumbuhan dan satwa liar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "cc28483e-f92c-5728-a8d0-bf023dfa5201",
+       "localization": {
+        "en": {
+         "uraian": "Pemohon merupakan pelaku usaha perseorangan atau non perseorangan (BUMN, BUMD, PT, PT Perorangan, CV, BUMDes atau Koperasi)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemohon merupakan pelaku usaha perseorangan atau non perseorangan (BUMN, BUMD, PT, PT Perorangan, CV, BUMDes atau Koperasi)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "89a4f693-988b-5129-8b3a-217b7c68c066",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen legalitas asal usul induk, benih atau bibit",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen legalitas asal usul induk, benih atau bibit",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "16f2e935-4303-58f0-9896-b15d9e4c9444",
+       "localization": {
+        "en": {
+         "uraian": "Proposal teknis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Proposal teknis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "735d0cec-e5c7-5d8d-9f24-835aa7a20c66",
+       "localization": {
+        "en": {
+         "uraian": "Bukti kepemilikan atau legalitas penguasaan lahan yang sah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti kepemilikan atau legalitas penguasaan lahan yang sah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b449cb64-b971-52c4-a29e-014853d0ba06",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e249fa49-4870-57dc-936f-dd79579ff5fd",
+       "localization": {
+        "en": {
+         "uraian": "Pakta integritas yang bermaterai",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pakta integritas yang bermaterai",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4a2f2f28-61c4-56cb-a668-c1612e3ca758",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pembayaran PNBP sesuai ketentuan peraturan perundang- undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pembayaran PNBP sesuai ketentuan peraturan perundang- undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "ebba4ea9-5c7b-5a0a-9a3b-87de8837f404",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "494d49cd-e69f-5078-a3ff-27cced108887",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "6e46b1c2-4a2a-477a-9577-f0e8c9719ae6",
+    "kode": "043",
+    "localization": {
+     "en": {
+      "uraian": "Kementerian Kehutanan"
+     },
+     "id": {
+      "uraian": "Kementerian Kehutanan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

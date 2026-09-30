@@ -1,0 +1,932 @@
+{
+ "code": "66226",
+ "found": true,
+ "ossId": "2cfa8c18-020c-543f-84c0-aa25eaf0adcc",
+ "url": "https://oss.go.id/id/kbli/detail/2cfa8c18-020c-543f-84c0-aa25eaf0adcc",
+ "fetchedAt": "2026-09-30T05:20:24+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 66226 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "66226"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "1962dc6c-a415-58f4-bbdf-515518dd5368",
+   "localization": {
+    "en": {
+     "uraian": "Kegiatan memberikan jasa konsultasi dan/atau keperantaraan dalam pemberian penjaminan ulang serta penanganan penyelesaian klaimnya dengan bertindak untuk dan atas nama terjamin.",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Kegiatan memberikan jasa konsultasi dan/atau keperantaraan dalam pemberian penjaminan ulang serta penanganan penyelesaian klaimnya dengan bertindak untuk dan atas nama terjamin.",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "2cfa8c18-020c-543f-84c0-aa25eaf0adcc",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Broker Penjaminan Ulang",
+      "uraian": "Kelompok ini mencakup kegiatan memberikan jasa konsultasi dan/atau keperantaraan dalam pemberian penjaminan ulang serta penanganan penyelesaian klaimnya dengan bertindak untuk dan atas nama terjamin."
+     },
+     "id": {
+      "judul": "Aktivitas Broker Penjaminan Ulang",
+      "uraian": "Kelompok ini mencakup kegiatan memberikan jasa konsultasi dan/atau keperantaraan dalam pemberian penjaminan ulang serta penanganan penyelesaian klaimnya dengan bertindak untuk dan atas nama terjamin."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "1e77c857-e4b4-5ff2-bdc0-5b6d98f86d1f",
+     "kode": "66226-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "36af17f9-9e33-5e57-b4fb-782774b69d0f",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "db2d33ff-e012-5693-a5b5-67e200f619ca",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "3bbe44fe-905e-5ece-b663-843a7639d6c2",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4f877a03-3e16-5282-b3fc-e3794b80bf42",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "923bf525-bf90-559b-948e-351b9d00b50e",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "430525ea-b930-451b-a0a7-00673fb96fb5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "3d7e911a-259b-57eb-9105-c7bbc9460e72",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "7eb49bd7-fb2c-54f9-b345-88c9737a082e",
+     "kode": "66226-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "902c2041-e5e7-5f06-9704-a774ab92cded",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "229275b2-a2aa-5fb1-8987-e1479f9970ca",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "ece92c5a-00b0-5044-ac6d-a13515a44784",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3439d973-efc6-50b5-9518-733ae21b2536",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "190ed6ac-52f1-51b9-8415-6460aef832e9",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "430525ea-b930-451b-a0a7-00673fb96fb5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "f4da3c57-e9a6-5d81-b873-48f3a14f5d54",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "a3c44e54-6842-589a-bf02-159e5ced1c0b",
+     "kode": "66226-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "2d4e1ca2-c368-5e89-bf59-fb117182629c",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "35dcc664-c8e3-55e3-b18e-ce0045535401",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "4cbcaa9d-8823-51fc-9b6b-89fe8615b88a",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "61dbe09e-476c-5953-8620-b7d2c7703e68",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "6145b5c6-a0a8-5c8f-9261-c2465cc11d83",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "430525ea-b930-451b-a0a7-00673fb96fb5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "50aa40c0-520f-545a-b769-ae76cb4c3163",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "b50e31b8-0480-59b5-b8aa-5574261216a6",
+     "kode": "66226-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "9eef7b87-55a6-54af-9db2-296c4df5b71c",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4a0e09ba-8c8c-5e2f-84bd-12eb3d8268e6",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "1b3995a2-2b39-52fd-912a-9881cb28036f",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "97a63c6e-cd14-571a-971d-069fd9924ee2",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Surat Tanda Terdaftar (STTD) diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "324db422-1c87-58b2-ae91-0bfefe8d7a0b",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "430525ea-b930-451b-a0a7-00673fb96fb5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "f163289b-ac8e-5df6-aad6-d32388b4a564",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7968e295-8267-5dfa-b23f-2bb6bae94fce",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "18650f86-3d1c-4225-8cfe-2f37109a0b1a",
+    "kode": "123",
+    "localization": {
+     "en": {
+      "uraian": "Otoritas Jasa Keuangan",
+      "deskripsi": "Keuangan"
+     },
+     "id": {
+      "uraian": "Otoritas Jasa Keuangan",
+      "deskripsi": "Keuangan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

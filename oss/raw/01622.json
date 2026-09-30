@@ -1,0 +1,1220 @@
+{
+ "code": "01622",
+ "found": true,
+ "ossId": "bce0e7c4-67a1-5561-93a4-4199d77ea527",
+ "url": "https://oss.go.id/id/kbli/detail/bce0e7c4-67a1-5561-93a4-4199d77ea527",
+ "fetchedAt": "2026-09-30T04:03:22+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 01623 berubah menjadi 01622 pada KBLI 2025.",
+  "from2020": [
+   "01623"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "621d3fc5-b759-50ef-a4ed-259080bb7e2d",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "bce0e7c4-67a1-5561-93a4-4199d77ea527",
+    "localization": {
+     "en": {
+      "judul": "Jasa Penetasan Telur",
+      "uraian": "Kelompok ini mencakup kegiatan penetasan telur atas dasar balas jasa atau kontrak."
+     },
+     "id": {
+      "judul": "Jasa Penetasan Telur",
+      "uraian": "Kelompok ini mencakup kegiatan penetasan telur atas dasar balas jasa atau kontrak."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "ce99fd3e-34d6-597c-a2f0-1dcb72df7297",
+     "kode": "01622-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "041d52a9-8b94-538b-bf87-1e599e2e1e1f",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "18fad658-14d6-5518-9969-4cc2f0172d6b",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e212391a-f5fc-5c1d-a14a-5b66234d1c04",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha lintas Kabupaten/ kota dalam satu provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha lintas Kabupaten/ kota dalam satu provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "dbfcd6fc-d1a2-54fa-ba9f-662b9bcba67c",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "8876bd10-a5c8-54fc-897f-b6eb8fad2683",
+        "local": {
+         "en": {
+          "uraian": "Lokasi usaha berada di wilayah Kabupaten/ kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi usaha berada di wilayah Kabupaten/ kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "bacb33b6-befc-5ac1-a4f9-268532cb2be1",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan produksi dan distribusi ternak umur sehari",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan produksi dan distribusi ternak umur sehari",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b2b3fc29-3281-58cc-8f82-e2baa8681d4e",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan pengelolaan telur infertil",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan pengelolaan telur infertil",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "84024187-a68f-580c-b600-3d0dbe319817",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan pengembangan usaha kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan pengembangan usaha kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ]
+    },
+    {
+     "id": "0c1fce2a-26c2-5670-b76a-4d57869408bf",
+     "kode": "01622-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "e241ac65-49e0-5aae-b3dd-78a63301f66f",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "e1b94e1e-a95e-59a3-afce-69f8845e3c35",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e212391a-f5fc-5c1d-a14a-5b66234d1c04",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha lintas Kabupaten/ kota dalam satu provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha lintas Kabupaten/ kota dalam satu provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0be65e93-e54c-5d71-bf14-8f984f13f171",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "8876bd10-a5c8-54fc-897f-b6eb8fad2683",
+        "local": {
+         "en": {
+          "uraian": "Lokasi usaha berada di wilayah Kabupaten/ kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi usaha berada di wilayah Kabupaten/ kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "556d046f-8cd2-5a92-9d67-8e2e8483f2a2",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan produksi dan distribusi ternak umur sehari",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan produksi dan distribusi ternak umur sehari",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "94bc10b3-4810-5877-89d5-37a50b548b6e",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan pengelolaan telur infertil",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan pengelolaan telur infertil",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "1224fc78-dfeb-55a0-86ac-d808d662ad6a",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan pengembangan usaha kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan pengembangan usaha kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ]
+    },
+    {
+     "id": "29a3bc41-fbcc-5445-9898-bff84d5a4ade",
+     "kode": "01622-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "51612d86-9d62-5a6b-9b1f-cc8a493a085d",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d590fb63-41ae-47bb-962b-144718b4b24f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "5123fb8c-b89d-5760-972f-50e01517f7b7",
+       "localization": {
+        "en": {
+         "uraian": "Surat keterangan mengenai jenis komoditas, strain dan lokasi usaha peternakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat keterangan mengenai jenis komoditas, strain dan lokasi usaha peternakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "26ccc70e-8732-547a-8be7-0c0709414dbc",
+       "localization": {
+        "en": {
+         "uraian": "Surat pernyataan kesanggupan menerapkan cara penetasan telur yang baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat pernyataan kesanggupan menerapkan cara penetasan telur yang baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "165dfc87-e1fd-5ff6-8bd9-0eab63ac6a88",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "94da32b3-e9e2-5f31-8db2-22ad2b839c99",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berada di wilayah Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berada di wilayah Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5d6a63ae-4a2d-5b63-97b9-ef887111eff0",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "d97e2eb4-2ea5-5737-a10d-b1defdf3dbdd",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ab9f5ffc-2450-5b97-b56a-1e442a5a6a59",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "af809690-9354-55c4-a8d1-b54cef12a18a",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha lintas Kabupaten/ Kota dalam satu provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha lintas Kabupaten/ Kota dalam satu provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "228f2707-4201-52a4-941a-1a5f08ee93a1",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan standar cara penetasan yang baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan standar cara penetasan yang baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "46e291eb-0d9c-5225-aba2-f707265e9371",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Setting Hatching Record (SHR)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Setting Hatching Record (SHR)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "62abfeda-83ec-5d2c-9de3-90427af91b09",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan. produksi dan distribusi ternak umur sehari",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan. produksi dan distribusi ternak umur sehari",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "aaed9535-7151-5b70-bb98-698ee5d65478",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan pengelolaan telur infertil",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan pengelolaan telur infertil",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f7d46bfb-d4b9-58ba-b8ef-ce515c4a6243",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan realisasi rencana kerja pembangunan unit usaha peternakan kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan realisasi rencana kerja pembangunan unit usaha peternakan kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "02af109b-d3c5-5605-a885-0e48ab84b91d",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "cb1d6d3f-f54d-53cc-8d99-e9c03e05baa4",
+     "kode": "01622-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "729c5c60-495b-5c74-88ad-be9175c20e77",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d590fb63-41ae-47bb-962b-144718b4b24f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "085f3365-f24e-5003-9455-12aba3f2bc90",
+       "localization": {
+        "en": {
+         "uraian": "Surat keterangan mengenai jenis komoditas, strain dan lokasi usaha peternakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat keterangan mengenai jenis komoditas, strain dan lokasi usaha peternakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e7f34141-fb12-569b-8483-8447467f666e",
+       "localization": {
+        "en": {
+         "uraian": "Surat pernyataan kesanggupan menerapkan cara penetasan telur yang baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat pernyataan kesanggupan menerapkan cara penetasan telur yang baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "35d9b1e8-e234-5e88-91b0-8d22719713be",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "af809690-9354-55c4-a8d1-b54cef12a18a",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha lintas Kabupaten/ Kota dalam satu provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha lintas Kabupaten/ Kota dalam satu provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "34344f9d-9107-520d-a432-053121e5821a",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "d97e2eb4-2ea5-5737-a10d-b1defdf3dbdd",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e6fadd50-c047-5f74-814c-28dbe49c1a88",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "94da32b3-e9e2-5f31-8db2-22ad2b839c99",
+        "local": {
+         "en": {
+          "uraian": "Lahan usaha berada di wilayah Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lahan usaha berada di wilayah Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "420b1cc3-bcc8-5c2a-af73-10fcf4e3b251",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "4e836db1-dc4b-5b68-9e9d-cee163727610",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan standar cara penetasan yang baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan standar cara penetasan yang baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "be240db0-039c-52d9-8533-e883bc025e73",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Setting Hatching Record (SHR)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Setting Hatching Record (SHR)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3da29a87-2dee-5e3b-8aac-f967e0b2618d",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan. produksi dan distribusi ternak umur sehari",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan. produksi dan distribusi ternak umur sehari",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "49347d94-0fdd-5f25-9e07-cc150f51cc1a",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan pengelolaan telur infertil",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan pengelolaan telur infertil",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9eac8c9d-1329-5305-b71f-8834a2e24d1e",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan realisasi rencana kerja pembangunan unit usaha peternakan kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan realisasi rencana kerja pembangunan unit usaha peternakan kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2ead2fda-e3fe-5e5d-bc21-e25db3ac2d4f",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada pimpinan instansi sesuai dengan kewenangannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "3c0da883-1b8f-4753-8ece-147eb2de9647",
+    "kode": "018",
+    "localization": {
+     "en": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     },
+     "id": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

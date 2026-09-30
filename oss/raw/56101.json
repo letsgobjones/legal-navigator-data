@@ -1,0 +1,3176 @@
+{
+ "code": "56101",
+ "found": true,
+ "ossId": "586aff30-3e89-5c99-9bd5-b2333439ebcb",
+ "url": "https://oss.go.id/id/kbli/detail/586aff30-3e89-5c99-9bd5-b2333439ebcb",
+ "fetchedAt": "2026-09-30T05:09:18+00:00",
+ "conversion": {
+  "label": "Digabung menjadi satu kode",
+  "ratio": "N:1",
+  "text": "2 kode 2020 digabung menjadi 56101 pada KBLI 2025.",
+  "from2020": [
+   "56101"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "d1208a6c-04d9-58b5-b6fe-bb96c066e096",
+   "localization": {
+    "en": {
+     "uraian": "Restoran",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Restoran",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "586aff30-3e89-5c99-9bd5-b2333439ebcb",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Penyediaan Makanan di Bangunan Tetap",
+      "uraian": "$4c"
+     },
+     "id": {
+      "judul": "Aktivitas Penyediaan Makanan di Bangunan Tetap",
+      "uraian": "$4d"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": [
+     {
+      "id": "603f7cbb-733e-4b46-bb9f-63aa719ee769",
+      "localization": {
+       "en": {
+        "uraian": "KBLI {kode_kbli} merupakan Bidang Usaha yang memiliki batasan luas minimum: {luas_minimum} Ha -luas maksimum: {luas_maksimum} Ha"
+       },
+       "id": {
+        "uraian": "KBLI {kode_kbli} merupakan Bidang Usaha yang memiliki batasan luas minimum: {luas_minimum} Ha -luas maksimum: {luas_maksimum} Ha"
+       }
+      }
+     },
+     {
+      "id": "ad89f7f1-5b7f-4eb8-9682-f43980059a8a",
+      "localization": {
+       "en": {
+        "uraian": "<p>Berdasarkan Peraturan BKPM Nomor 4 Tahun 2021 pada Pasal 12, pengecualian dari ketentuan minimum nilai investasi bagi PMA yaitu total investasi lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah), di luar tanah dan bangunan per bidang usaha KBLI 5 (lima) digit per lokasi proyek, berlaku diantaranya untuk:&nbsp;</p>\r\n<ul>\r\n<li>kegiatan usaha jasa makanan dan minuman, dengan ketentuan: lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah) di luar tanah dan bangunan, adalah per 2 (dua) digit awal KBLI per satu titik lokasi.</li>\r\n</ul>"
+       },
+       "id": {
+        "uraian": "<p>Berdasarkan Peraturan BKPM Nomor 4 Tahun 2021 pada Pasal 12, pengecualian dari ketentuan minimum nilai investasi bagi PMA yaitu total investasi lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah), di luar tanah dan bangunan per bidang usaha KBLI 5 (lima) digit per lokasi proyek, berlaku diantaranya untuk:&nbsp;</p>\r\n<ul>\r\n<li>kegiatan usaha jasa makanan dan minuman, dengan ketentuan: lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah) di luar tanah dan bangunan, adalah per 2 (dua) digit awal KBLI per satu titik lokasi.</li>\r\n</ul>"
+       }
+      }
+     }
+    ]
+   },
+   "KbliResikos": [
+    {
+     "id": "3ae2d62d-9fa4-5e77-ae05-ec839bc1b03b",
+     "kode": "56101-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "d5ee3975-b958-5dea-9c1b-ea2ba816e220",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "4216a4b7-7bb1-59cb-8fdd-67df8312d7c4",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Restoran meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Restoran meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b8353216-8f9c-592d-a21c-2b1279cdf955",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Sertifikat Laik Higiene Sanitasi (SLHS)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Sertifikat Laik Higiene Sanitasi (SLHS)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "99df5945-aade-52fa-826c-1fdcf5faa468",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a5880bc7-ba8b-4168-ba16-fea27a045d86",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": []
+    },
+    {
+     "id": "9d466d2b-d214-52e5-a48a-4c982aed458b",
+     "kode": "56101-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "14",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "4c33459d-0376-573b-be93-4fc50c9d09c7",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "f2310958-a9b8-57cc-8389-1cd8a72b1fff",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat standar yang diterbitkan oleh LSPr",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat standar yang diterbitkan oleh LSPr",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "80916a3c-b1ef-59e9-91f7-d4f3ad6d448c",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Sertifikat Laik Higiene Sanitasi (SLHS)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Sertifikat Laik Higiene Sanitasi (SLHS)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2e07f779-b119-54ae-9bc9-87173bd2201c",
+       "localization": {
+        "en": {
+         "uraian": "Dalam hal mempekerjakan TKA, wajib memiliki dokumen pengesahan Rencana Penggunaan Tenaga Kerja Asing (RPTKA)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dalam hal mempekerjakan TKA, wajib memiliki dokumen pengesahan Rencana Penggunaan Tenaga Kerja Asing (RPTKA)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "004edc93-7d2b-5d59-a2ce-e68a34f11d13",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a5880bc7-ba8b-4168-ba16-fea27a045d86",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "ad1beb87-4ee6-5303-823d-946507a9e493",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Penilaian Mandiri Kesiapan Penerapan Standar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Penilaian Mandiri Kesiapan Penerapan Standar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fa11e345-fb09-56e5-b5f6-3964a4bafcfe",
+       "localization": {
+        "en": {
+         "uraian": "$4e",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "$4f",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "ef28ae15-bff6-5537-a105-27f802b659ad",
+     "kode": "56101-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "14",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "30cde907-c7e5-5c7a-8d3f-11dd09d9d63d",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "fd3471c0-4e16-5844-a30a-ca8bec8b1e34",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat standar yang diterbitkan oleh LSPr",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat standar yang diterbitkan oleh LSPr",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "45386c6b-0fa2-5768-93dd-505b0e554ee1",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Sertifikat Laik Higiene Sanitasi (SLHS)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Sertifikat Laik Higiene Sanitasi (SLHS)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fe58928d-04ab-5d68-a5df-a3debe9b7653",
+       "localization": {
+        "en": {
+         "uraian": "Dalam hal mempekerjakan TKA, wajib memiliki dokumen pengesahan Rencana Penggunaan Tenaga Kerja Asing (RPTKA)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dalam hal mempekerjakan TKA, wajib memiliki dokumen pengesahan Rencana Penggunaan Tenaga Kerja Asing (RPTKA)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "0c54d3be-90d5-5ca0-822f-0e9c8b0ee17a",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "37f4a605-49ac-4b55-8949-0dc51e30089e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "a6102014-ecd5-5b86-973d-867e244c4732",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Penilaian Mandiri Kesiapan Penerapan Standar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Penilaian Mandiri Kesiapan Penerapan Standar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7fed70e3-ac30-50c9-9343-46e031c1e050",
+       "localization": {
+        "en": {
+         "uraian": "$50",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "$51",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "9ab64b0e-616b-5d7f-ae45-641c324c7a09",
+     "kode": "56101-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "14",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "dcbc4919-e746-5deb-878d-158a7212d723",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "60a405c6-5a81-5dc7-8be1-42d4c2de9357",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "fbac8491-8e72-533e-955b-fdb4adecb573",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat standar yang diterbitkan oleh LSPr",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat standar yang diterbitkan oleh LSPr",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f8b23940-5305-5bc7-a058-3528ef826998",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Sertifikat Laik Higiene Sanitasi (SLHS)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Sertifikat Laik Higiene Sanitasi (SLHS)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "279187c3-f155-559f-8ad8-80832f104a29",
+       "localization": {
+        "en": {
+         "uraian": "Dalam hal mempekerjakan TKA, wajib memiliki dokumen pengesahan Rencana Penggunaan Tenaga Kerja Asing (RPTKA)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dalam hal mempekerjakan TKA, wajib memiliki dokumen pengesahan Rencana Penggunaan Tenaga Kerja Asing (RPTKA)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "9c927072-7bbe-5c74-a438-86c2d88360e8",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "37f4a605-49ac-4b55-8949-0dc51e30089e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "0793f214-bfd0-5976-a36d-76e5755dc91e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Penilaian Mandiri Kesiapan Penerapan Standar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Penilaian Mandiri Kesiapan Penerapan Standar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "83aae356-82cc-5850-a545-c1dc2744acff",
+       "localization": {
+        "en": {
+         "uraian": "$52",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "$53",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "5f1c2ac8-6dbf-493b-975b-ead6a9be61ab",
+    "kode": "040",
+    "localization": {
+     "en": {
+      "uraian": "Pariwisata",
+      "deskripsi": "Kementerian Pariwisata"
+     },
+     "id": {
+      "uraian": "Pariwisata",
+      "deskripsi": "Kementerian Pariwisata"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "1b119c9f-4ee0-5343-ac9f-367b2d4b263a",
+   "localization": {
+    "en": {
+     "uraian": "Rumah / Warung Makan",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Rumah / Warung Makan",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "586aff30-3e89-5c99-9bd5-b2333439ebcb",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Penyediaan Makanan di Bangunan Tetap",
+      "uraian": "$54"
+     },
+     "id": {
+      "judul": "Aktivitas Penyediaan Makanan di Bangunan Tetap",
+      "uraian": "$55"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": [
+     {
+      "id": "603f7cbb-733e-4b46-bb9f-63aa719ee769",
+      "localization": {
+       "en": {
+        "uraian": "KBLI {kode_kbli} merupakan Bidang Usaha yang memiliki batasan luas minimum: {luas_minimum} Ha -luas maksimum: {luas_maksimum} Ha"
+       },
+       "id": {
+        "uraian": "KBLI {kode_kbli} merupakan Bidang Usaha yang memiliki batasan luas minimum: {luas_minimum} Ha -luas maksimum: {luas_maksimum} Ha"
+       }
+      }
+     },
+     {
+      "id": "ad89f7f1-5b7f-4eb8-9682-f43980059a8a",
+      "localization": {
+       "en": {
+        "uraian": "<p>Berdasarkan Peraturan BKPM Nomor 4 Tahun 2021 pada Pasal 12, pengecualian dari ketentuan minimum nilai investasi bagi PMA yaitu total investasi lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah), di luar tanah dan bangunan per bidang usaha KBLI 5 (lima) digit per lokasi proyek, berlaku diantaranya untuk:&nbsp;</p>\r\n<ul>\r\n<li>kegiatan usaha jasa makanan dan minuman, dengan ketentuan: lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah) di luar tanah dan bangunan, adalah per 2 (dua) digit awal KBLI per satu titik lokasi.</li>\r\n</ul>"
+       },
+       "id": {
+        "uraian": "<p>Berdasarkan Peraturan BKPM Nomor 4 Tahun 2021 pada Pasal 12, pengecualian dari ketentuan minimum nilai investasi bagi PMA yaitu total investasi lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah), di luar tanah dan bangunan per bidang usaha KBLI 5 (lima) digit per lokasi proyek, berlaku diantaranya untuk:&nbsp;</p>\r\n<ul>\r\n<li>kegiatan usaha jasa makanan dan minuman, dengan ketentuan: lebih besar dari Rp10.000.000.000,00 (sepuluh miliar rupiah) di luar tanah dan bangunan, adalah per 2 (dua) digit awal KBLI per satu titik lokasi.</li>\r\n</ul>"
+       }
+      }
+     }
+    ]
+   },
+   "KbliResikos": [
+    {
+     "id": "fbe3ae76-4b38-54fe-9a43-41737c170858",
+     "kode": "56101-01-05",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "5e832598-b49a-54f6-9de4-02f24212a2b6",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "166f352f-2af2-5143-aa44-131a6dfcf647",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Label Higiene Sanitasi Pangan (HSP)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Label Higiene Sanitasi Pangan (HSP)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b196d712-a7ce-54cd-a2a2-cb841c068916",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan secara berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan secara berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "c632ef78-47b0-5576-b21d-c612c215c253",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan dokumen penerapan standar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan dokumen penerapan standar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "41701448-925d-5331-9ae7-92cde163865c",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "37f4a605-49ac-4b55-8949-0dc51e30089e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": []
+    },
+    {
+     "id": "8b754f81-429a-5259-bd94-68e80f6780d1",
+     "kode": "56101-02-06",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "d7007a31-db43-5079-a5a3-5a943f75708e",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "6f08c197-9479-5af6-bf0e-20cf5a5d2545",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Label Higiene Sanitasi Pangan (HSP)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Label Higiene Sanitasi Pangan (HSP)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "7a8eab50-e147-567a-9b88-409e65b0a25e",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan secara berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan secara berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "e3d9968d-f509-57cc-b064-7c564ecb8966",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan dokumen penerapan standar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan dokumen penerapan standar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "22fa69f9-cea5-5c93-a47c-55bc444d7bf1",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "37f4a605-49ac-4b55-8949-0dc51e30089e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": []
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "5f1c2ac8-6dbf-493b-975b-ead6a9be61ab",
+    "kode": "040",
+    "localization": {
+     "en": {
+      "uraian": "Pariwisata",
+      "deskripsi": "Kementerian Pariwisata"
+     },
+     "id": {
+      "uraian": "Pariwisata",
+      "deskripsi": "Kementerian Pariwisata"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "71884297-71f9-4c5d-a475-b0a37b7fbfe6",
+   "kode": "018000000204",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikasi nomor kontrol veteriner"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikasi nomor kontrol veteriner"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "001c0439-1329-4c87-94d7-ed4dad3ba610",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "01326261-e3e7-5aea-9eb0-5b00785852e3",
+     "parameter": "Seluruh",
+     "kewenangan": "Gubernur"
+    },
+    {
+     "id": "034b4b5d-77c2-5af0-affb-bbbe5afc02f9",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<ol>Persyaratan Umum :\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Sertifikasi NKV diwajibkan untuk unit usaha produk hewan atau sebagaimana dalam tabel</li>\n</ol></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<ol>Persyaratan Umum :\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Sertifikasi NKV diwajibkan untuk unit usaha produk hewan atau sebagaimana dalam tabel</li>\n</ol></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<ol>Persyaratan administrasi permohonan sertifikasi NKV dengan melampirkan:\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Surat kuasa bermeterai apabila diwakilkan oleh orang lain</li>\n<li>Fotokopi izin usaha atau surat tanda daftar usaha</li>\n<li>Surat rekomendasi dari Dinas Daerah kabupaten/ kota</li>\n</ol></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<ol>Persyaratan administrasi permohonan sertifikasi NKV dengan melampirkan:\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Surat kuasa bermeterai apabila diwakilkan oleh orang lain</li>\n<li>Fotokopi izin usaha atau surat tanda daftar usaha</li>\n<li>Surat rekomendasi dari Dinas Daerah kabupaten/ kota</li>\n</ol></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<ol>Persyaratan khusus unit usaha produk hewan harus memenuhi persyaratan teknis meliputi: \n<ol style=\"list-style-type: lower-alpha;\">\n<li>Prasarana dan sarana memenuhi persyaratan higiene dan sanitasi, biosecurity, dan kesejahtera-an hewan</li>\n<li>Menjalankan praktik veteriner yang baik dan melampirkan hasil pengujian yang dipersyarat-kan dari laboratorium eksternal terakreditasi</li>\n<li>Mempunyai dokter hewan yang tidak berstatus aparatur sipil negara  sebagai penanggung jawab teknis bagi Unit Usaha yang dipersyaratkan</li>\n<li>Memiliki pekerja teknis dengan kompetensi di bidang higiene dan sanitasi atau kesejahtera-an hewan bagi yang dipersyaratkan</li>\n</ol></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<ol>Persyaratan khusus unit usaha produk hewan harus memenuhi persyaratan teknis meliputi: \n<ol style=\"list-style-type: lower-alpha;\">\n<li>Prasarana dan sarana memenuhi persyaratan higiene dan sanitasi, biosecurity, dan kesejahtera-an hewan</li>\n<li>Menjalankan praktik veteriner yang baik dan melampirkan hasil pengujian yang dipersyarat-kan dari laboratorium eksternal terakreditasi</li>\n<li>Mempunyai dokter hewan yang tidak berstatus aparatur sipil negara  sebagai penanggung jawab teknis bagi Unit Usaha yang dipersyaratkan</li>\n<li>Memiliki pekerja teknis dengan kompetensi di bidang higiene dan sanitasi atau kesejahtera-an hewan bagi yang dipersyaratkan</li>\n</ol></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<ol>Persyaratan Umum :\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Sertifikasi NKV diwajibkan untuk unit usaha produk hewan atau sebagaimana dalam tabel</li>\n</ol></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<ol>Persyaratan Umum :\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Sertifikasi NKV diwajibkan untuk unit usaha produk hewan atau sebagaimana dalam tabel</li>\n</ol></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<ol>Persyaratan administrasi permohonan sertifikasi NKV dengan melampirkan:\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Surat kuasa bermeterai apabila diwakilkan oleh orang lain</li>\n<li>Fotokopi izin usaha atau surat tanda daftar usaha</li>\n<li>Surat rekomendasi dari Dinas Daerah kabupaten/ kota</li>\n</ol></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<ol>Persyaratan administrasi permohonan sertifikasi NKV dengan melampirkan:\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Surat kuasa bermeterai apabila diwakilkan oleh orang lain</li>\n<li>Fotokopi izin usaha atau surat tanda daftar usaha</li>\n<li>Surat rekomendasi dari Dinas Daerah kabupaten/ kota</li>\n</ol></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Persyaratan teknis meliputi:</p><ol style=\"list-style-type: lower-alpha;\"><li>Alur proses produksi dan denah tata letak alat produksi</li><li>Prosedur tertulis penerapan hygiene sanitasi</li><li>Surat pernyataan dan fotokopi ijazah mempunyai dokter hewan yang tidak berstatus aparatur sipil negara sebagai penanggung jawab teknis bagi unit usaha yang dipersyaratkan sesuai ketentuan peraturan perundang-undangan</li><li>Surat pernyataan memiliki pekerja teknis dengan kompetensi di bidang higiene dan sanitasi</li><li>Surat keterangan memiliki pekerja teknis dengan kompetensi di bidang kesejahteraan bagi hewan yang dipersyaratkan</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Persyaratan teknis meliputi:</p><ol style=\"list-style-type: lower-alpha;\"><li>Alur proses produksi dan denah tata letak alat produksi</li><li>Prosedur tertulis penerapan hygiene sanitasi</li><li>Surat pernyataan dan fotokopi ijazah mempunyai dokter hewan yang tidak berstatus aparatur sipil negara sebagai penanggung jawab teknis bagi unit usaha yang dipersyaratkan sesuai ketentuan peraturan perundang-undangan</li><li>Surat pernyataan memiliki pekerja teknis dengan kompetensi di bidang higiene dan sanitasi</li><li>Surat keterangan memiliki pekerja teknis dengan kompetensi di bidang kesejahteraan bagi hewan yang dipersyaratkan</li></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<ol>Persyaratan khusus unit usaha produk hewan harus memenuhi persyaratan teknis meliputi: \n<ol style=\"list-style-type: lower-alpha;\">\n<li>Prasarana dan sarana memenuhi persyaratan higiene dan sanitasi, biosecurity, dan kesejahtera-an hewan</li>\n<li>Menjalankan praktik veteriner yang baik dan melampirkan hasil pengujian yang dipersyarat-kan dari laboratorium eksternal terakreditasi</li>\n<li>Mempunyai dokter hewan yang tidak berstatus aparatur sipil negara  sebagai penanggung jawab teknis bagi Unit Usaha yang dipersyaratkan</li>\n<li>Memiliki pekerja teknis dengan kompetensi di bidang higiene dan sanitasi atau kesejahtera-an hewan bagi yang dipersyaratkan</li>\n</ol></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<ol>Persyaratan khusus unit usaha produk hewan harus memenuhi persyaratan teknis meliputi: \n<ol style=\"list-style-type: lower-alpha;\">\n<li>Prasarana dan sarana memenuhi persyaratan higiene dan sanitasi, biosecurity, dan kesejahtera-an hewan</li>\n<li>Menjalankan praktik veteriner yang baik dan melampirkan hasil pengujian yang dipersyarat-kan dari laboratorium eksternal terakreditasi</li>\n<li>Mempunyai dokter hewan yang tidak berstatus aparatur sipil negara  sebagai penanggung jawab teknis bagi Unit Usaha yang dipersyaratkan</li>\n<li>Memiliki pekerja teknis dengan kompetensi di bidang higiene dan sanitasi atau kesejahtera-an hewan bagi yang dipersyaratkan</li>\n</ol></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Persyaratan administrasi permohonan sertifikasi NKV dengan melampirkan:</p><ol style=\"list-style-type: lower-alpha;\"><li>surat rekomendasi dari Daerah Dinas kabupaten/kota yang membidangi fungsi peternakan dan Kesehatan hewan</li><li>Form data Umum dan Khusus unit usaha</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Persyaratan administrasi permohonan sertifikasi NKV dengan melampirkan:</p><ol style=\"list-style-type: lower-alpha;\"><li>surat rekomendasi dari Daerah Dinas kabupaten/kota yang membidangi fungsi peternakan dan Kesehatan hewan</li><li>Form data Umum dan Khusus unit usaha</li></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mengajukan surveilans secara berkala sesuai tingkat NKV yang diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Mengajukan surveilans secara berkala sesuai tingkat NKV yang diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Mencantumkan Nomor Kontrol Veteriner wajib pada kemasan bagi yang dipersyaratkan</p><ol style=\"list-style-type: lower-alpha;\"><li>Mengajukan surveilans secara berkala sesuai tingkat NKV yang diterbitkan</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Mencantumkan Nomor Kontrol Veteriner wajib pada kemasan bagi yang dipersyaratkan</p><ol style=\"list-style-type: lower-alpha;\"><li>Mengajukan surveilans secara berkala sesuai tingkat NKV yang diterbitkan</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mencantumkan Nomor Kontrol Veteriner wajib pada kemasan bagi yang dipersyaratkan"
+      },
+      "id": {
+       "syarat_perizinan": "Mencantumkan Nomor Kontrol Veteriner wajib pada kemasan bagi yang dipersyaratkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "3c0da883-1b8f-4753-8ece-147eb2de9647",
+    "kode": "018",
+    "localization": {
+     "en": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     },
+     "id": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "19a3810f-c415-416c-a7a5-35ef9b8f7ed4",
+   "kode": "024000000092",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Label pengawasan/pembinaan tempat pengelolaan pangan di pelabuhan/bandar udara/pos lintas batas darat negara"
+    },
+    "id": {
+     "nama_dokumen": "Label pengawasan/pembinaan tempat pengelolaan pangan di pelabuhan/bandar udara/pos lintas batas darat negara"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "006012b6-dfd0-517f-a5e7-624c766e0bda",
+     "parameter": "Tempat Pengelolaan Pangan (TPP) berlokasi di wilayah bandar udara, pelabuhan, dan pos lintas batas negara",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "0166808b-44a8-57ac-a3ee-07ccc9b766d2",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "0189f9c1-e698-5fd2-b7a3-2396dd88c267",
+     "parameter": "TPP berlokasi di wilayah Kabupaten/Kota.",
+     "kewenangan": "Bupati/Walikota"
+    },
+    {
+     "id": "0b9fa022-43a1-4d5a-9505-283027ff836e",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Unggah foto stiker"
+      },
+      "id": {
+       "syarat_perizinan": "Unggah foto stiker"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan administrasi yang meliputi terdaftar di dinas kesehatan kabupaten/kota/puskesmas"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan administrasi yang meliputi terdaftar di dinas kesehatan kabupaten/kota/puskesmas"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan teknis yang meliputi:\n        a. Tempat Pengelolaan Pangan (TPP) memenuhi persyaratan kesehatan sesuai formulir Inspeksi Kesehatan Lingkungan (IKL)\n        b. Pengelola/penanggung jawab dan penjamah pangan mendapatkan penyuluhan keamanan pangan siap saji."
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan teknis yang meliputi:\n        a. Tempat Pengelolaan Pangan (TPP) memenuhi persyaratan kesehatan sesuai formulir Inspeksi Kesehatan Lingkungan (IKL)\n        b. Pengelola/penanggung jawab dan penjamah pangan mendapatkan penyuluhan keamanan pangan siap saji."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Persyaratan teknis yang meliputi:</p><ol style=\"list-style-type: lower-alpha;\"><li>Tempat Pengelolaan Pangan (TPP) memenuhi persyaratan kesehatan sesuai formulir Inspeksi Kesehatan Lingkungan (IKL)</li><li>Pengelola/penanggung jawab dan penjamah pangan mendapatkan penyuluhan keamanan pangan siap saji.</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Persyaratan teknis yang meliputi:</p><ol style=\"list-style-type: lower-alpha;\"><li>Tempat Pengelolaan Pangan (TPP) memenuhi persyaratan kesehatan sesuai formulir Inspeksi Kesehatan Lingkungan (IKL)</li><li>Pengelola/penanggung jawab dan penjamah pangan mendapatkan penyuluhan keamanan pangan siap saji.</li></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "15 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Persyaratan teknis yang meliputi:</p><ol style=\"list-style-type: lower-alpha;\"><li>Tempat Pengelolaan Pangan (TPP) memenuhi persyaratan kesehatan sesuai formulir Inspeksi Kesehatan Lingkungan (IKL)</li><li>Pengelola/penanggung jawab dan penjamah pangan mendapatkan penyuluhan keamanan pangan siap saji.</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Persyaratan teknis yang meliputi:</p><ol style=\"list-style-type: lower-alpha;\"><li>Tempat Pengelolaan Pangan (TPP) memenuhi persyaratan kesehatan sesuai formulir Inspeksi Kesehatan Lingkungan (IKL)</li><li>Pengelola/penanggung jawab dan penjamah pangan mendapatkan penyuluhan keamanan pangan siap saji.</li></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "15 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Unggah foto stiker"
+      },
+      "id": {
+       "syarat_perizinan": "Unggah foto stiker"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan administrasi yang meliputi terdaftar di dinas kesehatan kabupaten/kota/puskesmas."
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan administrasi yang meliputi terdaftar di dinas kesehatan kabupaten/kota/puskesmas."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "15 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan administrasi yang meliputi terdaftar di dinas kesehatan kabupaten/kota/puskesmas."
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan administrasi yang meliputi terdaftar di dinas kesehatan kabupaten/kota/puskesmas."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "15 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Label pengawasan/pembi-naan"
+      },
+      "id": {
+       "syarat_perizinan": "Label pengawasan/pembi-naan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sertifikat pengelola/pemilik/penanggung jawab TPP"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat pengelola/pemilik/penanggung jawab TPP"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sertifikat penjamah pangan "
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat penjamah pangan "
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan self assessment/ penilaian mandiri dengan  rapor  yang sesuai dengan jenis TPP nya."
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan self assessment/ penilaian mandiri dengan  rapor  yang sesuai dengan jenis TPP nya."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Label pengawasan/pembi-naan"
+      },
+      "id": {
+       "syarat_perizinan": "Label pengawasan/pembi-naan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memasang Label HSP di Tempat Pengelolaan Pangan"
+      },
+      "id": {
+       "syarat_perizinan": "Memasang Label HSP di Tempat Pengelolaan Pangan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "15 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memasang Label HSP di Tempat Pengelolaan Pangan"
+      },
+      "id": {
+       "syarat_perizinan": "Memasang Label HSP di Tempat Pengelolaan Pangan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "15 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sertifikat pengelola/pemilik/penanggung jawab TPP"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat pengelola/pemilik/penanggung jawab TPP"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan self assessment/ penilaian mandiri dengan  rapor  yang sesuai dengan jenis TPP nya."
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan self assessment/ penilaian mandiri dengan  rapor  yang sesuai dengan jenis TPP nya."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sertifikat penjamah pangan "
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat penjamah pangan "
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "0cdb43de-248e-4cec-91ee-2c54e215c7d4",
+    "kode": "024",
+    "localization": {
+     "en": {
+      "uraian": "Kesehatan",
+      "deskripsi": "Kementerian Kesehatan"
+     },
+     "id": {
+      "uraian": "Kesehatan",
+      "deskripsi": "Kementerian Kesehatan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "87d5c925-f456-4e5d-afae-44fbceb18a0d",
+   "kode": "024000000107",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat laik higiene sanitasi di bandar udara, pelabuhan, dan lintas batas darat negara"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat laik higiene sanitasi di bandar udara, pelabuhan, dan lintas batas darat negara"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "0af61ce9-e626-40b3-9ae4-5d5c5c3db571",
+     "parameter": "Tempat Pengelola Pangan (TPP) berlokasi di wilayah Kabupaten/Kota",
+     "kewenangan": "Bupati/Walikota"
+    },
+    {
+     "id": "1987f771-97ba-5e2a-b4ae-e7f560b1845d",
+     "parameter": "Tempat Pengelola Pangan (TPP) berlokasi di wilayah bandar udara, pelabuhan dan pos lintas batas negara",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan Administrasi meliputi:\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>Nama pengusaha,</li>\r\n<li>Jenis Tempat Pengolahan Pangan (pilih yang sesuai: jasa boga A/B/C, restoran, TPP Tertentu, Depot Air Minum)</li>\r\n<li>Nama Tempat Pengolahan Pangan</li>\r\n<li>Alamat Tempat Pengolahan Pangan</li>\r\n<li>Jumlah penjamah pangan atau (khusus depot air minum) jumlah operator depot air minum</li>\r\n<li>Jumlah penjamah pangan memiliki sertifikat pelatihan keamanan pangan siap saji atau (khusus depot air minum) sertifikat pelatihan higiene sanitasi depot air minum</li>\r\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan Administrasi meliputi:\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>Nama pengusaha,</li>\r\n<li>Jenis Tempat Pengolahan Pangan (pilih yang sesuai: jasa boga A/B/C, restoran, TPP Tertentu, Depot Air Minum)</li>\r\n<li>Nama Tempat Pengolahan Pangan</li>\r\n<li>Alamat Tempat Pengolahan Pangan</li>\r\n<li>Jumlah penjamah pangan atau (khusus depot air minum) jumlah operator depot air minum</li>\r\n<li>Jumlah penjamah pangan memiliki sertifikat pelatihan keamanan pangan siap saji atau (khusus depot air minum) sertifikat pelatihan higiene sanitasi depot air minum</li>\r\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan Teknis meliputi:\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>sertifikat pelatihan keamanan pangan siap saji bagi pengelola/pemilik/penanggung jawab TPP</li>\r\n<li>sertifikat pelatihan keamanan pangan siap saji bagi penjamah pangan atau pelatihan higiene sanitasi Depot Air Minum bagi penjamah pangan/operator DAM</li>\r\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan Teknis meliputi:\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>sertifikat pelatihan keamanan pangan siap saji bagi pengelola/pemilik/penanggung jawab TPP</li>\r\n<li>sertifikat pelatihan keamanan pangan siap saji bagi penjamah pangan atau pelatihan higiene sanitasi Depot Air Minum bagi penjamah pangan/operator DAM</li>\r\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti laboratorium Standar Baku Mutu yang dikeluarkan oleh laboratorium yang terakreditasi KAN atau laboratorium yang ditunjuk oleh pemerintah daerah paling lama 1 bulan sebelum pengajuan permohonan"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti laboratorium Standar Baku Mutu yang dikeluarkan oleh laboratorium yang terakreditasi KAN atau laboratorium yang ditunjuk oleh pemerintah daerah paling lama 1 bulan sebelum pengajuan permohonan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "FORMULIR INSPEKSI KESEHATAN LINGKUNGAN (pilih salah satu):\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>JASA BOGA/KATERING</li>\r\n<li>RESTORAN</li>\r\n<li>TEMPAT PENGELOLAAN PANGAN (TPP) TERTENTU</li>\r\n<li>DEPOT AIR MINUM</li>\r\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "FORMULIR INSPEKSI KESEHATAN LINGKUNGAN (pilih salah satu):\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>JASA BOGA/KATERING</li>\r\n<li>RESTORAN</li>\r\n<li>TEMPAT PENGELOLAAN PANGAN (TPP) TERTENTU</li>\r\n<li>DEPOT AIR MINUM</li>\r\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan Perpanjangan:\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>SLHS yang masih berlaku</li>\r\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan Perpanjangan:\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>SLHS yang masih berlaku</li>\r\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Perizinan berusaha jasa pangan"
+      },
+      "id": {
+       "syarat_perizinan": "Perizinan berusaha jasa pangan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen pernyataan pemenuhan persyaratan kesehatan pangan olahan siap saji (self assessment), menggunakan formulir Inspeksi Kesehatan Lingkungan (IKL)"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen pernyataan pemenuhan persyaratan kesehatan pangan olahan siap saji (self assessment), menggunakan formulir Inspeksi Kesehatan Lingkungan (IKL)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat kursus keamanan pangan siap saji atau higiene sanitasi depot air minum bagi pengelola/penanggung jawab TPP"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat kursus keamanan pangan siap saji atau higiene sanitasi depot air minum bagi pengelola/penanggung jawab TPP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat kursus penjamah pangan/operator depot air minum dan jumlahnya sesuai ketentuan, atau Sertifikat kompetensi yang dikeluarkan oleh lembaga terlisensi"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat kursus penjamah pangan/operator depot air minum dan jumlahnya sesuai ketentuan, atau Sertifikat kompetensi yang dikeluarkan oleh lembaga terlisensi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen keterangan sehat dari fasilitas pelayanan kesehatan untuk penjamah pangan/operator depot air minum"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen keterangan sehat dari fasilitas pelayanan kesehatan untuk penjamah pangan/operator depot air minum"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "TPP memenuhi persyaratan kesehatan pangan olahan siap saji, menggunakan formulir IKL"
+      },
+      "id": {
+       "syarat_perizinan": "TPP memenuhi persyaratan kesehatan pangan olahan siap saji, menggunakan formulir IKL"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil uji laboratorium sesuai Standar Baku Mutu Kesehatan Lingkungan (SBMKL) Pangan Olahan Siap Saji yang diterbitkan oleh laboratorium terakreditasi atau laboratorium yang ditunjuk oleh Pemerintah Daerah"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil uji laboratorium sesuai Standar Baku Mutu Kesehatan Lingkungan (SBMKL) Pangan Olahan Siap Saji yang diterbitkan oleh laboratorium terakreditasi atau laboratorium yang ditunjuk oleh Pemerintah Daerah"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil uji laboratorium kandungan gula, garam, dan lemak total pangan olahan siap saji yang diterbitkan oleh laboratorium pemerintah dan/atau laboratorium lain yang terakreditasi sesuai dengan ketentuan peraturan perundang-undangan"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil uji laboratorium kandungan gula, garam, dan lemak total pangan olahan siap saji yang diterbitkan oleh laboratorium pemerintah dan/atau laboratorium lain yang terakreditasi sesuai dengan ketentuan peraturan perundang-undangan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Persyaratan teknis yang meliputi:</p><ol style=\"list-style-type: lower-alpha;\"><li>TPP memenuhi persyaratan kesehatan pangan olahan siap saji, menggunakan formulir IKL</li><li>Hasil uji laboratorium sesuai Standar Baku Mutu Kesehatan Lingkungan (SBMKL) Pangan Olahan Siap Saji yang diterbitkan oleh laboratorium terakreditasi atau laboratorium yang ditunjuk oleh Pemerintah Daerah</li><li>Hasil uji laboratorium kandungan gula, garam, dan lemak total pangan olahan siap saji yang diterbitkan oleh laboratorium pemerintah dan/atau laboratorium lain yang terakreditasi sesuai dengan ketentuan peraturan perundang-undangan</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Persyaratan teknis yang meliputi:</p><ol style=\"list-style-type: lower-alpha;\"><li>TPP memenuhi persyaratan kesehatan pangan olahan siap saji, menggunakan formulir IKL</li><li>Hasil uji laboratorium sesuai Standar Baku Mutu Kesehatan Lingkungan (SBMKL) Pangan Olahan Siap Saji yang diterbitkan oleh laboratorium terakreditasi atau laboratorium yang ditunjuk oleh Pemerintah Daerah</li><li>Hasil uji laboratorium kandungan gula, garam, dan lemak total pangan olahan siap saji yang diterbitkan oleh laboratorium pemerintah dan/atau laboratorium lain yang terakreditasi sesuai dengan ketentuan peraturan perundang-undangan</li></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat kursus keamanan pangan siap saji atau higiene sanitasi depot air minum bagi pengelola/penanggung jawab TPP"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat kursus keamanan pangan siap saji atau higiene sanitasi depot air minum bagi pengelola/penanggung jawab TPP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat kursus penjamah pangan/operator depot air minum dan jumlahnya sesuai ketentuan, atau Sertifikat kompetensi yang dikeluarkan oleh lembaga terlisensi"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat kursus penjamah pangan/operator depot air minum dan jumlahnya sesuai ketentuan, atau Sertifikat kompetensi yang dikeluarkan oleh lembaga terlisensi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Persyaratan administrasi yang meliputi:</p><ol style=\"list-style-type: lower-alpha;\"><li>Perizinan berusaha jasa pangan</li><li>Dokumen pernyataan pemenuhan persyaratan kesehatan pangan olahan siap saji (self assessment), menggunakan formulir Inspeksi Kesehatan Lingkungan (IKL)</li><li>Sertifikat kursus keamanan pangan siap saji atau higiene sanitasi depot air minum bagi pengelola/penanggung jawab TPP</li><li>Sertifikat kursus penjamah pangan/operator depot air minum dan jumlahnya sesuai ketentuan, atau Sertifikat kompetensi yang dikeluarkan oleh lembaga terlisensi</li><li>Dokumen keterangan sehat dari fasilitas pelayanan kesehatan untuk penjamah pangan/operator depot air minum</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Persyaratan administrasi yang meliputi:</p><ol style=\"list-style-type: lower-alpha;\"><li>Perizinan berusaha jasa pangan</li><li>Dokumen pernyataan pemenuhan persyaratan kesehatan pangan olahan siap saji (self assessment), menggunakan formulir Inspeksi Kesehatan Lingkungan (IKL)</li><li>Sertifikat kursus keamanan pangan siap saji atau higiene sanitasi depot air minum bagi pengelola/penanggung jawab TPP</li><li>Sertifikat kursus penjamah pangan/operator depot air minum dan jumlahnya sesuai ketentuan, atau Sertifikat kompetensi yang dikeluarkan oleh lembaga terlisensi</li><li>Dokumen keterangan sehat dari fasilitas pelayanan kesehatan untuk penjamah pangan/operator depot air minum</li></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan Perpanjangan:\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>SLHS yang masih berlaku</li>\r\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan Perpanjangan:\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>SLHS yang masih berlaku</li>\r\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil uji laboratorium kandungan gula, garam, dan lemak total pangan olahan siap saji yang diterbitkan oleh laboratorium pemerintah dan/atau laboratorium lain yang terakreditasi sesuai dengan ketentuan peraturan perundang-undangan"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil uji laboratorium kandungan gula, garam, dan lemak total pangan olahan siap saji yang diterbitkan oleh laboratorium pemerintah dan/atau laboratorium lain yang terakreditasi sesuai dengan ketentuan peraturan perundang-undangan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen keterangan sehat dari fasilitas pelayanan kesehatan untuk penjamah pangan/operator depot air minum"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen keterangan sehat dari fasilitas pelayanan kesehatan untuk penjamah pangan/operator depot air minum"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Perizinan berusaha jasa pangan"
+      },
+      "id": {
+       "syarat_perizinan": "Perizinan berusaha jasa pangan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan Administrasi meliputi:\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>Nama pengusaha,</li>\r\n<li>Jenis Tempat Pengolahan Pangan (pilih yang sesuai: jasa boga A/B/C, restoran, TPP Tertentu, Depot Air Minum)</li>\r\n<li>Nama Tempat Pengolahan Pangan</li>\r\n<li>Alamat Tempat Pengolahan Pangan</li>\r\n<li>Jumlah penjamah pangan atau (khusus depot air minum) jumlah operator depot air minum</li>\r\n<li>Jumlah penjamah pangan memiliki sertifikat pelatihan keamanan pangan siap saji atau (khusus depot air minum) sertifikat pelatihan higiene sanitasi depot air minum</li>\r\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan Administrasi meliputi:\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>Nama pengusaha,</li>\r\n<li>Jenis Tempat Pengolahan Pangan (pilih yang sesuai: jasa boga A/B/C, restoran, TPP Tertentu, Depot Air Minum)</li>\r\n<li>Nama Tempat Pengolahan Pangan</li>\r\n<li>Alamat Tempat Pengolahan Pangan</li>\r\n<li>Jumlah penjamah pangan atau (khusus depot air minum) jumlah operator depot air minum</li>\r\n<li>Jumlah penjamah pangan memiliki sertifikat pelatihan keamanan pangan siap saji atau (khusus depot air minum) sertifikat pelatihan higiene sanitasi depot air minum</li>\r\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil uji laboratorium sesuai Standar Baku Mutu Kesehatan Lingkungan (SBMKL) Pangan Olahan Siap Saji yang diterbitkan oleh laboratorium terakreditasi atau laboratorium yang ditunjuk oleh Pemerintah Daerah"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil uji laboratorium sesuai Standar Baku Mutu Kesehatan Lingkungan (SBMKL) Pangan Olahan Siap Saji yang diterbitkan oleh laboratorium terakreditasi atau laboratorium yang ditunjuk oleh Pemerintah Daerah"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan Teknis meliputi:\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>sertifikat pelatihan keamanan pangan siap saji bagi pengelola/pemilik/penanggung jawab TPP</li>\r\n<li>sertifikat pelatihan keamanan pangan siap saji bagi penjamah pangan atau pelatihan higiene sanitasi Depot Air Minum bagi penjamah pangan/operator DAM</li>\r\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan Teknis meliputi:\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>sertifikat pelatihan keamanan pangan siap saji bagi pengelola/pemilik/penanggung jawab TPP</li>\r\n<li>sertifikat pelatihan keamanan pangan siap saji bagi penjamah pangan atau pelatihan higiene sanitasi Depot Air Minum bagi penjamah pangan/operator DAM</li>\r\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "TPP memenuhi persyaratan kesehatan pangan olahan siap saji, menggunakan formulir IKL"
+      },
+      "id": {
+       "syarat_perizinan": "TPP memenuhi persyaratan kesehatan pangan olahan siap saji, menggunakan formulir IKL"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti laboratorium Standar Baku Mutu yang dikeluarkan oleh laboratorium yang terakreditasi KAN atau laboratorium yang ditunjuk oleh pemerintah daerah paling lama 1 bulan sebelum pengajuan permohonan"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti laboratorium Standar Baku Mutu yang dikeluarkan oleh laboratorium yang terakreditasi KAN atau laboratorium yang ditunjuk oleh pemerintah daerah paling lama 1 bulan sebelum pengajuan permohonan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "FORMULIR INSPEKSI KESEHATAN LINGKUNGAN (pilih salah satu):\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>JASA BOGA/KATERING</li>\r\n<li>RESTORAN</li>\r\n<li>TEMPAT PENGELOLAAN PANGAN (TPP) TERTENTU</li>\r\n<li>DEPOT AIR MINUM</li>\r\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "FORMULIR INSPEKSI KESEHATAN LINGKUNGAN (pilih salah satu):\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>JASA BOGA/KATERING</li>\r\n<li>RESTORAN</li>\r\n<li>TEMPAT PENGELOLAAN PANGAN (TPP) TERTENTU</li>\r\n<li>DEPOT AIR MINUM</li>\r\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen pernyataan pemenuhan persyaratan kesehatan pangan olahan siap saji (self assessment), menggunakan formulir Inspeksi Kesehatan Lingkungan (IKL)"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen pernyataan pemenuhan persyaratan kesehatan pangan olahan siap saji (self assessment), menggunakan formulir Inspeksi Kesehatan Lingkungan (IKL)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Standar Laik Higiene Sanitasi"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Laik Higiene Sanitasi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sertifikat pengelola/pemilik/pe-nanggung jawab TPP"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat pengelola/pemilik/pe-nanggung jawab TPP"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sertifikat penjamah pangan "
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat penjamah pangan "
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan self assessment/penilaian mandiri dengan  rapor  yang sesuai dengan jenis TPP nya."
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan self assessment/penilaian mandiri dengan  rapor  yang sesuai dengan jenis TPP nya."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memasang logo SLHS di tempat yang mudah terlihat pengunjung pada tempat usaha, kemasan/produk dan media promosi, serta pada tempat/ wadah/kemasan pangan."
+      },
+      "id": {
+       "syarat_perizinan": "Memasang logo SLHS di tempat yang mudah terlihat pengunjung pada tempat usaha, kemasan/produk dan media promosi, serta pada tempat/ wadah/kemasan pangan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mencantumkan informasi kandungan gula, garam dan lemak total berupa logo Nutri-Level pada bagian depan kemasan, menu, dan/atau papan iklan sesuai dengan ketentuan peraturan perundang-undangan."
+      },
+      "id": {
+       "syarat_perizinan": "Mencantumkan informasi kandungan gula, garam dan lemak total berupa logo Nutri-Level pada bagian depan kemasan, menu, dan/atau papan iklan sesuai dengan ketentuan peraturan perundang-undangan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal untuk persyaratan kesehatan (IKL) 1 (satu) tahun sekali"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal untuk persyaratan kesehatan (IKL) 1 (satu) tahun sekali"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal untuk pengujian sampel pangan 2 (dua) tahun sekali"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal untuk pengujian sampel pangan 2 (dua) tahun sekali"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal khusus pengujian sampel air minum pada Depot Air Minum sesuai dengan peraturan yang berlaku tentang kualitas air minum"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal khusus pengujian sampel air minum pada Depot Air Minum sesuai dengan peraturan yang berlaku tentang kualitas air minum"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal khusus pengujian sampel air minum pada Depot Air Minum sesuai dengan peraturan yang berlaku tentang kualitas air minum"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal khusus pengujian sampel air minum pada Depot Air Minum sesuai dengan peraturan yang berlaku tentang kualitas air minum"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal khusus pengujian sampel air minum pada Depot Air Minum sesuai dengan peraturan yang berlaku tentang kualitas air minum"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal khusus pengujian sampel air minum pada Depot Air Minum sesuai dengan peraturan yang berlaku tentang kualitas air minum"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sertifikat pengelola/pemilik/pe-nanggung jawab TPP"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat pengelola/pemilik/pe-nanggung jawab TPP"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan self assessment/penilaian mandiri dengan  rapor  yang sesuai dengan jenis TPP nya."
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan self assessment/penilaian mandiri dengan  rapor  yang sesuai dengan jenis TPP nya."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mencantumkan informasi kandungan gula, garam dan lemak total berupa logo Nutri-Level pada bagian depan kemasan, menu, dan/atau papan iklan sesuai dengan ketentuan peraturan perundang-undangan."
+      },
+      "id": {
+       "syarat_perizinan": "Mencantumkan informasi kandungan gula, garam dan lemak total berupa logo Nutri-Level pada bagian depan kemasan, menu, dan/atau papan iklan sesuai dengan ketentuan peraturan perundang-undangan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memasang logo SLHS di tempat yang mudah terlihat pengunjung pada tempat usaha, kemasan/produk dan media promosi, serta pada tempat/ wadah/kemasan pangan."
+      },
+      "id": {
+       "syarat_perizinan": "Memasang logo SLHS di tempat yang mudah terlihat pengunjung pada tempat usaha, kemasan/produk dan media promosi, serta pada tempat/ wadah/kemasan pangan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal untuk pengujian sampel pangan 2 (dua) tahun sekali"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal untuk pengujian sampel pangan 2 (dua) tahun sekali"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Standar Laik Higiene Sanitasi"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Laik Higiene Sanitasi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mencantumkan informasi kandungan gula, garam dan lemak total berupa logo Nutri-Level pada bagian depan kemasan, menu, dan/atau papan iklan sesuai dengan ketentuan peraturan perundang-undangan."
+      },
+      "id": {
+       "syarat_perizinan": "Mencantumkan informasi kandungan gula, garam dan lemak total berupa logo Nutri-Level pada bagian depan kemasan, menu, dan/atau papan iklan sesuai dengan ketentuan peraturan perundang-undangan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sertifikat penjamah pangan "
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat penjamah pangan "
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal untuk persyaratan kesehatan (IKL) 1 (satu) tahun sekali"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal untuk persyaratan kesehatan (IKL) 1 (satu) tahun sekali"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal untuk persyaratan kesehatan (IKL) 1 (satu) tahun sekali"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal untuk persyaratan kesehatan (IKL) 1 (satu) tahun sekali"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memasang logo SLHS di tempat yang mudah terlihat pengunjung pada tempat usaha, kemasan/produk dan media promosi, serta pada tempat/ wadah/kemasan pangan."
+      },
+      "id": {
+       "syarat_perizinan": "Memasang logo SLHS di tempat yang mudah terlihat pengunjung pada tempat usaha, kemasan/produk dan media promosi, serta pada tempat/ wadah/kemasan pangan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal untuk pengujian sampel pangan 2 (dua) tahun sekali"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan berkala pengawasan internal untuk pengujian sampel pangan 2 (dua) tahun sekali"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "30 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "0cdb43de-248e-4cec-91ee-2c54e215c7d4",
+    "kode": "024",
+    "localization": {
+     "en": {
+      "uraian": "Kesehatan",
+      "deskripsi": "Kementerian Kesehatan"
+     },
+     "id": {
+      "uraian": "Kesehatan",
+      "deskripsi": "Kementerian Kesehatan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "e0d27aab-7b75-44f0-99d6-304fe84f6322",
+   "kode": "090000000086",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Surat Keterangan Penjual Langsung Minuman Beralkohol Golongan A (SKPL-A)"
+    },
+    "id": {
+     "nama_dokumen": "Surat Keterangan Penjual Langsung Minuman Beralkohol Golongan A (SKPL-A)"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "08b7d154-e769-5c98-9a7e-9fc537313558",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "099d2b21-6638-4fbb-be0d-858735baa7ab",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki Perizinan Berusaha di sektor pariwisata;"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki Perizinan Berusaha di sektor pariwisata;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat penunjukan dari Distributor atau sub Distributor sebagai Penjual Langsung."
+      },
+      "id": {
+       "syarat_perizinan": "Surat penunjukan dari Distributor atau sub Distributor sebagai Penjual Langsung."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki Perizinan Berusaha di Sektor Pariwisata sebagai Restoran, Bar, Hotel atau tempat lain yang ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki Perizinan Berusaha di Sektor Pariwisata sebagai Restoran, Bar, Hotel atau tempat lain yang ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki Perizinan Berusaha di sektor pariwisata;"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki Perizinan Berusaha di sektor pariwisata;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat penunjukan dari Distributor atau sub Distributor sebagai Penjual Langsung."
+      },
+      "id": {
+       "syarat_perizinan": "Surat penunjukan dari Distributor atau sub Distributor sebagai Penjual Langsung."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Berita Acara Penelitian Lapangan dari Dinas Kabupaten/Kota atau Provinsi untuk Daerah Khusus Jakarta sesuai tempat lokasi usaha"
+      },
+      "id": {
+       "syarat_perizinan": "Berita Acara Penelitian Lapangan dari Dinas Kabupaten/Kota atau Provinsi untuk Daerah Khusus Jakarta sesuai tempat lokasi usaha"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat Penunjukan sebagai Penjual Langsung Minuman Beralkohol Golongan A dari Distributor atau Sub Distributor terdaftar"
+      },
+      "id": {
+       "syarat_perizinan": "Surat Penunjukan sebagai Penjual Langsung Minuman Beralkohol Golongan A dari Distributor atau Sub Distributor terdaftar"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Hanya menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis;"
+      },
+      "id": {
+       "syarat_perizinan": "Hanya menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjual di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah;"
+      },
+      "id": {
+       "syarat_perizinan": "Menjual di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melayani penjualan kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas."
+      },
+      "id": {
+       "syarat_perizinan": "Melayani penjualan kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjual minuman beralkohol di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah"
+      },
+      "id": {
+       "syarat_perizinan": "Menjual minuman beralkohol di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis"
+      },
+      "id": {
+       "syarat_perizinan": "Menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Hanya menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis;"
+      },
+      "id": {
+       "syarat_perizinan": "Hanya menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melayani penjualan minuman beralkohol untuk diminum langsung di tempat kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas"
+      },
+      "id": {
+       "syarat_perizinan": "Melayani penjualan minuman beralkohol untuk diminum langsung di tempat kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melayani penjualan kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas."
+      },
+      "id": {
+       "syarat_perizinan": "Melayani penjualan kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjual di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah;"
+      },
+      "id": {
+       "syarat_perizinan": "Menjual di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mengajukan perubahan SKPL-A apabila terdapat perubahan data atau informasi pada SKPL-A"
+      },
+      "id": {
+       "syarat_perizinan": "Mengajukan perubahan SKPL-A apabila terdapat perubahan data atau informasi pada SKPL-A"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis</p><ol style=\"list-style-type: lower-alpha;\"><li>Menjual minuman beralkohol di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah</li><li>Melayani penjualan minuman beralkohol untuk diminum langsung di tempat kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas</li><li>Mengajukan perubahan SKPL-A apabila terdapat perubahan data atau informasi pada SKPL-A</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis</p><ol style=\"list-style-type: lower-alpha;\"><li>Menjual minuman beralkohol di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah</li><li>Melayani penjualan minuman beralkohol untuk diminum langsung di tempat kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas</li><li>Mengajukan perubahan SKPL-A apabila terdapat perubahan data atau informasi pada SKPL-A</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "8452cc8c-89ba-4d1d-956e-7b45b938e43f",
+    "kode": "090",
+    "localization": {
+     "en": {
+      "uraian": "Perdagangan",
+      "deskripsi": "Kementerian Perdagangan"
+     },
+     "id": {
+      "uraian": "Perdagangan",
+      "deskripsi": "Kementerian Perdagangan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "60bd3c9d-e48c-431b-a16b-449c4f9c9923",
+   "kode": "090000000087",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Surat Keterangan Penjual Langsung Minuman Beralkohol Golongan B dan C (SKPL-B dan SKPL-C)"
+    },
+    "id": {
+     "nama_dokumen": "Surat Keterangan Penjual Langsung Minuman Beralkohol Golongan B dan C (SKPL-B dan SKPL-C)"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "0040a421-45ff-4505-9221-30c6d0a53b63",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "00af1019-97ad-5a04-a6fe-aa7c863dd825",
+     "parameter": "Gubernur DKJ; atau",
+     "kewenangan": "Gubernur"
+    },
+    {
+     "id": "02fb48c7-c727-54b6-9726-d2ce2268ed2a",
+     "parameter": "Kab./Kota.",
+     "kewenangan": "Bupati/Walikota"
+    },
+    {
+     "id": "0715f812-bb38-57b1-84b0-22380dada896",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki Perizinan Berusaha di sektor pariwisata;"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki Perizinan Berusaha di sektor pariwisata;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat penunjukan dari Distributor atau Sub Distributor sebagai Penjual Langsung;"
+      },
+      "id": {
+       "syarat_perizinan": "Surat penunjukan dari Distributor atau Sub Distributor sebagai Penjual Langsung;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Nomor Pokok Pengusaha Barang Kena Bea Cukai (NPPBKC) bagi perusahaan yang memperpanjang Surat Keterangan Perdagangan Minuman Beralkohol; "
+      },
+      "id": {
+       "syarat_perizinan": "Nomor Pokok Pengusaha Barang Kena Bea Cukai (NPPBKC) bagi perusahaan yang memperpanjang Surat Keterangan Perdagangan Minuman Beralkohol; "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Formulir data teknis Surat Keterangan Penjual Langsung Minuman Beralkohol Golongan B dan C (SKPL-B dan SKPL-C)"
+      },
+      "id": {
+       "syarat_perizinan": "Formulir data teknis Surat Keterangan Penjual Langsung Minuman Beralkohol Golongan B dan C (SKPL-B dan SKPL-C)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki Perizinan Berusaha di Sektor Pariwisata sebagai Restoran, Bar, Hotel atau tempat lain yang ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki Perizinan Berusaha di Sektor Pariwisata sebagai Restoran, Bar, Hotel atau tempat lain yang ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat Penunjukan sebagai Penjual Langsung Minuman Beralkohol Golongan B dan/atau Golongan C dari Distributor atau Sub Distributor terdaftar"
+      },
+      "id": {
+       "syarat_perizinan": "Surat Penunjukan sebagai Penjual Langsung Minuman Beralkohol Golongan B dan/atau Golongan C dari Distributor atau Sub Distributor terdaftar"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Berita Acara Penelitian Lapangan dari Dinas Kabupaten/Kota atau Provinsi untuk Daerah Khusus Jakarta sesuai tempat lokasi usaha"
+      },
+      "id": {
+       "syarat_perizinan": "Berita Acara Penelitian Lapangan dari Dinas Kabupaten/Kota atau Provinsi untuk Daerah Khusus Jakarta sesuai tempat lokasi usaha"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bagi Penjual Langsung yang mengajukan perpanjangan SKPL-B&C, selain menyampaikan persyaratan dalam angka 1 - 3 di atas, juga menyampaikan Nomor Pokok Pengusaha Barang Kena Bea Cukai (NPPBKC)"
+      },
+      "id": {
+       "syarat_perizinan": "Bagi Penjual Langsung yang mengajukan perpanjangan SKPL-B&C, selain menyampaikan persyaratan dalam angka 1 - 3 di atas, juga menyampaikan Nomor Pokok Pengusaha Barang Kena Bea Cukai (NPPBKC)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki Perizinan Berusaha di sektor pariwisata;"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki Perizinan Berusaha di sektor pariwisata;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat penunjukan dari Distributor atau Sub Distributor sebagai Penjual Langsung;"
+      },
+      "id": {
+       "syarat_perizinan": "Surat penunjukan dari Distributor atau Sub Distributor sebagai Penjual Langsung;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Nomor Pokok Pengusaha Barang Kena Bea Cukai (NPPBKC) bagi perusahaan yang memperpanjang Surat Keterangan Perdagangan Minuman Beralkohol; "
+      },
+      "id": {
+       "syarat_perizinan": "Nomor Pokok Pengusaha Barang Kena Bea Cukai (NPPBKC) bagi perusahaan yang memperpanjang Surat Keterangan Perdagangan Minuman Beralkohol; "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki Perizinan Berusaha di Sektor Pariwisata sebagai Restoran, Bar, Hotel atau tempat lain yang ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki Perizinan Berusaha di Sektor Pariwisata sebagai Restoran, Bar, Hotel atau tempat lain yang ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bagi Penjual Langsung yang mengajukan perpanjangan SKPL-B&C, selain menyampaikan persyaratan dalam angka 1 - 3 di atas, juga menyampaikan Nomor Pokok Pengusaha Barang Kena Bea Cukai (NPPBKC)"
+      },
+      "id": {
+       "syarat_perizinan": "Bagi Penjual Langsung yang mengajukan perpanjangan SKPL-B&C, selain menyampaikan persyaratan dalam angka 1 - 3 di atas, juga menyampaikan Nomor Pokok Pengusaha Barang Kena Bea Cukai (NPPBKC)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat Penunjukan sebagai Penjual Langsung Minuman Beralkohol Golongan B dan/atau Golongan C dari Distributor atau Sub Distributor terdaftar"
+      },
+      "id": {
+       "syarat_perizinan": "Surat Penunjukan sebagai Penjual Langsung Minuman Beralkohol Golongan B dan/atau Golongan C dari Distributor atau Sub Distributor terdaftar"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Berita Acara Penelitian Lapangan dari Dinas Kabupaten/Kota atau Provinsi untuk Daerah Khusus Jakarta sesuai tempat lokasi usaha"
+      },
+      "id": {
+       "syarat_perizinan": "Berita Acara Penelitian Lapangan dari Dinas Kabupaten/Kota atau Provinsi untuk Daerah Khusus Jakarta sesuai tempat lokasi usaha"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Formulir data teknis Surat Keterangan Penjual Langsung Minuman Beralkohol Golongan B dan C (SKPL-B dan SKPL-C)"
+      },
+      "id": {
+       "syarat_perizinan": "Formulir data teknis Surat Keterangan Penjual Langsung Minuman Beralkohol Golongan B dan C (SKPL-B dan SKPL-C)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Hanya menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis;"
+      },
+      "id": {
+       "syarat_perizinan": "Hanya menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjual di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah;"
+      },
+      "id": {
+       "syarat_perizinan": "Menjual di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melayani penjualan kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas."
+      },
+      "id": {
+       "syarat_perizinan": "Melayani penjualan kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis"
+      },
+      "id": {
+       "syarat_perizinan": "Menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjual minuman beralkohol di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah"
+      },
+      "id": {
+       "syarat_perizinan": "Menjual minuman beralkohol di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melayani penjualan minuman beralkohol untuk diminum langsung di tempat kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas"
+      },
+      "id": {
+       "syarat_perizinan": "Melayani penjualan minuman beralkohol untuk diminum langsung di tempat kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mengajukan perubahan SKPL-B &C apabila terdapat perubahan data atau informasi pada SKPL-B&C"
+      },
+      "id": {
+       "syarat_perizinan": "Mengajukan perubahan SKPL-B &C apabila terdapat perubahan data atau informasi pada SKPL-B&C"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan realisasi penjualan Minuman Beralkohol kepada Kepala Dinas Provinsi Daerah Khusus Jakarta atau Kepala Dinas Kabupaten/Kota dengan tembusan Gubernur Daerah Khusus Jakarta atau Gubernur Provinsi setempat dan Bupati/Walikota setempat"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan realisasi penjualan Minuman Beralkohol kepada Kepala Dinas Provinsi Daerah Khusus Jakarta atau Kepala Dinas Kabupaten/Kota dengan tembusan Gubernur Daerah Khusus Jakarta atau Gubernur Provinsi setempat dan Bupati/Walikota setempat"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis"
+      },
+      "id": {
+       "syarat_perizinan": "Menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mengajukan perubahan SKPL-B &C apabila terdapat perubahan data atau informasi pada SKPL-B&C"
+      },
+      "id": {
+       "syarat_perizinan": "Mengajukan perubahan SKPL-B &C apabila terdapat perubahan data atau informasi pada SKPL-B&C"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melayani penjualan kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas."
+      },
+      "id": {
+       "syarat_perizinan": "Melayani penjualan kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Hanya menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis;"
+      },
+      "id": {
+       "syarat_perizinan": "Hanya menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjual di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah;"
+      },
+      "id": {
+       "syarat_perizinan": "Menjual di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis</p><ol style=\"list-style-type: lower-alpha;\"><li>Menjual minuman beralkohol di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah</li><li>Melayani penjualan minuman beralkohol untuk diminum langsung di tempat kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas</li><li>Mengajukan perubahan SKPL-B &C apabila terdapat perubahan data atau informasi pada SKPL-B&C</li><li>Menyampaikan laporan realisasi penjualan Minuman Beralkohol kepada Kepala Dinas Provinsi Daerah Khusus Jakarta atau Kepala Dinas Kabupaten/Kota dengan tembusan Gubernur Daerah Khusus Jakarta atau Gubernur Provinsi setempat dan Bupati/Walikota setempat</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menjual Minuman Beralkohol yang memenuhi standar keamanan dan mutu minuman beralkohol yang ditetapkan oleh instansi teknis</p><ol style=\"list-style-type: lower-alpha;\"><li>Menjual minuman beralkohol di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah</li><li>Melayani penjualan minuman beralkohol untuk diminum langsung di tempat kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas</li><li>Mengajukan perubahan SKPL-B &C apabila terdapat perubahan data atau informasi pada SKPL-B&C</li><li>Menyampaikan laporan realisasi penjualan Minuman Beralkohol kepada Kepala Dinas Provinsi Daerah Khusus Jakarta atau Kepala Dinas Kabupaten/Kota dengan tembusan Gubernur Daerah Khusus Jakarta atau Gubernur Provinsi setempat dan Bupati/Walikota setempat</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melayani penjualan minuman beralkohol untuk diminum langsung di tempat kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas"
+      },
+      "id": {
+       "syarat_perizinan": "Melayani penjualan minuman beralkohol untuk diminum langsung di tempat kepada konsumen yang telah berusia 21 (dua puluh satu) tahun ke atas"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan realisasi penjualan Minuman Beralkohol kepada Kepala Dinas Provinsi Daerah Khusus Jakarta atau Kepala Dinas Kabupaten/Kota dengan tembusan Gubernur Daerah Khusus Jakarta atau Gubernur Provinsi setempat dan Bupati/Walikota setempat"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan realisasi penjualan Minuman Beralkohol kepada Kepala Dinas Provinsi Daerah Khusus Jakarta atau Kepala Dinas Kabupaten/Kota dengan tembusan Gubernur Daerah Khusus Jakarta atau Gubernur Provinsi setempat dan Bupati/Walikota setempat"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjual minuman beralkohol di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah"
+      },
+      "id": {
+       "syarat_perizinan": "Menjual minuman beralkohol di tempat-tempat yang telah ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "8452cc8c-89ba-4d1d-956e-7b45b938e43f",
+    "kode": "090",
+    "localization": {
+     "en": {
+      "uraian": "Perdagangan",
+      "deskripsi": "Kementerian Perdagangan"
+     },
+     "id": {
+      "uraian": "Perdagangan",
+      "deskripsi": "Kementerian Perdagangan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

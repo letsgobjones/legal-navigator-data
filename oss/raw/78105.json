@@ -1,0 +1,1956 @@
+{
+ "code": "78105",
+ "found": true,
+ "ossId": "813f48cb-fa6e-587e-9e06-5542eb4a6e91",
+ "url": "https://oss.go.id/id/kbli/detail/813f48cb-fa6e-587e-9e06-5542eb4a6e91",
+ "fetchedAt": "2026-09-30T05:28:30+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 78104 berubah menjadi 78105 pada KBLI 2025.",
+  "from2020": [
+   "78104"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "b1262e37-9811-5cc3-a954-5306dd31bd32",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "813f48cb-fa6e-587e-9e06-5542eb4a6e91",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Penyediaan Informasi Lowongan Kerja",
+      "uraian": "Kelompok ini mencakup kegiatan pencatatan dan penyampaian informasi lowongan kerja kepada pencari kerja dan memberikan informasi data dan kompetensi pencari kerja kepada pemberi kerja. Aktivitas ini dapat dilakukan secara daring (melalui job portal)."
+     },
+     "id": {
+      "judul": "Aktivitas Penyediaan Informasi Lowongan Kerja",
+      "uraian": "Kelompok ini mencakup kegiatan pencatatan dan penyampaian informasi lowongan kerja kepada pencari kerja dan memberikan informasi data dan kompetensi pencari kerja kepada pemberi kerja. Aktivitas ini dapat dilakukan secara daring (melalui job portal)."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "cbfa53e9-0516-5b0a-9fff-7b9f601b510f",
+     "kode": "78105-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "9ccc77d4-7cc6-5882-80a7-63a93aa2a01c",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "4716a937-b2a4-5915-b820-ff4e148cf746",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penempatan tenaga kerja daring paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penempatan tenaga kerja daring paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d0a27622-5d7a-502a-a8d5-b34993ad54fd",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7c0ddfba-291b-58ba-aa59-00ca9c11051e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB diterbitkan berupa Dokumen Sertifikat ISO",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB diterbitkan berupa Dokumen Sertifikat ISO",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c6e0951b-b985-5bb9-a1ff-b20ca0135f96",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki rekomendasi dari Penyelenggara Sistem Elektronik (PSE) dari Kementerian Komunikasi dan Informatika (KOMINFO) berupa Dokumen PSE paling lambat 1 bulan sejak PB diterbitkan[SA13]",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki rekomendasi dari Penyelenggara Sistem Elektronik (PSE) dari Kementerian Komunikasi dan Informatika (KOMINFO) berupa Dokumen PSE paling lambat 1 bulan sejak PB diterbitkan[SA13]",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "f3bce1b1-7660-5ee8-bb13-837432ca94c9",
+       "localization": {
+        "en": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bbd714bf-2352-5b29-8e91-db4c84837548",
+       "localization": {
+        "en": {
+         "uraian": "Bersedia berintegrasi dengan sistem informasi ketenagakerjaan dari Kementerian berupa Dokumen Surat Pernyataan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bersedia berintegrasi dengan sistem informasi ketenagakerjaan dari Kementerian berupa Dokumen Surat Pernyataan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c7648ce1-59dd-54d0-a35e-98ec155abffd",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dan sertifikasi standar b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja daring (job portal) lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja daring (job portal) d. Bersedia memiliki petugas Antarkerja minimal 1 orang e. Memiliki alur bisnis penempatan tenaga kerja daring (job portal) berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dan sertifikasi standar b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja daring (job portal) lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja daring (job portal) d. Bersedia memiliki petugas Antarkerja minimal 1 orang e. Memiliki alur bisnis penempatan tenaga kerja daring (job portal) berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a6813a09-bad8-5e99-ae65-db5fc15ae9bb",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kantor yang berkedudukan di wilayah NKRI dengan alamat dan nomor telepon yang jelas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kantor yang berkedudukan di wilayah NKRI dengan alamat dan nomor telepon yang jelas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f468fd78-6dae-5739-a7dc-c48e0cd18602",
+       "localization": {
+        "en": {
+         "uraian": "Melampirkan bukti Kepemilikan/bukti Sewa paling singkat 3 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melampirkan bukti Kepemilikan/bukti Sewa paling singkat 3 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e5f70362-1da9-536d-ac01-f39992b94cb9",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Sistem database untuk data pencari kerja, pemberi kerja, lowongan kerja dan penempatan berupa Surat Pernyataan Bersedia memiliki sistem Database dengan Materai cukup",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Sistem database untuk data pencari kerja, pemberi kerja, lowongan kerja dan penempatan berupa Surat Pernyataan Bersedia memiliki sistem Database dengan Materai cukup",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "661a2cc9-818a-5b41-ac91-e9a2b9a2d5a4",
+       "localization": {
+        "en": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama minimal 3 tahun berupa Dokumen Surat Perjanjian Sewa dengan Materai cukup",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama minimal 3 tahun berupa Dokumen Surat Perjanjian Sewa dengan Materai cukup",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0e227e2a-1903-5985-bd63-b94691c17d0e",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja daring (job portal) paling singkat 1 tahun berupa Dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja daring (job portal) paling singkat 1 tahun berupa Dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2fcf122a-8d43-5cc3-b8a8-f185d0ebc226",
+       "localization": {
+        "en": {
+         "uraian": "Melampirkan profil perusahaan Penempatan Tenaga Kerja Daring (Job Portal) yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melampirkan profil perusahaan Penempatan Tenaga Kerja Daring (Job Portal) yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "0b5825f7-f123-57c5-a591-f519e17aa7ce",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "9529c8dd-fcb4-474e-b8d5-b575ca2eeef0",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Daring (Job Portal)"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Daring (Job Portal)"
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "0acff2c7-e82d-52ea-934c-93d2830247a6",
+     "kode": "78105-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "b96bdedb-11b0-54e3-b316-acedc7e91f66",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "740a7769-ba09-5f5c-8326-74e90c185848",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penempatan tenaga kerja daring paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penempatan tenaga kerja daring paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "62a2116a-26dd-5ce4-b718-1441c8604c2b",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "460cd042-d60c-55f7-b3df-63402f4cc099",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB diterbitkan berupa Dokumen Sertifikat ISO",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB diterbitkan berupa Dokumen Sertifikat ISO",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "44788a90-441d-51b8-9f7c-a926dd08c1cb",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki rekomendasi dari Penyelenggara Sistem Elektronik (PSE) dari Kementerian Komunikasi dan Informatika (KOMINFO) berupa Dokumen PSE paling lambat 1 bulan sejak PB diterbitkan[SA13]",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki rekomendasi dari Penyelenggara Sistem Elektronik (PSE) dari Kementerian Komunikasi dan Informatika (KOMINFO) berupa Dokumen PSE paling lambat 1 bulan sejak PB diterbitkan[SA13]",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "bc8aae8f-55bc-54c1-a96e-1cbe87d96f92",
+       "localization": {
+        "en": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama minimal 3 tahun berupa Dokumen Surat Perjanjian Sewa dengan Materai cukup",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama minimal 3 tahun berupa Dokumen Surat Perjanjian Sewa dengan Materai cukup",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c968a2f9-1e2d-5669-82b9-92fdb701d749",
+       "localization": {
+        "en": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9621f4f2-b0e3-56b4-b46e-8ca5a4fbfbb9",
+       "localization": {
+        "en": {
+         "uraian": "Bersedia berintegrasi dengan sistem informasi ketenagakerjaan dari Kementerian berupa Dokumen Surat Pernyataan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bersedia berintegrasi dengan sistem informasi ketenagakerjaan dari Kementerian berupa Dokumen Surat Pernyataan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3317a3a7-d468-5486-864c-ae34c8ad8aa8",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dan sertifikasi standar b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja daring (job portal) lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja daring (job portal) d. Bersedia memiliki petugas Antarkerja minimal 1 orang e. Memiliki alur bisnis penempatan tenaga kerja daring (job portal) berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dan sertifikasi standar b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja daring (job portal) lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja daring (job portal) d. Bersedia memiliki petugas Antarkerja minimal 1 orang e. Memiliki alur bisnis penempatan tenaga kerja daring (job portal) berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "aa8b4c38-9ec6-5d76-b940-a4246abf3f50",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kantor yang berkedudukan di wilayah NKRI dengan alamat dan nomor telepon yang jelas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kantor yang berkedudukan di wilayah NKRI dengan alamat dan nomor telepon yang jelas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6671fa42-532c-5948-9aa4-7f6e90ded017",
+       "localization": {
+        "en": {
+         "uraian": "Melampirkan bukti Kepemilikan/bukti Sewa paling singkat 3 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melampirkan bukti Kepemilikan/bukti Sewa paling singkat 3 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fd6e914a-baaa-5307-9287-8bbf2bfefbe1",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Sistem database untuk data pencari kerja, pemberi kerja, lowongan kerja dan penempatan berupa Surat Pernyataan Bersedia memiliki sistem Database dengan Materai cukup",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Sistem database untuk data pencari kerja, pemberi kerja, lowongan kerja dan penempatan berupa Surat Pernyataan Bersedia memiliki sistem Database dengan Materai cukup",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4d0d3363-879d-56cb-a0c0-8006f9590a7a",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja daring (job portal) paling singkat 1 tahun berupa Dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja daring (job portal) paling singkat 1 tahun berupa Dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ed24f61e-165f-5a22-9f2e-464fcee7abdb",
+       "localization": {
+        "en": {
+         "uraian": "Melampirkan profil perusahaan Penempatan Tenaga Kerja Daring (Job Portal) yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melampirkan profil perusahaan Penempatan Tenaga Kerja Daring (Job Portal) yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "ab85c20e-6bdd-52d6-bc37-2b756c1cd925",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "9529c8dd-fcb4-474e-b8d5-b575ca2eeef0",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Daring (Job Portal)"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Daring (Job Portal)"
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "f781a588-0095-528b-9770-9027d1780305",
+     "kode": "78105-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "d682c198-75b2-5c3d-9b42-5cf4734f38a9",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "ff01d312-32c3-5c7a-8bbf-69506dc03510",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penempatan tenaga kerja daring paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penempatan tenaga kerja daring paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "632f6c7c-e040-54f5-a12e-bc38672c390b",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "90da8d42-e1be-5292-a78c-88c6959f0448",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB diterbitkan berupa Dokumen Sertifikat ISO",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB diterbitkan berupa Dokumen Sertifikat ISO",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8279029f-7ec0-5a21-aab1-787fad72bfcf",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki rekomendasi dari Penyelenggara Sistem Elektronik (PSE) dari Kementerian Komunikasi dan Informatika (KOMINFO) berupa Dokumen PSE paling lambat 1 bulan sejak PB diterbitkan[SA13]",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki rekomendasi dari Penyelenggara Sistem Elektronik (PSE) dari Kementerian Komunikasi dan Informatika (KOMINFO) berupa Dokumen PSE paling lambat 1 bulan sejak PB diterbitkan[SA13]",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "35eb8f58-ddc7-55b4-b491-d095986f04ff",
+       "localization": {
+        "en": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "54cbeb9e-54a4-5442-a8a4-ce909f3387d0",
+       "localization": {
+        "en": {
+         "uraian": "Bersedia berintegrasi dengan sistem informasi ketenagakerjaan dari Kementerian berupa Dokumen Surat Pernyataan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bersedia berintegrasi dengan sistem informasi ketenagakerjaan dari Kementerian berupa Dokumen Surat Pernyataan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e9c2c3a8-12b6-592b-8b6c-bd0c891ab996",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dan sertifikasi standar b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja daring (job portal) lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja daring (job portal) d. Bersedia memiliki petugas Antarkerja minimal 1 orang e. Memiliki alur bisnis penempatan tenaga kerja daring (job portal) berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dan sertifikasi standar b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja daring (job portal) lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja daring (job portal) d. Bersedia memiliki petugas Antarkerja minimal 1 orang e. Memiliki alur bisnis penempatan tenaga kerja daring (job portal) berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a25cc8f1-d53a-5cf3-bf67-11e41c4bbb6a",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kantor yang berkedudukan di wilayah NKRI dengan alamat dan nomor telepon yang jelas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kantor yang berkedudukan di wilayah NKRI dengan alamat dan nomor telepon yang jelas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f55808ad-b28d-5a5e-9628-4e716a53f07e",
+       "localization": {
+        "en": {
+         "uraian": "Melampirkan bukti Kepemilikan/bukti Sewa paling singkat 3 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melampirkan bukti Kepemilikan/bukti Sewa paling singkat 3 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "48bee402-588d-5ac3-943d-75b9d3a7a058",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Sistem database untuk data pencari kerja, pemberi kerja, lowongan kerja dan penempatan berupa Surat Pernyataan Bersedia memiliki sistem Database dengan Materai cukup",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Sistem database untuk data pencari kerja, pemberi kerja, lowongan kerja dan penempatan berupa Surat Pernyataan Bersedia memiliki sistem Database dengan Materai cukup",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d5ad1cb7-8e14-5a9d-a1e6-c1a488256819",
+       "localization": {
+        "en": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama minimal 3 tahun berupa Dokumen Surat Perjanjian Sewa dengan Materai cukup",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama minimal 3 tahun berupa Dokumen Surat Perjanjian Sewa dengan Materai cukup",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d56a0878-f0e4-5de1-bbc7-1cee582d18e4",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja daring (job portal) paling singkat 1 tahun berupa Dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja daring (job portal) paling singkat 1 tahun berupa Dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "00519132-6cca-5ca4-8fbe-89ffd4e30016",
+       "localization": {
+        "en": {
+         "uraian": "Melampirkan profil perusahaan Penempatan Tenaga Kerja Daring (Job Portal) yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melampirkan profil perusahaan Penempatan Tenaga Kerja Daring (Job Portal) yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "71754386-1668-56fd-be68-23d9314d3e24",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "9529c8dd-fcb4-474e-b8d5-b575ca2eeef0",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Daring (Job Portal)"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Daring (Job Portal)"
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "a0c01b30-7283-5051-8d01-5d57fee1066c",
+     "kode": "78105-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "3560ee89-230a-53b3-af78-a07ffeb725fe",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d760cab0-d8fd-5841-a1bf-9233d6b1555d",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "d44a41b8-e48b-5348-b162-8a839ba4b6ca",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penempatan tenaga kerja daring paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penempatan tenaga kerja daring paling lambat 1 tahun sejak PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8fb640fe-34bb-5103-a163-20366cc2e448",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan penempatan tenaga kerja secara berkala setiap 3 bulan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e231f15b-2a54-527b-bb17-da1aa077097a",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB diterbitkan berupa Dokumen Sertifikat ISO",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem manajemen mutu yang dibuktikan dengan sertifikat ISO 9001 setelah 5 tahun PB diterbitkan berupa Dokumen Sertifikat ISO",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9e09bd33-df79-5db5-9105-21173c0f8760",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki rekomendasi dari Penyelenggara Sistem Elektronik (PSE) dari Kementerian Komunikasi dan Informatika (KOMINFO) berupa Dokumen PSE paling lambat 1 bulan sejak PB diterbitkan[SA13]",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki rekomendasi dari Penyelenggara Sistem Elektronik (PSE) dari Kementerian Komunikasi dan Informatika (KOMINFO) berupa Dokumen PSE paling lambat 1 bulan sejak PB diterbitkan[SA13]",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "b02ad87a-3e5a-5371-b2dd-e0c1e320a378",
+       "localization": {
+        "en": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbadan hukum dalam bentuk Perseroan Terbatas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "20546d20-daf3-54f2-87f0-a4f3b2566176",
+       "localization": {
+        "en": {
+         "uraian": "Bersedia berintegrasi dengan sistem informasi ketenagakerjaan dari Kementerian berupa Dokumen Surat Pernyataan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bersedia berintegrasi dengan sistem informasi ketenagakerjaan dari Kementerian berupa Dokumen Surat Pernyataan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ef134dfc-f8ac-55e4-af9e-ce4b101f9180",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dan sertifikasi standar b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja daring (job portal) lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja daring (job portal) d. Bersedia memiliki petugas Antarkerja minimal 1 orang e. Memiliki alur bisnis penempatan tenaga kerja daring (job portal) berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Surat Pernyataan mengenai Komitmen penanggung jawab perusahaan memuat: a. Bersedia menerapkan standar penempatan tenaga kerja dan sertifikasi standar b. Tidak merangkap sebagai penanggung jawab pada usaha penempatan tenaga kerja daring (job portal) lain c. Tidak pernah dijatuhi hukuman pidana yang berkaitan dengan penempatan tenaga kerja daring (job portal) d. Bersedia memiliki petugas Antarkerja minimal 1 orang e. Memiliki alur bisnis penempatan tenaga kerja daring (job portal) berupa Dokumen Alur Bisnis Proses Penempatan Tenaga Kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6d05b97d-f056-5a1e-a1dc-04075e7fb3be",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kantor yang berkedudukan di wilayah NKRI dengan alamat dan nomor telepon yang jelas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kantor yang berkedudukan di wilayah NKRI dengan alamat dan nomor telepon yang jelas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "90a49245-4afd-5c39-91ef-e60cbdfe0e09",
+       "localization": {
+        "en": {
+         "uraian": "Melampirkan bukti Kepemilikan/bukti Sewa paling singkat 3 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melampirkan bukti Kepemilikan/bukti Sewa paling singkat 3 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6eda27b4-d15d-54c6-b07e-a451db8c97c9",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Sistem database untuk data pencari kerja, pemberi kerja, lowongan kerja dan penempatan berupa Surat Pernyataan Bersedia memiliki sistem Database dengan Materai cukup",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Sistem database untuk data pencari kerja, pemberi kerja, lowongan kerja dan penempatan berupa Surat Pernyataan Bersedia memiliki sistem Database dengan Materai cukup",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e00a270a-5424-50f9-9bec-65608e999c07",
+       "localization": {
+        "en": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama minimal 3 tahun berupa Dokumen Surat Perjanjian Sewa dengan Materai cukup",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Penguasaan sarana dan prasarana kantor dibuktikan dengan surat kepemilikan atau perjanjian sewa/kontrak/kerjasama minimal 3 tahun berupa Dokumen Surat Perjanjian Sewa dengan Materai cukup",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "911ed13c-6aad-5ee3-b842-6d35055d7aa6",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja daring (job portal) paling singkat 1 tahun berupa Dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kerja usaha penempatan tenaga kerja daring (job portal) paling singkat 1 tahun berupa Dokumen Rencana Usaha Penempatan Tenaga Kerja 1 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ee06a953-61ad-515c-80f4-4ae3bd236cdd",
+       "localization": {
+        "en": {
+         "uraian": "Melampirkan profil perusahaan Penempatan Tenaga Kerja Daring (Job Portal) yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melampirkan profil perusahaan Penempatan Tenaga Kerja Daring (Job Portal) yang ditandatangani oleh penanggung jawab memuat: a. struktur organisasi dilengkapi dengan foto, nama yang menjabat dan uraian tugas b. CV direktur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "31d37223-fc61-54be-a852-0561c5e63343",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "9529c8dd-fcb4-474e-b8d5-b575ca2eeef0",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Daring (Job Portal)"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Daring (Job Portal)"
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "7213abba-4b78-429f-9317-817c21f3230b",
+    "kode": "026",
+    "localization": {
+     "en": {
+      "uraian": "Ketenagakerjaan",
+      "deskripsi": "Kementerian Ketenagakerjaan"
+     },
+     "id": {
+      "uraian": "Ketenagakerjaan",
+      "deskripsi": "Kementerian Ketenagakerjaan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

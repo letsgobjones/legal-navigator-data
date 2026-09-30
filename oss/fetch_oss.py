@@ -22,6 +22,7 @@ Usage (from the repo root):
     python3 oss/fetch_oss.py --refresh  # re-fetch every code, then build
     python3 oss/fetch_oss.py --offline  # rebuild from existing snapshots only
     python3 oss/fetch_oss.py --refresh --only=14111,74113   # just these codes
+    python3 oss/fetch_oss.py --all-kelompok      # every KBLI 2025 kelompok (5-digit) code
     python3 oss/fetch_oss.py --reextract  # re-read saved pages (oss/raw/pages), then rebuild
 """
 
@@ -331,6 +332,11 @@ def main():
         offline = True
     scope = json.loads(SCOPE_FILE.read_text(encoding="utf-8"))
     kbli2025 = {e["code"]: e for e in json.loads(KBLI_2025_JSON.read_text(encoding="utf-8"))["entries"]}
+    if "--all-kelompok" in sys.argv:
+        # Every 5-digit KBLI 2025 code; Fesyen/Kriya tags still come from the scope file.
+        tagged = {c["code"]: c for c in scope["codes"]}
+        scope["codes"] = [tagged.get(code, {"code": code, "subsectors": [], "reason": None})
+                          for code, e in kbli2025.items() if e["level"] == "kelompok"]
     RAW.mkdir(exist_ok=True)
 
     only = next((a.split("=", 1)[1].split(",") for a in sys.argv if a.startswith("--only=")), None)
@@ -341,14 +347,19 @@ def main():
         if offline or (path.exists() and not refresh):
             continue
         print(f"fetching {item['code']} …", flush=True)
-        snapshot = fetch(item["code"])
+        try:
+            snapshot = fetch(item["code"])
+        except Exception as exc:          # network hiccup: skip; a rerun picks it up
+            print(f"  failed: {exc}", flush=True)
+            time.sleep(10)
+            continue
         path.write_text(json.dumps(snapshot, ensure_ascii=False, indent=1), encoding="utf-8")
 
     entries = []
     for item in scope["codes"]:
         path = RAW / f"{item['code']}.json"
         if not path.exists():
-            print(f"missing snapshot for {item['code']} (run without --offline)", file=sys.stderr)
+            print(f"missing snapshot for {item['code']} (rerun to fetch it)", file=sys.stderr)
             continue
         entries.append(normalize(json.loads(path.read_text(encoding="utf-8")), item, kbli2025))
 
@@ -381,8 +392,12 @@ def main():
             print("  " + e, file=sys.stderr)
         sys.exit(1)
 
+    # One entry per line: keeps the file small (GitHub warns above 50 MB) while
+    # a change to one code still shows up as a change to that code's line.
+    body = ",\n".join(json.dumps(e, ensure_ascii=False, separators=(",", ":")) for e in entries)
     (HERE / "oss_licensing.json").write_text(
-        json.dumps({"meta": meta, "entries": entries}, ensure_ascii=False, indent=2), encoding="utf-8")
+        '{"meta":' + json.dumps(meta, ensure_ascii=False) + ',\n"entries":[\n' + body + "\n]}\n",
+        encoding="utf-8")
     print(f"Wrote {meta['counts']}; {len(warnings)} warnings -> review_report.md")
 
 

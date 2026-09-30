@@ -1,0 +1,776 @@
+{
+ "code": "93296",
+ "found": true,
+ "ossId": "7bca0c7d-473f-587d-8c88-317588c7ec02",
+ "url": "https://oss.go.id/id/kbli/detail/7bca0c7d-473f-587d-8c88-317588c7ec02",
+ "fetchedAt": "2026-09-30T05:49:30+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 93231 berubah menjadi 93296 pada KBLI 2025.",
+  "from2020": [
+   "93231"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "a8ad677c-8f0b-5de1-9002-d98f5b60aab8",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "7bca0c7d-473f-587d-8c88-317588c7ec02",
+    "localization": {
+     "en": {
+      "judul": "Wisata Agro",
+      "uraian": "$4b"
+     },
+     "id": {
+      "judul": "Wisata Agro",
+      "uraian": "$4c"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "3b7d9112-58d9-5969-ac5d-f4c576a0e655",
+     "kode": "93296-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "a1aa79d1-a779-5990-b80d-64b07274fe69",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat standar usaha pariwisata dari LSPr (khusus PMA)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat standar usaha pariwisata dari LSPr (khusus PMA)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "caf950db-b899-5e8d-a27e-598b34760b1f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Wisata Agro meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Wisata Agro meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "0e0fa996-f20d-5d43-88e0-ff967cd9091a",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "4d0e87a4-d689-5ed1-8133-2d97f4a8b4b4",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "b6917e91-1504-4d4d-bd89-053b37d5cbf6",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "2721205d-9bf6-576d-8611-d74af637c4d0",
+     "kode": "93296-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "3fd4e848-bc9a-5914-b479-989a59f88093",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat standar usaha pariwisata dari LSPr (khusus PMA)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat standar usaha pariwisata dari LSPr (khusus PMA)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "2678f426-2729-564e-b6c1-738093c9890e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Wisata Agro meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Wisata Agro meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "422391b3-c3b2-56f5-8c6e-a8d6574d3f81",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "26c6d5b8-fc7a-5c5b-bef8-be6ce05046ea",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "b6917e91-1504-4d4d-bd89-053b37d5cbf6",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "7fc78e91-229c-5ae4-9c9b-04fc406b884f",
+     "kode": "93296-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "adc6d6bb-d6a7-5c95-b36b-8b4c36cf22ac",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat standar usaha pariwisata dari LSPr (khusus PMA)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat standar usaha pariwisata dari LSPr (khusus PMA)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "eef681b1-23c3-5e7f-aeac-3a5cbc6591fc",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Wisata Agro meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Wisata Agro meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "810e7345-1b1c-57a5-afb2-673895eba8aa",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "8448598d-ca92-5f3b-ab03-4e21b9347419",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "b6917e91-1504-4d4d-bd89-053b37d5cbf6",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "ac82a917-f5ce-5ac0-91ab-2f9e53557c0c",
+     "kode": "93296-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "36872918-307b-5870-974f-f1bd67cb422f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat standar usaha pariwisata dari LSPr (khusus PMA)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat standar usaha pariwisata dari LSPr (khusus PMA)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "02c542d1-35e2-57b2-922c-292ae476faf1",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Wisata Agro meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Wisata Agro meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "957eaedf-d22e-5adc-95e4-08bb975cf4a2",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cd304d29-5112-5d63-8f5d-c1a18d9617b6",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "8fd7d891-a410-57b9-97c6-8a4ba068f924",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "b6917e91-1504-4d4d-bd89-053b37d5cbf6",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "5f1c2ac8-6dbf-493b-975b-ead6a9be61ab",
+    "kode": "040",
+    "localization": {
+     "en": {
+      "uraian": "Pariwisata",
+      "deskripsi": "Kementerian Pariwisata"
+     },
+     "id": {
+      "uraian": "Pariwisata",
+      "deskripsi": "Kementerian Pariwisata"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "37952b43-b21c-4212-956f-03644b229584",
+   "kode": "020000000058",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Perizinan berusaha pengusahaan panas bumi untuk pemanfaatan langsung"
+    },
+    "id": {
+     "nama_dokumen": "Perizinan berusaha pengusahaan panas bumi untuk pemanfaatan langsung"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "21690b69-1e10-4766-8e1e-57e422e2ff0d",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Standar pengambilan fluida panas bumi untuk pemanfaatan langsung.</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Standar pengambilan fluida panas bumi untuk pemanfaatan langsung.</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Telah mendapatkan perizinan berusaha sesuai dengan sektornya (misalnya pelaku usaha yang telah mendapatkan perizinan berusaha untuk pemandian alam dan akan mengusahakan panas bumi untuk pemanfaatan langsung dalam pemandian alam maka pelaku usaha hanya memenuhi STANDAR pengusahaan panas bumi untuk pemanfaatan langsung)</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Telah mendapatkan perizinan berusaha sesuai dengan sektornya (misalnya pelaku usaha yang telah mendapatkan perizinan berusaha untuk pemandian alam dan akan mengusahakan panas bumi untuk pemanfaatan langsung dalam pemandian alam maka pelaku usaha hanya memenuhi STANDAR pengusahaan panas bumi untuk pemanfaatan langsung)</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Telah mendapatkan perizinan berusaha sesuai dengan sektornya (misalnya pelaku usaha yang telah mendapatkan perizinan berusaha untuk pemandian alam dan akan mengusahakan panas bumi untuk pemanfaatan langsung dalam pemandian alam maka pelaku usaha hanya memenuhi STANDAR pengusahaan panas bumi untuk pemanfaatan langsung)</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Telah mendapatkan perizinan berusaha sesuai dengan sektornya (misalnya pelaku usaha yang telah mendapatkan perizinan berusaha untuk pemandian alam dan akan mengusahakan panas bumi untuk pemanfaatan langsung dalam pemandian alam maka pelaku usaha hanya memenuhi STANDAR pengusahaan panas bumi untuk pemanfaatan langsung)</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Standar pengambilan fluida panas bumi untuk pemanfaatan langsung.</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Standar pengambilan fluida panas bumi untuk pemanfaatan langsung.</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Melakukan pengendalian pencemaran dan/atau kerusakan lingkungan hidup yang meliputi kegiatan pencegahan, penanggulangan, dan pemulihan fungsi lingkungan hidup</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Melakukan pengendalian pencemaran dan/atau kerusakan lingkungan hidup yang meliputi kegiatan pencegahan, penanggulangan, dan pemulihan fungsi lingkungan hidup</p>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Memenuhi standar pengambilan fluida panas bumi untuk pemanfaatan langsung.</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Memenuhi standar pengambilan fluida panas bumi untuk pemanfaatan langsung.</p>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Memahami dan menaati peraturan perundang-undangan di bidang keselamatan dan kesehatan kerja serta perlindungan dan pengelolaan lingkungan hidup dan memenuhi standar yang berlaku</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Memahami dan menaati peraturan perundang-undangan di bidang keselamatan dan kesehatan kerja serta perlindungan dan pengelolaan lingkungan hidup dan memenuhi standar yang berlaku</p>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Memenuhi standar pengambilan fluida panas bumi untuk pemanfaatan langsung.</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Memenuhi standar pengambilan fluida panas bumi untuk pemanfaatan langsung.</p>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Melakukan pengendalian pencemaran dan/atau kerusakan lingkungan hidup yang meliputi kegiatan pencegahan, penanggulangan, dan pemulihan fungsi lingkungan hidup</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Melakukan pengendalian pencemaran dan/atau kerusakan lingkungan hidup yang meliputi kegiatan pencegahan, penanggulangan, dan pemulihan fungsi lingkungan hidup</p>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Memahami dan menaati peraturan perundang-undangan di bidang keselamatan dan kesehatan kerja serta perlindungan dan pengelolaan lingkungan hidup dan memenuhi standar yang berlaku</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Memahami dan menaati peraturan perundang-undangan di bidang keselamatan dan kesehatan kerja serta perlindungan dan pengelolaan lingkungan hidup dan memenuhi standar yang berlaku</p>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

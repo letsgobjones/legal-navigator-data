@@ -1,0 +1,976 @@
+{
+ "code": "47215",
+ "found": true,
+ "ossId": "08e1baf0-522a-5543-be53-551537b5fc85",
+ "url": "https://oss.go.id/id/kbli/detail/08e1baf0-522a-5543-be53-551537b5fc85",
+ "fetchedAt": "2026-09-30T04:55:24+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 47215 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "47215"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "bf53014d-bc82-5aa9-8507-643a4103edde",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "08e1baf0-522a-5543-be53-551537b5fc85",
+    "localization": {
+     "en": {
+      "judul": "Perdagangan Eceran Hasil Perikanan",
+      "uraian": "Kelompok ini mencakup perdagangan eceran khusus hasil perikanan, seperti udang segar, ikan segar, cumi-cumi segar, dan rumput laut."
+     },
+     "id": {
+      "judul": "Perdagangan Eceran Hasil Perikanan",
+      "uraian": "Kelompok ini mencakup perdagangan eceran khusus hasil perikanan, seperti udang segar, ikan segar, cumi-cumi segar, dan rumput laut."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": [
+     {
+      "id": "54c31022-3ee4-4ac4-8276-2628de68c0fd",
+      "localization": {
+       "en": {
+        "uraian": "Merupakan Bidang Usaha Perdagangan Eceran, sehingga tidak dapat dijalankan secara bersamaan dengan Bidang Usaha Perdagangan Besar sebagaimana diatur di dalam Peraturan Pemerintah No. 29 Tahun 2021."
+       },
+       "id": {
+        "uraian": "Merupakan Bidang Usaha Perdagangan Eceran, sehingga tidak dapat dijalankan secara bersamaan dengan Bidang Usaha Perdagangan Besar sebagaimana diatur di dalam Peraturan Pemerintah No. 29 Tahun 2021."
+       }
+      }
+     }
+    ]
+   },
+   "KbliResikos": [
+    {
+     "id": "a7079405-539b-5bad-a082-f920f0ddc27a",
+     "kode": "47215-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "5e778e60-7734-5d37-af18-8e198c798be9",
+       "localization": {
+        "en": {
+         "uraian": "Laporan kegiatan usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Laporan kegiatan usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "c5199666-0e7a-5a3f-b945-c8c9d6525fce",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem jaminan mutu dan keamanan hasil perikanan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem jaminan mutu dan keamanan hasil perikanan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "c9250a86-7b83-5413-9037-44a904377b85",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan cara distribusi ikan yang baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan cara distribusi ikan yang baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "23b75f34-d708-5b2f-b0f5-63738b9f94a3",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": []
+    },
+    {
+     "id": "de23aab9-961c-5ea0-a0e1-8fddc8874040",
+     "kode": "47215-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "21d004d8-f0b1-5597-976c-1cc7f0f1bc1a",
+       "localization": {
+        "en": {
+         "uraian": "Laporan kegiatan usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Laporan kegiatan usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "9d67ed2f-7897-5c67-aa9b-c787938060ca",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem jaminan mutu dan keamanan hasil perikanan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem jaminan mutu dan keamanan hasil perikanan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "c7f4f110-c676-51af-b440-bd5911433118",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan cara distribusi ikan yang baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan cara distribusi ikan yang baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "7b7ee979-dae7-5de1-8e63-ae4ed999969c",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": []
+    },
+    {
+     "id": "94cbac47-de3b-51e8-a97a-db7c6437adb5",
+     "kode": "47215-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "5befa2f8-ca57-53af-8af0-21476addbfb3",
+       "localization": {
+        "en": {
+         "uraian": "Laporan kegiatan usaha paling sedikit memuat: a. Jenis dan kapasitas sarana dan prasarana b. Perkembangan omzet dan aset c. Penggunaan tenaga kerja yang meliputi asal tenaga kerja, status tenaga kerja, dan jenis kelamin tenaga kerja serta jumlah hari kerja tenaga kerja d. Asal bahan baku, wilayah distribusi dan mitra usaha e. Jenis dan volume bahan baku dan f. Jenis dan volume produk yang dihasilkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Laporan kegiatan usaha paling sedikit memuat: a. Jenis dan kapasitas sarana dan prasarana b. Perkembangan omzet dan aset c. Penggunaan tenaga kerja yang meliputi asal tenaga kerja, status tenaga kerja, dan jenis kelamin tenaga kerja serta jumlah hari kerja tenaga kerja d. Asal bahan baku, wilayah distribusi dan mitra usaha e. Jenis dan volume bahan baku dan f. Jenis dan volume produk yang dihasilkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "26179427-d364-532e-9931-c808559cf1e0",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Sertifikat penerapan distribusi ikan paling lama 1 (satu) tahun setelah Perizinan Berusaha terbit",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Sertifikat penerapan distribusi ikan paling lama 1 (satu) tahun setelah Perizinan Berusaha terbit",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "cdafbe5e-7f7d-57f4-ad54-93a4a2a6094e",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "40d05109-343d-58e1-8d12-af6eb4ed232e",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "576e09d4-3205-5501-b1ed-21d9c5eb31b0",
+        "local": {
+         "en": {
+          "uraian": "Seluruh PMDN",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh PMDN",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "de59a657-cd8a-564f-ab67-3c38e323e36f",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a3280530-1f86-4b60-9a3d-7a920b9d402b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "8c3c88af-a246-502e-9356-caae10f1cc4a",
+     "kode": "47215-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "564c605b-8b08-522f-a2d9-d14f0c165d62",
+       "localization": {
+        "en": {
+         "uraian": "Laporan kegiatan usaha paling sedikit memuat: a. Jenis dan kapasitas sarana dan prasarana b. Perkembangan omzet dan aset c. Penggunaan tenaga kerja yang meliputi asal tenaga kerja, status tenaga kerja, dan jenis kelamin tenaga kerja serta jumlah hari kerja tenaga kerja d. Asal bahan baku, wilayah distribusi dan mitra usaha e. Jenis dan volume bahan baku dan f. Jenis dan volume produk yang dihasilkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Laporan kegiatan usaha paling sedikit memuat: a. Jenis dan kapasitas sarana dan prasarana b. Perkembangan omzet dan aset c. Penggunaan tenaga kerja yang meliputi asal tenaga kerja, status tenaga kerja, dan jenis kelamin tenaga kerja serta jumlah hari kerja tenaga kerja d. Asal bahan baku, wilayah distribusi dan mitra usaha e. Jenis dan volume bahan baku dan f. Jenis dan volume produk yang dihasilkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "e74bbdd0-7d81-50f0-bcee-2d7086a4df34",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Sertifikat penerapan distribusi ikan paling lama 1 (satu) tahun setelah Perizinan Berusaha terbit",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Sertifikat penerapan distribusi ikan paling lama 1 (satu) tahun setelah Perizinan Berusaha terbit",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "b44f8664-3fb5-5e37-995e-2734f5a2024a",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "576e09d4-3205-5501-b1ed-21d9c5eb31b0",
+        "local": {
+         "en": {
+          "uraian": "Seluruh PMDN",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh PMDN",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "58eb4c67-e967-5f35-9698-474b6762864b",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9aece8e1-6ae9-50f1-aabc-51708ae82687",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "743f4522-ff6b-53ef-ab29-4b5515040bdb",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a3280530-1f86-4b60-9a3d-7a920b9d402b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "d63f36d7-15b1-4d8f-8f95-f0149e9f1e9a",
+    "kode": "032",
+    "localization": {
+     "en": {
+      "uraian": "Kelautan dan Perikanan",
+      "deskripsi": "Kementerian Kelautan dan Perikanan"
+     },
+     "id": {
+      "uraian": "Kelautan dan Perikanan",
+      "deskripsi": "Kementerian Kelautan dan Perikanan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "6986f766-0686-442a-a6d6-72a315e3a922",
+   "kode": "032000000023",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat Kelayakan Pengolahan (SKP)"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat Kelayakan Pengolahan (SKP)"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "066bd945-94b5-5a91-a70d-470d3b86936e",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Perizinan Berusaha Subsektor Pengolahan Ikan dan/atau Pemasaran Ikan."
+      },
+      "id": {
+       "syarat_perizinan": "Perizinan Berusaha Subsektor Pengolahan Ikan dan/atau Pemasaran Ikan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat Pengolah Ikan atau sertifikat keterampilan.dibidang keamanan pangan yang setara bagi penanggung jawab mutu."
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat Pengolah Ikan atau sertifikat keterampilan.dibidang keamanan pangan yang setara bagi penanggung jawab mutu."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Panduan mutu penerapan Cara Pengolahan Ikan yang Baik dan pemenuhan persyaratan Prosedur Operasi Standar Sanitasi."
+      },
+      "id": {
+       "syarat_perizinan": "Panduan mutu penerapan Cara Pengolahan Ikan yang Baik dan pemenuhan persyaratan Prosedur Operasi Standar Sanitasi."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Rekomendasi Kelayakan Pengolahan dari Pembina Mutu di Daerah."
+      },
+      "id": {
+       "syarat_perizinan": "Rekomendasi Kelayakan Pengolahan dari Pembina Mutu di Daerah."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat Pengolah Ikan atau sertifikat keterampilan dibidang keamanan pangan yang setara bagi penanggung jawab mutu."
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat Pengolah Ikan atau sertifikat keterampilan dibidang keamanan pangan yang setara bagi penanggung jawab mutu."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Perizinan Berusaha Subsektor Pengolahan Ikan dan/atau Pemasaran Ikan."
+      },
+      "id": {
+       "syarat_perizinan": "Perizinan Berusaha Subsektor Pengolahan Ikan dan/atau Pemasaran Ikan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memenuhi standar kelayakan pengolahan"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi standar kelayakan pengolahan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Panduan mutu penerapan Cara Pengolahan Ikan yang Baik dan pemenuhan persyaratan Prosedur Operasi Standar Sanitasi."
+      },
+      "id": {
+       "syarat_perizinan": "Panduan mutu penerapan Cara Pengolahan Ikan yang Baik dan pemenuhan persyaratan Prosedur Operasi Standar Sanitasi."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Panduan mutu penerapan cara pengolahan ikan yang baik dan pemenuhan persyaratan Prosedur Standar Operasi Sanitasi"
+      },
+      "id": {
+       "syarat_perizinan": "Panduan mutu penerapan cara pengolahan ikan yang baik dan pemenuhan persyaratan Prosedur Standar Operasi Sanitasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Rekomendasi Kelayakan Pengolahan dari Pembina Mutu di Daerah."
+      },
+      "id": {
+       "syarat_perizinan": "Rekomendasi Kelayakan Pengolahan dari Pembina Mutu di Daerah."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat pengolah ikan atau sertifikat keterampilan di bidang keamanan pangan yang setara bagi penanggung jawab mutu"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat pengolah ikan atau sertifikat keterampilan di bidang keamanan pangan yang setara bagi penanggung jawab mutu"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan hasil pembinaan"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan hasil pembinaan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan GMP dan SSOP pada proses penanganan dan/atau pengolahan hasil perikanan secara konsisten."
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan GMP dan SSOP pada proses penanganan dan/atau pengolahan hasil perikanan secara konsisten."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mencantumkan logo SKP pada produk perikanan dalam bentuk kemasan atau fotokopi SKP pada produk perikanan dalam bentuk curah."
+      },
+      "id": {
+       "syarat_perizinan": "Mencantumkan logo SKP pada produk perikanan dalam bentuk kemasan atau fotokopi SKP pada produk perikanan dalam bentuk curah."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan volume produksi, tujuan pemasaran, kendala yang dihadapi setiap 1 tahun sekali."
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan volume produksi, tujuan pemasaran, kendala yang dihadapi setiap 1 tahun sekali."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mencantumkan logo SKP pada produk perikanan dalam bentuk kemasan atau fotokopi SKP pada produk perikanan dalam bentuk curah."
+      },
+      "id": {
+       "syarat_perizinan": "Mencantumkan logo SKP pada produk perikanan dalam bentuk kemasan atau fotokopi SKP pada produk perikanan dalam bentuk curah."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan kegiatan usaha setiap 6 (enam) bulan sekali atau sewaktu-waktu apabila diperlukan yang memuat paling sedikit:"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan kegiatan usaha setiap 6 (enam) bulan sekali atau sewaktu-waktu apabila diperlukan yang memuat paling sedikit:"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Standar pelaksanaan usaha dan"
+      },
+      "id": {
+       "syarat_perizinan": "Standar pelaksanaan usaha dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan standar kelayakan pengolahan secara konsisten dan"
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan standar kelayakan pengolahan secara konsisten dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan volume produksi, tujuan pemasaran, kendala yang dihadapi setiap 1 tahun sekali."
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan volume produksi, tujuan pemasaran, kendala yang dihadapi setiap 1 tahun sekali."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan GMP dan SSOP pada proses penanganan dan/atau pengolahan hasil perikanan secara konsisten."
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan GMP dan SSOP pada proses penanganan dan/atau pengolahan hasil perikanan secara konsisten."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Perkembangan kegiatan usaha"
+      },
+      "id": {
+       "syarat_perizinan": "Perkembangan kegiatan usaha"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Menerapkan standar kelayakan pengolahan secara konsisten dan</p><ol style=\"list-style-type: lower-alpha;\"><li>Menyampaikan laporan kegiatan usaha setiap 6 (enam) bulan sekali atau sewaktu-waktu apabila diperlukan yang memuat paling sedikit:</li><li>Standar pelaksanaan usaha dan</li><li>Perkembangan kegiatan usaha</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menerapkan standar kelayakan pengolahan secara konsisten dan</p><ol style=\"list-style-type: lower-alpha;\"><li>Menyampaikan laporan kegiatan usaha setiap 6 (enam) bulan sekali atau sewaktu-waktu apabila diperlukan yang memuat paling sedikit:</li><li>Standar pelaksanaan usaha dan</li><li>Perkembangan kegiatan usaha</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "d63f36d7-15b1-4d8f-8f95-f0149e9f1e9a",
+    "kode": "032",
+    "localization": {
+     "en": {
+      "uraian": "Kelautan dan Perikanan",
+      "deskripsi": "Kementerian Kelautan dan Perikanan"
+     },
+     "id": {
+      "uraian": "Kelautan dan Perikanan",
+      "deskripsi": "Kementerian Kelautan dan Perikanan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

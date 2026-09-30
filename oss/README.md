@@ -4,7 +4,7 @@ Licensing data per KBLI 2025 code, taken from the public OSS RBA KBLI pages (`ht
 
 ## How it works
 
-For each code in [`../scope/creative_subsectors.json`](../scope/creative_subsectors.json), `fetch_oss.py`:
+For each code in [`../scope/creative_subsectors.json`](../scope/creative_subsectors.json) (or every KBLI 2025 kelompok with `--all-kelompok`), `fetch_oss.py`:
 
 1. searches OSS for the code (the same request the oss.go.id search box makes) to get its page id;
 2. fetches the public detail page `https://oss.go.id/id/kbli/detail/<id>` and reads the structured data embedded in it;
@@ -26,6 +26,9 @@ python3 oss/fetch_oss.py --refresh             # re-fetch every code
 python3 oss/fetch_oss.py --refresh --only=14111,74113   # re-fetch just these codes
 ```
 ```bash
+python3 oss/fetch_oss.py --all-kelompok        # every KBLI 2025 kelompok (5-digit) code; rerun to retry failures
+```
+```bash
 python3 oss/fetch_oss.py --reextract           # re-read saved pages (no network), then build
 ```
 ```bash
@@ -38,7 +41,7 @@ After a refresh, `git diff oss/` shows exactly what OSS changed.
 
 | File | What it is |
 |---|---|
-| `oss_licensing.json` | The data the app uses: `{meta, entries}` |
+| `oss_licensing.json` | The data the app uses: `{meta, entries}`, written one code per line to keep the file small (any JSON parser reads it normally) |
 | `raw/<code>.json` | Snapshot of what OSS returned for that code, with URL and fetch time |
 | `review_report.md` | Warnings, plus a risk table by code and business scale |
 

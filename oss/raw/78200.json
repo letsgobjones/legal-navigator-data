@@ -1,0 +1,624 @@
+{
+ "code": "78200",
+ "found": true,
+ "ossId": "fa9d35ef-9fef-5995-a2eb-8ec4208976da",
+ "url": "https://oss.go.id/id/kbli/detail/fa9d35ef-9fef-5995-a2eb-8ec4208976da",
+ "fetchedAt": "2026-09-30T05:29:01+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 78300 berubah menjadi 78200 pada KBLI 2025.",
+  "from2020": [
+   "78300"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "b6b7f6b0-c55d-5beb-9cc8-75e2b6aa2839",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "fa9d35ef-9fef-5995-a2eb-8ec4208976da",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Penyediaan Tenaga Kerja Sementara dan Penyediaan Sumber Daya Manusia Lainnya",
+      "uraian": "$4b"
+     },
+     "id": {
+      "judul": "Aktivitas Penyediaan Tenaga Kerja Sementara dan Penyediaan Sumber Daya Manusia Lainnya",
+      "uraian": "$4c"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "237bafc3-0984-5e35-9e21-e4e707d1e0c3",
+     "kode": "78200-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "ce9f0ea6-0837-5dad-83bd-e57659ded206",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "dc8fa780-b30b-5deb-aefd-a818251409bc",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan standar K3L",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan standar K3L",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "2e21831a-b1da-5f9a-9957-523949ab2927",
+       "localization": {
+        "en": {
+         "uraian": "Mencatatkan perjanjian alih daya kepada instansi yang berwenang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mencatatkan perjanjian alih daya kepada instansi yang berwenang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "89121474-1852-5ff3-987b-01feb702a6f2",
+       "localization": {
+        "en": {
+         "uraian": "Menjalankan kegiatan usaha paling lambat 1 tahun setelah PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjalankan kegiatan usaha paling lambat 1 tahun setelah PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "374cdb49-086d-5018-8292-7a05c1bb4f2b",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan perubahan data meliputi: a. Nama perusahaan alih daya b. Penanggung jawab perusahaan alih daya c. Alamat perusahaan alih daya dan/ atau d. Bidang usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan perubahan data meliputi: a. Nama perusahaan alih daya b. Penanggung jawab perusahaan alih daya c. Alamat perusahaan alih daya dan/ atau d. Bidang usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": []
+    },
+    {
+     "id": "cc44e041-6b05-52e4-aee5-b6f114a68427",
+     "kode": "78200-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "db4f10fc-77d7-5250-b9f0-625522212d0f",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "e481e613-d481-5b55-8904-2ce9b4d81a87",
+       "localization": {
+        "en": {
+         "uraian": "Menjalankan kegiatan usaha paling lambat 1 tahun setelah PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjalankan kegiatan usaha paling lambat 1 tahun setelah PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "62e611b6-ef39-5897-ad5b-10f224d557ab",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan standar K3L",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan standar K3L",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "481b946a-7ed1-5615-a340-8f13994fbdb6",
+       "localization": {
+        "en": {
+         "uraian": "Mencatatkan perjanjian alih daya kepada instansi yang berwenang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mencatatkan perjanjian alih daya kepada instansi yang berwenang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "9bde0241-e8d7-56dc-b97e-81a55b6f229c",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan perubahan data meliputi: a. Nama perusahaan alih daya b. Penanggung jawab perusahaan alih daya c. Alamat perusahaan alih daya dan/ atau d. Bidang usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan perubahan data meliputi: a. Nama perusahaan alih daya b. Penanggung jawab perusahaan alih daya c. Alamat perusahaan alih daya dan/ atau d. Bidang usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": []
+    },
+    {
+     "id": "b71e091b-6785-5ae1-9165-ba82d20c9949",
+     "kode": "78200-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "3e1573e9-36f2-5ea3-85ad-c0075e18ca0f",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "41acfac2-6a2c-5479-933d-ecf9ecd36f05",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan standar K3L",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan standar K3L",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "94edacb1-b586-507b-a287-ea3d28339bf2",
+       "localization": {
+        "en": {
+         "uraian": "Mencatatkan perjanjian alih daya kepada instansi yang berwenang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mencatatkan perjanjian alih daya kepada instansi yang berwenang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "f02be51f-8c91-505c-8b2f-0bbc61dbbe7a",
+       "localization": {
+        "en": {
+         "uraian": "Menjalankan kegiatan usaha paling lambat 1 tahun setelah PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjalankan kegiatan usaha paling lambat 1 tahun setelah PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "585efa0e-5ac6-5bad-83ae-06e7e5a0ae58",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan perubahan data meliputi: a. Nama perusahaan alih daya b. Penanggung jawab perusahaan alih daya c. Alamat perusahaan alih daya dan/ atau d. Bidang usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan perubahan data meliputi: a. Nama perusahaan alih daya b. Penanggung jawab perusahaan alih daya c. Alamat perusahaan alih daya dan/ atau d. Bidang usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": []
+    },
+    {
+     "id": "a3aa2ad2-cd4b-597a-9256-a26168eb1f5e",
+     "kode": "78200-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "8db7590c-f9e3-5ada-a0d6-1d5152d61d02",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e66b233e-b784-5b30-9473-1a6eb7c24004",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "4326faa3-4a56-59d3-afe7-9e72723f1330",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan standar K3L",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan standar K3L",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "f33d42dc-aca8-5aeb-8d56-cb8362834e4b",
+       "localization": {
+        "en": {
+         "uraian": "Mencatatkan perjanjian alih daya kepada instansi yang berwenang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mencatatkan perjanjian alih daya kepada instansi yang berwenang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "06c8e155-7d55-599a-94af-c3ceb7e32f9f",
+       "localization": {
+        "en": {
+         "uraian": "Menjalankan kegiatan usaha paling lambat 1 tahun setelah PB diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjalankan kegiatan usaha paling lambat 1 tahun setelah PB diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "47ecc430-2292-5cc2-9fd3-7952f0213e2e",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan perubahan data meliputi: a. Nama perusahaan alih daya b. Penanggung jawab perusahaan alih daya c. Alamat perusahaan alih daya dan/ atau d. Bidang usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan perubahan data meliputi: a. Nama perusahaan alih daya b. Penanggung jawab perusahaan alih daya c. Alamat perusahaan alih daya dan/ atau d. Bidang usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": []
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "7213abba-4b78-429f-9317-817c21f3230b",
+    "kode": "026",
+    "localization": {
+     "en": {
+      "uraian": "Ketenagakerjaan",
+      "deskripsi": "Kementerian Ketenagakerjaan"
+     },
+     "id": {
+      "uraian": "Ketenagakerjaan",
+      "deskripsi": "Kementerian Ketenagakerjaan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

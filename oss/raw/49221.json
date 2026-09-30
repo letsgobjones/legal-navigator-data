@@ -1,0 +1,2928 @@
+{
+ "code": "49221",
+ "found": true,
+ "ossId": "2ffaaf0d-5c4e-5854-8fd0-76af6249d01e",
+ "url": "https://oss.go.id/id/kbli/detail/2ffaaf0d-5c4e-5854-8fd0-76af6249d01e",
+ "fetchedAt": "2026-09-30T05:01:56+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 49211 berubah menjadi 49221 pada KBLI 2025.",
+  "from2020": [
+   "49211"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "519da679-aba9-5612-bc6b-ebff77557b21",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "2ffaaf0d-5c4e-5854-8fd0-76af6249d01e",
+    "localization": {
+     "en": {
+      "judul": "Angkutan Antarkota Antarprovinsi (AKAP)",
+      "uraian": "Kelompok ini mencakup aktivitas pengangkutan penumpang dari satu kota ke kota lain yang melalui antardaerah kabupaten/kota dan melalui lebih dari 1 (satu) daerah provinsi, serta terikat dalam trayek.\nKelompok ini juga mencakup\n- angkutan antarkota antarprovinsi perintis yang biasanya melayani daerah terpencil, terluar dan tertinggal namun belum menguntungkan untuk dilayani secara komersial."
+     },
+     "id": {
+      "judul": "Angkutan Antarkota Antarprovinsi (AKAP)",
+      "uraian": "Kelompok ini mencakup aktivitas pengangkutan penumpang dari satu kota ke kota lain yang melalui antardaerah kabupaten/kota dan melalui lebih dari 1 (satu) daerah provinsi, serta terikat dalam trayek.\nKelompok ini juga mencakup\n- angkutan antarkota antarprovinsi perintis yang biasanya melayani daerah terpencil, terluar dan tertinggal namun belum menguntungkan untuk dilayani secara komersial."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "97c571f0-6f0f-53e9-a9c0-aa4346e25e0e",
+     "kode": "49221-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "e7a289bb-cfad-5813-8562-54f10ffa3215",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki paling sedikit 5 (lima) kendaraan yang dibuktikan dengan salinan STNK, SRUT (untuk kendaraan baru), bukti lulus uji berkala, foto kendaraan dan pemasangan IP Global Positioning System yang terpasang dikendaraan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki paling sedikit 5 (lima) kendaraan yang dibuktikan dengan salinan STNK, SRUT (untuk kendaraan baru), bukti lulus uji berkala, foto kendaraan dan pemasangan IP Global Positioning System yang terpasang dikendaraan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "75b1e01c-5f5e-5c18-9230-3d1d1ac5e9d4",
+       "localization": {
+        "en": {
+         "uraian": "Foto dan denah tempat penyimpanan kendaraan (pool)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Foto dan denah tempat penyimpanan kendaraan (pool)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6e343c10-e013-5b52-819f-fa406d1c725e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau bekerjasama dengan pihak lain yang mampu menyediakan fasilitas pemeliharaan kendaraan bermotor",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau bekerjasama dengan pihak lain yang mampu menyediakan fasilitas pemeliharaan kendaraan bermotor",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c0c9a3f5-02da-5963-8f53-d9981f6f1a30",
+       "localization": {
+        "en": {
+         "uraian": "Kesesuaian dengan perencanaan kebutuhan kendaraan (kuota) yang ditetapkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kesesuaian dengan perencanaan kebutuhan kendaraan (kuota) yang ditetapkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "eba01ee3-f68b-56d8-9035-366dd73e1b07",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun rencana bisnis (business plan) Perusahaan Angkutan Umum",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun rencana bisnis (business plan) Perusahaan Angkutan Umum",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "18770b40-424b-52d4-ac60-2001083cbfbc",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "62a75dbf-7c99-5c2a-8608-ed78c82e009e",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional antarkota antar-provinsi.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional antarkota antar-provinsi.",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "77ab6026-4de2-5fb0-9bc6-295b1b4e8624",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "54309245-0cc7-4720-95b1-3aa8817eba7f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Penyelenggaraan Fasilitas Parkir"
+         },
+         "id": {
+          "nama_dokumen": "Izin Penyelenggaraan Fasilitas Parkir"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "b3a6ca97-4056-5b90-bde3-02c81900f264",
+       "localization": {
+        "en": {
+         "uraian": "Menerbitkan bukti pembayaran kepada pengguna jasa yang tersimpan dalam bentuk data elektronik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerbitkan bukti pembayaran kepada pengguna jasa yang tersimpan dalam bentuk data elektronik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "343c2175-cc78-5d18-b65c-c21af4dccded",
+       "localization": {
+        "en": {
+         "uraian": "Membangun sistem informasi perusahaan Angkutan umum yang terintegrasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membangun sistem informasi perusahaan Angkutan umum yang terintegrasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0c179f9b-6b15-583d-b485-032d5e5ba5e5",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan Standar Pelayanan Minimal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan Standar Pelayanan Minimal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "de29ed35-78cb-5912-b565-5e9e742fbf34",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan Sistem Manajemen Keselamatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan Sistem Manajemen Keselamatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "76f53620-c19c-5fec-9b20-3a8fa1c8487a",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kartu asuransi ketenagakerjaan bagi awak kendaraan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kartu asuransi ketenagakerjaan bagi awak kendaraan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "86cfeb2b-c3a9-57cd-8eed-a0c7e6474698",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan usaha angkutan paling lambat 6 (enam) bulan terhitung sejak tanggal diterbitkan perizinan berusaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan usaha angkutan paling lambat 6 (enam) bulan terhitung sejak tanggal diterbitkan perizinan berusaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "83caa3e5-00a2-51e0-8e56-d7fafcfc7e61",
+       "localization": {
+        "en": {
+         "uraian": "Terdaftar dalam asosiasi Angkutan umum jalan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Terdaftar dalam asosiasi Angkutan umum jalan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d490e0e0-ee40-5677-8a47-1c5f0317105d",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan usaha setiap tahun kepada pejabat pemberi izin penyelenggaraan Angkutan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan usaha setiap tahun kepada pejabat pemberi izin penyelenggaraan Angkutan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "67ad7e7d-f42a-51e2-a9a5-fa329bf0a3bf",
+       "localization": {
+        "en": {
+         "uraian": "Mengoperasikan kendaraan yang dilengkapi dokumen perjalanan yang sah terdiri atas kartu pengawasan, surat tanda nomor kendaraan, bukti lulus uji berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengoperasikan kendaraan yang dilengkapi dokumen perjalanan yang sah terdiri atas kartu pengawasan, surat tanda nomor kendaraan, bukti lulus uji berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "840e30c0-de36-536c-84ea-ba63258d0d14",
+       "localization": {
+        "en": {
+         "uraian": "Mengangkut penumpang sesuai kapasitas yang ditetapkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengangkut penumpang sesuai kapasitas yang ditetapkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4f271d7f-1422-522f-aa38-7cc2ff7f8328",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi jadwal waktu perjalanan dan terminal singgah sesuai yang tercantum dalam kartu pengawasan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi jadwal waktu perjalanan dan terminal singgah sesuai yang tercantum dalam kartu pengawasan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "12f5090a-0896-562c-83f5-dcfc21f25099",
+       "localization": {
+        "en": {
+         "uraian": "Melengkapi kendaraan dengan alat pemantau unjuk kerja pengemudi dan GPS",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melengkapi kendaraan dengan alat pemantau unjuk kerja pengemudi dan GPS",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8cfcec02-fd29-5496-b7d8-120a2d59b3a6",
+       "localization": {
+        "en": {
+         "uraian": "Melayani Trayek sesuai perizinan berusaha penyelenggaraan yang diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melayani Trayek sesuai perizinan berusaha penyelenggaraan yang diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7e39c028-5d1b-54ad-9cdd-b970b5d04c62",
+       "localization": {
+        "en": {
+         "uraian": "Menaikkan dan menurunkan penumpang pada tempat yang telah ditentukan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menaikkan dan menurunkan penumpang pada tempat yang telah ditentukan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "84380361-21aa-508a-88a2-a69e188f2e56",
+       "localization": {
+        "en": {
+         "uraian": "Memper-baharui kartu pengawasan setiap tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memper-baharui kartu pengawasan setiap tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f6193ee7-7d5d-5b1d-a1c1-9d3eb7ecc715",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan realisasi operasional angkutan setiap tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan realisasi operasional angkutan setiap tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4a21468c-264a-5792-bea1-47a2d6bee16a",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan tarif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan tarif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "96a713f3-3cef-5955-8ce7-2603d35d981c",
+     "kode": "49221-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "5291d5f6-84fd-5313-a17d-7aaaf34e737f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki paling sedikit 5 (lima) kendaraan yang dibuktikan dengan salinan STNK, SRUT (untuk kendaraan baru), bukti lulus uji berkala, foto kendaraan dan pemasangan IP Global Positioning System yang terpasang dikendaraan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki paling sedikit 5 (lima) kendaraan yang dibuktikan dengan salinan STNK, SRUT (untuk kendaraan baru), bukti lulus uji berkala, foto kendaraan dan pemasangan IP Global Positioning System yang terpasang dikendaraan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "820ef701-f168-53ca-8e61-2f8f28572f35",
+       "localization": {
+        "en": {
+         "uraian": "Foto dan denah tempat penyimpanan kendaraan (pool)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Foto dan denah tempat penyimpanan kendaraan (pool)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9df87a57-548f-5142-b769-a62aa4dbd649",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau bekerjasama dengan pihak lain yang mampu menyediakan fasilitas pemeliharaan kendaraan bermotor",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau bekerjasama dengan pihak lain yang mampu menyediakan fasilitas pemeliharaan kendaraan bermotor",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "720d072f-9a19-558b-be40-0f15aba6cc9e",
+       "localization": {
+        "en": {
+         "uraian": "Kesesuaian dengan perencanaan kebutuhan kendaraan (kuota) yang ditetapkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kesesuaian dengan perencanaan kebutuhan kendaraan (kuota) yang ditetapkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "059d4c63-42e2-53fd-9b04-da24e8aed76d",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun rencana bisnis (business plan) Perusahaan Angkutan Umum",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun rencana bisnis (business plan) Perusahaan Angkutan Umum",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "1f547dd6-62b9-506e-8a9f-30cedfdec123",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "62a75dbf-7c99-5c2a-8608-ed78c82e009e",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional antarkota antar-provinsi.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional antarkota antar-provinsi.",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "487fe73a-a8e5-5913-ae1d-a1b48c233bc3",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "54309245-0cc7-4720-95b1-3aa8817eba7f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Penyelenggaraan Fasilitas Parkir"
+         },
+         "id": {
+          "nama_dokumen": "Izin Penyelenggaraan Fasilitas Parkir"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "d3dc8d42-351c-5e1f-92c0-ef14013f2ab7",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan Standar Pelayanan Minimal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan Standar Pelayanan Minimal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "57d296db-8a8a-529f-a014-19ba94506f0b",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan Sistem Manajemen Keselamatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan Sistem Manajemen Keselamatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b41162d8-2ae4-5a5e-9098-8d96cdb3d792",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kartu asuransi ketenagakerjaan bagi awak kendaraan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kartu asuransi ketenagakerjaan bagi awak kendaraan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "47de91f3-8485-5a73-9e0d-ac9bc81f39b9",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan usaha angkutan paling lambat 6 (enam) bulan terhitung sejak tanggal diterbitkan perizinan berusaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan usaha angkutan paling lambat 6 (enam) bulan terhitung sejak tanggal diterbitkan perizinan berusaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d2ee1b34-cad6-5853-894d-710b244e2692",
+       "localization": {
+        "en": {
+         "uraian": "Terdaftar dalam asosiasi Angkutan umum jalan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Terdaftar dalam asosiasi Angkutan umum jalan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "918283b0-b85a-5ba9-afa4-0986a45e2f28",
+       "localization": {
+        "en": {
+         "uraian": "Membangun sistem informasi perusahaan Angkutan umum yang terintegrasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membangun sistem informasi perusahaan Angkutan umum yang terintegrasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1f344258-7525-54da-b80f-2b2e9fb219fa",
+       "localization": {
+        "en": {
+         "uraian": "Menerbitkan bukti pembayaran kepada pengguna jasa yang tersimpan dalam bentuk data elektronik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerbitkan bukti pembayaran kepada pengguna jasa yang tersimpan dalam bentuk data elektronik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1e0d3e40-0817-5244-9c5a-23bdcc3980a7",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan usaha setiap tahun kepada pejabat pemberi izin penyelenggaraan Angkutan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan usaha setiap tahun kepada pejabat pemberi izin penyelenggaraan Angkutan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9611bbe1-c5ec-5860-9cdc-a383e0d20591",
+       "localization": {
+        "en": {
+         "uraian": "Mengoperasikan kendaraan yang dilengkapi dokumen perjalanan yang sah terdiri atas kartu pengawasan, surat tanda nomor kendaraan, bukti lulus uji berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengoperasikan kendaraan yang dilengkapi dokumen perjalanan yang sah terdiri atas kartu pengawasan, surat tanda nomor kendaraan, bukti lulus uji berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "35516c46-8868-5dfa-86a3-6a5f93c04e4e",
+       "localization": {
+        "en": {
+         "uraian": "Mengangkut penumpang sesuai kapasitas yang ditetapkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengangkut penumpang sesuai kapasitas yang ditetapkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "53405337-bc57-5165-9af7-d92e95f6f7ff",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi jadwal waktu perjalanan dan terminal singgah sesuai yang tercantum dalam kartu pengawasan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi jadwal waktu perjalanan dan terminal singgah sesuai yang tercantum dalam kartu pengawasan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "97a889fd-fe41-5431-8cf1-f84a67df5d3b",
+       "localization": {
+        "en": {
+         "uraian": "Melengkapi kendaraan dengan alat pemantau unjuk kerja pengemudi dan GPS",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melengkapi kendaraan dengan alat pemantau unjuk kerja pengemudi dan GPS",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a77189fd-0049-5117-86ce-a04ab7787bef",
+       "localization": {
+        "en": {
+         "uraian": "Melayani Trayek sesuai perizinan berusaha penyelenggaraan yang diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melayani Trayek sesuai perizinan berusaha penyelenggaraan yang diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "37331b52-7616-510e-ba3c-32fabfeaf87c",
+       "localization": {
+        "en": {
+         "uraian": "Menaikkan dan menurunkan penumpang pada tempat yang telah ditentukan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menaikkan dan menurunkan penumpang pada tempat yang telah ditentukan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0af8f1e9-0495-5e06-b565-59c1f5f70936",
+       "localization": {
+        "en": {
+         "uraian": "Memper-baharui kartu pengawasan setiap tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memper-baharui kartu pengawasan setiap tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6b9fac09-8abc-52e8-bb10-47c292129228",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan realisasi operasional angkutan setiap tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan realisasi operasional angkutan setiap tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "dba66216-6a10-5be2-83fb-87821960cec6",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan tarif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan tarif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "482f5d93-fa4d-58af-bd33-62f7b7f73db0",
+     "kode": "49221-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "16981f51-8b2e-5c28-bb31-3cc4abe3e3a2",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki paling sedikit 5 (lima) kendaraan yang dibuktikan dengan salinan STNK, SRUT (untuk kendaraan baru), bukti lulus uji berkala, foto kendaraan dan pemasangan IP Global Positioning System yang terpasang dikendaraan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki paling sedikit 5 (lima) kendaraan yang dibuktikan dengan salinan STNK, SRUT (untuk kendaraan baru), bukti lulus uji berkala, foto kendaraan dan pemasangan IP Global Positioning System yang terpasang dikendaraan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c9038a42-ce92-53f9-b22c-913c16aff694",
+       "localization": {
+        "en": {
+         "uraian": "Foto dan denah tempat penyimpanan kendaraan (pool)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Foto dan denah tempat penyimpanan kendaraan (pool)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9cfbb356-9303-5ab3-b6dc-f1143cf8bbf3",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau bekerjasama dengan pihak lain yang mampu menyediakan fasilitas pemeliharaan kendaraan bermotor",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau bekerjasama dengan pihak lain yang mampu menyediakan fasilitas pemeliharaan kendaraan bermotor",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "920a9a26-b961-5787-9087-2d98f9465074",
+       "localization": {
+        "en": {
+         "uraian": "Kesesuaian dengan perencanaan kebutuhan kendaraan (kuota) yang ditetapkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kesesuaian dengan perencanaan kebutuhan kendaraan (kuota) yang ditetapkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ff42642c-4fac-516f-b8c8-51681313ee38",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun rencana bisnis (business plan) Perusahaan Angkutan Umum",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun rencana bisnis (business plan) Perusahaan Angkutan Umum",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "af1df6f9-c37b-5fae-a7f7-9a75a43caf18",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "62a75dbf-7c99-5c2a-8608-ed78c82e009e",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional antarkota antar-provinsi.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional antarkota antar-provinsi.",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "104a8d0a-ac1b-5daa-b696-6c69cf009eb3",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "54309245-0cc7-4720-95b1-3aa8817eba7f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Penyelenggaraan Fasilitas Parkir"
+         },
+         "id": {
+          "nama_dokumen": "Izin Penyelenggaraan Fasilitas Parkir"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "0c8848f7-3adf-508b-a766-e146b3f4242c",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan Standar Pelayanan Minimal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan Standar Pelayanan Minimal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0583566c-a714-5bb7-b04f-0b6686565997",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan Sistem Manajemen Keselamatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan Sistem Manajemen Keselamatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "136165dd-4279-5185-9eaa-50889c114032",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kartu asuransi ketenagakerjaan bagi awak kendaraan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kartu asuransi ketenagakerjaan bagi awak kendaraan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "530e9e39-870c-5001-85aa-8ed7729f08fc",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan usaha angkutan paling lambat 6 (enam) bulan terhitung sejak tanggal diterbitkan perizinan berusaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan usaha angkutan paling lambat 6 (enam) bulan terhitung sejak tanggal diterbitkan perizinan berusaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8ff3493d-d608-50ac-a19d-20a15bb673cf",
+       "localization": {
+        "en": {
+         "uraian": "Terdaftar dalam asosiasi Angkutan umum jalan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Terdaftar dalam asosiasi Angkutan umum jalan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3f31241d-26b3-5335-963a-23766c7f6024",
+       "localization": {
+        "en": {
+         "uraian": "Membangun sistem informasi perusahaan Angkutan umum yang terintegrasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membangun sistem informasi perusahaan Angkutan umum yang terintegrasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "878ecda0-5a88-5278-ab67-88d5c276b957",
+       "localization": {
+        "en": {
+         "uraian": "Menerbitkan bukti pembayaran kepada pengguna jasa yang tersimpan dalam bentuk data elektronik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerbitkan bukti pembayaran kepada pengguna jasa yang tersimpan dalam bentuk data elektronik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "49a5e1d3-93e6-587d-b43e-8b6472811a87",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan usaha setiap tahun kepada pejabat pemberi izin penyelenggaraan Angkutan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan usaha setiap tahun kepada pejabat pemberi izin penyelenggaraan Angkutan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "31fc92be-8536-5532-b3a4-db81df87b75c",
+       "localization": {
+        "en": {
+         "uraian": "Mengoperasikan kendaraan yang dilengkapi dokumen perjalanan yang sah terdiri atas kartu pengawasan, surat tanda nomor kendaraan, bukti lulus uji berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengoperasikan kendaraan yang dilengkapi dokumen perjalanan yang sah terdiri atas kartu pengawasan, surat tanda nomor kendaraan, bukti lulus uji berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f8cf32df-6d03-5c07-9032-8c56869fd102",
+       "localization": {
+        "en": {
+         "uraian": "Mengangkut penumpang sesuai kapasitas yang ditetapkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengangkut penumpang sesuai kapasitas yang ditetapkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "470c434d-aaf9-583d-9e03-a0b827333b9f",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi jadwal waktu perjalanan dan terminal singgah sesuai yang tercantum dalam kartu pengawasan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi jadwal waktu perjalanan dan terminal singgah sesuai yang tercantum dalam kartu pengawasan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "69dd13c4-49c6-51b6-906f-4ac76247f289",
+       "localization": {
+        "en": {
+         "uraian": "Melengkapi kendaraan dengan alat pemantau unjuk kerja pengemudi dan GPS",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melengkapi kendaraan dengan alat pemantau unjuk kerja pengemudi dan GPS",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0ea1186c-83f3-5bb8-8ca2-df16600d0a99",
+       "localization": {
+        "en": {
+         "uraian": "Melayani Trayek sesuai perizinan berusaha penyelenggaraan yang diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melayani Trayek sesuai perizinan berusaha penyelenggaraan yang diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ec1576f5-8dcf-5b12-990b-95594ef9faaa",
+       "localization": {
+        "en": {
+         "uraian": "Menaikkan dan menurunkan penumpang pada tempat yang telah ditentukan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menaikkan dan menurunkan penumpang pada tempat yang telah ditentukan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "da688502-2ecf-5c22-98bb-de6143fdbf14",
+       "localization": {
+        "en": {
+         "uraian": "Memper-baharui kartu pengawasan setiap tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memper-baharui kartu pengawasan setiap tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "375bdd95-e86e-5180-8410-defb113863a3",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan realisasi operasional angkutan setiap tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan realisasi operasional angkutan setiap tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a588ac72-5c52-5b03-b8a0-58608ea4f4a8",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan tarif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan tarif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "af947355-d0be-5649-b1f0-732e8d410a49",
+     "kode": "49221-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "c9828c66-d6f5-543f-a0f5-ba06602088d4",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki paling sedikit 5 (lima) kendaraan yang dibuktikan dengan salinan STNK, SRUT (untuk kendaraan baru), bukti lulus uji berkala, foto kendaraan dan pemasangan IP Global Positioning System yang terpasang dikendaraan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki paling sedikit 5 (lima) kendaraan yang dibuktikan dengan salinan STNK, SRUT (untuk kendaraan baru), bukti lulus uji berkala, foto kendaraan dan pemasangan IP Global Positioning System yang terpasang dikendaraan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e7b3b5db-608b-5743-8dd7-4c2377f475e9",
+       "localization": {
+        "en": {
+         "uraian": "Foto dan denah tempat penyimpanan kendaraan (pool)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Foto dan denah tempat penyimpanan kendaraan (pool)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "207bd730-1802-564b-bb18-179f0071e3df",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dan/atau bekerjasama dengan pihak lain yang mampu menyediakan fasilitas pemeliharaan kendaraan bermotor",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dan/atau bekerjasama dengan pihak lain yang mampu menyediakan fasilitas pemeliharaan kendaraan bermotor",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "32e2fd1a-01ac-57e6-ac26-e19d94c98500",
+       "localization": {
+        "en": {
+         "uraian": "Kesesuaian dengan perencanaan kebutuhan kendaraan (kuota) yang ditetapkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kesesuaian dengan perencanaan kebutuhan kendaraan (kuota) yang ditetapkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b40a8efa-dab5-5109-a8a6-fae9b9ccca1c",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun rencana bisnis (business plan) Perusahaan Angkutan Umum",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun rencana bisnis (business plan) Perusahaan Angkutan Umum",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "eeb33440-ae2a-5b01-be13-d919c50d2e42",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "62a75dbf-7c99-5c2a-8608-ed78c82e009e",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional antarkota antar-provinsi.",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional antarkota antar-provinsi.",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1155168e-19ae-5cba-88d0-fa3205c18882",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "55a14ca2-0e5a-568f-927e-a9d6e5a04392",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "54309245-0cc7-4720-95b1-3aa8817eba7f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Penyelenggaraan Fasilitas Parkir"
+         },
+         "id": {
+          "nama_dokumen": "Izin Penyelenggaraan Fasilitas Parkir"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "5093bd1c-a22a-53ac-8fb3-e7ec3e1920f1",
+       "localization": {
+        "en": {
+         "uraian": "Mengangkut penumpang sesuai kapasitas yang ditetapkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengangkut penumpang sesuai kapasitas yang ditetapkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "221cbb63-c009-5841-9b61-140931e1b3db",
+       "localization": {
+        "en": {
+         "uraian": "Mengoperasikan kendaraan yang dilengkapi dokumen perjalanan yang sah terdiri atas kartu pengawasan, surat tanda nomor kendaraan, bukti lulus uji berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengoperasikan kendaraan yang dilengkapi dokumen perjalanan yang sah terdiri atas kartu pengawasan, surat tanda nomor kendaraan, bukti lulus uji berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9cf3e0bb-0148-5a04-8a90-b6d1e2daad25",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan Standar Pelayanan Minimal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan Standar Pelayanan Minimal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "35f58a86-2f1d-55ca-8894-9103b14945ee",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan Sistem Manajemen Keselamatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan Sistem Manajemen Keselamatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e0ceec2c-73b3-5eaf-a563-1a8dc58d6868",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kartu asuransi ketenagakerjaan bagi awak kendaraan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kartu asuransi ketenagakerjaan bagi awak kendaraan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4eb9282d-263a-5a6b-b616-12af7ba86efb",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan usaha angkutan paling lambat 6 (enam) bulan terhitung sejak tanggal diterbitkan perizinan berusaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan usaha angkutan paling lambat 6 (enam) bulan terhitung sejak tanggal diterbitkan perizinan berusaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "39ffeb3d-0a39-517e-8172-454113cdf997",
+       "localization": {
+        "en": {
+         "uraian": "Terdaftar dalam asosiasi Angkutan umum jalan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Terdaftar dalam asosiasi Angkutan umum jalan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1ef9d757-2d2b-5b96-b355-4907be03570e",
+       "localization": {
+        "en": {
+         "uraian": "Membangun sistem informasi perusahaan Angkutan umum yang terintegrasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membangun sistem informasi perusahaan Angkutan umum yang terintegrasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3cf01c89-dedf-5292-bd92-f85e7d76edbc",
+       "localization": {
+        "en": {
+         "uraian": "Menerbitkan bukti pembayaran kepada pengguna jasa yang tersimpan dalam bentuk data elektronik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerbitkan bukti pembayaran kepada pengguna jasa yang tersimpan dalam bentuk data elektronik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "efad4156-3201-5530-9f59-8d8d56cc2286",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan usaha setiap tahun kepada pejabat pemberi izin penyelenggaraan Angkutan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan usaha setiap tahun kepada pejabat pemberi izin penyelenggaraan Angkutan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "13e7fb0b-0565-52a6-b32a-7e14ee093eeb",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi jadwal waktu perjalanan dan terminal singgah sesuai yang tercantum dalam kartu pengawasan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi jadwal waktu perjalanan dan terminal singgah sesuai yang tercantum dalam kartu pengawasan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f7ba9220-521e-58dd-80de-920ea74705f4",
+       "localization": {
+        "en": {
+         "uraian": "Melengkapi kendaraan dengan alat pemantau unjuk kerja pengemudi dan GPS",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melengkapi kendaraan dengan alat pemantau unjuk kerja pengemudi dan GPS",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "15972fd8-a525-5b7a-a3b2-9cbfcd884535",
+       "localization": {
+        "en": {
+         "uraian": "Melayani Trayek sesuai perizinan berusaha penyelenggaraan yang diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melayani Trayek sesuai perizinan berusaha penyelenggaraan yang diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b58e9b8d-7d91-51cd-abf7-7317832ea7fa",
+       "localization": {
+        "en": {
+         "uraian": "Menaikkan dan menurunkan penumpang pada tempat yang telah ditentukan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menaikkan dan menurunkan penumpang pada tempat yang telah ditentukan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "dd2d5b58-89ab-5248-b918-c70efaf0f700",
+       "localization": {
+        "en": {
+         "uraian": "Memper-baharui kartu pengawasan setiap tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memper-baharui kartu pengawasan setiap tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5bd18711-9cd2-5de7-b24a-9c6b3eaf3818",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan realisasi operasional angkutan setiap tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan realisasi operasional angkutan setiap tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2a63ee30-5dfa-50a9-9417-ca66c544137c",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan tarif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan tarif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "2d1cf9d7-a26f-410a-a7d7-f70e68f1f88b",
+    "kode": "022",
+    "localization": {
+     "en": {
+      "uraian": "Perhubungan",
+      "deskripsi": "Kementerian Perhubungan"
+     },
+     "id": {
+      "uraian": "Perhubungan",
+      "deskripsi": "Kementerian Perhubungan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

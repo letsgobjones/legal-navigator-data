@@ -1,0 +1,6590 @@
+{
+ "code": "71201",
+ "found": true,
+ "ossId": "c69dc3f9-1cd6-5fb8-9a70-672ac6318b54",
+ "url": "https://oss.go.id/id/kbli/detail/c69dc3f9-1cd6-5fb8-9a70-672ac6318b54",
+ "fetchedAt": "2026-09-30T05:22:52+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 71201 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "71201"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "d24b138d-0a35-55d0-b9fa-6c82438599ae",
+   "localization": {
+    "en": {
+     "uraian": "Lembaga Audit SMK3",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Lembaga Audit SMK3",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "c69dc3f9-1cd6-5fb8-9a70-672ac6318b54",
+    "localization": {
+     "en": {
+      "judul": "Jasa Sertifikasi Teknis",
+      "uraian": "$4b"
+     },
+     "id": {
+      "judul": "Jasa Sertifikasi Teknis",
+      "uraian": "$4c"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "2533a605-6fa5-5567-a85f-1d30337d39e6",
+     "kode": "71201-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "c57fc0ec-4922-5844-8b5b-6241a8f962f9",
+       "localization": {
+        "en": {
+         "uraian": "Menjaga kerahasiaan perusahaan yang diaudit",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjaga kerahasiaan perusahaan yang diaudit",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e3312225-31c6-5524-be24-0d2cb026eeec",
+       "localization": {
+        "en": {
+         "uraian": "Memelihara dokumen kegiatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memelihara dokumen kegiatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "870151a5-453a-5e76-a5dd-acdf8a5e6cba",
+       "localization": {
+        "en": {
+         "uraian": "Durasi pemenuhan kewajiban untuk melaksanakan Sertifikasi Standar paling lambat 1 tahun setelah usaha Lembaga Audit SMK3 beroperasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Durasi pemenuhan kewajiban untuk melaksanakan Sertifikasi Standar paling lambat 1 tahun setelah usaha Lembaga Audit SMK3 beroperasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cfa3d94c-1720-5887-a512-1f672e03e8b8",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan audit SMK3",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan audit SMK3",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "286d0800-573f-53b7-afda-c71ef45bf9dc",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan dan hasil audit SMK3 kepada menteri, perusahaan yang diaudit, dan dinas provinsi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan dan hasil audit SMK3 kepada menteri, perusahaan yang diaudit, dan dinas provinsi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "37361f67-27de-5904-be17-84a119c565cb",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "42fac39f-97bb-402f-869d-d1423ad65e9b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "885d2706-5992-5a87-ae11-62e20194eed2",
+       "localization": {
+        "en": {
+         "uraian": "Berbadan hukum dengan status Perseroan Terbatas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbadan hukum dengan status Perseroan Terbatas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "01c3b3e8-31ff-531d-894c-c0ef647a5d1b",
+       "localization": {
+        "en": {
+         "uraian": "Pernyataan untuk memenuhi pelaksanaan kegiatan usaha dan standar usaha dalam rangka melakukan kesanggupan untuk dilakukan verifikasi oleh Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pernyataan untuk memenuhi pelaksanaan kegiatan usaha dan standar usaha dalam rangka melakukan kesanggupan untuk dilakukan verifikasi oleh Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6dc6b6e9-b482-5502-92d9-bc33c94829df",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi standar pelaksanaan kegiatan usaha sesuai pernyataan yang telah disampaikan dan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi standar pelaksanaan kegiatan usaha sesuai pernyataan yang telah disampaikan dan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "21734513-40ed-5def-af7f-eb4ee6f0cb58",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti kepemilikan kantor cabang paling sedikit di 3 wilayah pada Indonesia bagian barat, bagian tengah, dan bagian timur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti kepemilikan kantor cabang paling sedikit di 3 wilayah pada Indonesia bagian barat, bagian tengah, dan bagian timur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b29bc836-d4ce-551f-91b3-2ed4cd80285d",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki surat keputusan penunjukan auditor eksternal SMK3 sebanyak 4 auditor eksternal senior dan 8 auditor eksternal junior yang masih berlaku",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki surat keputusan penunjukan auditor eksternal SMK3 sebanyak 4 auditor eksternal senior dan 8 auditor eksternal junior yang masih berlaku",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "940f5754-c800-5080-a581-08cef850ad2a",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen akreditasi dari Komite Akreditasi Nasional (KAN) yang membuktikan telah berpengalaman melakukan sertifikasi sistem manajemen",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen akreditasi dari Komite Akreditasi Nasional (KAN) yang membuktikan telah berpengalaman melakukan sertifikasi sistem manajemen",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "382c79dd-5332-5703-832d-0bed2b7d42bf",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki struktur organisasi Lembaga Audit SMK3 kantor pusat dan kantor cabang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki struktur organisasi Lembaga Audit SMK3 kantor pusat dan kantor cabang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2275406e-44bc-540a-94bd-268c0a1a9c1d",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen panduan audit sistem manajemen yang digunakan oleh lembaga audit sesuai dengan standar yang berlaku",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen panduan audit sistem manajemen yang digunakan oleh lembaga audit sesuai dengan standar yang berlaku",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "14d57606-c8d6-5356-bccc-cba9dd24f9df",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "12f2a83c-17c9-59c4-92b0-d09bc8ee0f3c",
+     "kode": "71201-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "384665a3-5164-50a8-b21f-c23bc6940f27",
+       "localization": {
+        "en": {
+         "uraian": "Durasi pemenuhan kewajiban untuk melaksanakan Sertifikasi Standar paling lambat 1 tahun setelah usaha Lembaga Audit SMK3 beroperasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Durasi pemenuhan kewajiban untuk melaksanakan Sertifikasi Standar paling lambat 1 tahun setelah usaha Lembaga Audit SMK3 beroperasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f2a502e7-81e7-5b13-94af-dcc4aa258b0a",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan audit SMK3",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan audit SMK3",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8b3ded36-e964-592c-9b5c-585f39cbc2ac",
+       "localization": {
+        "en": {
+         "uraian": "Menjaga kerahasiaan perusahaan yang diaudit",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjaga kerahasiaan perusahaan yang diaudit",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "480987a1-4bc6-5ac3-9e3f-5a92177d29a2",
+       "localization": {
+        "en": {
+         "uraian": "Memelihara dokumen kegiatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memelihara dokumen kegiatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "79b2268d-9486-52f1-a27e-6b1cea17700f",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan dan hasil audit SMK3 kepada menteri, perusahaan yang diaudit, dan dinas provinsi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan dan hasil audit SMK3 kepada menteri, perusahaan yang diaudit, dan dinas provinsi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "8d0a4364-cc3e-504b-bb13-c058eadcfe4d",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "42fac39f-97bb-402f-869d-d1423ad65e9b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "9ce199d3-8af7-5003-9ca2-d9bb1f9bdd26",
+       "localization": {
+        "en": {
+         "uraian": "Berbadan hukum dengan status Perseroan Terbatas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbadan hukum dengan status Perseroan Terbatas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5b54626d-a5f6-5b3b-bf50-363c670f0bc8",
+       "localization": {
+        "en": {
+         "uraian": "Pernyataan untuk memenuhi pelaksanaan kegiatan usaha dan standar usaha dalam rangka melakukan kesanggupan untuk dilakukan verifikasi oleh Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pernyataan untuk memenuhi pelaksanaan kegiatan usaha dan standar usaha dalam rangka melakukan kesanggupan untuk dilakukan verifikasi oleh Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4cec5279-fcc6-585b-9f68-88ca92946362",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi standar pelaksanaan kegiatan usaha sesuai pernyataan yang telah disampaikan dan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi standar pelaksanaan kegiatan usaha sesuai pernyataan yang telah disampaikan dan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c8c7a69d-f262-569b-9982-6160e4a2b473",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti kepemilikan kantor cabang paling sedikit di 3 wilayah pada Indonesia bagian barat, bagian tengah, dan bagian timur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti kepemilikan kantor cabang paling sedikit di 3 wilayah pada Indonesia bagian barat, bagian tengah, dan bagian timur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "daa0bbf9-a01d-5d69-ad9d-c05574cab11e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki surat keputusan penunjukan auditor eksternal SMK3 sebanyak 4 auditor eksternal senior dan 8 auditor eksternal junior yang masih berlaku",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki surat keputusan penunjukan auditor eksternal SMK3 sebanyak 4 auditor eksternal senior dan 8 auditor eksternal junior yang masih berlaku",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "958a8878-5dd7-543f-9a69-d0fa09549035",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen akreditasi dari Komite Akreditasi Nasional (KAN) yang membuktikan telah berpengalaman melakukan sertifikasi sistem manajemen",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen akreditasi dari Komite Akreditasi Nasional (KAN) yang membuktikan telah berpengalaman melakukan sertifikasi sistem manajemen",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ffcaf0db-eddc-55ee-8312-31f489934e12",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki struktur organisasi Lembaga Audit SMK3 kantor pusat dan kantor cabang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki struktur organisasi Lembaga Audit SMK3 kantor pusat dan kantor cabang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6ae6d6e8-0226-5cbd-b8ac-99bac9225c78",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen panduan audit sistem manajemen yang digunakan oleh lembaga audit sesuai dengan standar yang berlaku",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen panduan audit sistem manajemen yang digunakan oleh lembaga audit sesuai dengan standar yang berlaku",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "b2268e82-402c-5d19-9626-29c171d0d593",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "2f2409fa-8429-543c-b089-576fc0b13094",
+     "kode": "71201-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "1104e5c0-3fd8-5b25-9d94-f382567f084f",
+       "localization": {
+        "en": {
+         "uraian": "Durasi pemenuhan kewajiban untuk melaksanakan Sertifikasi Standar paling lambat 1 tahun setelah usaha Lembaga Audit SMK3 beroperasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Durasi pemenuhan kewajiban untuk melaksanakan Sertifikasi Standar paling lambat 1 tahun setelah usaha Lembaga Audit SMK3 beroperasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ace74377-4c1b-5489-8a32-64b1dd6922cd",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan audit SMK3",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan audit SMK3",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fadbb313-4e4a-516d-be9c-23ba62ed6201",
+       "localization": {
+        "en": {
+         "uraian": "Menjaga kerahasiaan perusahaan yang diaudit",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjaga kerahasiaan perusahaan yang diaudit",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f8e1b3ae-280d-52ee-8c8c-9559137efed4",
+       "localization": {
+        "en": {
+         "uraian": "Memelihara dokumen kegiatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memelihara dokumen kegiatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bcaa83e0-2c4a-5217-b47e-fe628bd59899",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan dan hasil audit SMK3 kepada menteri, perusahaan yang diaudit, dan dinas provinsi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan dan hasil audit SMK3 kepada menteri, perusahaan yang diaudit, dan dinas provinsi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "ae211d2a-f071-525d-94db-c02f6956a6d0",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "42fac39f-97bb-402f-869d-d1423ad65e9b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "f20f7be3-b8ba-5a1a-9297-03b3046e7213",
+       "localization": {
+        "en": {
+         "uraian": "Berbadan hukum dengan status Perseroan Terbatas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbadan hukum dengan status Perseroan Terbatas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cf9e0511-908c-5106-aef1-8a640ee2bc01",
+       "localization": {
+        "en": {
+         "uraian": "Pernyataan untuk memenuhi pelaksanaan kegiatan usaha dan standar usaha dalam rangka melakukan kesanggupan untuk dilakukan verifikasi oleh Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pernyataan untuk memenuhi pelaksanaan kegiatan usaha dan standar usaha dalam rangka melakukan kesanggupan untuk dilakukan verifikasi oleh Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "87b30f75-828e-56a2-86ee-58c52d3e5b46",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi standar pelaksanaan kegiatan usaha sesuai pernyataan yang telah disampaikan dan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi standar pelaksanaan kegiatan usaha sesuai pernyataan yang telah disampaikan dan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0e675cd2-d220-58bc-aa25-d19ee7a8916f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti kepemilikan kantor cabang paling sedikit di 3 wilayah pada Indonesia bagian barat, bagian tengah, dan bagian timur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti kepemilikan kantor cabang paling sedikit di 3 wilayah pada Indonesia bagian barat, bagian tengah, dan bagian timur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d9640ab2-a5f9-5ac7-ab9d-00ada4382f0b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki surat keputusan penunjukan auditor eksternal SMK3 sebanyak 4 auditor eksternal senior dan 8 auditor eksternal junior yang masih berlaku",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki surat keputusan penunjukan auditor eksternal SMK3 sebanyak 4 auditor eksternal senior dan 8 auditor eksternal junior yang masih berlaku",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e2b1c2c0-65e7-5e01-bccd-6ee186ef35b2",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen akreditasi dari Komite Akreditasi Nasional (KAN) yang membuktikan telah berpengalaman melakukan sertifikasi sistem manajemen",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen akreditasi dari Komite Akreditasi Nasional (KAN) yang membuktikan telah berpengalaman melakukan sertifikasi sistem manajemen",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "653d33a8-d152-5bdb-be97-81a7a49438d6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki struktur organisasi Lembaga Audit SMK3 kantor pusat dan kantor cabang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki struktur organisasi Lembaga Audit SMK3 kantor pusat dan kantor cabang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "801de2a0-7ce5-50c4-ae43-a62824d52fd9",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen panduan audit sistem manajemen yang digunakan oleh lembaga audit sesuai dengan standar yang berlaku",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen panduan audit sistem manajemen yang digunakan oleh lembaga audit sesuai dengan standar yang berlaku",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "797e3643-e585-5684-986d-c05757f38ac8",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "359fe65c-b081-5dfd-978e-e4bccb2da81e",
+     "kode": "71201-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "cb89a11d-a3ab-525c-889e-83c586f2bd81",
+       "localization": {
+        "en": {
+         "uraian": "Durasi pemenuhan kewajiban untuk melaksanakan Sertifikasi Standar paling lambat 1 tahun setelah usaha Lembaga Audit SMK3 beroperasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Durasi pemenuhan kewajiban untuk melaksanakan Sertifikasi Standar paling lambat 1 tahun setelah usaha Lembaga Audit SMK3 beroperasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c5e6beaa-62b8-5cad-ac02-cb8d0c40f281",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan audit SMK3",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan audit SMK3",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "dc15fb9f-9b36-53b0-9b12-3d5bf1cf83ae",
+       "localization": {
+        "en": {
+         "uraian": "Menjaga kerahasiaan perusahaan yang diaudit",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjaga kerahasiaan perusahaan yang diaudit",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ae691fd8-6892-5406-af46-c3a3495dc4bb",
+       "localization": {
+        "en": {
+         "uraian": "Memelihara dokumen kegiatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memelihara dokumen kegiatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3f1fda8a-659d-5fea-a2f6-99cee47c2ae2",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan dan hasil audit SMK3 kepada menteri, perusahaan yang diaudit, dan dinas provinsi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan dan hasil audit SMK3 kepada menteri, perusahaan yang diaudit, dan dinas provinsi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "68b1ff29-166b-50fd-a232-1b6273b41fa2",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "42fac39f-97bb-402f-869d-d1423ad65e9b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Lembaga Penempatan Tenaga Kerja Swasta (LPTKS)"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "95788986-a776-558b-bde5-3b765ee7090a",
+       "localization": {
+        "en": {
+         "uraian": "Berbadan hukum dengan status Perseroan Terbatas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbadan hukum dengan status Perseroan Terbatas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "24d6a70b-8ebd-5352-ad9b-1c72e59b6f2c",
+       "localization": {
+        "en": {
+         "uraian": "Pernyataan untuk memenuhi pelaksanaan kegiatan usaha dan standar usaha dalam rangka melakukan kesanggupan untuk dilakukan verifikasi oleh Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pernyataan untuk memenuhi pelaksanaan kegiatan usaha dan standar usaha dalam rangka melakukan kesanggupan untuk dilakukan verifikasi oleh Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cfeb907b-2c33-5ff1-93ff-4f4aba1a93b6",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi standar pelaksanaan kegiatan usaha sesuai pernyataan yang telah disampaikan dan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi standar pelaksanaan kegiatan usaha sesuai pernyataan yang telah disampaikan dan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e22256a4-cf51-5683-a7c1-95d20081d190",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti kepemilikan kantor cabang paling sedikit di 3 wilayah pada Indonesia bagian barat, bagian tengah, dan bagian timur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti kepemilikan kantor cabang paling sedikit di 3 wilayah pada Indonesia bagian barat, bagian tengah, dan bagian timur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cde9229e-37ec-5a7a-b271-1fc71e8b3d48",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki surat keputusan penunjukan auditor eksternal SMK3 sebanyak 4 auditor eksternal senior dan 8 auditor eksternal junior yang masih berlaku",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki surat keputusan penunjukan auditor eksternal SMK3 sebanyak 4 auditor eksternal senior dan 8 auditor eksternal junior yang masih berlaku",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b01ab4eb-c050-551f-9f3a-3d124ef2b185",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen akreditasi dari Komite Akreditasi Nasional (KAN) yang membuktikan telah berpengalaman melakukan sertifikasi sistem manajemen",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen akreditasi dari Komite Akreditasi Nasional (KAN) yang membuktikan telah berpengalaman melakukan sertifikasi sistem manajemen",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8204f071-b12e-585d-a2dd-84823b693b46",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki struktur organisasi Lembaga Audit SMK3 kantor pusat dan kantor cabang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki struktur organisasi Lembaga Audit SMK3 kantor pusat dan kantor cabang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e1eb39d2-603e-523c-a2e4-541c2267da61",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen panduan audit sistem manajemen yang digunakan oleh lembaga audit sesuai dengan standar yang berlaku",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen panduan audit sistem manajemen yang digunakan oleh lembaga audit sesuai dengan standar yang berlaku",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "4f3b7695-b70d-526d-aa4c-fb4a4155d05c",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0723f9f0-75d1-5d4d-8175-71397ff54c7a",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "7213abba-4b78-429f-9317-817c21f3230b",
+    "kode": "026",
+    "localization": {
+     "en": {
+      "uraian": "Ketenagakerjaan",
+      "deskripsi": "Kementerian Ketenagakerjaan"
+     },
+     "id": {
+      "uraian": "Ketenagakerjaan",
+      "deskripsi": "Kementerian Ketenagakerjaan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "cd4b1424-7667-5046-9d39-6939a5629f0d",
+   "localization": {
+    "en": {
+     "uraian": "Aktivitas sertifikasi produk, proses, jasa, dan sistem industri.",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Aktivitas sertifikasi produk, proses, jasa, dan sistem industri.",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "c69dc3f9-1cd6-5fb8-9a70-672ac6318b54",
+    "localization": {
+     "en": {
+      "judul": "Jasa Sertifikasi Teknis",
+      "uraian": "$4d"
+     },
+     "id": {
+      "judul": "Jasa Sertifikasi Teknis",
+      "uraian": "$4e"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "b1f6f5b9-f35f-5b36-806a-3841794f5f11",
+     "kode": "71201-02-05",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "1a886b86-c024-5353-afcf-82c599e92658",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cb598020-c69f-5fa8-bc68-4161a16b0bfe",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat dan proses penyelenggaraan jasa, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat dan proses penyelenggaraan jasa, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0351bc84-a7a9-5499-94fa-b1f26b84db40",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat Sistem Manajemen Mutu (ISO 9001) pada ruang lingkup usaha pemberian jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat Sistem Manajemen Mutu (ISO 9001) pada ruang lingkup usaha pemberian jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "375e5797-1d75-502b-acb7-6867dd6c945b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat pelatihan kompetensi SDM penyedia jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat pelatihan kompetensi SDM penyedia jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0368026f-a5c6-5c96-a39b-fcff773c52ea",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat kalibrasi untuk peralatan yang berfungsi untuk mengukur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat kalibrasi untuk peralatan yang berfungsi untuk mengukur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "771856a2-e1f5-5da9-b38c-eee989f9ff21",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d940458a-4609-4b90-9bb5-617ce9111f8f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "510f26ad-4954-5716-b44f-0d5bfd645ee3",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3a40e1e8-41f5-5184-ae92-c4d1dea36465",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: a) Industri skala kecil: 1 orang level teknis/ operasional/staff b) Industri skala menengah: 1 orang level manajer, 1 orang level profesional/ supervisor, dan 1 orang level teknis/ operasional/staff",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: a) Industri skala kecil: 1 orang level teknis/ operasional/staff b) Industri skala menengah: 1 orang level manajer, 1 orang level profesional/ supervisor, dan 1 orang level teknis/ operasional/staff",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7c80562d-77fc-55b4-8a7d-81bd88c5a4ec",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen bagan alur: a) bisnis proses penjualan jasa b) proses layanan purna jual penjualan jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen bagan alur: a) bisnis proses penjualan jasa b) proses layanan purna jual penjualan jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9725cde0-8e1d-5874-9801-c880f66112bd",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa: a) spesifikasi mesin dan/atau daftar peralatan, sebagai sarana penunjang b) foto mesin/ peralatan, sebagai sarana penunjang dan c) perjanjian jual beli/sewa yang membuktikan penguasaan (kepemilikan/ sewa) mesin/ peralatan sebagai sarana penunjang untuk menghasilkan jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa: a) spesifikasi mesin dan/atau daftar peralatan, sebagai sarana penunjang b) foto mesin/ peralatan, sebagai sarana penunjang dan c) perjanjian jual beli/sewa yang membuktikan penguasaan (kepemilikan/ sewa) mesin/ peralatan sebagai sarana penunjang untuk menghasilkan jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "c456cbb4-484c-5f7e-a46a-84946fa63daa",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "83c29f6e-c362-50bc-be27-1afeb893b0bb",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4f233e91-fab3-5fbc-8fc5-f51b448b8935",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d08ca958-4685-51d4-9fcc-765a1bf228ad",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "cc4d2566-fe47-51b2-9031-219fc3048559",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "32f182bc-eb8f-5174-9846-c0a25fea9b1d",
+     "kode": "71201-03-06",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "674f692f-f9f7-56f7-83b6-582ed78ba78e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a95a67d9-110c-5125-a9e6-ec599e39e610",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat dan proses penyelenggaraan jasa, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat dan proses penyelenggaraan jasa, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e1ff5a67-1f2c-5f71-a515-96bcba3eb143",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat Sistem Manajemen Mutu (ISO 9001) pada ruang lingkup usaha pemberian jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat Sistem Manajemen Mutu (ISO 9001) pada ruang lingkup usaha pemberian jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4077fd2e-bbd2-5842-b601-8104630269a5",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat pelatihan kompetensi SDM penyedia jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat pelatihan kompetensi SDM penyedia jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "68586870-b303-5325-a7e8-4eb6360ac30b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat kalibrasi untuk peralatan yang berfungsi untuk mengukur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat kalibrasi untuk peralatan yang berfungsi untuk mengukur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "fdd59ea0-deb4-57aa-a0ad-0f8ae71d267f",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d940458a-4609-4b90-9bb5-617ce9111f8f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "60f05250-2b8c-5ca2-9628-ec82f69a3a9c",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "639d4804-8895-52e7-a2f4-dffcb00d439b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: a) Industri skala kecil: 1 orang level teknis/ operasional/staff b) Industri skala menengah: 1 orang level manajer, 1 orang level profesional/ supervisor, dan 1 orang level teknis/ operasional/staff",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: a) Industri skala kecil: 1 orang level teknis/ operasional/staff b) Industri skala menengah: 1 orang level manajer, 1 orang level profesional/ supervisor, dan 1 orang level teknis/ operasional/staff",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2eb7b912-4b2c-5678-a83e-30f88cbfff4e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen bagan alur: a) bisnis proses penjualan jasa b) proses layanan purna jual penjualan jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen bagan alur: a) bisnis proses penjualan jasa b) proses layanan purna jual penjualan jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1fa4f20c-2e82-5038-a3ee-a8fd7708f9bc",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa: a) spesifikasi mesin dan/atau daftar peralatan, sebagai sarana penunjang b) foto mesin/ peralatan, sebagai sarana penunjang dan c) perjanjian jual beli/sewa yang membuktikan penguasaan (kepemilikan/ sewa) mesin/ peralatan sebagai sarana penunjang untuk menghasilkan jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa: a) spesifikasi mesin dan/atau daftar peralatan, sebagai sarana penunjang b) foto mesin/ peralatan, sebagai sarana penunjang dan c) perjanjian jual beli/sewa yang membuktikan penguasaan (kepemilikan/ sewa) mesin/ peralatan sebagai sarana penunjang untuk menghasilkan jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "24e50968-ba18-57b3-ac49-0f4f5dec9f2e",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "83c29f6e-c362-50bc-be27-1afeb893b0bb",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "018ef5d7-cb00-558c-9292-76c6cdf17297",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "cc4d2566-fe47-51b2-9031-219fc3048559",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5a34cc78-9ea8-5e6a-8285-9113b5aaf1ba",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "d67a9ef5-9bfd-5e68-8af2-b03659db9d47",
+     "kode": "71201-04-07",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "a7808b58-4b48-5c73-a4c9-4c1fb7be4ff8",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a11a8763-3bd5-5308-beb6-c5da3acade7b",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat dan proses penyelenggaraan jasa, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat dan proses penyelenggaraan jasa, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "61208037-706d-5813-8f3f-b19422a0a409",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat Sistem Manajemen Mutu (ISO 9001) pada ruang lingkup usaha pemberian jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat Sistem Manajemen Mutu (ISO 9001) pada ruang lingkup usaha pemberian jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cda59fec-8862-53ea-bd5b-ae4085892bc0",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat pelatihan kompetensi SDM penyedia jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat pelatihan kompetensi SDM penyedia jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "354beae9-3c64-5421-b869-8f5cbb7b6895",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat kalibrasi untuk peralatan yang berfungsi untuk mengukur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat kalibrasi untuk peralatan yang berfungsi untuk mengukur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "61f417d7-6cbc-5343-8a09-96212248e4de",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d940458a-4609-4b90-9bb5-617ce9111f8f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "89dfa664-b6eb-5f92-b9fe-fb143eef8cea",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen struktur organisasi yang memuat ketersediaan SDM dengan kompetensi teknis sesuai usaha jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fc30d4c2-8c5b-5428-a574-f80ffbbba874",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: 2 orang level manajer, 2 orang level profesional/ supervisor 4 orang level teknis/ operasional/ staff",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: 2 orang level manajer, 2 orang level profesional/ supervisor 4 orang level teknis/ operasional/ staff",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4b77ef0d-4221-5c5b-b37d-bcdd3cd2f4b6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen bagan alur: a) bisnis proses penjualan jasa b) proses layanan purna jual penjualan jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen bagan alur: a) bisnis proses penjualan jasa b) proses layanan purna jual penjualan jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6ac1de62-6969-5ef7-84af-b2ebba37bd36",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa: a) spesifikasi mesin dan/atau daftar peralatan, sebagai sarana penunjang b) foto mesin/peralatan, sebagai sarana penunjang dan c) perjanjian jual beli/sewa yang membuktikan penguasaan (kepemilikan/ sewa) mesin/ peralatan sebagai sarana penunjang untuk menghasilkan jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa: a) spesifikasi mesin dan/atau daftar peralatan, sebagai sarana penunjang b) foto mesin/peralatan, sebagai sarana penunjang dan c) perjanjian jual beli/sewa yang membuktikan penguasaan (kepemilikan/ sewa) mesin/ peralatan sebagai sarana penunjang untuk menghasilkan jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "885e83bf-cc2c-53ff-a883-37f46cf1af86",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5c42d37c-b158-52ae-b6ab-f67dbbd01727",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "af903ade-58d5-5f80-9955-dd0ed496edd8",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Provinsi bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Provinsi bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3928a2d2-e41a-5ffc-931f-61bfff2b8bcc",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "7a95258a-2889-422e-83d6-6cb9cc14569f",
+    "kode": "019",
+    "localization": {
+     "en": {
+      "uraian": "Perindustrian",
+      "deskripsi": "Kementerian Perindustrian"
+     },
+     "id": {
+      "uraian": "Perindustrian",
+      "deskripsi": "Kementerian Perindustrian"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "0c49b48f-0982-5603-b7b3-aaca59ac8c8d",
+   "localization": {
+    "en": {
+     "uraian": "Usaha dalam kelompok ini adalah usaha jasa sertifikasi badan usaha jasa penunjang tenaga listrik",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Usaha dalam kelompok ini adalah usaha jasa sertifikasi badan usaha jasa penunjang tenaga listrik",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "c69dc3f9-1cd6-5fb8-9a70-672ac6318b54",
+    "localization": {
+     "en": {
+      "judul": "Jasa Sertifikasi Teknis",
+      "uraian": "$4f"
+     },
+     "id": {
+      "judul": "Jasa Sertifikasi Teknis",
+      "uraian": "$50"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "b1dcbada-72f6-53c1-b433-ddb4e300651a",
+     "kode": "71201-01-08",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "fd2e3e59-f00b-5eb1-9e24-5204d50f843f",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "284e59bd-1f6d-50de-b522-b23d849b4570",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem informasi sertifikasi yang terintegrasi dengan sistem informasi Direktorat Jenderal yang membidangi Ketenagalistrikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem informasi sertifikasi yang terintegrasi dengan sistem informasi Direktorat Jenderal yang membidangi Ketenagalistrikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b2c02907-fa51-59e1-8b44-f29772a1715a",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi persyaratan akreditasi sesuai peraturan perundangan yang berlaku di bidang ketenagalistrikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi persyaratan akreditasi sesuai peraturan perundangan yang berlaku di bidang ketenagalistrikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "9972df4e-5858-54b7-a0ae-6f108d9a2cb4",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c96a9e72-c4dd-466e-8c36-82baacad56e5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "eb6a2492-dc4d-54da-8d09-abbe50f4bc6c",
+       "localization": {
+        "en": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Sertifikasi Badan Usaha Jasa Penunjang Tenaga Listrik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Sertifikasi Badan Usaha Jasa Penunjang Tenaga Listrik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "f18d083f-b234-5d38-9407-59af9fbcada1",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "99ab44b6-20be-56dc-9a01-46c3c18061b8",
+     "kode": "71201-02-09",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "fc76d1b8-605c-5fa2-aa4e-adc686698f99",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5d0ff69e-512b-51af-be07-f2c7a8ceae04",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem informasi sertifikasi yang terintegrasi dengan sistem informasi Direktorat Jenderal yang membidangi Ketenagalistrikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem informasi sertifikasi yang terintegrasi dengan sistem informasi Direktorat Jenderal yang membidangi Ketenagalistrikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "06d295df-ee80-5525-a5b1-a42f62406f25",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi persyaratan akreditasi sesuai peraturan perundangan yang berlaku di bidang ketenagalistrikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi persyaratan akreditasi sesuai peraturan perundangan yang berlaku di bidang ketenagalistrikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "318d9fad-eb93-5bf0-8f09-d2ee24ad5a66",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c96a9e72-c4dd-466e-8c36-82baacad56e5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "721e4ed3-f6a4-5398-839b-698bc62361f5",
+       "localization": {
+        "en": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Sertifikasi Badan Usaha Jasa Penunjang Tenaga Listrik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Sertifikasi Badan Usaha Jasa Penunjang Tenaga Listrik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "d2b20c2c-15ad-5b8f-9425-19a95f6029c8",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "b1abe61a-98a3-531c-a2ec-d7bd13718e63",
+     "kode": "71201-03-10",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "4b860e42-13b3-58f3-acf5-acb121be0f56",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9091fab7-688a-5aaa-af31-6cb8b1bb3898",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem informasi sertifikasi yang terintegrasi dengan sistem informasi Direktorat Jenderal yang membidangi Ketenagalistrikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem informasi sertifikasi yang terintegrasi dengan sistem informasi Direktorat Jenderal yang membidangi Ketenagalistrikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "50e2e94e-035e-5bf2-831b-14dd8e3dcdbd",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi persyaratan akreditasi sesuai peraturan perundangan yang berlaku di bidang ketenagalistrikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi persyaratan akreditasi sesuai peraturan perundangan yang berlaku di bidang ketenagalistrikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "cb3d3663-1165-5608-bf47-ef90e9b014d3",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c96a9e72-c4dd-466e-8c36-82baacad56e5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "7010887d-e29b-53f7-af92-f2fe61bdaeff",
+       "localization": {
+        "en": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Sertifikasi Badan Usaha Jasa Penunjang Tenaga Listrik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Sertifikasi Badan Usaha Jasa Penunjang Tenaga Listrik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "b9f9d836-f3f7-553a-b96d-b2b0146f0ef8",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "acc3ba52-c7d1-5a4a-9bbc-ad8cfae0a661",
+     "kode": "71201-04-11",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "433f5bd3-509d-5753-bccb-d99def647d67",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fefc209b-0df6-5179-8792-3b8936333597",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem informasi sertifikasi yang terintegrasi dengan sistem informasi Direktorat Jenderal yang membidangi Ketenagalistrikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem informasi sertifikasi yang terintegrasi dengan sistem informasi Direktorat Jenderal yang membidangi Ketenagalistrikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "77b20ccd-bbcc-5ffc-88bb-a8de3ff1e157",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi persyaratan akreditasi sesuai peraturan perundangan yang berlaku di bidang ketenagalistrikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi persyaratan akreditasi sesuai peraturan perundangan yang berlaku di bidang ketenagalistrikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "24a82bbc-a8dc-5d55-8a8b-f4905e5f03ec",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c96a9e72-c4dd-466e-8c36-82baacad56e5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "205d4874-2d3b-57f2-88f9-c5c79af528b3",
+       "localization": {
+        "en": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Sertifikasi Badan Usaha Jasa Penunjang Tenaga Listrik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Sertifikasi Badan Usaha Jasa Penunjang Tenaga Listrik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "4f04eba4-278f-501a-8112-a0bbe9355417",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "989c8bbd-960b-57de-a80e-1e7dd89e0054",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "69e9b6d9-ff1d-5d24-b96c-10b2fde43c80",
+   "localization": {
+    "en": {
+     "uraian": "Usaha dalam kelompok ini adalah usaha jasa sertifikasi peralatan dan pemanfaat tenaga listrik",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Usaha dalam kelompok ini adalah usaha jasa sertifikasi peralatan dan pemanfaat tenaga listrik",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "c69dc3f9-1cd6-5fb8-9a70-672ac6318b54",
+    "localization": {
+     "en": {
+      "judul": "Jasa Sertifikasi Teknis",
+      "uraian": "$51"
+     },
+     "id": {
+      "judul": "Jasa Sertifikasi Teknis",
+      "uraian": "$52"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "3755f54f-e8a1-520f-8255-8fb274d8387a",
+     "kode": "71201-01-12",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "bf5415e0-b9ad-5b7a-aa97-0eb3b3126ca7",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat pelatihan kompetensi SDM penyedia jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat pelatihan kompetensi SDM penyedia jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d502934b-fa85-545f-a053-a1eea4e7fe9e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat kalibrasi untuk peralatan yang berfungsi untuk mengukur",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat kalibrasi untuk peralatan yang berfungsi untuk mengukur",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "323a8e92-13fe-5c1e-8786-fdbb7577d837",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c96a9e72-c4dd-466e-8c36-82baacad56e5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "0a5284cb-033c-5cf2-8b77-34dbb656ef48",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: a) Industri skala kecil: 1 orang level teknis/ operasional/staff b) Industri skala menengah: 1 orang level manajer, 1 orang level profesional/ supervisor, dan 1 orang level teknis/ operasional/staff",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen perjanjian kerja antara perusahaan dengan tenaga kerja kompeten untuk memberikan jasa yang berstatus pegawai tetap atau pegawai kontrak minimal 1 tahun, dengan jumlah pegawai paling sedikit: a) Industri skala kecil: 1 orang level teknis/ operasional/staff b) Industri skala menengah: 1 orang level manajer, 1 orang level profesional/ supervisor, dan 1 orang level teknis/ operasional/staff",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d29efb94-2258-5f37-a7ec-6b572a343e6b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen bagan alur: a) bisnis proses penjualan jasa b) proses layanan purna jual penjualan jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen bagan alur: a) bisnis proses penjualan jasa b) proses layanan purna jual penjualan jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "95b903c5-64b2-5bb9-bdcf-f4b98062d38f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa: a) spesifikasi mesin dan/atau daftar peralatan, sebagai sarana penunjang b) foto mesin/ peralatan, sebagai sarana penunjang dan c) perjanjian jual beli/sewa yang membuktikan penguasaan (kepemilikan/ sewa) mesin/ peralatan sebagai sarana penunjang untuk menghasilkan jasa",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa: a) spesifikasi mesin dan/atau daftar peralatan, sebagai sarana penunjang b) foto mesin/ peralatan, sebagai sarana penunjang dan c) perjanjian jual beli/sewa yang membuktikan penguasaan (kepemilikan/ sewa) mesin/ peralatan sebagai sarana penunjang untuk menghasilkan jasa",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "63a46483-c3a5-5d38-b023-acd02019c7ca",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "19c20247-9515-5b67-8ec3-3ff2d0ba6a1b",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1918a3c6-a45f-5b03-b0b5-d3b4e3e630b9",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "83c29f6e-c362-50bc-be27-1afeb893b0bb",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1c76d488-209a-5231-84d0-e72bc3ba726e",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "cc4d2566-fe47-51b2-9031-219fc3048559",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "0266625e-07ae-53ff-83dc-c408788da950",
+     "kode": "71201-02-13",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "6aa3aaae-b0b1-52f2-8bde-52bddfc2c778",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4a41b546-f82b-553d-891a-7727e9805473",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem informasi sertifikasi yang terintegrasi dengan sistem informasi Direktorat Jenderal yang membidangi Ketenagalistrikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem informasi sertifikasi yang terintegrasi dengan sistem informasi Direktorat Jenderal yang membidangi Ketenagalistrikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3dc7d14f-ea03-5688-8ceb-ffc7d25ad85d",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi persyaratan akreditasi sesuai peraturan perundangan yang berlaku di bidang ketenagalistrikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi persyaratan akreditasi sesuai peraturan perundangan yang berlaku di bidang ketenagalistrikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "f90c7ab7-5cbe-5011-8738-bab16e11dad4",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c96a9e72-c4dd-466e-8c36-82baacad56e5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "c19fe0ab-70c0-5874-ba71-f3c4ea6dfb3c",
+       "localization": {
+        "en": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Sertifikasi Peralatan dan Pemanfaat Tenaga Listrik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Sertifikasi Peralatan dan Pemanfaat Tenaga Listrik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "ed5583bd-fdd3-53c2-8346-375d5fa9e9f5",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "840d3ae5-5f65-560a-a326-d10abef355a5",
+     "kode": "71201-03-14",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "ec16c028-47aa-528d-ac11-6e4f2b56b6f4",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cb245e6e-8329-5013-80ec-297fe9c8cc55",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem informasi sertifikasi yang terintegrasi dengan sistem informasi Direktorat Jenderal yang membidangi Ketenagalistrikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem informasi sertifikasi yang terintegrasi dengan sistem informasi Direktorat Jenderal yang membidangi Ketenagalistrikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2cb509ce-0c06-5b83-80e4-eafa538c2b03",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi persyaratan akreditasi sesuai peraturan perundangan yang berlaku di bidang ketenagalistrikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi persyaratan akreditasi sesuai peraturan perundangan yang berlaku di bidang ketenagalistrikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "ae30d090-a834-5826-bd5f-b63ab84dd400",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c96a9e72-c4dd-466e-8c36-82baacad56e5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "3fd97ca9-5eaf-5eae-a393-d2c93c4b7448",
+       "localization": {
+        "en": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Sertifikasi Peralatan dan Pemanfaat Tenaga Listrik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Sertifikasi Peralatan dan Pemanfaat Tenaga Listrik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "ee421710-2db0-5476-a032-fd3d54b2aaf8",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "b4955bcc-5a91-50a6-b6ef-e8cd5ff4a9fb",
+     "kode": "71201-04-15",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "fab25a4e-e6bb-574d-8218-ae8cd63fe0ac",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "daf81b34-4925-5bdf-9a89-80c24eee4e90",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sistem informasi sertifikasi yang terintegrasi dengan sistem informasi Direktorat Jenderal yang membidangi Ketenagalistrikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sistem informasi sertifikasi yang terintegrasi dengan sistem informasi Direktorat Jenderal yang membidangi Ketenagalistrikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "96bf33bf-619b-5b23-9c13-837edf3dcb57",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi persyaratan akreditasi sesuai peraturan perundangan yang berlaku di bidang ketenagalistrikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi persyaratan akreditasi sesuai peraturan perundangan yang berlaku di bidang ketenagalistrikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "9e7d55d4-9d61-557a-952e-7013100afae2",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c96a9e72-c4dd-466e-8c36-82baacad56e5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "95e01c02-f111-5015-8f5f-1a0b963d0974",
+       "localization": {
+        "en": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Sertifikasi Peralatan dan Pemanfaat Tenaga Listrik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Sertifikasi Peralatan dan Pemanfaat Tenaga Listrik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "e0cf2434-3df9-52fe-8a47-4a0e5484c235",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "78905cc7-f604-5351-b837-c8dcbe9e1459",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "6bf5c341-c4e2-5af3-b4eb-22d78d686d88",
+   "localization": {
+    "en": {
+     "uraian": "Lembaga Sertifikasi Badan Usaha (LSBU) Jasa Konstruksi",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Lembaga Sertifikasi Badan Usaha (LSBU) Jasa Konstruksi",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "c69dc3f9-1cd6-5fb8-9a70-672ac6318b54",
+    "localization": {
+     "en": {
+      "judul": "Jasa Sertifikasi Teknis",
+      "uraian": "$53"
+     },
+     "id": {
+      "judul": "Jasa Sertifikasi Teknis",
+      "uraian": "$54"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "8b90029e-cea8-50eb-a1be-5a91053b7b1d",
+     "kode": "71201-01-16",
+     "luas_lahan": null,
+     "jangka_waktu": "30",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "1f364246-3109-5155-a8f0-0bb8716b0872",
+       "localization": {
+        "en": {
+         "uraian": "Lisensi LSBU masih berlaku",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lisensi LSBU masih berlaku",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cc08e0df-c37b-5d55-a28a-e180645f77c9",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan operasional lembaga sertifikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan operasional lembaga sertifikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6db2c1e2-08b9-537a-9b1e-b4ef031d7186",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti akreditasi oleh lembaga independen sesuai peraturan perundang-undangan, paling lambat 1 (satu) tahun setelah diterbitkannya lisensi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti akreditasi oleh lembaga independen sesuai peraturan perundang-undangan, paling lambat 1 (satu) tahun setelah diterbitkannya lisensi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "cda4af0c-8165-54fb-aba3-2a1879fcb378",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "b68b4104-cd49-4815-aade-21026a6a009f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "95a187a9-eb07-5c66-a017-be4ce444598f",
+       "localization": {
+        "en": {
+         "uraian": "Standar Penetapan Kemampuan Sertifikasi Badan Usaha Jasa Konstruksi/ Lisensi Lembaga Sertifikasi Badan Usaha Jasa Konstruksi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Standar Penetapan Kemampuan Sertifikasi Badan Usaha Jasa Konstruksi/ Lisensi Lembaga Sertifikasi Badan Usaha Jasa Konstruksi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "9ea13468-27f0-5d1c-b8f6-b72428c61c13",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "770c6144-1d4a-5b83-a236-983d34e5d4bd",
+     "kode": "71201-02-17",
+     "luas_lahan": null,
+     "jangka_waktu": "30",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "679c9b79-01e5-51dc-9f2a-eecdf5fc314b",
+       "localization": {
+        "en": {
+         "uraian": "Lisensi LSBU masih berlaku",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lisensi LSBU masih berlaku",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "499a49fd-6fb1-5c9a-8b75-9dc97f97719a",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan operasional lembaga sertifikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan operasional lembaga sertifikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b3d9716b-118f-5810-8e73-00dd61bca0b1",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti akreditasi oleh lembaga independen sesuai peraturan perundang-undangan, paling lambat 1 (satu) tahun setelah diterbitkannya lisensi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti akreditasi oleh lembaga independen sesuai peraturan perundang-undangan, paling lambat 1 (satu) tahun setelah diterbitkannya lisensi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "7029da19-002a-5c24-9611-45ed023b1b11",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "b68b4104-cd49-4815-aade-21026a6a009f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "e0e9f35d-4605-5081-93cb-97207463db17",
+       "localization": {
+        "en": {
+         "uraian": "Standar Penetapan Kemampuan Sertifikasi Badan Usaha Jasa Konstruksi/ Lisensi Lembaga Sertifikasi Badan Usaha Jasa Konstruksi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Standar Penetapan Kemampuan Sertifikasi Badan Usaha Jasa Konstruksi/ Lisensi Lembaga Sertifikasi Badan Usaha Jasa Konstruksi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "98960e5f-874f-5887-af65-c216dbbb2bb1",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "66867a12-6811-5c58-95ac-458c449022f2",
+     "kode": "71201-03-18",
+     "luas_lahan": null,
+     "jangka_waktu": "30",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "943dc65f-990c-5c70-bf24-21baf37a4e41",
+       "localization": {
+        "en": {
+         "uraian": "Lisensi LSBU masih berlaku",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lisensi LSBU masih berlaku",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2d068c79-a794-508f-918d-53d24a48dfd0",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan operasional lembaga sertifikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan operasional lembaga sertifikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1806e861-c772-5d21-a247-5c8613fc7301",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti akreditasi oleh lembaga independen sesuai peraturan perundang-undangan, paling lambat 1 (satu) tahun setelah diterbitkannya lisensi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti akreditasi oleh lembaga independen sesuai peraturan perundang-undangan, paling lambat 1 (satu) tahun setelah diterbitkannya lisensi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "2f2ad073-e282-509c-815d-e0d55ad2eb95",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "b68b4104-cd49-4815-aade-21026a6a009f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "b9690550-ee0e-560d-b795-8abf499b8833",
+       "localization": {
+        "en": {
+         "uraian": "Standar Penetapan Kemampuan Sertifikasi Badan Usaha Jasa Konstruksi/ Lisensi Lembaga Sertifikasi Badan Usaha Jasa Konstruksi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Standar Penetapan Kemampuan Sertifikasi Badan Usaha Jasa Konstruksi/ Lisensi Lembaga Sertifikasi Badan Usaha Jasa Konstruksi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "35d46109-bc4b-58a5-802c-998ed670008a",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "48819895-1c14-5aca-b6d6-c3845d5bac73",
+     "kode": "71201-04-19",
+     "luas_lahan": null,
+     "jangka_waktu": "30",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "8505b0f9-c7f1-51d8-af55-02189e7ecb75",
+       "localization": {
+        "en": {
+         "uraian": "Lisensi LSBU masih berlaku",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lisensi LSBU masih berlaku",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1d22a8b3-add4-5e85-b388-d092366d3966",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan operasional lembaga sertifikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan operasional lembaga sertifikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "30273ee0-f2cd-55dc-ab2b-0094f436c2da",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti akreditasi oleh lembaga independen sesuai peraturan perundang-undangan, paling lambat 1 (satu) tahun setelah diterbitkannya lisensi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti akreditasi oleh lembaga independen sesuai peraturan perundang-undangan, paling lambat 1 (satu) tahun setelah diterbitkannya lisensi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "9339b575-fa7c-5f41-ad6e-6438239ba80f",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "b68b4104-cd49-4815-aade-21026a6a009f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "f366ad40-d383-5672-aabd-35e2eda7c97a",
+       "localization": {
+        "en": {
+         "uraian": "Standar Penetapan Kemampuan Sertifikasi Badan Usaha Jasa Konstruksi/ Lisensi Lembaga Sertifikasi Badan Usaha Jasa Konstruksi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Standar Penetapan Kemampuan Sertifikasi Badan Usaha Jasa Konstruksi/ Lisensi Lembaga Sertifikasi Badan Usaha Jasa Konstruksi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "7c1721e3-857b-51dc-9de2-5fd70241ddd0",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a8df83fc-26c1-5e99-9ccb-89f8a65208f3",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "94788894-3273-4cf4-8bbc-58a6382dfaf1",
+    "kode": "033",
+    "localization": {
+     "en": {
+      "uraian": "Pekerjaan Umum dan Perumahan Rakyat",
+      "deskripsi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+     },
+     "id": {
+      "uraian": "Pekerjaan Umum dan Perumahan Rakyat",
+      "deskripsi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "ad2ff687-6280-4018-9370-5cf6c83dc94d",
+   "kode": "090000000013",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Pendaftaran Lembaga Penilaian Kesesuaian (LPK)"
+    },
+    "id": {
+     "nama_dokumen": "Pendaftaran Lembaga Penilaian Kesesuaian (LPK)"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "44465569-fb77-5aac-b05f-23a97d7a8ad6",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat akreditasi atau surat penunjukan beserta ruang lingkupnya;"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat akreditasi atau surat penunjukan beserta ruang lingkupnya;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat pernyataan untuk menyimpan dokumen teknis sesuai waktu yang disepakati dalam perjanjian bilateral dan/atau regional di bidang standardisasi yang telah diratifikasi, dalam bentuk dokumen elektronik untuk barang yang telah diatur dalam perjanjian dimaksud, sejak tanggal berlaku perjanjian sesuai dengan ketentuan peraturan perundang-undangan."
+      },
+      "id": {
+       "syarat_perizinan": "Surat pernyataan untuk menyimpan dokumen teknis sesuai waktu yang disepakati dalam perjanjian bilateral dan/atau regional di bidang standardisasi yang telah diratifikasi, dalam bentuk dokumen elektronik untuk barang yang telah diatur dalam perjanjian dimaksud, sejak tanggal berlaku perjanjian sesuai dengan ketentuan peraturan perundang-undangan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat pernyataan untuk menyimpan dokumen teknis dalam bentuk dokumen elektronik sesuai waktu yang disepakati untuk barang yang telah diatur dalam perjanjian bilateral dan/atau regional di bidang standardisasi sejak tanggal berlaku perjanjian sesuai dengan ketentuan peraturan perundang-undangan"
+      },
+      "id": {
+       "syarat_perizinan": "Surat pernyataan untuk menyimpan dokumen teknis dalam bentuk dokumen elektronik sesuai waktu yang disepakati untuk barang yang telah diatur dalam perjanjian bilateral dan/atau regional di bidang standardisasi sejak tanggal berlaku perjanjian sesuai dengan ketentuan peraturan perundang-undangan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "3 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat pernyataan untuk menyimpan dokumen teknis sesuai waktu yang disepakati dalam perjanjian bilateral dan/atau regional di bidang standardisasi yang telah diratifikasi, dalam bentuk dokumen elektronik untuk barang yang telah diatur dalam perjanjian dimaksud, sejak tanggal berlaku perjanjian sesuai dengan ketentuan peraturan perundang-undangan."
+      },
+      "id": {
+       "syarat_perizinan": "Surat pernyataan untuk menyimpan dokumen teknis sesuai waktu yang disepakati dalam perjanjian bilateral dan/atau regional di bidang standardisasi yang telah diratifikasi, dalam bentuk dokumen elektronik untuk barang yang telah diatur dalam perjanjian dimaksud, sejak tanggal berlaku perjanjian sesuai dengan ketentuan peraturan perundang-undangan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat akreditasi atau surat penunjukan beserta ruang lingkupnya;"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat akreditasi atau surat penunjukan beserta ruang lingkupnya;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat akreditasi atau surat penunjukan untuk LPK yang ditunjuk kementerian atau lembaga pemerintah non kementerian dalam rangka pelaksanaan pemberlakukan SNI dan/atau Persyaratan Teknis secara wajib"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat akreditasi atau surat penunjukan untuk LPK yang ditunjuk kementerian atau lembaga pemerintah non kementerian dalam rangka pelaksanaan pemberlakukan SNI dan/atau Persyaratan Teknis secara wajib"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "3 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Terhadap sertifikasi barang yang telah diatur sesuai perjanjian bilateral dan/atau regional di bidang standardisasi wajib menyimpan salinan dokumen teknis dalam bentuk cetak dan/atau digital dengan waktu penyimpanan sesuai perjanjian;"
+      },
+      "id": {
+       "syarat_perizinan": "Terhadap sertifikasi barang yang telah diatur sesuai perjanjian bilateral dan/atau regional di bidang standardisasi wajib menyimpan salinan dokumen teknis dalam bentuk cetak dan/atau digital dengan waktu penyimpanan sesuai perjanjian;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan dokumen penerbitan, perpanjangan, perubahan, pembekuan, pengaktifan, dan/atau pencabutan SPPT SNI dan/atau sertifikat kesesuaian;"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan dokumen penerbitan, perpanjangan, perubahan, pembekuan, pengaktifan, dan/atau pencabutan SPPT SNI dan/atau sertifikat kesesuaian;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Jika tidak melakukan penerbitan, perpanjangan, perubahan, pembekuan, pengaktifan, dan/atau pencabutan SPPT SNI dan/atau sertifikat kesesuaian, LPK wajib menyampaikan laporan nihil;"
+      },
+      "id": {
+       "syarat_perizinan": "Jika tidak melakukan penerbitan, perpanjangan, perubahan, pembekuan, pengaktifan, dan/atau pencabutan SPPT SNI dan/atau sertifikat kesesuaian, LPK wajib menyampaikan laporan nihil;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan pembekuan SPPT SNI dan/atau Sertifikat Kesesuaian Produk, audit khusus atau pengawasan sewaktu-waktu berdasarkan informasi barang yang telah disertifikasi oleh LPK dimaksud tidak memenuhi persyaratan;"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan pembekuan SPPT SNI dan/atau Sertifikat Kesesuaian Produk, audit khusus atau pengawasan sewaktu-waktu berdasarkan informasi barang yang telah disertifikasi oleh LPK dimaksud tidak memenuhi persyaratan;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mencabut SPPT SNI jika pelaku usaha tidak melakukan tindakan perbaikan. "
+      },
+      "id": {
+       "syarat_perizinan": "Mencabut SPPT SNI jika pelaku usaha tidak melakukan tindakan perbaikan. "
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mencabut SPPT SNI jika pelaku usaha tidak melakukan tindakan perbaikan. "
+      },
+      "id": {
+       "syarat_perizinan": "Mencabut SPPT SNI jika pelaku usaha tidak melakukan tindakan perbaikan. "
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyimpan salinan dokumen teknis dalam bentuk cetak dan/atau digital dengan waktu penyimpanan sesuai ketentuan dalam perjanjian (khusus untuk barang yang telah diatur dalam perjanjian dimaksud)"
+      },
+      "id": {
+       "syarat_perizinan": "Menyimpan salinan dokumen teknis dalam bentuk cetak dan/atau digital dengan waktu penyimpanan sesuai ketentuan dalam perjanjian (khusus untuk barang yang telah diatur dalam perjanjian dimaksud)"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "3 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan kliennya menyimpan salinan dokumen teknis dalam bentuk cetak dan/atau digital dengan waktu penyimpanan sesuai ketentuan dalam perjanjian (khusus untuk barang yang telah diatur dalam perjanjian dimaksud)"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan kliennya menyimpan salinan dokumen teknis dalam bentuk cetak dan/atau digital dengan waktu penyimpanan sesuai ketentuan dalam perjanjian (khusus untuk barang yang telah diatur dalam perjanjian dimaksud)"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "3 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mencabut SPPT SNI, sertifikat SNI, laporan hasil uji, dan/atau Sertifikat Kesesuaian lainnya jika pelaku usaha tidak melakukan tindakan perbaikan"
+      },
+      "id": {
+       "syarat_perizinan": "Mencabut SPPT SNI, sertifikat SNI, laporan hasil uji, dan/atau Sertifikat Kesesuaian lainnya jika pelaku usaha tidak melakukan tindakan perbaikan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "3 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "$8d"
+      },
+      "id": {
+       "syarat_perizinan": "$8e"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "3 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan dokumen penerbitan, perpanjangan, perubahan, pembekuan, pengaktifan, dan/atau pencabutan SPPT SNI, surat persetujuan penggunaan tanda SNI atau tanda kesesuaian, sertifikat SNI, laporan hasil uji, dan/atau Sertifikat Kesesuaian lainnya"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan dokumen penerbitan, perpanjangan, perubahan, pembekuan, pengaktifan, dan/atau pencabutan SPPT SNI, surat persetujuan penggunaan tanda SNI atau tanda kesesuaian, sertifikat SNI, laporan hasil uji, dan/atau Sertifikat Kesesuaian lainnya"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "3 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan pembekuan SPPT SNI, sertifikat SNI, laporan hasil uji, dan/atau Sertifikat Kesesuaian lainnya, audit khusus atau pengawasan sewaktu-waktu setelah memperoleh informasi bahwa barang yang telah disertifikasi oleh LPK dimaksud tidak memenuhi persyaratan"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan pembekuan SPPT SNI, sertifikat SNI, laporan hasil uji, dan/atau Sertifikat Kesesuaian lainnya, audit khusus atau pengawasan sewaktu-waktu setelah memperoleh informasi bahwa barang yang telah disertifikasi oleh LPK dimaksud tidak memenuhi persyaratan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "3 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan pembekuan SPPT SNI dan/atau Sertifikat Kesesuaian Produk, audit khusus atau pengawasan sewaktu-waktu berdasarkan informasi barang yang telah disertifikasi oleh LPK dimaksud tidak memenuhi persyaratan;"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan pembekuan SPPT SNI dan/atau Sertifikat Kesesuaian Produk, audit khusus atau pengawasan sewaktu-waktu berdasarkan informasi barang yang telah disertifikasi oleh LPK dimaksud tidak memenuhi persyaratan;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Terhadap sertifikasi barang yang telah diatur sesuai perjanjian bilateral dan/atau regional di bidang standardisasi wajib menyimpan salinan dokumen teknis dalam bentuk cetak dan/atau digital dengan waktu penyimpanan sesuai perjanjian;"
+      },
+      "id": {
+       "syarat_perizinan": "Terhadap sertifikasi barang yang telah diatur sesuai perjanjian bilateral dan/atau regional di bidang standardisasi wajib menyimpan salinan dokumen teknis dalam bentuk cetak dan/atau digital dengan waktu penyimpanan sesuai perjanjian;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan kliennya mencantumkan NPB atau nomor Registrasi Barang Terkait K3L pada barang dan/atau kemasan sebelum diperdagangkan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan kliennya mencantumkan NPB atau nomor Registrasi Barang Terkait K3L pada barang dan/atau kemasan sebelum diperdagangkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "3 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan dokumen penerbitan, perpanjangan, perubahan, pembekuan, pengaktifan, dan/atau pencabutan SPPT SNI dan/atau sertifikat kesesuaian;"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan dokumen penerbitan, perpanjangan, perubahan, pembekuan, pengaktifan, dan/atau pencabutan SPPT SNI dan/atau sertifikat kesesuaian;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Jika tidak melakukan penerbitan, perpanjangan, perubahan, pembekuan, pengaktifan, dan/atau pencabutan SPPT SNI, sertifikat SNI, laporan hasil uji, dan/atau Sertifikat Kesesuaian lainnya, LPK wajib menyampaikan laporan nihil"
+      },
+      "id": {
+       "syarat_perizinan": "Jika tidak melakukan penerbitan, perpanjangan, perubahan, pembekuan, pengaktifan, dan/atau pencabutan SPPT SNI, sertifikat SNI, laporan hasil uji, dan/atau Sertifikat Kesesuaian lainnya, LPK wajib menyampaikan laporan nihil"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "3 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Jika tidak melakukan penerbitan, perpanjangan, perubahan, pembekuan, pengaktifan, dan/atau pencabutan SPPT SNI dan/atau sertifikat kesesuaian, LPK wajib menyampaikan laporan nihil;"
+      },
+      "id": {
+       "syarat_perizinan": "Jika tidak melakukan penerbitan, perpanjangan, perubahan, pembekuan, pengaktifan, dan/atau pencabutan SPPT SNI dan/atau sertifikat kesesuaian, LPK wajib menyampaikan laporan nihil;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "8452cc8c-89ba-4d1d-956e-7b45b938e43f",
+    "kode": "090",
+    "localization": {
+     "en": {
+      "uraian": "Perdagangan",
+      "deskripsi": "Kementerian Perdagangan"
+     },
+     "id": {
+      "uraian": "Perdagangan",
+      "deskripsi": "Kementerian Perdagangan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

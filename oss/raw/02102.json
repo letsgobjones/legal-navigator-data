@@ -1,0 +1,5834 @@
+{
+ "code": "02102",
+ "found": true,
+ "ossId": "dedca468-d5eb-5263-9fb4-fd87346420c2",
+ "url": "https://oss.go.id/id/kbli/detail/dedca468-d5eb-5263-9fb4-fd87346420c2",
+ "fetchedAt": "2026-09-30T06:01:12+00:00",
+ "conversion": {
+  "label": "Digabung menjadi satu kode",
+  "ratio": "N:1",
+  "text": "2 kode 2020 digabung menjadi 02102 pada KBLI 2025.",
+  "from2020": [
+   "02111"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "f4273532-46db-5934-af3d-23f9b8b81783",
+   "localization": {
+    "en": {
+     "uraian": "Pemanfaatan hasil hutan kayu hutan tanaman di hutan produksi",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Pemanfaatan hasil hutan kayu hutan tanaman di hutan produksi",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "dedca468-d5eb-5263-9fb4-fd87346420c2",
+    "localization": {
+     "en": {
+      "judul": "Pemanfaatan Kayu Hutan",
+      "uraian": "Kelompok ini mencakup kegiatan pengelolaan kayu di dalam hutan, mulai dari penanaman sampai penebangan dengan hasil produksi berupa kayu bulat. Kegiatan ini dapat dilakukan di dalam hutan alam, hutan semialami, maupun hutan tanaman."
+     },
+     "id": {
+      "judul": "Pemanfaatan Kayu Hutan",
+      "uraian": "Kelompok ini mencakup kegiatan pengelolaan kayu di dalam hutan, mulai dari penanaman sampai penebangan dengan hasil produksi berupa kayu bulat. Kegiatan ini dapat dilakukan di dalam hutan alam, hutan semialami, maupun hutan tanaman."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "8d6bf04e-bd18-5d05-bdb7-328af21e14b2",
+     "kode": "02102-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "10",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "8faa42ed-3923-59de-9604-5b95a8429632",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "50edd6d1-17da-4b31-ac94-f42b27305d42",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "2033217c-eb0a-5fb7-b8e4-adb089f3a5ec",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "21d22f70-4db3-55d9-9977-b2cd73e8819a",
+       "localization": {
+        "en": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "781fd3ea-f5ce-5ff5-ba58-e1b9c5f943d0",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "edb7ba00-ae52-57a3-bfc9-a5c714953842",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "aafdd084-5d63-52be-81bc-8203d249b65d",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6d23be5d-f2e2-548e-bb7a-9faa33f30281",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f308f699-b733-5363-90d0-73dde899dddc",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ebeb050f-0a6e-5ec6-b3a5-90cbef78d762",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6dc3c702-06d5-5ec0-b3e7-4b51ba914979",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "24592ee2-9482-5b92-9f0d-4a08400395dc",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "76cc5af9-6b9d-55b0-a7b0-ce58007c9e05",
+       "localization": {
+        "en": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ee64d8e0-57e3-5ead-9ce2-b35ddacb9bfe",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "72fb0b55-aa7b-5f6b-a952-e6dc1d4ff64f",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4cc4c374-550d-53c4-b706-ad74230af5e5",
+       "localization": {
+        "en": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1c8793c3-665c-5421-9017-6a5977e675ef",
+       "localization": {
+        "en": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "980a43d1-39d0-5e3b-84bd-0c87cc0d8b63",
+       "localization": {
+        "en": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "08dc2dee-b24a-5f60-aeb6-e97917643108",
+       "localization": {
+        "en": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7ffe5f26-88ef-5077-8b02-665257e60d51",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3ce74902-6d40-57eb-9b2c-022ce1ad3722",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a5aac938-4bcc-51bb-95d6-7278bdc659ad",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "11ed54fa-7475-5a82-87be-7c31f5bb7f18",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3ae2beb8-e46c-5a30-b478-77c9dc2f0437",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "90f4cfbc-92a1-5ce7-9cf4-cadc51240116",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "14d6c460-848b-5da3-976e-80b6407f2477",
+     "kode": "02102-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "10",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "3b8a2bdf-3064-5311-b411-625c3ec98509",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "50edd6d1-17da-4b31-ac94-f42b27305d42",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "8e44d7ab-b31c-59ce-a47c-613c7a3e2755",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "35f7d234-d9e4-5f0e-b796-864956643f2e",
+       "localization": {
+        "en": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "31b2a145-bb80-5ccf-81e8-3704835c9e1c",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "fd838e3c-821e-57e9-92ba-c49b1497fef7",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "d95b989e-f699-5405-9788-84a497b29246",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e6721d52-f7eb-5dd3-8a53-2032dbd2a36c",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "614ad341-342c-5ef3-b443-b19b17f0fe3a",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "25093467-e92c-56a8-9d3b-e60d909bfc6f",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fc053748-90a8-580b-a58a-e6e566201da4",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7408e577-b6e4-5df7-a972-c5a74a3687ae",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "77bf2bcc-3f12-5d34-a192-ce304724b5d0",
+       "localization": {
+        "en": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f4ece0f4-2d68-5bb4-82f8-af59981f66c9",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b5ae60b6-6893-5161-b716-b142580c4174",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "48914c88-3abb-5d0e-8153-e744cb2b4452",
+       "localization": {
+        "en": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6cc69761-084f-5f88-9ad5-a8338e1085b8",
+       "localization": {
+        "en": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "967cc8b4-90f7-50cf-a410-4cf556961704",
+       "localization": {
+        "en": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "33e94143-704a-5f97-bd4f-1cf726b273b2",
+       "localization": {
+        "en": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9f8e16be-87d8-57ee-9b98-0b0706f7046f",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0996c1e5-e882-5fda-a9b8-85be754ccc0e",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e9e2d05e-ebdd-564b-9a13-d6c413ee6bd3",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "58199e52-d21f-5dcc-ac05-8b55683f1217",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0e73ae40-b4d7-5130-b9dc-185d08ad7571",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7e343b86-59e2-5c57-8b2d-e89b91ebc4b6",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "6ac8cd45-73dc-54e5-8671-56d1e1b3d1ad",
+     "kode": "02102-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "10",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "d2d1e858-fefc-56db-9b43-8a00f88981cb",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "50edd6d1-17da-4b31-ac94-f42b27305d42",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "173ee94b-6c6b-56e5-83b8-eff4b22af5b7",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0c4f2f57-9ace-59a6-9473-1592cd459b5c",
+       "localization": {
+        "en": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9fd2bcf4-b4c7-5aef-9c5d-ad9d32768206",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "e9b14245-f703-516e-b05e-63c0b947805f",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "f1cd298e-03ba-59ff-a388-8358e3f64ea6",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6aef8608-5921-5066-b009-28bdabf49373",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3420f15f-1390-54ff-b5de-19d4a64a060b",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7be8eaa3-312d-5a26-9553-d653b53147c2",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3ee3ec77-683f-5738-871a-20b71da169f0",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1378c9b4-0fc7-5f69-87fb-d4dc0e475302",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2c745524-3754-5116-a9e4-a08afc5c45d3",
+       "localization": {
+        "en": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cbdadd6e-6a54-51e3-a382-7d11030e1eb4",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9d67e053-5c9f-5d45-ba10-345426cc2fd2",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "35edade8-8230-5bf4-881f-5e49e2cd6ae8",
+       "localization": {
+        "en": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2803819c-fabb-5d3c-9e5b-406cb3f3c30a",
+       "localization": {
+        "en": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a95ec593-5c8c-5c4f-bb51-571934591627",
+       "localization": {
+        "en": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9eca619a-eff6-55ad-812e-65a45e59b7f3",
+       "localization": {
+        "en": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a83bef1e-8609-5ee1-b720-d2fe83421977",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8620307a-be8e-512a-bae9-d281165cf37c",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3202c3e3-8d25-5f58-a067-5350c70088c5",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f686eb4f-df09-5023-b214-aed47be30a01",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "635dccd6-46b4-5015-afbf-c41bd52434ca",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ce7ae33b-eb98-584a-bb5e-9ccfcd2fc668",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "82b6d193-5bc1-5ccf-b286-f52399378256",
+     "kode": "02102-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "10",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "7821d7ff-e9ff-5ea4-90de-dc88d3fcf76f",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "50edd6d1-17da-4b31-ac94-f42b27305d42",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "9a853a12-3bde-53a5-b3b2-0ffdfbfcb090",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "78eeb9fd-54cc-5c63-9f79-34ec61f185fa",
+       "localization": {
+        "en": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9ce9f852-7216-5058-a029-6a6378431ad8",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "1880bc1a-c4b2-56f5-a0cb-dff89c67dbce",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7c0ed230-b2d6-5485-af6b-9dc5f1d663cb",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "55a770ef-d150-5864-b610-225a3f74d4f8",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "88d287a2-476d-50ea-a363-0ff49e1671d5",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6106f182-9aec-5a06-8865-d8385d9a08b6",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "74acb626-05b7-5ae4-8634-f30100263196",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d9b50efc-aeec-50f9-87be-bfe50ffa1eb7",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "98f0525e-1476-5dbb-baf8-7c0691ec5d54",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bad093a1-5860-5708-bddc-7bb2f91263fd",
+       "localization": {
+        "en": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c98a08e2-25fe-596e-a4cc-ad0fdca1331f",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "405433e8-cb5f-5f33-b12b-e0b18132545d",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1af97024-5737-55d2-ad0b-12cd9413824c",
+       "localization": {
+        "en": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a047e0fd-f8be-5ddf-9a99-0cb89cecb4d3",
+       "localization": {
+        "en": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5042a07a-b5d3-5765-a80a-75794a768c23",
+       "localization": {
+        "en": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a65daed7-2abf-5523-a4d4-67e3d2065ea7",
+       "localization": {
+        "en": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1055e9ad-8ed9-511f-8668-8f20c4fb1c75",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1b417841-49d8-50cc-a25c-9360533da201",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1874d3b4-594b-5e79-9b5d-839f17036a30",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3c66de7a-730b-5ce7-b735-128d594882c7",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8af9fbdb-f533-50ea-bb39-8eaa64162dc0",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3758f9da-8541-547e-8285-a2147f1f0a56",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "6e46b1c2-4a2a-477a-9577-f0e8c9719ae6",
+    "kode": "043",
+    "localization": {
+     "en": {
+      "uraian": "Kementerian Kehutanan"
+     },
+     "id": {
+      "uraian": "Kementerian Kehutanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "be5bd325-395a-5571-b433-c9510c0f14b8",
+   "localization": {
+    "en": {
+     "uraian": "Pemanfaatan hasil hutan kayu hutan alam di hutan produksi",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Pemanfaatan hasil hutan kayu hutan alam di hutan produksi",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "dedca468-d5eb-5263-9fb4-fd87346420c2",
+    "localization": {
+     "en": {
+      "judul": "Pemanfaatan Kayu Hutan",
+      "uraian": "Kelompok ini mencakup kegiatan pengelolaan kayu di dalam hutan, mulai dari penanaman sampai penebangan dengan hasil produksi berupa kayu bulat. Kegiatan ini dapat dilakukan di dalam hutan alam, hutan semialami, maupun hutan tanaman."
+     },
+     "id": {
+      "judul": "Pemanfaatan Kayu Hutan",
+      "uraian": "Kelompok ini mencakup kegiatan pengelolaan kayu di dalam hutan, mulai dari penanaman sampai penebangan dengan hasil produksi berupa kayu bulat. Kegiatan ini dapat dilakukan di dalam hutan alam, hutan semialami, maupun hutan tanaman."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "36b2bd47-d705-5a25-ab84-77574cbcf8ca",
+     "kode": "02102-01-05",
+     "luas_lahan": null,
+     "jangka_waktu": "10",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "0d2fdc84-f16e-56c6-b55b-b95ac25bd806",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "50edd6d1-17da-4b31-ac94-f42b27305d42",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "3b79920f-a6ed-5e18-9f8c-c390d86d676d",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bb5f8cf4-fe29-5a13-95f0-be8c0b033c2d",
+       "localization": {
+        "en": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "97428fbe-9724-523e-a9fa-781bb49f7bcb",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "1deae59b-fe7c-5b35-8c62-e0067d06a4c0",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "9e1f486b-d6b4-584c-81ac-f0aaaaddab60",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3200ac31-0d4f-5cfb-ba73-23493e8cbb76",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4dc69d6d-1a7d-5a13-a2cf-1a44aef0cf95",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d0cc12f8-e515-5bf5-aa20-4aed9aa64d08",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5536d66d-c8fe-534b-af56-eb646901add2",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d983df6f-fc33-5222-a5d9-1fa607562e52",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d73f200e-d580-549c-a106-6bbe013b5e4d",
+       "localization": {
+        "en": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "90a7eb16-c0fa-53f3-8496-0adc778867a8",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4bcc2c0f-0c83-596d-86e9-2b891031fc1f",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7e564949-393e-5204-97ce-1903a55c009c",
+       "localization": {
+        "en": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d1873b68-538b-574d-b28d-e0770bfbac6d",
+       "localization": {
+        "en": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3cd68eb7-007b-56c6-b2d0-d146a482bfe3",
+       "localization": {
+        "en": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "abe6fc5a-35b7-520c-9160-98b5be631126",
+       "localization": {
+        "en": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6fcdf1c2-11ad-5867-985b-745a021a8e96",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f73bf708-5b07-53a5-9d8d-d823d582d453",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "dd7139e2-e4f5-50c8-bfb7-b2591bf65cd5",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e6ffa5b1-d627-59a6-b71f-667860646ada",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "36791217-4b21-540f-adae-f660d24158ce",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "67df0c0b-6261-57df-99e3-0e72744128aa",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "59547ef9-d476-5a3d-9611-72e2f80dfbff",
+     "kode": "02102-02-06",
+     "luas_lahan": null,
+     "jangka_waktu": "10",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "c34495f6-6088-534a-9245-f6fed49f04af",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "50edd6d1-17da-4b31-ac94-f42b27305d42",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "2026421b-6294-5db4-88fe-4501e5c160e7",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cb4b2000-73c4-5f9b-89c6-f49e9493271f",
+       "localization": {
+        "en": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "debc8dbf-1cab-5eda-b75a-9926c933a685",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "c3fbfe26-6e42-5e45-a274-ab7f2d784039",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "34c07276-28d7-56b9-94ff-f95caad15f3d",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7d64971b-4286-514a-a261-319c3a1ec0f6",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "289d4b9e-039e-54ac-b631-c74991acb42e",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5dbb259c-3873-5043-8aeb-9a9ac7b85359",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9a5e32dd-a4b8-5e23-b10c-35f158d9ba6e",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "86b24cca-f587-501a-a6e9-4704095347e4",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e7d3242f-be75-5d23-a121-490894497d79",
+       "localization": {
+        "en": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c660c8f8-1b62-5958-b621-4607dce6f41c",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2e8748ce-5c8d-56e6-a41c-0ab5d51cd368",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f7e467ef-1d74-5e13-bac6-85cdfb4eb7a5",
+       "localization": {
+        "en": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3959bbc0-309f-53a7-b1de-95664d9768a9",
+       "localization": {
+        "en": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "da570936-ae26-521f-abcc-b4a1974c9ac3",
+       "localization": {
+        "en": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fa2d84a7-4640-59f3-b6b6-d3d168ce210c",
+       "localization": {
+        "en": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c3ac34db-a150-5024-b40f-63eedf588fe3",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "36bc1fda-8c89-5cad-adc9-7c16e217d18b",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "efef97a2-f45a-5d7a-84e2-7159b801de63",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "44419079-050e-59c1-9aca-8a6ce3e5c069",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "331d2fdd-1374-533b-97c8-175c245f67b5",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8b031e27-6150-5591-b2a6-973b260eb818",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "3e47a048-cebe-5f00-af1b-94235f6e1aff",
+     "kode": "02102-03-07",
+     "luas_lahan": null,
+     "jangka_waktu": "10",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "b896ac13-bc9e-52dd-ab73-5fae4c6c3713",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "50edd6d1-17da-4b31-ac94-f42b27305d42",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "a8a55ccb-c761-5c18-ad12-15fa293bf5f3",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fd910d14-cfbb-5b51-b261-6a08749b1c1e",
+       "localization": {
+        "en": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4e4e3900-1f71-50bc-a100-48ab8c79f5c2",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "85baac95-c4ca-5b5f-8fb0-87df37fb9bfb",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "5c7b59fd-f71e-5767-b93d-b7b037bc3032",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f7d0e726-aea6-57a8-a184-707693202b41",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f66b32bd-7a4a-5a3e-8831-456c9e0b0dc1",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bd850b42-9b86-5a20-97f4-eb8c6db2f527",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "30282130-d1aa-5563-be8a-5a4dba93ca9e",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e857c298-1370-5bec-beae-b3f7da52a2d2",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "838a87fc-0bef-56fa-b471-0d160a9d26e0",
+       "localization": {
+        "en": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4e2b2207-4d99-5d5e-ac73-4395c85c607f",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b325c41a-4e2b-5126-b35d-8e233e8e1601",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "574e0473-1bd8-59aa-ac09-58ac5c21499f",
+       "localization": {
+        "en": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "058cc0bb-0e94-5d1f-81ed-4eda2877a4b8",
+       "localization": {
+        "en": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "151c4b8c-0d3e-5d3e-9f56-361a5465f64c",
+       "localization": {
+        "en": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6a80e0cb-a820-5c55-8698-44d560776483",
+       "localization": {
+        "en": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fab5f0b0-36d1-5ba1-9edf-27e0d1377006",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b5568878-55ab-5f76-90fc-e5c50a05a5a8",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cd52292e-c146-5796-b189-636e22af7192",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2c015190-8333-56ec-bbd9-b9018e865f3a",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "90886d3b-588d-5cb6-9ae5-4606eafc4255",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "21253032-0ca3-57ac-aed7-f1581827dda9",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "cdeb870c-345a-5bfe-bb55-8bb7752db415",
+     "kode": "02102-04-08",
+     "luas_lahan": null,
+     "jangka_waktu": "10",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "2bdf3e11-5f5a-5539-9526-d09b28fbdda0",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "50edd6d1-17da-4b31-ac94-f42b27305d42",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Pemanfaatan Hutan"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "228d4210-6b4f-58f9-a77f-b6e1ef2420cb",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan Komitmen PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fae75ff2-c50b-5902-ba7e-d9b90337ef60",
+       "localization": {
+        "en": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berita Acara Koordinat Geografis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3b40e475-699c-51a2-9558-299b55131165",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pelunasan iuran PBPH",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "f0c7c193-fef9-5f15-919e-e38a33f6b824",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2c061ad6-ff2f-577d-8703-9688e9b3c92d",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "ddd4146a-fb40-5b4b-bd2a-3dcb563db8b1",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun dokumen rencana kerja usaha pemanfaatan hutan untuk 10 (sepuluh) tahun dengan memperhatikan rencana pengelolaan hutan jangka panjang KPH paling lambat 1 tahun setelah perizinan berusaha diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8384bc05-e875-5fe6-bc36-457b1c8a78e7",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun Rencana Kerja Tahunan (RKT) berdasarkan RKUPH sejak sejak RKU disahkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d56fc70b-2175-59a1-b456-da929f043e9e",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kegiatan nyata di lapangan paling lambat 1 tahun setelah perizinan berusaha diterbitkan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a67e3c7c-c0bb-533f-821b-a1a81b6426c7",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penataan batas areal kerja 2 (dua) tahun sejak diberikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "36218d9c-28b6-5ed8-a831-68e476fd6e30",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan perlindungan hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f6d8f60a-37ea-516e-92e5-cd5ab211a176",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan upaya pencegahan kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e10312a5-fc33-5e21-8b7f-18b7af1d5485",
+       "localization": {
+        "en": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bertanggungjawab atas terjadinya kebakaran hutan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7d0f517f-6222-5d85-84b7-82a28cc3c27d",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pemulihan lingkungan terhadap kerusakan lingkungan di areal kerjanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6b9a0411-288d-57b8-8414-bfee62fece00",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan penanaman paling sedikit 50% dari target yang telah ditentukan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e228fbd4-faef-5369-b783-3f15ff65ee2d",
+       "localization": {
+        "en": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Merealisasikan produksi paling sedikit 50% dari target yang direncanakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d277faa1-df67-5ae6-aaf2-c2b084cc867b",
+       "localization": {
+        "en": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menatausahakan keuangan kegiatan usahanya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a52ab6d4-130b-5709-bd72-e511448b2e74",
+       "localization": {
+        "en": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mempekerjakan tenaga profesional bidang kehutanan dan tenaga lain yang memenuhi persyaratan sesuai kebutuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d0f814c6-d2af-5fa3-9bf0-42fa54e99e55",
+       "localization": {
+        "en": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membayar PNBP sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "19582351-97b5-5be4-a40b-8b9e92a37672",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanfaatan hasil hutan dengan sistem silvikultur sesuai dengan kondisi setempat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3c1c0edd-2d42-57e8-95c8-be57f286c3e6",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan pemanenan hasil hutan kayu dengan menerapkan teknik pembalakan berdampak rendah/ Reduce Impact Logging (RIL)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b95cde9e-e102-583e-ba05-4671ec100d6c",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan penatausahaan hasil hutan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5f1a5bbb-5e90-5ac9-80b1-86ec3610276c",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan pengukuran atau pengujian hasil hutan sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "34854dc3-2422-5830-a3dd-60936f65937a",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kinerja secara periodik kepada Menteri LHK",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "79c7dc3a-1a13-575a-b33e-8770ee13dc09",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kewajiban lainnya sesuai ketentuan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 10,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "6e46b1c2-4a2a-477a-9577-f0e8c9719ae6",
+    "kode": "043",
+    "localization": {
+     "en": {
+      "uraian": "Kementerian Kehutanan"
+     },
+     "id": {
+      "uraian": "Kementerian Kehutanan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

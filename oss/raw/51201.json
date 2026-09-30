@@ -1,0 +1,4542 @@
+{
+ "code": "51201",
+ "found": true,
+ "ossId": "880304e8-1cfe-5306-aef6-bdeb42b547c8",
+ "url": "https://oss.go.id/id/kbli/detail/880304e8-1cfe-5306-aef6-bdeb42b547c8",
+ "fetchedAt": "2026-09-30T05:05:06+00:00",
+ "conversion": {
+  "label": "Digabung menjadi satu kode",
+  "ratio": "N:1",
+  "text": "2 kode 2020 digabung menjadi 51201 pada KBLI 2025.",
+  "from2020": [
+   "51201"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "d119f152-b0e7-50de-bb27-6afb5a7e10c8",
+   "localization": {
+    "en": {
+     "uraian": "Angkutan Udara Niaga Berjadwal Dalam Negeri untuk Kargo",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Angkutan Udara Niaga Berjadwal Dalam Negeri untuk Kargo",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "880304e8-1cfe-5306-aef6-bdeb42b547c8",
+    "localization": {
+     "en": {
+      "judul": "Angkutan Udara Niaga Berjadwal Khusus Kargo",
+      "uraian": "Kelompok ini mencakup aktivitas transportasi kargo dengan pesawat udara pada rute dan jadwal penerbangan yang tetap dan teratur dengan membayar sejumlah tarif tertentu yang dipublikasikan.\nKelompok ini tidak mencakup\n- transportasi barang tidak terjadwal melalui udara, lihat kelompok 51202;\n- peluncuran satelit dan wahana antariksa, lihat kelompok 51203."
+     },
+     "id": {
+      "judul": "Angkutan Udara Niaga Berjadwal Khusus Kargo",
+      "uraian": "Kelompok ini mencakup aktivitas transportasi kargo dengan pesawat udara pada rute dan jadwal penerbangan yang tetap dan teratur dengan membayar sejumlah tarif tertentu yang dipublikasikan.\nKelompok ini tidak mencakup\n- transportasi barang tidak terjadwal melalui udara, lihat kelompok 51202;\n- peluncuran satelit dan wahana antariksa, lihat kelompok 51203."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": [
+     {
+      "id": "11e10fa7-3d3d-41d0-af75-547d1d8514b1",
+      "localization": {
+       "en": {
+        "uraian": "<p>Seluruh Bidang Usaha dalam Ruang Lingkup Kegiatan KBLI ini, terbuka untuk penanaman modal asing maksimal 49% dan pemilik modal nasional harus tetap lebih besar dari keseluruhan pemilik modal asing (<em>single majority</em>), sebagaimana diatur di dalam Peraturan Pemerintah Nomor 5 Tahun 2021 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko pada Lampiran Sektor Transportasi dan Peraturan Menteri Perhubungan Nomor PM 12 Tahun 2021 tentang Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Transportasi.</p>"
+       },
+       "id": {
+        "uraian": "<p>Seluruh Bidang Usaha dalam Ruang Lingkup Kegiatan KBLI ini, terbuka untuk penanaman modal asing maksimal 49% dan pemilik modal nasional harus tetap lebih besar dari keseluruhan pemilik modal asing (<em>single majority</em>), sebagaimana diatur di dalam Peraturan Pemerintah Nomor 5 Tahun 2021 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko pada Lampiran Sektor Transportasi dan Peraturan Menteri Perhubungan Nomor PM 12 Tahun 2021 tentang Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Transportasi.</p>"
+       }
+      }
+     }
+    ]
+   },
+   "KbliResikos": [
+    {
+     "id": "41165b02-4d63-5f12-bf13-bf9c12d1f59e",
+     "kode": "51201-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "7da09fc1-cddb-58a6-853a-85781e8f2a2f",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1fd4ceb2-a121-537c-bec6-4d24eca07f98",
+       "localization": {
+        "en": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a1ddaf22-853c-53a1-b27f-aa9a27c9f4c7",
+       "localization": {
+        "en": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0f4f625e-ffa2-508d-a457-b37439b5d244",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ddce1855-cbe1-5758-8a43-6c42b077b81a",
+       "localization": {
+        "en": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "3ab07475-45bb-5774-aaed-b15b9b4f3702",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ce0c1402-3a14-4392-bced-095ac26b14c4",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "f282e4c8-2231-5e9f-81c5-153d36caeede",
+       "localization": {
+        "en": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c67172fb-a35b-5d10-824a-89304f354f56",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "212034fb-afca-5aff-80e7-a32826c5dc57",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a727b4c1-30bd-58e1-9d2a-a4b36affb44b",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "82bef979-7d23-5c2e-8c77-6c74da937a18",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "85d71a40-7a50-564f-a4bd-5a2aaebfbe38",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3085434b-6466-58ed-9c12-0b904df29813",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggungjawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggungjawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "66f27586-9fbe-5258-893e-6042672f9bfd",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "533805d8-4823-5720-a7f7-c3e024f84308",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "c313cb19-cd4d-5b5f-b81c-4b055f5c0661",
+     "kode": "51201-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "9f2afed5-0975-5180-9e51-6e1ce7c2a564",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8c6ea3f7-3046-5e21-bb03-e26f27912240",
+       "localization": {
+        "en": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3bb07dcd-8834-5c77-a965-0474849726fd",
+       "localization": {
+        "en": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "df557560-885e-5890-a69f-8b3cd637a54d",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8de0435f-e031-5928-bac0-b33ebd1aad19",
+       "localization": {
+        "en": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "db295621-b660-5dd3-8718-5b99bead11b6",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ce0c1402-3a14-4392-bced-095ac26b14c4",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "1789029e-e4d0-5b52-b874-0bc512f13cdc",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a8d9ebbc-7af6-53f1-a9e2-b4e9e252a435",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d0d10912-7b3f-59a4-8d86-e4622b604807",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "185e74b8-0ce4-5ce4-860e-0e9eb896282f",
+       "localization": {
+        "en": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c6624296-5e74-5d90-a1b2-973d1bbc4e11",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2eb2fdf1-a7db-5bc2-9212-a2d8b0b17b4b",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "26297091-f541-53db-a27e-f7d10790dc52",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggungjawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggungjawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "fd95ed8e-b6e2-5dcf-b22b-2227874996ac",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "533805d8-4823-5720-a7f7-c3e024f84308",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "e3edfc28-b5bd-55a5-886b-6ba67febbfbb",
+     "kode": "51201-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "fa94740a-94a6-56cd-9b2f-66a37d6493e5",
+       "localization": {
+        "en": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0b7d9e47-136f-5258-9884-880896c3ef6f",
+       "localization": {
+        "en": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c800ce48-34da-5deb-9189-99aa0a2406f4",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f10a6f45-0aa2-5af4-ba4e-d0070c4cd535",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "912b1c92-28d5-5bf4-8e05-2c8b28c7516a",
+       "localization": {
+        "en": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "4eb5bf87-874b-520e-9be5-e18c39ee7078",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ce0c1402-3a14-4392-bced-095ac26b14c4",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "27f4898d-a53f-5eed-8a76-9d3f98129be4",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a844fe97-2b44-572e-ba81-0fe4b10e8299",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "267c959c-11f0-51e7-a531-f1e2215b0864",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bfbfc42e-aa36-557b-9f7d-fbb9196bb7cb",
+       "localization": {
+        "en": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "17f361a6-14d4-5a9d-9473-1e64bafb5965",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3766fb93-bd03-5639-8a14-20fb8cbfc9aa",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a66a9051-6dda-5c1d-b845-59800de436ba",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggungjawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggungjawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "721eacca-4105-5ee0-ba8b-f12ca1d8e326",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "533805d8-4823-5720-a7f7-c3e024f84308",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "91994b4e-30a8-5e9a-81bf-51bf4178e2f6",
+     "kode": "51201-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "780197c5-e629-5dfd-bd2c-ee06c2a32ed7",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "71523762-6a72-5c82-9110-1b0aafce2c11",
+       "localization": {
+        "en": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "551625aa-141f-59cf-be5c-1983325be6d8",
+       "localization": {
+        "en": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "38a74e2b-592a-55fe-9f53-370296cfe281",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e1dc916c-16d3-50f5-8e40-aee6a88930ae",
+       "localization": {
+        "en": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "0ebc5b57-1783-5400-8713-06eea3e70f21",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ce0c1402-3a14-4392-bced-095ac26b14c4",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "01684b23-d87e-54ab-b2b4-ef71aa995358",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6c6cb2f6-3ae6-5488-aeaf-0cc82675f4cc",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fe215a8f-d68c-5abf-909b-af6c872cc356",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1d8e79b6-c08a-5f7a-8494-308578a61e7a",
+       "localization": {
+        "en": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9263b400-77d6-5d17-b8eb-865913eb0eca",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8ccdad50-c068-5162-a41a-0131b91003ac",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1fc76226-f070-57a6-9eeb-7da8d415cb2b",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggungjawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggungjawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "abbfb959-5cd7-53ca-941a-a1c21a59281f",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "24183929-2254-5615-95e7-430b7405cee8",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "533805d8-4823-5720-a7f7-c3e024f84308",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "2d1cf9d7-a26f-410a-a7d7-f70e68f1f88b",
+    "kode": "022",
+    "localization": {
+     "en": {
+      "uraian": "Perhubungan",
+      "deskripsi": "Kementerian Perhubungan"
+     },
+     "id": {
+      "uraian": "Perhubungan",
+      "deskripsi": "Kementerian Perhubungan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "2064423e-36fc-5d78-81f3-acd4f3cf2b86",
+   "localization": {
+    "en": {
+     "uraian": "Angkutan Udara Niaga Berjadwal Luar Negeri untuk Kargo",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Angkutan Udara Niaga Berjadwal Luar Negeri untuk Kargo",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "880304e8-1cfe-5306-aef6-bdeb42b547c8",
+    "localization": {
+     "en": {
+      "judul": "Angkutan Udara Niaga Berjadwal Khusus Kargo",
+      "uraian": "Kelompok ini mencakup aktivitas transportasi kargo dengan pesawat udara pada rute dan jadwal penerbangan yang tetap dan teratur dengan membayar sejumlah tarif tertentu yang dipublikasikan.\nKelompok ini tidak mencakup\n- transportasi barang tidak terjadwal melalui udara, lihat kelompok 51202;\n- peluncuran satelit dan wahana antariksa, lihat kelompok 51203."
+     },
+     "id": {
+      "judul": "Angkutan Udara Niaga Berjadwal Khusus Kargo",
+      "uraian": "Kelompok ini mencakup aktivitas transportasi kargo dengan pesawat udara pada rute dan jadwal penerbangan yang tetap dan teratur dengan membayar sejumlah tarif tertentu yang dipublikasikan.\nKelompok ini tidak mencakup\n- transportasi barang tidak terjadwal melalui udara, lihat kelompok 51202;\n- peluncuran satelit dan wahana antariksa, lihat kelompok 51203."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": [
+     {
+      "id": "11e10fa7-3d3d-41d0-af75-547d1d8514b1",
+      "localization": {
+       "en": {
+        "uraian": "<p>Seluruh Bidang Usaha dalam Ruang Lingkup Kegiatan KBLI ini, terbuka untuk penanaman modal asing maksimal 49% dan pemilik modal nasional harus tetap lebih besar dari keseluruhan pemilik modal asing (<em>single majority</em>), sebagaimana diatur di dalam Peraturan Pemerintah Nomor 5 Tahun 2021 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko pada Lampiran Sektor Transportasi dan Peraturan Menteri Perhubungan Nomor PM 12 Tahun 2021 tentang Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Transportasi.</p>"
+       },
+       "id": {
+        "uraian": "<p>Seluruh Bidang Usaha dalam Ruang Lingkup Kegiatan KBLI ini, terbuka untuk penanaman modal asing maksimal 49% dan pemilik modal nasional harus tetap lebih besar dari keseluruhan pemilik modal asing (<em>single majority</em>), sebagaimana diatur di dalam Peraturan Pemerintah Nomor 5 Tahun 2021 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko pada Lampiran Sektor Transportasi dan Peraturan Menteri Perhubungan Nomor PM 12 Tahun 2021 tentang Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Transportasi.</p>"
+       }
+      }
+     }
+    ]
+   },
+   "KbliResikos": [
+    {
+     "id": "1f657bf9-aca7-5cbd-8305-c6f0dfe2a84d",
+     "kode": "51201-01-05",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "ff0dff6a-fa27-579f-9b0f-74b12dc60ec1",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "aa50e246-9b0b-5d13-9cdd-bc45a8a8557f",
+       "localization": {
+        "en": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7bed7519-1531-57e9-b691-170ffcfc6b67",
+       "localization": {
+        "en": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fdd953fe-7611-560c-ae2f-375ff0a8108f",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0b4fab03-e6a9-53d8-82f4-2d89dafa463d",
+       "localization": {
+        "en": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "a4184956-31e7-525f-80ab-ee6c744ead9b",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ce0c1402-3a14-4392-bced-095ac26b14c4",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "656ff202-42de-5955-b552-3ae67da0c897",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "66eef2c9-9353-511a-a381-3fdf59bb0c9d",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "323d2d7d-8002-5001-922e-74287368170d",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3c4c9ccc-c3ab-5c5a-be83-4592fa54070f",
+       "localization": {
+        "en": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e92cdc47-a171-5d37-8388-8ba61bbea089",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "97c2529d-9e1d-52f5-b2d6-c6fc0ed89381",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "08ae70a5-7124-5af3-a8a6-f22f38f0d287",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggung jawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggung jawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "f7005b59-942f-5ee8-b065-7db80d23d5e8",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "2aefe4b8-f019-508a-af52-a31c3b3793e3",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional,",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional,",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "b7693f04-60d3-531a-8c23-2fe56e68eaae",
+     "kode": "51201-02-06",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "27bf0b94-aa82-5489-8774-92f04dd70015",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c66b5a43-1d49-5722-aacb-c17306464686",
+       "localization": {
+        "en": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "02cdf600-e682-5767-9b16-a3dd15a5db44",
+       "localization": {
+        "en": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "83eb9fa5-f2c2-5edf-a24f-ec1e4fd1e917",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "510e562d-662f-511a-8898-193b1c53ce04",
+       "localization": {
+        "en": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "1421fce6-5c66-5270-bb58-03eceef44f3e",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ce0c1402-3a14-4392-bced-095ac26b14c4",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "e6f40b88-0b51-5727-8e6d-64e64c6658ba",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggung jawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggung jawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d9ab597c-9984-570e-9d16-6722639ed7dc",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6e237837-234d-54e6-9cd3-d1beecbc27b0",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0960eab0-0fef-53a5-916e-a48746ed7f94",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2ff519f6-302f-5840-acc9-5c3e36081575",
+       "localization": {
+        "en": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9bfb42c4-7f6f-5296-a230-9813b9e0d724",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "40a10303-3db1-5866-8fc4-023d5c05bc7b",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "caa01ed1-228c-5ad5-85a8-ceebf307b29c",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "2aefe4b8-f019-508a-af52-a31c3b3793e3",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional,",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional,",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "8ab71358-e97c-530f-88e4-44c7f0d79eac",
+     "kode": "51201-03-07",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "a3f09edc-4c89-5a4f-bdaa-8b4ebbe93ed0",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e485adb3-9726-5cec-ba37-0a05d7c3d2ce",
+       "localization": {
+        "en": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f83fab9f-b72f-5bb2-8ae6-9096f7c93584",
+       "localization": {
+        "en": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9a5c0327-ebd8-5795-9b1d-f00ae0852748",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2bd4021f-3af1-589c-a35f-0d0cb72f7bef",
+       "localization": {
+        "en": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "938f6cdd-90ee-555f-b4ea-a2675d284b18",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ce0c1402-3a14-4392-bced-095ac26b14c4",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "b0562fc2-6f87-5308-abca-2d390572b018",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "53babbb3-c3a5-5a7b-a7b8-ec8a4799e6f6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "62fbb267-b8b8-5130-8b7d-36c460fd9326",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fe11192e-ec2a-578e-80de-90a1ec8af882",
+       "localization": {
+        "en": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "de7124d6-b479-5a44-b0c9-66f9bd609e70",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "424917c1-e276-5229-8b0c-6cf4c4c73ccc",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8d715ca1-64fb-5255-bdff-292656dd72da",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggung jawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggung jawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "584ccef7-0043-53cf-8a73-136ce33fbef8",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "2aefe4b8-f019-508a-af52-a31c3b3793e3",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional,",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional,",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "c040d5e2-e983-5a37-8b10-9d6bf1bf5c4d",
+     "kode": "51201-04-08",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "ae189176-3ee3-5617-959a-332e118f211c",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Rencana usaha (business plan) untuk kurun waktu minimal 5 tahun yang akan datang, paling sedikit memuat:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "892bed7a-08fb-596c-82ac-fca5e665c8b4",
+       "localization": {
+        "en": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Jenis dan jumlah pesawat udara yang akan dioperasikan (karakteristik dan spesifikasi pesawat, cara perolehan, jumlah kebutuhan pesawat, utilisasi pesawat udara)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7e9a637c-b28f-56c9-8544-eb24ee5e9736",
+       "localization": {
+        "en": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana pusat kegiatan operasi penerbangan (operation base) dan rencana rute penerbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "78fd260f-cbba-5577-979f-744fd73aed93",
+       "localization": {
+        "en": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana kebutuhan SDM yang terdiri dari manajemen, teknisi dan personel pesawat udara",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "50a9a66d-e393-5b91-acd2-d684ff98834a",
+       "localization": {
+        "en": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Aspek ekonomi dan keuangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "74b1e0d6-2413-5f99-88a3-3c385226abce",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ce0c1402-3a14-4392-bced-095ac26b14c4",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar Angkutan Udara Niaga Berjadwal (SS-AUNB) "
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "9f0897c6-588f-5059-970d-b7a4efb8f7bf",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan angkutan udara secara nyata paling lambat 12 (dua belas) bulan sejak perizinan berusaha diterbitkan dengan mengoperasikan minimal jumlah pesawat udara yang dimiliki dan dikuasai sesuai dengan lingkup usaha atau kegiatannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "119b253c-d982-51bc-b641-b39860bced3f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki paling sedikit 1 (satu) unit pesawat udara dan pesawat udara yang lainnya dalam bentuk menguasai dengan jenis yang mendukung kelangsungan operasional penerbangan sesuai dengan rute yang dilayani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "44aadc72-605e-5f45-ba71-221cacbb8229",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi ketentuan wajib angkut, penerbangan sipil, dan ketentuan lain sesuai dengan peraturan perundang���undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "185bd7e0-7917-567d-bdc4-84c7e82c586c",
+       "localization": {
+        "en": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menutup asuransi tanggungjawab pengangkut dengan nilai pertanggungan sebesar santunan kargo angkutan udara niaga yang dibuktikan dengan perjanjian penutupan asuransi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c8815d65-cc87-5b01-8d7c-05060d121ddc",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kegiatan angkutan udara, termasuk keterlambatan dan pembatalan penerbangan setiap bulan paling lambat tanggal 10 (sepuluh) bulan berikutnya kepada menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c9e50911-209a-5ad6-ae74-5ef3703a24bb",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan laporan kinerja keuangan yang telah diaudit oleh kantor akuntan publik terdaftar yang sekurangkurangnya memuat neraca, laporan rugi laba, arus kas, dan rincian biaya, setiap tahun paling lambat akhir bulan april tahun berikutnya kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "acff20dd-00a9-5d21-a8e0-974452027803",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggung jawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan apabila terjadi perubahan penanggung jawab atau pemilik badan usaha angkutan udara niaga, domisili badan usaha angkutan udara niaga dan kepemilikan pesawat udara kepada Menteri",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "8cef7f69-4077-56e7-95af-6e7c4a1cf597",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "722377fc-025d-52fd-87be-31076f4f0007",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "2aefe4b8-f019-508a-af52-a31c3b3793e3",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional,",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasionalnya nasional dan/atau internasional,",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "2d1cf9d7-a26f-410a-a7d7-f70e68f1f88b",
+    "kode": "022",
+    "localization": {
+     "en": {
+      "uraian": "Perhubungan",
+      "deskripsi": "Kementerian Perhubungan"
+     },
+     "id": {
+      "uraian": "Perhubungan",
+      "deskripsi": "Kementerian Perhubungan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "135edc92-1013-4a57-8ea1-1370ebb2c23f",
+   "kode": "022000000120",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat Operator Pesawat Udara (Air Operator Certificate/ AOC)"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat Operator Pesawat Udara (Air Operator Certificate/ AOC)"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "004695aa-03e2-43f0-bd2a-d588794b2e8a",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Operation Manual yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Operation Manual yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Company Maintenance Manual yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Company Maintenance Manual yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Quality Management System Manual yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Quality Management System Manual yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Safety Management System Manual yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Safety Management System Manual yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "MEL/CDL yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "MEL/CDL yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Airplane Flight Manual yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Airplane Flight Manual yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Maintenance Program yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Maintenance Program yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki pernyataan kepatuhan (compliance statement)"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki pernyataan kepatuhan (compliance statement)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti langganan Manual Perawatan dan pengoperasian pesawat udara dari pabrikan"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti langganan Manual Perawatan dan pengoperasian pesawat udara dari pabrikan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti berlangganan Aeronautical Information Publication (AIP)"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti berlangganan Aeronautical Information Publication (AIP)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki program keamanan angkutan udara"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki program keamanan angkutan udara"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki pernyataan kepatuhan (compliance statement)"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki pernyataan kepatuhan (compliance statement)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Safety Management System Manual yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Safety Management System Manual yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki program keamanan angkutan udara"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki program keamanan angkutan udara"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti langganan Manual Perawatan dan pengoperasian pesawat udara dari pabrikan"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti langganan Manual Perawatan dan pengoperasian pesawat udara dari pabrikan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki personel manajemen yang kompeten yang bertanggung jawab terhadap kegiatan keselamatan, operasi dan perawatan Pesawat Udara serta telah dinyatakan lulus uji kepatutan dan uji kelayakan:"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki personel manajemen yang kompeten yang bertanggung jawab terhadap kegiatan keselamatan, operasi dan perawatan Pesawat Udara serta telah dinyatakan lulus uji kepatutan dan uji kelayakan:"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki pedoman sistem manajemen mutu untuk mempertahankan kinerja operasi dan teknik secara terus menerus"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki pedoman sistem manajemen mutu untuk mempertahankan kinerja operasi dan teknik secara terus menerus"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki struktur organisasi paling sedikit di bidang operasi, perawatan, keselamatan, dan jaminan kendali mutu"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki struktur organisasi paling sedikit di bidang operasi, perawatan, keselamatan, dan jaminan kendali mutu"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "MEL/CDL yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "MEL/CDL yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Airplane Flight Manual yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Airplane Flight Manual yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Quality Management System Manual yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Quality Management System Manual yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki pedoman organisasi pengoperasian dan pedoman organisasi perawatan"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki pedoman organisasi pengoperasian dan pedoman organisasi perawatan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki dan/atau menguasai personel Pesawat Udara yang kompeten dalam jumlah rasio yang memadai untuk mengoperasikan dan melakukan perawatan Pesawat Udara"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki dan/atau menguasai personel Pesawat Udara yang kompeten dalam jumlah rasio yang memadai untuk mengoperasikan dan melakukan perawatan Pesawat Udara"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki dan menguasai Pesawat Udara dengan jumlah tertentu sesuai dengan Perizinan Berusaha Angkutan Udara Niaga yang dimiliki"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki dan menguasai Pesawat Udara dengan jumlah tertentu sesuai dengan Perizinan Berusaha Angkutan Udara Niaga yang dimiliki"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti berlangganan Aeronautical Information Publication (AIP)"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti berlangganan Aeronautical Information Publication (AIP)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Operation Manual yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Operation Manual yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki pedoman sistem manajemen keselamatan dan"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki pedoman sistem manajemen keselamatan dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Maintenance Program yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Maintenance Program yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki program perawatan Pesawat Udara"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki program perawatan Pesawat Udara"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Company Maintenance Manual yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Company Maintenance Manual yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan ketentuan di dalam batasan operasi (operation specification)"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan ketentuan di dalam batasan operasi (operation specification)"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Melaksanakan segala ketentuan sesuai dengan sertifikat AOC</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaksanakan ketentuan di dalam batasan operasi (operation specification)</li><li>Melaksanakan kegiatan operasional sesuai dengan prosedur manual operasional yang telah disahkan</li><li>Melakukan kegiatan perawatan sesuai dengan manual perawatan yang disahkan</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Melaksanakan segala ketentuan sesuai dengan sertifikat AOC</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaksanakan ketentuan di dalam batasan operasi (operation specification)</li><li>Melaksanakan kegiatan operasional sesuai dengan prosedur manual operasional yang telah disahkan</li><li>Melakukan kegiatan perawatan sesuai dengan manual perawatan yang disahkan</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan kegiatan operasional sesuai dengan prosedur manual operasional yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan kegiatan operasional sesuai dengan prosedur manual operasional yang telah disahkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan kegiatan perawatan sesuai dengan manual perawatan yang disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan kegiatan perawatan sesuai dengan manual perawatan yang disahkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan segala ketentuan sesuai dengan sertifikat AOC"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan segala ketentuan sesuai dengan sertifikat AOC"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "7 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "2d1cf9d7-a26f-410a-a7d7-f70e68f1f88b",
+    "kode": "022",
+    "localization": {
+     "en": {
+      "uraian": "Perhubungan",
+      "deskripsi": "Kementerian Perhubungan"
+     },
+     "id": {
+      "uraian": "Perhubungan",
+      "deskripsi": "Kementerian Perhubungan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "8be98844-7aac-4162-9b10-099b08ed01d1",
+   "kode": "022000000123",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat Operator pesawat udara tanpa awak (Remotely Piloted Aircraft Operator Certificate/ROC)"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat Operator pesawat udara tanpa awak (Remotely Piloted Aircraft Operator Certificate/ROC)"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "0392cda6-cbdb-504e-8eb2-89060cfb7c79",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "0cb5b59f-c110-4c9b-bb46-5bebd8e2c2b8",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki perizinan berusaha angkutan udara niaga atau perizinan kegiatan angkutan udara bukan niaga"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki perizinan berusaha angkutan udara niaga atau perizinan kegiatan angkutan udara bukan niaga"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki standar pengoperasian pesawat udara tanpa awak yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki standar pengoperasian pesawat udara tanpa awak yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki standar perawatan pesawat udara tanpa awak yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki standar perawatan pesawat udara tanpa awak yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki Safety Management System Manual yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki Safety Management System Manual yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki pernyataan kepatuhan (compliance statement)"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki pernyataan kepatuhan (compliance statement)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki Quality Management System Manual yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki Quality Management System Manual yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki program keamanan angkutan udara"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki program keamanan angkutan udara"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki dan/atau menguasai Pesawat Udara Tanpa Awak (Unmanned Aircraft System/CAS) dengan jumlah tertentu sesuai dengan yang tertulis di dalam lampiran Perizinan Berusaha atau perizinan kegiatan Angkutan Udara"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki dan/atau menguasai Pesawat Udara Tanpa Awak (Unmanned Aircraft System/CAS) dengan jumlah tertentu sesuai dengan yang tertulis di dalam lampiran Perizinan Berusaha atau perizinan kegiatan Angkutan Udara"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki program keamanan Angkutan Udara mengacu kepada ketentuan program Keamanan Penerbangan nasional"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki program keamanan Angkutan Udara mengacu kepada ketentuan program Keamanan Penerbangan nasional"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki pernyataan kepatuhan (compliance statement)"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki pernyataan kepatuhan (compliance statement)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki standar pengoperasian Pesawat Udara Tanpa Awak (Unmanned Aircraft System/UAS)"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki standar pengoperasian Pesawat Udara Tanpa Awak (Unmanned Aircraft System/UAS)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki Quality Management System Manual yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki Quality Management System Manual yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki program keamanan angkutan udara"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki program keamanan angkutan udara"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki perizinan berusaha angkutan udara niaga atau perizinan kegiatan angkutan udara bukan niaga"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki perizinan berusaha angkutan udara niaga atau perizinan kegiatan angkutan udara bukan niaga"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki standar pengoperasian pesawat udara tanpa awak yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki standar pengoperasian pesawat udara tanpa awak yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki dan/atau menguasai personel operasi Pesawat Udara Tanpa Awak (Unmanned Aircraft System/ UAS) dan/atau personel ahli perawatan Pesawat Udara Tanpa Awak (Unmanned Aircraft System/UAS)"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki dan/atau menguasai personel operasi Pesawat Udara Tanpa Awak (Unmanned Aircraft System/ UAS) dan/atau personel ahli perawatan Pesawat Udara Tanpa Awak (Unmanned Aircraft System/UAS)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki standar perawatan Pesawat Udara Tanpa Awak (Unmanned Aircraft System/UAS)"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki standar perawatan Pesawat Udara Tanpa Awak (Unmanned Aircraft System/UAS)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki standar perawatan pesawat udara tanpa awak yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki standar perawatan pesawat udara tanpa awak yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memiliki Safety Management System Manual yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki Safety Management System Manual yang telah disahkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "5 Tahun"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan kegiatan operasional sesuai dengan prosedur manual operasional yang telah disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan kegiatan operasional sesuai dengan prosedur manual operasional yang telah disahkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan kegiatan perawatan sesuai dengan manual perawatan yang disahkan"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan kegiatan perawatan sesuai dengan manual perawatan yang disahkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Melaksanakan segala ketentuan sesuai dengan sertifikat ROC</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaksanakan ketentuan di dalam batasan operasi (operation specification)</li><li>Melaksanakan kegiatan operasional sesuai dengan prosedur manual operasional yang telah disahkan</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Melaksanakan segala ketentuan sesuai dengan sertifikat ROC</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaksanakan ketentuan di dalam batasan operasi (operation specification)</li><li>Melaksanakan kegiatan operasional sesuai dengan prosedur manual operasional yang telah disahkan</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan ketentuan di dalam batasan operasi (operation specification)"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan ketentuan di dalam batasan operasi (operation specification)"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan segala ketentuan sesuai dengan sertifikat ROC"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan segala ketentuan sesuai dengan sertifikat ROC"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "7 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "2d1cf9d7-a26f-410a-a7d7-f70e68f1f88b",
+    "kode": "022",
+    "localization": {
+     "en": {
+      "uraian": "Perhubungan",
+      "deskripsi": "Kementerian Perhubungan"
+     },
+     "id": {
+      "uraian": "Perhubungan",
+      "deskripsi": "Kementerian Perhubungan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

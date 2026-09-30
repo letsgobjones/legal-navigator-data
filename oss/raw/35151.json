@@ -1,0 +1,1284 @@
+{
+ "code": "35151",
+ "found": true,
+ "ossId": "f36ca412-24d0-5e5c-8dea-e19f4b5e4fc8",
+ "url": "https://oss.go.id/id/kbli/detail/f36ca412-24d0-5e5c-8dea-e19f4b5e4fc8",
+ "fetchedAt": "2026-09-30T04:43:37+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 35121 berubah menjadi 35151 pada KBLI 2025.",
+  "from2020": [
+   "35121"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "bf0a6dcb-2c6d-51b5-ad97-f94ca4549b33",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "f36ca412-24d0-5e5c-8dea-e19f4b5e4fc8",
+    "localization": {
+     "en": {
+      "judul": "Pengoperasian Instalasi Penyediaan Tenaga Listrik",
+      "uraian": "Kelompok ini mencakup pengoperasian yang dilakukan oleh pihak lain atas fasilitas pembangkit yang menghasilkan energi listrik, fasilitas sistem transmisi tenaga listrik, dan sistem distribusi tenaga listrik."
+     },
+     "id": {
+      "judul": "Pengoperasian Instalasi Penyediaan Tenaga Listrik",
+      "uraian": "Kelompok ini mencakup pengoperasian yang dilakukan oleh pihak lain atas fasilitas pembangkit yang menghasilkan energi listrik, fasilitas sistem transmisi tenaga listrik, dan sistem distribusi tenaga listrik."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "a7615a1b-96a6-5e55-b731-a40b2c8ff1d9",
+     "kode": "35151-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "dedb2edd-2009-59a7-83d4-76b92d766cad",
+       "localization": {
+        "en": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Pengoperasian Instalasi Penyediaan Tenaga Listrik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Pengoperasian Instalasi Penyediaan Tenaga Listrik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e38c9c4c-091c-5074-9fc5-1c52bd061746",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen sistem manajemen mutu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen sistem manajemen mutu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "946ebc9b-d397-52e4-9421-d704f96d135f",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "778fb8a6-9280-54f7-957d-39e8ec1c9760",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "33ea3fbe-8597-5976-a67f-a5e358ff285c",
+        "local": {
+         "en": {
+          "uraian": "Badan usaha milik daerah, penanam modal dalam negeri, koperasi, atau badan layanan umum Pemerintah Provinsi/ Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Badan usaha milik daerah, penanam modal dalam negeri, koperasi, atau badan layanan umum Pemerintah Provinsi/ Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e4bdc32e-72fa-567e-999f-48d05d7b2de9",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "077f63bb-33c1-5560-b37c-7e705c0c217d",
+        "local": {
+         "en": {
+          "uraian": "Badan usaha milik negara, atau badan layanan umum Pemerintah Pusat",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Badan usaha milik negara, atau badan layanan umum Pemerintah Pusat",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "a6589462-9a0a-5d22-ba8b-725b0c09ca16",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "3a0c784c-25a3-4e06-9b94-bb907be70a97",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "1baabdd9-2956-5618-9e29-fe3b5e65f1a9",
+     "kode": "35151-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "abb640ca-aaae-50f6-8f0d-4c3d6552931b",
+       "localization": {
+        "en": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Pengoperasian Instalasi Penyediaan Tenaga Listrik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Pengoperasian Instalasi Penyediaan Tenaga Listrik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "079211dd-635a-540e-901a-73f58bd9291b",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen sistem manajemen mutu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen sistem manajemen mutu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "52a3a9ec-6c23-510e-ad79-5568162ffc52",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "1486a2fa-a7d3-5b5e-bcdd-07d2a4337730",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "077f63bb-33c1-5560-b37c-7e705c0c217d",
+        "local": {
+         "en": {
+          "uraian": "Badan usaha milik negara, atau badan layanan umum Pemerintah Pusat",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Badan usaha milik negara, atau badan layanan umum Pemerintah Pusat",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5065112e-536f-540e-b820-d73f47f2183e",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "33ea3fbe-8597-5976-a67f-a5e358ff285c",
+        "local": {
+         "en": {
+          "uraian": "Badan usaha milik daerah, penanam modal dalam negeri, koperasi, atau badan layanan umum Pemerintah Provinsi/ Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Badan usaha milik daerah, penanam modal dalam negeri, koperasi, atau badan layanan umum Pemerintah Provinsi/ Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "cd710cd3-9bc7-54fa-b0d3-5d1ab4f2ee99",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "3a0c784c-25a3-4e06-9b94-bb907be70a97",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "a762c6da-c75d-569a-9ae0-f754785c133e",
+     "kode": "35151-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "54899324-733d-5edd-a514-6b7e2e7e74a6",
+       "localization": {
+        "en": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Pengoperasian Instalasi Penyediaan Tenaga Listrik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Pengoperasian Instalasi Penyediaan Tenaga Listrik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2a282cad-1427-55d4-8678-4442afe1f1d1",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen sistem manajemen mutu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen sistem manajemen mutu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "3d2e66f8-3091-509d-a911-447052009899",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "130284cf-2fd7-5fa6-a2a1-1eaf5f44bce2",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "33ea3fbe-8597-5976-a67f-a5e358ff285c",
+        "local": {
+         "en": {
+          "uraian": "Badan usaha milik daerah, penanam modal dalam negeri, koperasi, atau badan layanan umum Pemerintah Provinsi/ Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Badan usaha milik daerah, penanam modal dalam negeri, koperasi, atau badan layanan umum Pemerintah Provinsi/ Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c144d6e2-d120-5055-b296-41017be83ff2",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "077f63bb-33c1-5560-b37c-7e705c0c217d",
+        "local": {
+         "en": {
+          "uraian": "Badan usaha milik negara, atau badan layanan umum Pemerintah Pusat",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Badan usaha milik negara, atau badan layanan umum Pemerintah Pusat",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "3977ad27-302c-5dad-9219-3e46a7920fa8",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "3a0c784c-25a3-4e06-9b94-bb907be70a97",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "a57d9581-a61f-5050-b7df-8d66b95f5150",
+     "kode": "35151-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "c780e210-e765-53d4-a4bd-0d91f5dcded2",
+       "localization": {
+        "en": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Pengoperasian Instalasi Penyediaan Tenaga Listrik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemenuhan Standar Perizinan Berusaha Jasa Pengoperasian Instalasi Penyediaan Tenaga Listrik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c0d1209f-2f7b-5e87-a28d-b5dc6ae91c57",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen sistem manajemen mutu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen sistem manajemen mutu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "64998937-086c-5207-8eb5-d4f7babbaf2d",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Berkala",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "efd514fb-c42b-5854-92b7-e4b17020e65b",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "167ee3b1-9ff5-5c2d-97da-e3fcbf408279",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "077f63bb-33c1-5560-b37c-7e705c0c217d",
+        "local": {
+         "en": {
+          "uraian": "Badan usaha milik negara, atau badan layanan umum Pemerintah Pusat",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Badan usaha milik negara, atau badan layanan umum Pemerintah Pusat",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6deac54c-9ad5-5849-aa09-31d7506e45a6",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "33ea3fbe-8597-5976-a67f-a5e358ff285c",
+        "local": {
+         "en": {
+          "uraian": "Badan usaha milik daerah, penanam modal dalam negeri, koperasi, atau badan layanan umum Pemerintah Provinsi/ Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Badan usaha milik daerah, penanam modal dalam negeri, koperasi, atau badan layanan umum Pemerintah Provinsi/ Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "a86f4714-09f2-5e91-9c2a-cce00d727ceb",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "3a0c784c-25a3-4e06-9b94-bb907be70a97",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "cbd93b4f-4f3c-4f4f-a808-c4532e364ef2",
+   "kode": "020000000018",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Persetujuan harga pembelian tenaga listrik lintas negara"
+    },
+    "id": {
+     "nama_dokumen": "Persetujuan harga pembelian tenaga listrik lintas negara"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "01a0742b-afea-55a2-b7f6-716360cbcd8b",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat permohonan persetujuan harga beli tenaga listrik kepada Menteri yang menyelenggara-kan urusan pemerintahan di bidang ketenagalistrik-an"
+      },
+      "id": {
+       "syarat_perizinan": "Surat permohonan persetujuan harga beli tenaga listrik kepada Menteri yang menyelenggara-kan urusan pemerintahan di bidang ketenagalistrik-an"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Izin Usaha Penyediaan Tenaga Listrik"
+      },
+      "id": {
+       "syarat_perizinan": "Izin Usaha Penyediaan Tenaga Listrik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Berita Acara HPS"
+      },
+      "id": {
+       "syarat_perizinan": "Berita Acara HPS"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Berita Acara Kesepakatan/ Negosiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Berita Acara Kesepakatan/ Negosiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Informasi Perusahaan (NPWP, komposisi saham, nama dan NPWP Komisaris Utama dan Direktur Utama)"
+      },
+      "id": {
+       "syarat_perizinan": "Informasi Perusahaan (NPWP, komposisi saham, nama dan NPWP Komisaris Utama dan Direktur Utama)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Struktur biaya pembangkitan tenaga listrik"
+      },
+      "id": {
+       "syarat_perizinan": "Struktur biaya pembangkitan tenaga listrik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat permohonan persetujuan harga beli tenaga listrik kepada menteri yang menyelenggarakan urusan pemerintahan di bidang ketenagalistrikan"
+      },
+      "id": {
+       "syarat_perizinan": "Surat permohonan persetujuan harga beli tenaga listrik kepada menteri yang menyelenggarakan urusan pemerintahan di bidang ketenagalistrikan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Berita Acara HPS"
+      },
+      "id": {
+       "syarat_perizinan": "Berita Acara HPS"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat permohonan persetujuan harga beli tenaga listrik kepada Menteri yang menyelenggara-kan urusan pemerintahan di bidang ketenagalistrik-an"
+      },
+      "id": {
+       "syarat_perizinan": "Surat permohonan persetujuan harga beli tenaga listrik kepada Menteri yang menyelenggara-kan urusan pemerintahan di bidang ketenagalistrik-an"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Struktur biaya pembangkitan tenaga listrik"
+      },
+      "id": {
+       "syarat_perizinan": "Struktur biaya pembangkitan tenaga listrik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Struktur biaya pembang-kitan tenaga listrik"
+      },
+      "id": {
+       "syarat_perizinan": "Struktur biaya pembang-kitan tenaga listrik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Izin Usaha Penyediaan Tenaga Listrik (IUPTL)"
+      },
+      "id": {
+       "syarat_perizinan": "Izin Usaha Penyediaan Tenaga Listrik (IUPTL)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Berita Acara Kesepakatan/ Negosiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Berita Acara Kesepakatan/ Negosiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Berita acara kesepakatan/negosiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Berita acara kesepakatan/negosiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Informasi Perusahaan (NPWP, komposisi saham, nama dan NPWP Komisaris Utama dan Direktur Utama)"
+      },
+      "id": {
+       "syarat_perizinan": "Informasi Perusahaan (NPWP, komposisi saham, nama dan NPWP Komisaris Utama dan Direktur Utama)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Berita acara HPS"
+      },
+      "id": {
+       "syarat_perizinan": "Berita acara HPS"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Informasi perusahaan (NPWP, komposisi saham, nama dan NPWP komisaris utama dan direktur utama)"
+      },
+      "id": {
+       "syarat_perizinan": "Informasi perusahaan (NPWP, komposisi saham, nama dan NPWP komisaris utama dan direktur utama)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Izin Usaha Penyediaan Tenaga Listrik"
+      },
+      "id": {
+       "syarat_perizinan": "Izin Usaha Penyediaan Tenaga Listrik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "7 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti dengan Penandatanganan Kontrak Kerja Sama (Power Exchange Agreement)"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti dengan Penandatanganan Kontrak Kerja Sama (Power Exchange Agreement)"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti dengan Penandatanganan Kontrak Kerja Sama (Power Exchange Agreement)"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti dengan Penandatanganan Kontrak Kerja Sama (Power Exchange Agreement)"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti dengan Penanda-tanganan Kontrak Kerja Sama (Power Exchange Agreement)"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti dengan Penanda-tanganan Kontrak Kerja Sama (Power Exchange Agreement)"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

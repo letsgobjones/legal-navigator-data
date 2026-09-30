@@ -179,4 +179,4 @@ let byCode: [String: KBLIEntry] = Dictionary(uniqueKeysWithValues: file.entries.
 
 ## Author
 
-Brandon Jones ([@letsgobjones](https://github.com/letsgobjones))
+Brandon Jones · [GitHub](https://github.com/letsgobjones) · [LinkedIn](https://www.linkedin.com/in/letsgobjones/)

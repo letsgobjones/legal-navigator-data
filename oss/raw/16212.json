@@ -1,0 +1,900 @@
+{
+ "code": "16212",
+ "found": true,
+ "ossId": "c794e1f2-2349-50c4-bd33-9eebefdd35bf",
+ "url": "https://oss.go.id/id/kbli/detail/c794e1f2-2349-50c4-bd33-9eebefdd35bf",
+ "fetchedAt": "2026-09-30T04:23:50+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 16214 berubah menjadi 16212 pada KBLI 2025.",
+  "from2020": [
+   "16214"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "eb8df198-2a3e-519e-94aa-c19b0e5cb358",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "c794e1f2-2349-50c4-bd33-9eebefdd35bf",
+    "localization": {
+     "en": {
+      "judul": "Industri Venir",
+      "uraian": "Kelompok ini mencakup pembuatan serutan pelapis (venir) dengan cara pengupasan (rotary), penyayatan (slicer) dan sejenisnya."
+     },
+     "id": {
+      "judul": "Industri Venir",
+      "uraian": "Kelompok ini mencakup pembuatan serutan pelapis (venir) dengan cara pengupasan (rotary), penyayatan (slicer) dan sejenisnya."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "84edba36-324d-5f12-a232-67cd67cf44ee",
+     "kode": "16212-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "ea1fde20-f903-522e-9740-66e205c3ff1b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "ac66d5b8-22c1-5c6c-83dd-912939e9bc5c",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "606561d6-1674-5830-81d2-b914429252ee",
+       "localization": {
+        "en": {
+         "uraian": "Memperoleh sertifikat legalitas kayu melalui mekanisme Sistem Verifikasi Legalitas Kayu (SVLK) sesuai dengan ketentuan peraturan perundang undangan bidang kehutanan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperoleh sertifikat legalitas kayu melalui mekanisme Sistem Verifikasi Legalitas Kayu (SVLK) sesuai dengan ketentuan peraturan perundang undangan bidang kehutanan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "4c306be0-703f-5997-9057-b06a83620ee6",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "cc4d2566-fe47-51b2-9031-219fc3048559",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1538ef2a-ff1b-54ce-8c0c-74d36b2b7285",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "83c29f6e-c362-50bc-be27-1afeb893b0bb",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2bc92120-9d0e-57ad-bbb5-469b939426f2",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "3db65c1c-08e2-5b06-af65-2c47e305f89b",
+     "kode": "16212-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "066f53a6-d55b-5746-b42c-d7eb72efd919",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "5689a53b-682a-5bf4-84d6-d20262598575",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b3d1fe28-540d-50bf-bfde-95e507ecc1d6",
+       "localization": {
+        "en": {
+         "uraian": "Memperoleh sertifikat legalitas kayu melalui mekanisme Sistem Verifikasi Legalitas Kayu (SVLK) sesuai dengan ketentuan peraturan perundang undangan bidang kehutanan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperoleh sertifikat legalitas kayu melalui mekanisme Sistem Verifikasi Legalitas Kayu (SVLK) sesuai dengan ketentuan peraturan perundang undangan bidang kehutanan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "7412c914-a683-5bfe-9e21-c538fad754ca",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "37f80c41-e8d8-52ef-bba8-d555816d845c",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "83c29f6e-c362-50bc-be27-1afeb893b0bb",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b86e9d3c-629b-5112-9d1f-cc8046278ccb",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "cc4d2566-fe47-51b2-9031-219fc3048559",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "42763da7-5ce9-53e9-a3ee-b467fd435fe7",
+     "kode": "16212-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "d8dc2757-ebbd-5234-87a4-4924f8aefa93",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "04d137bf-5377-56fd-b7d1-17adf7c6ce40",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "8096e5e2-3b3a-59b2-b427-0e39d4c22ed6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen legalitas bahan baku, berupa: a) Surat Keterangan Sahnya Hasil Hutan (SKSHH) b) Surat Angkutan Kayu Rakyat (SAKR) c) Persetujuan Impor dalam hal bahan baku asal impor, sesuai ketentuan pada masing masing jenis perizinan berusaha pengelolaan kehutanan dan penebangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen legalitas bahan baku, berupa: a) Surat Keterangan Sahnya Hasil Hutan (SKSHH) b) Surat Angkutan Kayu Rakyat (SAKR) c) Persetujuan Impor dalam hal bahan baku asal impor, sesuai ketentuan pada masing masing jenis perizinan berusaha pengelolaan kehutanan dan penebangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "13f0a46f-598d-5022-bda7-484a53fcff75",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen Standar Operasional Prosedur (SOP) yang terdokumentasi paling sedikit meliputi pengadaan, penerimaan dan penyimpanan bahan baku, proses produksi, pengemasan, penyimpanan barang jadi, distribusi dan layanan pada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen Standar Operasional Prosedur (SOP) yang terdokumentasi paling sedikit meliputi pengadaan, penerimaan dan penyimpanan bahan baku, proses produksi, pengemasan, penyimpanan barang jadi, distribusi dan layanan pada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "6da1b875-e35e-588f-bd66-0e7efb40400d",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki: (a) Dokumen panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) (b) Layanan garansi malfungsi barang hasil produksi, yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki: (a) Dokumen panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) (b) Layanan garansi malfungsi barang hasil produksi, yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "58bf104f-52b1-50c2-b586-07e9b3f2297e",
+       "localization": {
+        "en": {
+         "uraian": "Memperoleh sertifikat legalitas kayu melalui mekanisme Sistem Verifikasi Legalitas Kayu (SVLK) sesuai dengan ketentuan peraturan perundang undangan bidang kehutanan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperoleh sertifikat legalitas kayu melalui mekanisme Sistem Verifikasi Legalitas Kayu (SVLK) sesuai dengan ketentuan peraturan perundang undangan bidang kehutanan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "a33fa202-4522-5e73-9ec6-af466df3ce88",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "647c46b9-f43b-5461-8578-d67adf2f464b",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "83c29f6e-c362-50bc-be27-1afeb893b0bb",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab./Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "48b819a4-9913-5683-9a17-09f394d29235",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "cc4d2566-fe47-51b2-9031-219fc3048559",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab./Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "cb031a56-1383-5521-975b-cb26f4eeba7a",
+     "kode": "16212-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "0bf1df94-d838-5682-a657-2d434314017f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "9242414b-a5ff-5a75-be62-91e8ce84191d",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "8b3da437-caab-50dd-be87-a7d56c34e4cb",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen legalitas bahan baku, berupa: a) Surat Keterangan Sahnya Hasil Hutan (SKSHH) b) Surat Angkutan Kayu Rakyat (SAKR) c) Persetujuan Impor dalam hal bahan baku asal impor, sesuai ketentuan pada masing masing jenis perizinan berusaha pengelolaan kehutanan dan penebangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen legalitas bahan baku, berupa: a) Surat Keterangan Sahnya Hasil Hutan (SKSHH) b) Surat Angkutan Kayu Rakyat (SAKR) c) Persetujuan Impor dalam hal bahan baku asal impor, sesuai ketentuan pada masing masing jenis perizinan berusaha pengelolaan kehutanan dan penebangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "bc59667a-ffb8-5dae-ac28-d2e6b56cc2a6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen Standar Operasional Prosedur (SOP) yang terdokumentasi paling sedikit meliputi pengadaan, penerimaan dan penyimpanan bahan baku, proses produksi, pengemasan, penyimpanan barang jadi, distribusi dan layanan pada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen Standar Operasional Prosedur (SOP) yang terdokumentasi paling sedikit meliputi pengadaan, penerimaan dan penyimpanan bahan baku, proses produksi, pengemasan, penyimpanan barang jadi, distribusi dan layanan pada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "0e69b1fc-8ad9-5f2e-bc8e-c0f5f9704328",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki: (a) Dokumen panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) (b) Layanan garansi malfungsi barang hasil produksi, yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki: (a) Dokumen panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) (b) Layanan garansi malfungsi barang hasil produksi, yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "44b7ab86-a000-54e0-9fb8-d998efe872fc",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Sertifikat Sistem Manajemen Mutu (ISO 9001)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Sertifikat Sistem Manajemen Mutu (ISO 9001)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "1605a9f4-04a1-5438-9686-170fcc35fc79",
+       "localization": {
+        "en": {
+         "uraian": "Memperoleh sertifikat legalitas kayu melalui mekanisme Sistem Verifikasi Legalitas Kayu (SVLK) sesuai dengan ketentuan peraturan perundang undangan bidang kehutanan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperoleh sertifikat legalitas kayu melalui mekanisme Sistem Verifikasi Legalitas Kayu (SVLK) sesuai dengan ketentuan peraturan perundang undangan bidang kehutanan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": [
+      {
+       "id": "02ca35ec-747a-583c-933b-93da173699e7",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a57e1eea-a8f4-4ae4-88ef-91099d984ccf",
+        "localization": {
+         "en": {
+          "nama_dokumen": "PENGOLAHAN HASIL HUTAN"
+         },
+         "id": {
+          "nama_dokumen": "PENGOLAHAN HASIL HUTAN"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "d8c41e5a-f014-5242-beb7-99648c9717a9",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "af903ade-58d5-5f80-9955-dd0ed496edd8",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Provinsi bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Provinsi bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7b030674-c46b-52fd-b590-48e9858dac27",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ffdf564c-81ef-5c6f-872c-8f3194474e05",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "7a95258a-2889-422e-83d6-6cb9cc14569f",
+    "kode": "019",
+    "localization": {
+     "en": {
+      "uraian": "Perindustrian",
+      "deskripsi": "Kementerian Perindustrian"
+     },
+     "id": {
+      "uraian": "Perindustrian",
+      "deskripsi": "Kementerian Perindustrian"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

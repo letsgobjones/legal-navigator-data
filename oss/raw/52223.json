@@ -1,0 +1,2173 @@
+{
+ "code": "52223",
+ "found": true,
+ "ossId": "f732a92d-5641-5b42-8cd4-669959323cb8",
+ "url": "https://oss.go.id/id/kbli/detail/f732a92d-5641-5b42-8cd4-669959323cb8",
+ "fetchedAt": "2026-09-30T05:06:23+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 52223 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "52223"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "1b383d5f-f8a5-5475-ab3e-d7b3d0b68d61",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "f732a92d-5641-5b42-8cd4-669959323cb8",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Pelayanan Kepelabuhanan Penyeberangan",
+      "uraian": "Kelompok ini mencakup aktivitas penyelenggaraan pelabuhan penyeberangan atau pesisir yang berhubungan dengan angkutan perairan untuk penumpang, hewan atau barang.\nKelompok ini juga mencakup\n- pengoperasian fasilitas terminal misalnya pelabuhan dan dermaga;\n- pengoperasian navigasi pelayaran penyeberangan;\n- pemeriksaan barang muatan dalam kargo dan/atau peti kemas dengan menggunakan sumber radiasi pengion (zat radioaktif dan pembakit radiasi pengion);\n- pengoperasian layanan pelayaran dan kegiatan berlabuh, jasa penambatan, jasa pemanduan dan penundaan.\nKelompok ini tidak mencakup\n- penanganan bongkar muat barang, lihat kelompok 52240;\n- pengoperasian dermaga marina (dermaga wisata atau rekreasi), lihat subgolongan 9329."
+     },
+     "id": {
+      "judul": "Aktivitas Pelayanan Kepelabuhanan Penyeberangan",
+      "uraian": "Kelompok ini mencakup aktivitas penyelenggaraan pelabuhan penyeberangan atau pesisir yang berhubungan dengan angkutan perairan untuk penumpang, hewan atau barang.\nKelompok ini juga mencakup\n- pengoperasian fasilitas terminal misalnya pelabuhan dan dermaga;\n- pengoperasian navigasi pelayaran penyeberangan;\n- pemeriksaan barang muatan dalam kargo dan/atau peti kemas dengan menggunakan sumber radiasi pengion (zat radioaktif dan pembakit radiasi pengion);\n- pengoperasian layanan pelayaran dan kegiatan berlabuh, jasa penambatan, jasa pemanduan dan penundaan.\nKelompok ini tidak mencakup\n- penanganan bongkar muat barang, lihat kelompok 52240;\n- pengoperasian dermaga marina (dermaga wisata atau rekreasi), lihat subgolongan 9329."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "94965e6d-e3b9-5c38-bd11-fa2a1fee0d5a",
+     "kode": "52223-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "4",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "37b8fe18-f7ef-5715-9c79-f21d9713a6af",
+       "localization": {
+        "en": {
+         "uraian": "Menyediakan dan memelihara kelayakan fasilitas pelabuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyediakan dan memelihara kelayakan fasilitas pelabuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5d869ea0-b103-534a-949f-f6b3501e3ec8",
+       "localization": {
+        "en": {
+         "uraian": "Memberikan pelayanan kepada pengguna jasa pelabuhan sesuai dengan standar pelayanan yang ditetapkan oleh pemerintah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memberikan pelayanan kepada pengguna jasa pelabuhan sesuai dengan standar pelayanan yang ditetapkan oleh pemerintah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d1e471c4-7921-515f-871a-fd460218001c",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan pelaksanaan kegiatan pelayanan jasa kepelabuhanan kepada pemberi izin setiap 3 (tiga) bulan sekali",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan pelaksanaan kegiatan pelayanan jasa kepelabuhanan kepada pemberi izin setiap 3 (tiga) bulan sekali",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "15c01539-2624-559b-901d-982b5c2850b3",
+       "localization": {
+        "en": {
+         "uraian": "Proposal rencana kegiatan kepelabuhan yang memuat:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Proposal rencana kegiatan kepelabuhan yang memuat:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "81e6f11b-772e-589b-bd28-69f8d4d8eaf9",
+       "localization": {
+        "en": {
+         "uraian": "Rencana tahapan Pembangunan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana tahapan Pembangunan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "74200b42-5554-568e-ad4d-9e1fd937ea78",
+       "localization": {
+        "en": {
+         "uraian": "Rencana Pengoperasian Pelabuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana Pengoperasian Pelabuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "caca5c2b-b6eb-517c-b705-2941881d4ee9",
+       "localization": {
+        "en": {
+         "uraian": "Rencana Jumlah sumber daya manusia dan Kompetensi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana Jumlah sumber daya manusia dan Kompetensi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "e4db0fb1-35fb-5d10-b8fd-6f27dfc92cd6",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "e48b7021-c0df-45e3-a2e0-023e5c315f66",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Penyelenggaraan Pelabuhan Penyebrangan"
+         },
+         "id": {
+          "nama_dokumen": "Izin Penyelenggaraan Pelabuhan Penyebrangan"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "3ef679fc-b92a-5564-9a59-5ca23673b559",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3c706772-546f-5405-999c-90b8f5725325",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional antar provinsi dan antar negara",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional antar provinsi dan antar negara",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e4d8163f-7618-541c-990e-d0086d0900b9",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "459aad1f-efe9-54fd-8549-b77ef0151dea",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional dalam kabupaten/kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional dalam kabupaten/kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "de63ab5d-0610-5ee2-838a-2256bceca208",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "637ca9c7-4ee2-5267-a5d9-31d6a4d06dd9",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional antar kabupaten/ kota dalam provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional antar kabupaten/ kota dalam provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "10cf5540-ad13-5aa1-ac7f-562d7be2f604",
+     "kode": "52223-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "4",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "a7f25284-3f97-521b-b55b-18b1553d597f",
+       "localization": {
+        "en": {
+         "uraian": "Menyediakan dan memelihara kelayakan fasilitas pelabuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyediakan dan memelihara kelayakan fasilitas pelabuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a433f442-58cb-5398-9561-4d7381c0871f",
+       "localization": {
+        "en": {
+         "uraian": "Memberikan pelayanan kepada pengguna jasa pelabuhan sesuai dengan standar pelayanan yang ditetapkan oleh pemerintah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memberikan pelayanan kepada pengguna jasa pelabuhan sesuai dengan standar pelayanan yang ditetapkan oleh pemerintah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f660f24b-33d2-5f01-b120-96236511a48c",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan pelaksanaan kegiatan pelayanan jasa kepelabuhanan kepada pemberi izin setiap 3 (tiga) bulan sekali",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan pelaksanaan kegiatan pelayanan jasa kepelabuhanan kepada pemberi izin setiap 3 (tiga) bulan sekali",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "f4e2b6ea-d624-5368-a5b1-21776f8d8ead",
+       "localization": {
+        "en": {
+         "uraian": "Proposal rencana kegiatan kepelabuhan yang memuat:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Proposal rencana kegiatan kepelabuhan yang memuat:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "29a32eec-57d2-5ab9-8304-af6f608601a7",
+       "localization": {
+        "en": {
+         "uraian": "Rencana tahapan Pembangunan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana tahapan Pembangunan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c0945fd6-b83f-589b-9d10-3e18ab04aea6",
+       "localization": {
+        "en": {
+         "uraian": "Rencana Pengoperasian Pelabuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana Pengoperasian Pelabuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "54dd688c-59e2-53a1-9d65-b9445bd71c47",
+       "localization": {
+        "en": {
+         "uraian": "Rencana Jumlah sumber daya manusia dan Kompetensi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana Jumlah sumber daya manusia dan Kompetensi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "edc16714-78e8-5f10-9ab8-54369e2616c1",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "e48b7021-c0df-45e3-a2e0-023e5c315f66",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Penyelenggaraan Pelabuhan Penyebrangan"
+         },
+         "id": {
+          "nama_dokumen": "Izin Penyelenggaraan Pelabuhan Penyebrangan"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "8891afff-98cc-5135-a596-d287cc96fa25",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3c706772-546f-5405-999c-90b8f5725325",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional antar provinsi dan antar negara",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional antar provinsi dan antar negara",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ec7881ae-1a57-5bbe-b4a7-4ecbfb42c276",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "637ca9c7-4ee2-5267-a5d9-31d6a4d06dd9",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional antar kabupaten/ kota dalam provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional antar kabupaten/ kota dalam provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b43309ca-a280-57a2-84a7-73576d7c6849",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "459aad1f-efe9-54fd-8549-b77ef0151dea",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional dalam kabupaten/kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional dalam kabupaten/kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "6af7ba8c-44d1-599a-9318-9f75909b71c5",
+     "kode": "52223-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "4",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "56a707a8-7884-5819-a43a-7bd0620a3f77",
+       "localization": {
+        "en": {
+         "uraian": "Menyediakan dan memelihara kelayakan fasilitas pelabuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyediakan dan memelihara kelayakan fasilitas pelabuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "80c0c6f0-d8a9-5e9f-843d-4cd856d3b4d4",
+       "localization": {
+        "en": {
+         "uraian": "Memberikan pelayanan kepada pengguna jasa pelabuhan sesuai dengan standar pelayanan yang ditetapkan oleh pemerintah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memberikan pelayanan kepada pengguna jasa pelabuhan sesuai dengan standar pelayanan yang ditetapkan oleh pemerintah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8990726b-bfd2-53b2-b721-e3f2b20ff2dd",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan pelaksanaan kegiatan pelayanan jasa kepelabuhanan kepada pemberi izin setiap 3 (tiga) bulan sekali",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan pelaksanaan kegiatan pelayanan jasa kepelabuhanan kepada pemberi izin setiap 3 (tiga) bulan sekali",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "c9879225-6b5c-56d8-a1a3-1ab7f631be32",
+       "localization": {
+        "en": {
+         "uraian": "Proposal rencana kegiatan kepelabuhan yang memuat:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Proposal rencana kegiatan kepelabuhan yang memuat:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "28c85dff-3bab-5804-b904-52fb4360cb30",
+       "localization": {
+        "en": {
+         "uraian": "Rencana tahapan Pembangunan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana tahapan Pembangunan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0b2133e2-1ebb-5246-847d-1b88ca0acc6c",
+       "localization": {
+        "en": {
+         "uraian": "Rencana Pengoperasian Pelabuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana Pengoperasian Pelabuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b0f0a5d2-f14c-5dd5-a0bd-04cffa16577a",
+       "localization": {
+        "en": {
+         "uraian": "Rencana Jumlah sumber daya manusia dan Kompetensi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana Jumlah sumber daya manusia dan Kompetensi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "326f2a30-0ab0-5591-8989-37c701697ddc",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "e48b7021-c0df-45e3-a2e0-023e5c315f66",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Penyelenggaraan Pelabuhan Penyebrangan"
+         },
+         "id": {
+          "nama_dokumen": "Izin Penyelenggaraan Pelabuhan Penyebrangan"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "a68235ef-2138-5c16-9385-70627a6da110",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "459aad1f-efe9-54fd-8549-b77ef0151dea",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional dalam kabupaten/kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional dalam kabupaten/kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5755d308-91f4-5550-b3b6-584b6f9bbbfe",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3c706772-546f-5405-999c-90b8f5725325",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional antar provinsi dan antar negara",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional antar provinsi dan antar negara",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b71621f3-abc0-5c63-a5c4-554049f7ea2f",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "637ca9c7-4ee2-5267-a5d9-31d6a4d06dd9",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional antar kabupaten/ kota dalam provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional antar kabupaten/ kota dalam provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "90e165d4-357f-5f1c-aae3-20574f397b86",
+     "kode": "52223-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "4",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "f3e239b3-2bbb-542e-b124-ad764249ac1f",
+       "localization": {
+        "en": {
+         "uraian": "Menyediakan dan memelihara kelayakan fasilitas pelabuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyediakan dan memelihara kelayakan fasilitas pelabuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "379ff137-ce71-5647-852d-8a1705acadca",
+       "localization": {
+        "en": {
+         "uraian": "Memberikan pelayanan kepada pengguna jasa pelabuhan sesuai dengan standar pelayanan yang ditetapkan oleh pemerintah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memberikan pelayanan kepada pengguna jasa pelabuhan sesuai dengan standar pelayanan yang ditetapkan oleh pemerintah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6fda07bc-83b7-5f79-9fdc-30d6e08e6a5b",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan pelaksanaan kegiatan pelayanan jasa kepelabuhanan kepada pemberi izin setiap 3 (tiga) bulan sekali",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan pelaksanaan kegiatan pelayanan jasa kepelabuhanan kepada pemberi izin setiap 3 (tiga) bulan sekali",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "5105a127-9a35-5933-a281-e6bc71c8f491",
+       "localization": {
+        "en": {
+         "uraian": "Proposal rencana kegiatan kepelabuhan yang memuat:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Proposal rencana kegiatan kepelabuhan yang memuat:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e2cc8810-a85b-54f9-b9bd-19ab4f53f4e8",
+       "localization": {
+        "en": {
+         "uraian": "Rencana tahapan Pembangunan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana tahapan Pembangunan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8b2b0c47-97e6-566d-b06d-eb5374f85737",
+       "localization": {
+        "en": {
+         "uraian": "Rencana Pengoperasian Pelabuhan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana Pengoperasian Pelabuhan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2f7f70c0-79b1-5571-82ac-2b0881466251",
+       "localization": {
+        "en": {
+         "uraian": "Rencana Jumlah sumber daya manusia dan Kompetensi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana Jumlah sumber daya manusia dan Kompetensi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 4,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "9c46e51d-12d3-503f-abc0-227f5116cfb0",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "e48b7021-c0df-45e3-a2e0-023e5c315f66",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Penyelenggaraan Pelabuhan Penyebrangan"
+         },
+         "id": {
+          "nama_dokumen": "Izin Penyelenggaraan Pelabuhan Penyebrangan"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "8b39077f-a3a6-553d-a9cf-c7a519326c5a",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "459aad1f-efe9-54fd-8549-b77ef0151dea",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional dalam kabupaten/kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional dalam kabupaten/kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b584d81a-9228-5cf0-8e35-1041545e4963",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3c706772-546f-5405-999c-90b8f5725325",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional antar provinsi dan antar negara",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional antar provinsi dan antar negara",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ae27c2c6-0336-53a6-a67a-4d37ddfe638f",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "637ca9c7-4ee2-5267-a5d9-31d6a4d06dd9",
+        "local": {
+         "en": {
+          "uraian": "Lingkup operasional antar kabupaten/ kota dalam provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lingkup operasional antar kabupaten/ kota dalam provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cdcaf0ad-f608-5941-a6b5-ccf6d941114a",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "2d1cf9d7-a26f-410a-a7d7-f70e68f1f88b",
+    "kode": "022",
+    "localization": {
+     "en": {
+      "uraian": "Perhubungan",
+      "deskripsi": "Kementerian Perhubungan"
+     },
+     "id": {
+      "uraian": "Perhubungan",
+      "deskripsi": "Kementerian Perhubungan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "e6d49607-f2df-4d6a-b4c6-7e54e9be8141",
+   "kode": "085000000089",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Izin Pemeriksaan Nonmedik Pada Manusia Dengan Pembangkit Radiasi Pengion"
+    },
+    "id": {
+     "nama_dokumen": "Izin Pemeriksaan Nonmedik Pada Manusia Dengan Pembangkit Radiasi Pengion"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "09a33771-3538-5247-8b1d-c0c1e3c046d1",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "64bbacd6-e457-4c8c-b471-05e7038787e1",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Data lokasi Pemanfaatan Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Data lokasi Pemanfaatan Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana teknis fasilitas bangunan gedung penahan radiasi;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana teknis fasilitas bangunan gedung penahan radiasi;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen gedung utilitas operasi pemanfaatan Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen gedung utilitas operasi pemanfaatan Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen kajian keselamatan Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen kajian keselamatan Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Data kompetensi dan kewenangan petugas yang meliputi:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Petugas proteksi radiasi;dan</li>\n<li>Petugas lainnya yang menangani sumber radiasi pengion.</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Data kompetensi dan kewenangan petugas yang meliputi:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Petugas proteksi radiasi;dan</li>\n<li>Petugas lainnya yang menangani sumber radiasi pengion.</li>\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen kesesuaian mutu Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen kesesuaian mutu Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi; dan/atau"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi; dan/atau"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen bukti kepemilikan dan/atau penguasaan Sumber Radiasi Pengion."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen bukti kepemilikan dan/atau penguasaan Sumber Radiasi Pengion."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen teknis fasilitas radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen teknis fasilitas radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen sistem manajemen"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen sistem manajemen"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program perawatan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program perawatan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen gedung utilitas operasi pemanfaatan Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen gedung utilitas operasi pemanfaatan Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi; dan/atau"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi; dan/atau"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Data lokasi Pemanfaatan Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Data lokasi Pemanfaatan Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen teknis fasilitas radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen teknis fasilitas radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana teknis fasilitas bangunan gedung penahan radiasi;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana teknis fasilitas bangunan gedung penahan radiasi;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen kajian keselamatan Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen kajian keselamatan Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen sistem manajemen"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen sistem manajemen"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen bukti kepemilikan dan/atau penguasaan Sumber Radiasi Pengion."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen bukti kepemilikan dan/atau penguasaan Sumber Radiasi Pengion."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program perawatan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program perawatan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Data kompetensi dan kewenangan petugas yang meliputi:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Petugas proteksi radiasi;dan</li>\n<li>Petugas lainnya yang menangani sumber radiasi pengion.</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Data kompetensi dan kewenangan petugas yang meliputi:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Petugas proteksi radiasi;dan</li>\n<li>Petugas lainnya yang menangani sumber radiasi pengion.</li>\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen kesesuaian mutu Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen kesesuaian mutu Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan proses penyinaran dilakukan sesuai prinsip proteksi radiasi;"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan proses penyinaran dilakukan sesuai prinsip proteksi radiasi;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi dilakukan;"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi dilakukan;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi selama masa izin berlaku;"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi selama masa izin berlaku;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan izin yang diberikan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan izin yang diberikan; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan kepada Badan Pengawas secara berkala setiap tahun terhitung sejak Perizinan Berusaha diterbitkan."
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan kepada Badan Pengawas secara berkala setiap tahun terhitung sejak Perizinan Berusaha diterbitkan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan PB UMKU yang diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan PB UMKU yang diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi dilakukan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi dilakukan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan kepada BAPETEN secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan kepada BAPETEN secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan perawatan sesuai dengan program perawatan"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan perawatan sesuai dengan program perawatan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan kepada BAPETEN secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan kepada BAPETEN secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Memastikan bahwa kegiatan yang dilakukan sesuai dengan PB UMKU yang diterbitkan</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaksanakan ketentuan yang tertuang dalam sistem manajemen</li><li>Memastikan bahwa ketentuan proteksi dan keselamatan radiasi dilakukan</li><li>Memberikan akses kepada BAPETEN untuk melakukan inspeksi</li><li>Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati</li><li>Menyampaikan laporan verifikasi keselamatan kepada BAPETEN secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan</li><li>Melakukan perawatan sesuai dengan program perawatan</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Memastikan bahwa kegiatan yang dilakukan sesuai dengan PB UMKU yang diterbitkan</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaksanakan ketentuan yang tertuang dalam sistem manajemen</li><li>Memastikan bahwa ketentuan proteksi dan keselamatan radiasi dilakukan</li><li>Memberikan akses kepada BAPETEN untuk melakukan inspeksi</li><li>Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati</li><li>Menyampaikan laporan verifikasi keselamatan kepada BAPETEN secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan</li><li>Melakukan perawatan sesuai dengan program perawatan</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan izin yang diberikan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan izin yang diberikan; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan kepada Badan Pengawas secara berkala setiap tahun terhitung sejak Perizinan Berusaha diterbitkan."
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan kepada Badan Pengawas secara berkala setiap tahun terhitung sejak Perizinan Berusaha diterbitkan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan proses penyinaran dilakukan sesuai prinsip proteksi radiasi;"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan proses penyinaran dilakukan sesuai prinsip proteksi radiasi;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi dilakukan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi dilakukan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan perawatan sesuai dengan program perawatan"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan perawatan sesuai dengan program perawatan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan PB UMKU yang diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan PB UMKU yang diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi selama masa izin berlaku;"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi selama masa izin berlaku;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi dilakukan;"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi dilakukan;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "50ca7482-d92f-4450-8719-bb4629a2b33f",
+    "kode": "085",
+    "localization": {
+     "en": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     },
+     "id": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

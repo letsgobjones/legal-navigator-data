@@ -1,0 +1,1223 @@
+{
+ "code": "36002",
+ "found": true,
+ "ossId": "9ba1c01a-aa0c-56c8-a93c-3bf73609764c",
+ "url": "https://oss.go.id/id/kbli/detail/9ba1c01a-aa0c-56c8-a93c-3bf73609764c",
+ "fetchedAt": "2026-09-30T04:44:16+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 36002 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "36002"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "39f8203f-8c92-594b-a0ed-2205aea5d76c",
+   "localization": {
+    "en": {
+     "uraian": "Kelompok ini mencakup usaha pengadaan dan penyaluran air (laut) baku yang memanfaatkan ruang laut secara menetap minimal 30 hari dengan atau tanpa pengolahan untuk keperluan industri, pembangkit listrik dan lain lain",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Kelompok ini mencakup usaha pengadaan dan penyaluran air (laut) baku yang memanfaatkan ruang laut secara menetap minimal 30 hari dengan atau tanpa pengolahan untuk keperluan industri, pembangkit listrik dan lain lain",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "9ba1c01a-aa0c-56c8-a93c-3bf73609764c",
+    "localization": {
+     "en": {
+      "judul": "Penampungan dan Penyediaan Air Baku",
+      "uraian": "Kelompok ini mencakup kegiatan penyediaan air baku untuk keperluan industri, pembangkit listrik, dan lain-lain, termasuk yang dilakukan di dalam kawasan hutan. Kelompok ini juga mencakup kegiatan pengelolaan jaringan irigasi.\nKelompok ini tidak mencakup\n- penyediaan jasa irigasi seperti penyemprotan untuk keperluan pertanian;\n- penggunaan air baku sebagai media budi daya oleh pembudi daya ikan yang dilakukan sebagai satu rangkaian kegiatan."
+     },
+     "id": {
+      "judul": "Penampungan dan Penyediaan Air Baku",
+      "uraian": "Kelompok ini mencakup kegiatan penyediaan air baku untuk keperluan industri, pembangkit listrik, dan lain-lain, termasuk yang dilakukan di dalam kawasan hutan. Kelompok ini juga mencakup kegiatan pengelolaan jaringan irigasi.\nKelompok ini tidak mencakup\n- penyediaan jasa irigasi seperti penyemprotan untuk keperluan pertanian;\n- penggunaan air baku sebagai media budi daya oleh pembudi daya ikan yang dilakukan sebagai satu rangkaian kegiatan."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "93d5949c-db13-53e6-bca2-8cd5af60d4ba",
+     "kode": "36002-02-01",
+     "luas_lahan": null,
+     "jangka_waktu": "14",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "ceb9916a-095b-5eb1-b74a-bb1649b66916",
+       "localization": {
+        "en": {
+         "uraian": "Laporan pelaksanaan usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Laporan pelaksanaan usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d5f5e705-06dc-5c1e-bf26-e1972a4a8a0c",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pembayaran Retribusi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pembayaran Retribusi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "e1a26beb-662b-544b-bf9b-71892de96e0d",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "df7e9ba5-21b9-5dbe-a4b7-c132feb06ddd",
+        "local": {
+         "en": {
+          "uraian": "1. Wilayah perairan ≤12 mil, diluar kewenangan Menteri 2. Debit pengambilan air laut setara <30 m3/bulan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Wilayah perairan ≤12 mil, diluar kewenangan Menteri 2. Debit pengambilan air laut setara <30 m3/bulan",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "3ef1e40c-6eea-5ac6-ae1e-0fd552f7c390",
+     "kode": "36002-03-02",
+     "luas_lahan": null,
+     "jangka_waktu": "14",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "b58c5555-b6a7-5a08-88f8-8c7707d3c728",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pembayaran Penerimaan Negara Bukan Pajak",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pembayaran Penerimaan Negara Bukan Pajak",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4463bc93-bbff-55ad-86d2-1c2702cd6c4f",
+       "localization": {
+        "en": {
+         "uraian": "Laporan pelaksanaan usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Laporan pelaksanaan usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "3d35d216-12f2-5ef4-b2ba-00dd7ead61a8",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen rencana teknis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen rencana teknis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "624a6182-1ed4-54a6-bcee-4a974ec8445d",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "e2f420ea-2abd-4b03-b393-16cd0a4c31c2",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Pemanfaatan Air Laut Selain Energi (ALSE) non Produk (Pelayanan)"
+         },
+         "id": {
+          "nama_dokumen": "Izin Pemanfaatan Air Laut Selain Energi (ALSE) non Produk (Pelayanan)"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "8eedb5c2-9537-5d9c-90ac-37ad22f1dff1",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "64ac3b6a-a8c2-5515-942e-9780a2cda3ef",
+        "local": {
+         "en": {
+          "uraian": "1. Wilayah perairan >12 mil atau 2. Wilayah ≤ 12 mil dengan kriteria: a. Debit pengambilan air laut setara ≥30 m3/ bulan b. Kawasan Strategis Nasional c. Kawasan Strategis Nasional Tertentu d. Penyertaan Modal Asing e. Kawasan konservasi perairan nasional f. Kawasan lintas provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Wilayah perairan >12 mil atau 2. Wilayah ≤ 12 mil dengan kriteria: a. Debit pengambilan air laut setara ≥30 m3/ bulan b. Kawasan Strategis Nasional c. Kawasan Strategis Nasional Tertentu d. Penyertaan Modal Asing e. Kawasan konservasi perairan nasional f. Kawasan lintas provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "fbbefbc9-f21b-5527-97e8-be93766fca1d",
+     "kode": "36002-04-03",
+     "luas_lahan": null,
+     "jangka_waktu": "14",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "7fd38036-0a11-5363-967e-a830ea9ea02e",
+       "localization": {
+        "en": {
+         "uraian": "Laporan pelaksanaan usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Laporan pelaksanaan usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "964f5da3-3f45-5f4d-8c11-d08204e8cee7",
+       "localization": {
+        "en": {
+         "uraian": "Bukti pembayaran Penerimaan Negara Bukan Pajak",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti pembayaran Penerimaan Negara Bukan Pajak",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "5fdcce26-185a-5351-b18a-aa605bba3539",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen rencana teknis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen rencana teknis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 14,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "ddd71021-786c-5c82-940f-18f38e5ec23f",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "e2f420ea-2abd-4b03-b393-16cd0a4c31c2",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Pemanfaatan Air Laut Selain Energi (ALSE) non Produk (Pelayanan)"
+         },
+         "id": {
+          "nama_dokumen": "Izin Pemanfaatan Air Laut Selain Energi (ALSE) non Produk (Pelayanan)"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "5a78e394-dbc7-5044-8ec9-9531f1000332",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bb77b4fe-67e8-5b3b-ab35-89f27a0b733e",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "64ac3b6a-a8c2-5515-942e-9780a2cda3ef",
+        "local": {
+         "en": {
+          "uraian": "1. Wilayah perairan >12 mil atau 2. Wilayah ≤ 12 mil dengan kriteria: a. Debit pengambilan air laut setara ≥30 m3/ bulan b. Kawasan Strategis Nasional c. Kawasan Strategis Nasional Tertentu d. Penyertaan Modal Asing e. Kawasan konservasi perairan nasional f. Kawasan lintas provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Wilayah perairan >12 mil atau 2. Wilayah ≤ 12 mil dengan kriteria: a. Debit pengambilan air laut setara ≥30 m3/ bulan b. Kawasan Strategis Nasional c. Kawasan Strategis Nasional Tertentu d. Penyertaan Modal Asing e. Kawasan konservasi perairan nasional f. Kawasan lintas provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "d63f36d7-15b1-4d8f-8f95-f0149e9f1e9a",
+    "kode": "032",
+    "localization": {
+     "en": {
+      "uraian": "Kelautan dan Perikanan",
+      "deskripsi": "Kementerian Kelautan dan Perikanan"
+     },
+     "id": {
+      "uraian": "Kelautan dan Perikanan",
+      "deskripsi": "Kementerian Kelautan dan Perikanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "25f82c48-4744-51c4-b50c-a6a2ba3d78a7",
+   "localization": {
+    "en": {
+     "uraian": "Penampungan dan Penyaluran Air Baku yang berasal dari air permukaan selain air laut",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Penampungan dan Penyaluran Air Baku yang berasal dari air permukaan selain air laut",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "9ba1c01a-aa0c-56c8-a93c-3bf73609764c",
+    "localization": {
+     "en": {
+      "judul": "Penampungan dan Penyediaan Air Baku",
+      "uraian": "Kelompok ini mencakup kegiatan penyediaan air baku untuk keperluan industri, pembangkit listrik, dan lain-lain, termasuk yang dilakukan di dalam kawasan hutan. Kelompok ini juga mencakup kegiatan pengelolaan jaringan irigasi.\nKelompok ini tidak mencakup\n- penyediaan jasa irigasi seperti penyemprotan untuk keperluan pertanian;\n- penggunaan air baku sebagai media budi daya oleh pembudi daya ikan yang dilakukan sebagai satu rangkaian kegiatan."
+     },
+     "id": {
+      "judul": "Penampungan dan Penyediaan Air Baku",
+      "uraian": "Kelompok ini mencakup kegiatan penyediaan air baku untuk keperluan industri, pembangkit listrik, dan lain-lain, termasuk yang dilakukan di dalam kawasan hutan. Kelompok ini juga mencakup kegiatan pengelolaan jaringan irigasi.\nKelompok ini tidak mencakup\n- penyediaan jasa irigasi seperti penyemprotan untuk keperluan pertanian;\n- penggunaan air baku sebagai media budi daya oleh pembudi daya ikan yang dilakukan sebagai satu rangkaian kegiatan."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "e84d062f-cc7d-5a1a-9c0a-352e73a446e5",
+     "kode": "36002-01-04",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "223a33c5-2509-55f6-ae8e-38754bfd9ebd",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Kegiatan Usaha Tahunan Badan Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Kegiatan Usaha Tahunan Badan Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "1b1518e3-249a-5af0-83c9-4f66d9a2898b",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan Sistem Manajemen Mutu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan Sistem Manajemen Mutu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": [
+      {
+       "id": "c2025ab5-3ca9-52bd-96eb-e5b8582f153b",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ba121f95-5afa-46c6-9691-cf002d12c58b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "0df23700-a955-528c-ae9c-13fa4670e888",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "d8ede777-9050-5062-b80f-71b8ab345f1d",
+     "kode": "36002-02-05",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "0cd3bb05-445d-5920-8617-81eea509e240",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Kegiatan Usaha Tahunan Badan Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Kegiatan Usaha Tahunan Badan Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "6e594c90-89c1-5bf9-985f-75d124bf3650",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan Sistem Manajemen Mutu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan Sistem Manajemen Mutu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": [
+      {
+       "id": "10941749-51c9-53ac-9e9a-601785cd58b2",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ba121f95-5afa-46c6-9691-cf002d12c58b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "039b4c13-54a4-5d02-8444-76204b9ec367",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "de04a7c8-dd10-5434-955c-f2bc92bab852",
+     "kode": "36002-03-06",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "113eb6a3-85ec-52ca-85f7-c02345eae16c",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Kegiatan Usaha Tahunan Badan Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Kegiatan Usaha Tahunan Badan Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "cc655ccc-9e73-516a-bb9c-9fc35725a1f5",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan Sistem Manajemen Mutu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan Sistem Manajemen Mutu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": [
+      {
+       "id": "95392b63-0a24-5fc4-ac29-bab2f3b72973",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ba121f95-5afa-46c6-9691-cf002d12c58b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "8ae417f2-aeb5-5c0e-9dad-ad97148a2142",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "0e52e32e-239a-553a-bf82-446e53fc9b38",
+     "kode": "36002-04-07",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "7243c70d-8411-5e9e-b701-759c6a538d87",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan Laporan Kegiatan Usaha Tahunan Badan Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan Laporan Kegiatan Usaha Tahunan Badan Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "61c3dc4d-84e2-5f50-9a4c-9a82ebd0196f",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan Sistem Manajemen Mutu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan Sistem Manajemen Mutu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": [
+      {
+       "id": "2bd41565-ca56-5df3-9fea-8ec86f8da860",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ba121f95-5afa-46c6-9691-cf002d12c58b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "20f80069-8c45-584e-b462-708976c79d66",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9185e566-bf74-5002-a7a4-f9299bc07baa",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "94788894-3273-4cf4-8bbc-58a6382dfaf1",
+    "kode": "033",
+    "localization": {
+     "en": {
+      "uraian": "Pekerjaan Umum dan Perumahan Rakyat",
+      "deskripsi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+     },
+     "id": {
+      "uraian": "Pekerjaan Umum dan Perumahan Rakyat",
+      "deskripsi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

@@ -1,0 +1,1524 @@
+{
+ "code": "50127",
+ "found": true,
+ "ossId": "7e8aab92-0848-5ff5-a5a7-e633047e9c4f",
+ "url": "https://oss.go.id/id/kbli/detail/7e8aab92-0848-5ff5-a5a7-e633047e9c4f",
+ "fetchedAt": "2026-09-30T05:03:39+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 50143 berubah menjadi 50127 pada KBLI 2025.",
+  "from2020": [
+   "50143"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "b22b270c-833d-599f-a7c1-bf3e89a34221",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "7e8aab92-0848-5ff5-a5a7-e633047e9c4f",
+    "localization": {
+     "en": {
+      "judul": "Angkutan Laut Luar Negeri Pelayaran Rakyat untuk Barang",
+      "uraian": "Kelompok ini mencakup aktivitas angkutan laut yang ditujukan untuk mengangkut barang dan/atau hewan dengan menggunakan kapal layar, kapal motor tradisional, dan kapal layar motor dengan ukuran tertentu antarpelabuhan di dalam negeri dengan pelabuhan di luar negeri, termasuk aktivitas penyewaan angkutan laut berikut operatornya."
+     },
+     "id": {
+      "judul": "Angkutan Laut Luar Negeri Pelayaran Rakyat untuk Barang",
+      "uraian": "Kelompok ini mencakup aktivitas angkutan laut yang ditujukan untuk mengangkut barang dan/atau hewan dengan menggunakan kapal layar, kapal motor tradisional, dan kapal layar motor dengan ukuran tertentu antarpelabuhan di dalam negeri dengan pelabuhan di luar negeri, termasuk aktivitas penyewaan angkutan laut berikut operatornya."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "7a012431-ab16-541c-9ac1-27ab0d046d5d",
+     "kode": "50127-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "3",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "f80f9203-7a81-5c22-a090-9c8ff71148ba",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki tenaga ahli bidang ketatalaksanaan atau pelayaran dasar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki tenaga ahli bidang ketatalaksanaan atau pelayaran dasar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2b46baf2-376b-51f1-8959-6fead0d75747",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kapal layar motor tradisional berbendera Indonesia yang laik laut berukuran sampai dengan GT 500 dan digerakkan dengan tenaga angin sebagai tenaga penggerak utama dan motor sebagai tenaga penggerak bantu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kapal layar motor tradisional berbendera Indonesia yang laik laut berukuran sampai dengan GT 500 dan digerakkan dengan tenaga angin sebagai tenaga penggerak utama dan motor sebagai tenaga penggerak bantu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d5ecd474-5a3b-571f-989a-daa94a6258e6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kapal motor berbendera Indonesia yang laik laut berukuran GT 7 serta paling besar GT 174",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kapal motor berbendera Indonesia yang laik laut berukuran GT 7 serta paling besar GT 174",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "67097c02-c2f4-58f0-b0ca-2e057fb1f0ef",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan operasional secara terus menerus sesuai standar usaha angkutan pelayaran rakyat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan operasional secara terus menerus sesuai standar usaha angkutan pelayaran rakyat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4ed96781-1bc3-5437-a2fc-b540881f9661",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha apabila terjadi perubahan nama direktur utama atau nama penanggungjawab dan/atau nama pemilik, nomor pokok wajib pajak perusahaan, domisili perusahaan, dan status kepemilikan kapal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha apabila terjadi perubahan nama direktur utama atau nama penanggungjawab dan/atau nama pemilik, nomor pokok wajib pajak perusahaan, domisili perusahaan, dan status kepemilikan kapal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "44c011c1-d1f5-59e4-adee-a54c5b255571",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha semua data kapal milik atau kapal yang dioperasikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha semua data kapal milik atau kapal yang dioperasikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b696268d-3f0b-5f47-b794-9048648ca0ab",
+       "localization": {
+        "en": {
+         "uraian": "Melengkapi semua kapal yang dimiliki dengan spesifikasi kapal sebagai bagian yang tidak terpisahkan dengan sertifikat standar usaha angkutan laut pelayaran rakyat dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melengkapi semua kapal yang dimiliki dengan spesifikasi kapal sebagai bagian yang tidak terpisahkan dengan sertifikat standar usaha angkutan laut pelayaran rakyat dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "75a9f4e1-b10c-571e-8a87-a8815898a6c6",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha setiap pembukaan kantor cabang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha setiap pembukaan kantor cabang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6278dc67-fe14-5094-9ce0-fdf6ca9b321e",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi semua ketentuan perundangundangan dibidang peraturan pelayaran serta ketentuan peraturan perundangundangan lainnya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi semua ketentuan perundangundangan dibidang peraturan pelayaran serta ketentuan peraturan perundangundangan lainnya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "fb2e309f-bbe4-5f38-aeec-ab1235fd7a48",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a0f45519-ede9-4d29-8025-a30884f027ef",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "92b03950-d1d2-5200-a624-9bb7331ed6e3",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "4fec3b2a-0886-5000-a9a4-52d3dc384db5",
+        "local": {
+         "en": {
+          "uraian": "Lintas pelabuhan antarprovinsi dan internasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lintas pelabuhan antarprovinsi dan internasional",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "37dbd674-ffad-5509-a031-f10002c058d8",
+     "kode": "50127-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "3",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "26efce84-ab55-5e9b-a5e5-dea60d01641f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki tenaga ahli bidang ketatalaksanaan atau pelayaran dasar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki tenaga ahli bidang ketatalaksanaan atau pelayaran dasar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7afe98f5-e00e-517b-94a2-36a25500e590",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kapal layar motor tradisional berbendera Indonesia yang laik laut berukuran sampai dengan GT 500 dan digerakkan dengan tenaga angin sebagai tenaga penggerak utama dan motor sebagai tenaga penggerak bantu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kapal layar motor tradisional berbendera Indonesia yang laik laut berukuran sampai dengan GT 500 dan digerakkan dengan tenaga angin sebagai tenaga penggerak utama dan motor sebagai tenaga penggerak bantu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b14a9cff-db32-5470-85eb-79ff603b918b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kapal motor berbendera Indonesia yang laik laut berukuran GT 7 serta paling besar GT 174",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kapal motor berbendera Indonesia yang laik laut berukuran GT 7 serta paling besar GT 174",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "74837039-1343-5fb1-b88c-efbd4575be72",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan operasional secara terus menerus sesuai standar usaha angkutan pelayaran rakyat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan operasional secara terus menerus sesuai standar usaha angkutan pelayaran rakyat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "40dab690-57c8-521d-9e1a-8fb28426872f",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha apabila terjadi perubahan nama direktur utama atau nama penanggungjawab dan/atau nama pemilik, nomor pokok wajib pajak perusahaan, domisili perusahaan, dan status kepemilikan kapal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha apabila terjadi perubahan nama direktur utama atau nama penanggungjawab dan/atau nama pemilik, nomor pokok wajib pajak perusahaan, domisili perusahaan, dan status kepemilikan kapal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bc67c79e-d8bf-554c-a688-59438df129fd",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha semua data kapal milik atau kapal yang dioperasikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha semua data kapal milik atau kapal yang dioperasikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "aef680d0-b384-5650-b684-07a81cd63964",
+       "localization": {
+        "en": {
+         "uraian": "Melengkapi semua kapal yang dimiliki dengan spesifikasi kapal sebagai bagian yang tidak terpisahkan dengan sertifikat standar usaha angkutan laut pelayaran rakyat dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melengkapi semua kapal yang dimiliki dengan spesifikasi kapal sebagai bagian yang tidak terpisahkan dengan sertifikat standar usaha angkutan laut pelayaran rakyat dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "253f0b41-870b-544d-aa89-89b71e6dbf44",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha setiap pembukaan kantor cabang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha setiap pembukaan kantor cabang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e0e73e87-d41c-5938-b58c-744af86ae9b1",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi semua ketentuan perundangundangan dibidang peraturan pelayaran serta ketentuan peraturan perundangundangan lainnya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi semua ketentuan perundangundangan dibidang peraturan pelayaran serta ketentuan peraturan perundangundangan lainnya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "c8042969-73d6-59f5-9525-8468b22957a8",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a0f45519-ede9-4d29-8025-a30884f027ef",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "f871271b-20f9-5d37-9086-77b3305a5c11",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "4fec3b2a-0886-5000-a9a4-52d3dc384db5",
+        "local": {
+         "en": {
+          "uraian": "Lintas pelabuhan antarprovinsi dan internasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lintas pelabuhan antarprovinsi dan internasional",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "991b10df-4f83-5bb9-a2b3-a4ce7615981f",
+     "kode": "50127-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "3",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "a5759def-c685-5ead-9008-c3ca193be0c6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki tenaga ahli bidang ketatalaksanaan atau pelayaran dasar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki tenaga ahli bidang ketatalaksanaan atau pelayaran dasar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f6a2dd95-42b6-5dcd-b48d-9afda534dc9f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kapal layar motor tradisional berbendera Indonesia yang laik laut berukuran sampai dengan GT 500 dan digerakkan dengan tenaga angin sebagai tenaga penggerak utama dan motor sebagai tenaga penggerak bantu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kapal layar motor tradisional berbendera Indonesia yang laik laut berukuran sampai dengan GT 500 dan digerakkan dengan tenaga angin sebagai tenaga penggerak utama dan motor sebagai tenaga penggerak bantu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b3380ab3-5495-5f0a-961c-fa46b84320e3",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kapal motor berbendera Indonesia yang laik laut berukuran GT 7 serta paling besar GT 174",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kapal motor berbendera Indonesia yang laik laut berukuran GT 7 serta paling besar GT 174",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "e9a50ba9-a7e3-506d-9a65-9e898a78dadb",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan operasional secara terus menerus sesuai standar usaha angkutan pelayaran rakyat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan operasional secara terus menerus sesuai standar usaha angkutan pelayaran rakyat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c422b680-c58e-576c-98e0-f69a5beda494",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha apabila terjadi perubahan nama direktur utama atau nama penanggungjawab dan/atau nama pemilik, nomor pokok wajib pajak perusahaan, domisili perusahaan, dan status kepemilikan kapal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha apabila terjadi perubahan nama direktur utama atau nama penanggungjawab dan/atau nama pemilik, nomor pokok wajib pajak perusahaan, domisili perusahaan, dan status kepemilikan kapal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f0258a8d-4e2b-5d6f-8e7e-b561f551aaf4",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha semua data kapal milik atau kapal yang dioperasikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha semua data kapal milik atau kapal yang dioperasikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2800c0f9-24a9-5f51-8be4-2b2627f45a94",
+       "localization": {
+        "en": {
+         "uraian": "Melengkapi semua kapal yang dimiliki dengan spesifikasi kapal sebagai bagian yang tidak terpisahkan dengan sertifikat standar usaha angkutan laut pelayaran rakyat dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melengkapi semua kapal yang dimiliki dengan spesifikasi kapal sebagai bagian yang tidak terpisahkan dengan sertifikat standar usaha angkutan laut pelayaran rakyat dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a32c577e-9958-5540-8c21-05b0f0c70bd9",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha setiap pembukaan kantor cabang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha setiap pembukaan kantor cabang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8df9b3df-bf06-56e4-af5e-7f677a380ff9",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi semua ketentuan perundangundangan dibidang peraturan pelayaran serta ketentuan peraturan perundangundangan lainnya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi semua ketentuan perundangundangan dibidang peraturan pelayaran serta ketentuan peraturan perundangundangan lainnya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "d60f19d3-43d0-5f9b-a714-6c8a04f6f1ea",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a0f45519-ede9-4d29-8025-a30884f027ef",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "93cbd48d-6ed7-50c6-8072-f822d3274fd9",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "4fec3b2a-0886-5000-a9a4-52d3dc384db5",
+        "local": {
+         "en": {
+          "uraian": "Lintas pelabuhan antarprovinsi dan internasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lintas pelabuhan antarprovinsi dan internasional",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "fd8a56bd-9dd2-56e6-8ff5-022584f26c1b",
+     "kode": "50127-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "3",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "4cbada5e-d2b2-57f8-bd2c-c2dd097970a1",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki tenaga ahli bidang ketatalaksanaan atau pelayaran dasar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki tenaga ahli bidang ketatalaksanaan atau pelayaran dasar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c050120b-1b1a-5873-a8d7-e0d3d8f1860e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kapal layar motor tradisional berbendera Indonesia yang laik laut berukuran sampai dengan GT 500 dan digerakkan dengan tenaga angin sebagai tenaga penggerak utama dan motor sebagai tenaga penggerak bantu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kapal layar motor tradisional berbendera Indonesia yang laik laut berukuran sampai dengan GT 500 dan digerakkan dengan tenaga angin sebagai tenaga penggerak utama dan motor sebagai tenaga penggerak bantu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7cf5ecd8-2f6f-5614-b4ff-352f735c86a1",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kapal motor berbendera Indonesia yang laik laut berukuran GT 7 serta paling besar GT 174",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kapal motor berbendera Indonesia yang laik laut berukuran GT 7 serta paling besar GT 174",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "5d139bf6-9a36-56dd-8d1f-6a38413b4b4e",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan kegiatan operasional secara terus menerus sesuai standar usaha angkutan pelayaran rakyat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan kegiatan operasional secara terus menerus sesuai standar usaha angkutan pelayaran rakyat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e4b28bf5-0c69-5aa0-ba5a-33bc37a97295",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha apabila terjadi perubahan nama direktur utama atau nama penanggungjawab dan/atau nama pemilik, nomor pokok wajib pajak perusahaan, domisili perusahaan, dan status kepemilikan kapal",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha apabila terjadi perubahan nama direktur utama atau nama penanggungjawab dan/atau nama pemilik, nomor pokok wajib pajak perusahaan, domisili perusahaan, dan status kepemilikan kapal",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4b860af4-15b9-5b03-b3bb-0f219817148f",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha semua data kapal milik atau kapal yang dioperasikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha semua data kapal milik atau kapal yang dioperasikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "86ee4d0a-32d7-54b9-bb1c-74f385cf1269",
+       "localization": {
+        "en": {
+         "uraian": "Melengkapi semua kapal yang dimiliki dengan spesifikasi kapal sebagai bagian yang tidak terpisahkan dengan sertifikat standar usaha angkutan laut pelayaran rakyat dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melengkapi semua kapal yang dimiliki dengan spesifikasi kapal sebagai bagian yang tidak terpisahkan dengan sertifikat standar usaha angkutan laut pelayaran rakyat dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c127dfa0-8200-5296-a92f-0c29f55653a9",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha setiap pembukaan kantor cabang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan secara tertulis kepada pejabat pemberi perizinan berusaha setiap pembukaan kantor cabang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f971a846-5ae4-5836-b9d8-bb7fa9ac924c",
+       "localization": {
+        "en": {
+         "uraian": "Mematuhi semua ketentuan perundangundangan dibidang peraturan pelayaran serta ketentuan peraturan perundangundangan lainnya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mematuhi semua ketentuan perundangundangan dibidang peraturan pelayaran serta ketentuan peraturan perundangundangan lainnya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "a4c10889-63ae-5600-9b65-984b2beb6150",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a0f45519-ede9-4d29-8025-a30884f027ef",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "97753fd6-d6fa-5701-b175-616e84dfaa82",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "04163eec-713a-5c38-bec3-1f6aaf135a55",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "4fec3b2a-0886-5000-a9a4-52d3dc384db5",
+        "local": {
+         "en": {
+          "uraian": "Lintas pelabuhan antarprovinsi dan internasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lintas pelabuhan antarprovinsi dan internasional",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "2d1cf9d7-a26f-410a-a7d7-f70e68f1f88b",
+    "kode": "022",
+    "localization": {
+     "en": {
+      "uraian": "Perhubungan",
+      "deskripsi": "Kementerian Perhubungan"
+     },
+     "id": {
+      "uraian": "Perhubungan",
+      "deskripsi": "Kementerian Perhubungan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

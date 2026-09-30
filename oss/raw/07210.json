@@ -1,0 +1,1455 @@
+{
+ "code": "07210",
+ "found": true,
+ "ossId": "808f2bf1-5100-5a9e-8037-0e0ab6a62d92",
+ "url": "https://oss.go.id/id/kbli/detail/808f2bf1-5100-5a9e-8037-0e0ab6a62d92",
+ "fetchedAt": "2026-09-30T06:01:31+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 07210 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "07210"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "062f4eab-fa3c-5f26-ba3f-66baae663419",
+   "localization": {
+    "en": {
+     "uraian": "Pengolahan Mineral Radioaktif dan/atau Mineral Ikutan Radioaktif di Luar Wilayah Penugasan Penambangan Mineral Radioaktif (WPPMR)",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Pengolahan Mineral Radioaktif dan/atau Mineral Ikutan Radioaktif di Luar Wilayah Penugasan Penambangan Mineral Radioaktif (WPPMR)",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "808f2bf1-5100-5a9e-8037-0e0ab6a62d92",
+    "localization": {
+     "en": {
+      "judul": "Pertambangan Bijih Uranium Dan Torium",
+      "uraian": "Kelompok ini mencakup\n- pertambangan bijih yang mengandung konsentrat uranium dan torium, seperti bijih uranium (pitchblende);\n- pengkonsentratan uranium dan torium;\n- pembuatan talam kuning.\nKelompok ini tidak mencakup\n- peningkatan kadar dan mutu bijih uranium dan torium, lihat subgolongan 2011;\n- produksi logam uranium dari bijih uranium dan torium atau bijih lainnya, lihat subgolongan 2420;\n- pengolahan lebih lanjut uranium, seperti peleburan dan penyulingan, lihat subgolongan 2420."
+     },
+     "id": {
+      "judul": "Pertambangan Bijih Uranium Dan Torium",
+      "uraian": "Kelompok ini mencakup\n- pertambangan bijih yang mengandung konsentrat uranium dan torium, seperti bijih uranium (pitchblende);\n- pengkonsentratan uranium dan torium;\n- pembuatan talam kuning.\nKelompok ini tidak mencakup\n- peningkatan kadar dan mutu bijih uranium dan torium, lihat subgolongan 2011;\n- produksi logam uranium dari bijih uranium dan torium atau bijih lainnya, lihat subgolongan 2420;\n- pengolahan lebih lanjut uranium, seperti peleburan dan penyulingan, lihat subgolongan 2420."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "994c70e4-162f-5b19-8ac2-00816e7375bd",
+     "kode": "07210-04-01",
+     "luas_lahan": null,
+     "jangka_waktu": "60",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "2f48593f-0501-59ff-aa86-6e0a604b51e4",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen rencana proteksi fisik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen rencana proteksi fisik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "dcd2c464-d71e-5622-8f3f-6f8ae2193c4d",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen sistem garda aman",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen sistem garda aman",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c123ad34-dc35-519d-abfb-7dd1e779272e",
+       "localization": {
+        "en": {
+         "uraian": "Izin bekerja petugas tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Izin bekerja petugas tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2c53c6df-95dc-5b24-b8a9-68263d48461a",
+       "localization": {
+        "en": {
+         "uraian": "Program dekomisioning pertambangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Program dekomisioning pertambangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "759f8a30-6f47-517d-bbcf-ca396eba3cc4",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen analisis keselamatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen analisis keselamatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fef51b0c-94e8-509a-bfca-735e74cd75ba",
+       "localization": {
+        "en": {
+         "uraian": "Program proteksi dan keselamatan radiasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Program proteksi dan keselamatan radiasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "91b30212-e2bd-59d9-9aca-8bc045534935",
+       "localization": {
+        "en": {
+         "uraian": "Program pengelolaan limbah radioaktif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Program pengelolaan limbah radioaktif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "4aec2e63-aa3a-5dd2-a254-54c1eb9f4782",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "7cdedb79-3ce8-4051-95f3-50d2423a37ae",
+        "localization": {
+         "en": {
+          "nama_dokumen": "IZIN PENGOLAHAN MINERAL RADIOAKTIF"
+         },
+         "id": {
+          "nama_dokumen": "IZIN PENGOLAHAN MINERAL RADIOAKTIF"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "04aff52b-193d-5988-9452-e376fa8bedca",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ab629c65-4fd2-50d6-8d09-f36d71000c1e",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "f3a428fe-125a-5210-ad6d-c3c886ad41f7",
+       "localization": {
+        "en": {
+         "uraian": "Membayar pendapatan negara dan pendapatan daerah yang terdiri atas penerimaan pajak dan penerimaan negara bukan pajak",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membayar pendapatan negara dan pendapatan daerah yang terdiri atas penerimaan pajak dan penerimaan negara bukan pajak",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b92aa7a7-ac83-5f19-84cc-c7a6bc493008",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan yang meliputi: a. keselamatan pertambangan bahan galian nuklir b. keamanan pertambangan bahan galian nuklir c. manajemen keselamatan dan keamanan pertambangan bahan galian nuklir",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan yang meliputi: a. keselamatan pertambangan bahan galian nuklir b. keamanan pertambangan bahan galian nuklir c. manajemen keselamatan dan keamanan pertambangan bahan galian nuklir",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4351e975-c7f1-590f-95f3-dc5feb847433",
+       "localization": {
+        "en": {
+         "uraian": "Menyediakan dan menempatkan dana jaminan dekomisioning pertambangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyediakan dan menempatkan dana jaminan dekomisioning pertambangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1b08ea3e-6542-5955-b0d7-ead2e5b7fc13",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan: a. analisis keselamatan b. pembentukan panitia penilai keselamatan c. analisis wilayah tambang d. perancangan desain e. konstruksi f. pengujian g. penambangan h. pengolahan i. perawa-tan, peman-tauan, dan pemeriksaan j. proteksi radiasi k. pengendalian radioaktivitas lingkungan hidup l. penanggulangan kecelakaan m. pengelolaan limbah radioaktif n. proteksi fisik o. garda aman p. dekomisioning pertambangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan: a. analisis keselamatan b. pembentukan panitia penilai keselamatan c. analisis wilayah tambang d. perancangan desain e. konstruksi f. pengujian g. penambangan h. pengolahan i. perawa-tan, peman-tauan, dan pemeriksaan j. proteksi radiasi k. pengendalian radioaktivitas lingkungan hidup l. penanggulangan kecelakaan m. pengelolaan limbah radioaktif n. proteksi fisik o. garda aman p. dekomisioning pertambangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c33e53b7-5f12-52f4-bc5d-af30fbef291c",
+       "localization": {
+        "en": {
+         "uraian": "Mengimplementasikan dan memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis keselamatan dan keamanan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengimplementasikan dan memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis keselamatan dan keamanan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5a6523e9-e240-5d22-b24a-8ba8406fc70c",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan rencana tahunan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan rencana tahunan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6422ee2a-c15b-5921-9f62-5e6c3c82368d",
+       "localization": {
+        "en": {
+         "uraian": "Memperoleh persetujuan bila ada: a. perubahan desain b. modifikasi c. operasi produksi d. dekomisioning pertambangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperoleh persetujuan bila ada: a. perubahan desain b. modifikasi c. operasi produksi d. dekomisioning pertambangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1574498c-ddc8-5573-acad-c5bb82d283d3",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan: a. konstruksi b. penambangan c. pengolahan d. pengendalian radioaktivitas lingkungan hidup e. penanggulangan kecelakaan f. dekomisioning pertambangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan: a. konstruksi b. penambangan c. pengolahan d. pengendalian radioaktivitas lingkungan hidup e. penanggulangan kecelakaan f. dekomisioning pertambangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6052f0b1-ed2b-5f49-a0ca-ce0ee1d8e090",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan budaya keselamatan dan keamanan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan budaya keselamatan dan keamanan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0c9ea521-d587-5ba1-b184-15ec4481fb01",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun, Melaksanakan, dan mengevaluasi program pemberdayaan masyarakat sekitar wilayah tambang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun, Melaksanakan, dan mengevaluasi program pemberdayaan masyarakat sekitar wilayah tambang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "971e7140-74e9-5635-a573-0b7e67f06331",
+       "localization": {
+        "en": {
+         "uraian": "Apabila terjadi kecelakaan dimana lepasan radioaktif berpotensi meluas ke luar wilayah tambang, menyatakan kecelakaan dan berkoordinasi dengan instansi terkait",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Apabila terjadi kecelakaan dimana lepasan radioaktif berpotensi meluas ke luar wilayah tambang, menyatakan kecelakaan dan berkoordinasi dengan instansi terkait",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "395ed3b4-3045-5602-aa1f-5fc962cb9fe0",
+       "localization": {
+        "en": {
+         "uraian": "Dalam hal izin telah berakhir, pemegang PB wajib bertanggung jawab atas keselamatan dan keamanan pertambang-an, bahan galian nuklir, dan limbah radioaktif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dalam hal izin telah berakhir, pemegang PB wajib bertanggung jawab atas keselamatan dan keamanan pertambang-an, bahan galian nuklir, dan limbah radioaktif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "50ca7482-d92f-4450-8719-bb4629a2b33f",
+    "kode": "085",
+    "localization": {
+     "en": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     },
+     "id": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "47f0e411-564f-500b-b43c-8855f6eb06a8",
+   "localization": {
+    "en": {
+     "uraian": "Penambangan dan/atau Pengolahan Mineral Radioaktif",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Penambangan dan/atau Pengolahan Mineral Radioaktif",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "808f2bf1-5100-5a9e-8037-0e0ab6a62d92",
+    "localization": {
+     "en": {
+      "judul": "Pertambangan Bijih Uranium Dan Torium",
+      "uraian": "Kelompok ini mencakup\n- pertambangan bijih yang mengandung konsentrat uranium dan torium, seperti bijih uranium (pitchblende);\n- pengkonsentratan uranium dan torium;\n- pembuatan talam kuning.\nKelompok ini tidak mencakup\n- peningkatan kadar dan mutu bijih uranium dan torium, lihat subgolongan 2011;\n- produksi logam uranium dari bijih uranium dan torium atau bijih lainnya, lihat subgolongan 2420;\n- pengolahan lebih lanjut uranium, seperti peleburan dan penyulingan, lihat subgolongan 2420."
+     },
+     "id": {
+      "judul": "Pertambangan Bijih Uranium Dan Torium",
+      "uraian": "Kelompok ini mencakup\n- pertambangan bijih yang mengandung konsentrat uranium dan torium, seperti bijih uranium (pitchblende);\n- pengkonsentratan uranium dan torium;\n- pembuatan talam kuning.\nKelompok ini tidak mencakup\n- peningkatan kadar dan mutu bijih uranium dan torium, lihat subgolongan 2011;\n- produksi logam uranium dari bijih uranium dan torium atau bijih lainnya, lihat subgolongan 2420;\n- pengolahan lebih lanjut uranium, seperti peleburan dan penyulingan, lihat subgolongan 2420."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "49ee2a5b-84ef-577c-9225-473cf586992b",
+     "kode": "07210-04-02",
+     "luas_lahan": null,
+     "jangka_waktu": "60",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "43d9c07b-bc86-53c6-90d9-6d551d08b4d5",
+       "localization": {
+        "en": {
+         "uraian": "Salinan Surat Penugasan Pertambangan Mineral Radioaktif (SPPMR) dari lembaga yang menyelenggarakan urusan pemerintahan di bidang penyelenggaraan ketenaganukliran",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Salinan Surat Penugasan Pertambangan Mineral Radioaktif (SPPMR) dari lembaga yang menyelenggarakan urusan pemerintahan di bidang penyelenggaraan ketenaganukliran",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "75dbb6ab-a12e-5350-b9bd-c0007a38a31c",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen analisis keselamatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen analisis keselamatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "88acf762-3b04-57a9-a268-7e8e75648d9a",
+       "localization": {
+        "en": {
+         "uraian": "Program proteksi dan keselamatan radiasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Program proteksi dan keselamatan radiasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4027ea80-8766-5ab8-954d-54b3a47c5a3f",
+       "localization": {
+        "en": {
+         "uraian": "Program pengelolaan limbah radioaktif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Program pengelolaan limbah radioaktif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f716a414-9b7a-5cee-a283-5ae6e5eeca47",
+       "localization": {
+        "en": {
+         "uraian": "Program dekomisioning pertambangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Program dekomisioning pertambangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1909bcbb-1bf7-5e03-b113-6b17dcd1e2f1",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen rencana proteksi fisik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen rencana proteksi fisik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a6824fe8-3ddc-51ea-9d2d-fce7fb36c6b7",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen sistem garda aman",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen sistem garda aman",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d5f26265-1be8-519c-9095-7971d7aaad51",
+       "localization": {
+        "en": {
+         "uraian": "Izin bekerja petugas tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Izin bekerja petugas tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "6b67a590-0766-5d58-ae71-5bdd91c8b08c",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a19ba7c2-9d2f-44bd-a152-0231d9a946a8",
+        "localization": {
+         "en": {
+          "nama_dokumen": "IZIN KONSTRUKSI DAN PENAMBANGAN MINERAL RADIOAKTIF"
+         },
+         "id": {
+          "nama_dokumen": "IZIN KONSTRUKSI DAN PENAMBANGAN MINERAL RADIOAKTIF"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "d0b098bc-c9c8-58f2-bec1-0f0363887626",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "53393820-04ad-5a7e-b2a9-a82bdf676d5c",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "79b1e431-011d-537b-a1e8-39e22eedf4ce",
+       "localization": {
+        "en": {
+         "uraian": "Membayar pendapatan negara dan pendapatan daerah yang terdiri atas penerimaan pajak dan penerimaan negara bukan pajak",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membayar pendapatan negara dan pendapatan daerah yang terdiri atas penerimaan pajak dan penerimaan negara bukan pajak",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "568aa1d1-8b3d-5075-9ef8-8fd7378254e2",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan yang meliputi: a. keselamatan pertambangan bahan galian nuklir b. keamanan pertambangan bahan galian nuklir c. manajemen keselamatan dan keamanan pertambangan bahan galian nuklir",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan yang meliputi: a. keselamatan pertambangan bahan galian nuklir b. keamanan pertambangan bahan galian nuklir c. manajemen keselamatan dan keamanan pertambangan bahan galian nuklir",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d73af9f4-939f-5a8c-b21a-f85a97649ec5",
+       "localization": {
+        "en": {
+         "uraian": "Menyediakan dan menempatkan dana jaminan dekomisioning pertambangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyediakan dan menempatkan dana jaminan dekomisioning pertambangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "13cb5579-cd0d-50ae-97d3-fccacb11e4e5",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan: a. analisis keselamatan b. pembentukan panitia penilai keselamatan c. analisis wilayah tambang d. perancangan desain e. konstruksi f. pengujian g. penambangan h. pengolahan i. perawa-tan, peman-tauan, dan pemeriksaan j. proteksi radiasi k. pengendalian radioaktivitas lingkungan hidup l. penanggulangan kecelakaan m. pengelolaan limbah radioaktif n. proteksi fisik o. garda aman p. dekomisioning pertambangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan: a. analisis keselamatan b. pembentukan panitia penilai keselamatan c. analisis wilayah tambang d. perancangan desain e. konstruksi f. pengujian g. penambangan h. pengolahan i. perawa-tan, peman-tauan, dan pemeriksaan j. proteksi radiasi k. pengendalian radioaktivitas lingkungan hidup l. penanggulangan kecelakaan m. pengelolaan limbah radioaktif n. proteksi fisik o. garda aman p. dekomisioning pertambangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f2f54295-7bdc-5770-b1b5-468692f916e5",
+       "localization": {
+        "en": {
+         "uraian": "Mengimplementasikan dan memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis keselamatan dan keamanan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengimplementasikan dan memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis keselamatan dan keamanan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5091a1d9-c1d8-53be-bcc3-d6b55626b798",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan rencana tahunan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan rencana tahunan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "aabc00a1-7368-50db-a41e-fb208dc1e0b4",
+       "localization": {
+        "en": {
+         "uraian": "Memperoleh persetujuan bila ada: a. perubahan desain b. modifikasi c. operasi produksi d. dekomisioning pertambangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperoleh persetujuan bila ada: a. perubahan desain b. modifikasi c. operasi produksi d. dekomisioning pertambangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2ce894a5-86af-54a0-807b-0f5f0a241d43",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan: a. konstruksi b. penambangan c. pengolahan d. pengendalian radioaktivitas lingkungan hidup e. penanggulangan kecelakaan f. dekomisioning pertambangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan: a. konstruksi b. penambangan c. pengolahan d. pengendalian radioaktivitas lingkungan hidup e. penanggulangan kecelakaan f. dekomisioning pertambangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "41ea4c92-9cfa-56ad-8202-a4ed334ea843",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan budaya keselamatan dan keamanan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan budaya keselamatan dan keamanan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f2bcc07d-e385-5276-8256-aa1d3c014496",
+       "localization": {
+        "en": {
+         "uraian": "Menyusun, Melaksanakan, dan mengevaluasi program pemberdayaan masyarakat sekitar wilayah tambang",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyusun, Melaksanakan, dan mengevaluasi program pemberdayaan masyarakat sekitar wilayah tambang",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c9dec8f3-3096-50b6-b161-1cb1b21fd16e",
+       "localization": {
+        "en": {
+         "uraian": "Apabila terjadi kecelakaan dimana lepasan radioaktif berpotensi meluas ke luar wilayah tambang, menyatakan kecelakaan dan berkoordinasi dengan instansi terkait",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Apabila terjadi kecelakaan dimana lepasan radioaktif berpotensi meluas ke luar wilayah tambang, menyatakan kecelakaan dan berkoordinasi dengan instansi terkait",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9e18d78a-98ba-558b-9647-1240f5b5ed40",
+       "localization": {
+        "en": {
+         "uraian": "Dalam hal izin telah berakhir, pemegang PB wajib bertanggung jawab atas keselamatan dan keamanan pertambang-an, bahan galian nuklir, dan limbah radioaktif",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dalam hal izin telah berakhir, pemegang PB wajib bertanggung jawab atas keselamatan dan keamanan pertambang-an, bahan galian nuklir, dan limbah radioaktif",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 60,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "50ca7482-d92f-4450-8719-bb4629a2b33f",
+    "kode": "085",
+    "localization": {
+     "en": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     },
+     "id": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

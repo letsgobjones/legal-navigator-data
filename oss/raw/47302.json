@@ -1,0 +1,3600 @@
+{
+ "code": "47302",
+ "found": true,
+ "ossId": "2fcbcfd8-96b4-5481-8211-0664df47e1f8",
+ "url": "https://oss.go.id/id/kbli/detail/2fcbcfd8-96b4-5481-8211-0664df47e1f8",
+ "fetchedAt": "2026-09-30T04:56:26+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 47302 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "47302"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "e4c5a356-e440-5a05-85a8-d1c3e410d0e0",
+   "localization": {
+    "en": {
+     "uraian": "Penyalur/ Agen Bahan Bakar Minyak selain SPBU",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Penyalur/ Agen Bahan Bakar Minyak selain SPBU",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "2fcbcfd8-96b4-5481-8211-0664df47e1f8",
+    "localization": {
+     "en": {
+      "judul": "Perdagangan Eceran Bahan Bakar Selain di Sarana Pengisian Bahan Bakar",
+      "uraian": "Kelompok ini mencakup perdagangan eceran bahan bakar minyak, bahan bakar gas, gas minyak cair (LPG), gas alam cair (LNG), gas alam termampat (CNG), atau jenis bahan bakar lain selain di sarana pengisian bahan bakar untuk transportasi darat, laut, dan udara, seperti agen BBM, agen LPG, baik yang disertai penjualan minyak pelumas maupun tidak. Perdagangan eceran bahan bakar untuk mobil dan sepeda motor di SPBU dimasukkan dalam kelompok 47301."
+     },
+     "id": {
+      "judul": "Perdagangan Eceran Bahan Bakar Selain di Sarana Pengisian Bahan Bakar",
+      "uraian": "Kelompok ini mencakup perdagangan eceran bahan bakar minyak, bahan bakar gas, gas minyak cair (LPG), gas alam cair (LNG), gas alam termampat (CNG), atau jenis bahan bakar lain selain di sarana pengisian bahan bakar untuk transportasi darat, laut, dan udara, seperti agen BBM, agen LPG, baik yang disertai penjualan minyak pelumas maupun tidak. Perdagangan eceran bahan bakar untuk mobil dan sepeda motor di SPBU dimasukkan dalam kelompok 47301."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": [
+     {
+      "id": "54c31022-3ee4-4ac4-8276-2628de68c0fd",
+      "localization": {
+       "en": {
+        "uraian": "Merupakan Bidang Usaha Perdagangan Eceran, sehingga tidak dapat dijalankan secara bersamaan dengan Bidang Usaha Perdagangan Besar sebagaimana diatur di dalam Peraturan Pemerintah No. 29 Tahun 2021."
+       },
+       "id": {
+        "uraian": "Merupakan Bidang Usaha Perdagangan Eceran, sehingga tidak dapat dijalankan secara bersamaan dengan Bidang Usaha Perdagangan Besar sebagaimana diatur di dalam Peraturan Pemerintah No. 29 Tahun 2021."
+       }
+      }
+     }
+    ]
+   },
+   "KbliResikos": [
+    {
+     "id": "56eacec6-fac6-54f8-b4b2-9f05df680e6f",
+     "kode": "47302-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "82e1ff41-b79f-5df1-a959-a15629f17267",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "a193aa3e-805e-51d7-8517-26480c28eddb",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "91f24023-3a29-51f6-8af6-b9726f05da28",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         },
+         "id": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "8d88301f-af93-5b38-86dd-494f36de09dd",
+       "localization": {
+        "en": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e50c402f-b9ec-5baf-b773-0f2c2765c397",
+       "localization": {
+        "en": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1de042b8-893f-59e1-a93e-983a7b9ccff9",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "46dd35a4-28f8-5265-b89f-4943cf8ce153",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4d9d0dca-58cb-5cff-950d-3385ed45817e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "563c8bfb-363c-51a5-b571-deb7a59c44cb",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "d1ef3129-cb8c-5827-8bed-0dc9cf435ea0",
+     "kode": "47302-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "e6528382-615f-508a-8758-b7361a0c3a0c",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "188d642e-ce13-54ec-a4bb-24f1bb8db8ba",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "91f24023-3a29-51f6-8af6-b9726f05da28",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         },
+         "id": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "872be84e-1f7f-5ddf-8b99-1d0d0fe35164",
+       "localization": {
+        "en": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "06d1cfdf-2ebf-5c85-a1aa-b603601f9e0f",
+       "localization": {
+        "en": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "48ea1e66-9939-551b-88dd-6e79567272f8",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9d728155-66c5-5a7f-bdf3-ce15f88871bd",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f466671a-2006-5e50-b1b9-6d8fcf9b985b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "0eb5b5ca-9a3f-5af5-9b5c-cbb9bf72e883",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "7ca26647-89bc-53bd-83ec-f49d7edb62db",
+     "kode": "47302-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "e8f00230-eed5-50a3-8c7a-e9148d93e86e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "d36a67a6-ed70-579e-9a11-9a5b75880ea3",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "91f24023-3a29-51f6-8af6-b9726f05da28",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         },
+         "id": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "8ea03895-b38c-5680-aad8-e0cf1ff9a5c1",
+       "localization": {
+        "en": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3624213d-f9b3-58a1-9fd4-80746574e87d",
+       "localization": {
+        "en": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6f9cc9b3-1e45-5248-9b65-d907a68e0297",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0983822d-5e02-566f-88dd-e783f8a162da",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "760f2f31-5e55-54dd-985c-c383d9dd0126",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "ad8776c8-3469-524f-a0bf-068c136ffc39",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "6bed261e-1583-57da-bf63-3afc8a028530",
+     "kode": "47302-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "7f069eb7-66ab-5591-aaee-5aad89190d68",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "469a17f9-8279-5bf7-978d-d22669d2e886",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "91f24023-3a29-51f6-8af6-b9726f05da28",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         },
+         "id": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "3befee15-2b8b-5dc1-b978-2103e5655600",
+       "localization": {
+        "en": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bbac8d14-2578-5631-827a-7a3f8c7f0fae",
+       "localization": {
+        "en": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "add329d1-d22a-582e-9751-b939c5983f83",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e1d373c0-ba00-5c28-bcd2-ddacb820bae8",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f7b2d42b-4652-5d1d-9f33-2a2cfe38b6ba",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "4296c26c-132a-5ccb-b558-2fa367c72841",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7d866ebc-3b7b-5a57-9800-ee6161a9ca74",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "106223e0-cc03-5119-ab1e-7baac199fe5f",
+   "localization": {
+    "en": {
+     "uraian": "Penyalur/ Agen LPG Tertentu (3 kg)",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Penyalur/ Agen LPG Tertentu (3 kg)",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "2fcbcfd8-96b4-5481-8211-0664df47e1f8",
+    "localization": {
+     "en": {
+      "judul": "Perdagangan Eceran Bahan Bakar Selain di Sarana Pengisian Bahan Bakar",
+      "uraian": "Kelompok ini mencakup perdagangan eceran bahan bakar minyak, bahan bakar gas, gas minyak cair (LPG), gas alam cair (LNG), gas alam termampat (CNG), atau jenis bahan bakar lain selain di sarana pengisian bahan bakar untuk transportasi darat, laut, dan udara, seperti agen BBM, agen LPG, baik yang disertai penjualan minyak pelumas maupun tidak. Perdagangan eceran bahan bakar untuk mobil dan sepeda motor di SPBU dimasukkan dalam kelompok 47301."
+     },
+     "id": {
+      "judul": "Perdagangan Eceran Bahan Bakar Selain di Sarana Pengisian Bahan Bakar",
+      "uraian": "Kelompok ini mencakup perdagangan eceran bahan bakar minyak, bahan bakar gas, gas minyak cair (LPG), gas alam cair (LNG), gas alam termampat (CNG), atau jenis bahan bakar lain selain di sarana pengisian bahan bakar untuk transportasi darat, laut, dan udara, seperti agen BBM, agen LPG, baik yang disertai penjualan minyak pelumas maupun tidak. Perdagangan eceran bahan bakar untuk mobil dan sepeda motor di SPBU dimasukkan dalam kelompok 47301."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": [
+     {
+      "id": "54c31022-3ee4-4ac4-8276-2628de68c0fd",
+      "localization": {
+       "en": {
+        "uraian": "Merupakan Bidang Usaha Perdagangan Eceran, sehingga tidak dapat dijalankan secara bersamaan dengan Bidang Usaha Perdagangan Besar sebagaimana diatur di dalam Peraturan Pemerintah No. 29 Tahun 2021."
+       },
+       "id": {
+        "uraian": "Merupakan Bidang Usaha Perdagangan Eceran, sehingga tidak dapat dijalankan secara bersamaan dengan Bidang Usaha Perdagangan Besar sebagaimana diatur di dalam Peraturan Pemerintah No. 29 Tahun 2021."
+       }
+      }
+     }
+    ]
+   },
+   "KbliResikos": [
+    {
+     "id": "261d8b6e-cb38-5c19-a026-797c560748b0",
+     "kode": "47302-01-05",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "efa9be71-9f1b-51e8-b7b4-dc3e34c6bee7",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "fd19c7fd-c704-57ae-97bc-65cccc9d393f",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "91f24023-3a29-51f6-8af6-b9726f05da28",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         },
+         "id": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "28091971-0be8-546a-a315-5a94bdfee529",
+       "localization": {
+        "en": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8fb5dcb6-a94d-54d8-8422-6b14f33852f3",
+       "localization": {
+        "en": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "67c907c0-3c0e-50a5-8650-2297f7bd54fd",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d2e46331-9977-5153-a1c5-1a28bfcf49b4",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bd0380bb-b1a1-53e2-ab21-8ac3983eff0c",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "700cbff3-94c3-5063-8bce-4d795179ba42",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "9192889c-aa0e-5348-9acc-daa8d8276656",
+     "kode": "47302-02-06",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "3904907a-8831-5ae9-ad5a-479a3a5e56c5",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "a7b14baa-bad9-52e0-b415-2ab8cff5e9b3",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "91f24023-3a29-51f6-8af6-b9726f05da28",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         },
+         "id": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "346360aa-3c5b-531b-868d-5b137282c216",
+       "localization": {
+        "en": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "aa4365d3-0ac0-589f-b645-c604682867b8",
+       "localization": {
+        "en": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "59d12c9d-a03b-59f5-a7a9-0c4fc38b6504",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ba17f45f-f3b8-5f57-b87f-c9e616dbd7ee",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9d7d4cd7-c37b-5e93-852b-85308d20caca",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "2b10b6b0-9796-5482-a007-0624cd198b57",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "ab7c3649-042b-5be4-9de7-ee9f2a1c0719",
+     "kode": "47302-03-07",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "4ede03c8-ae68-589d-8969-8cc80e714336",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "5d60e168-7172-5f31-9254-5e1753e383d9",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "91f24023-3a29-51f6-8af6-b9726f05da28",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         },
+         "id": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "4bed0e56-5418-55f1-bc64-2babd167962a",
+       "localization": {
+        "en": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b6626d22-c33f-563c-a8df-2efab2ef626a",
+       "localization": {
+        "en": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "da8346af-a47d-5e13-a6bc-a3ee60c8dc91",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "15be065c-d378-5853-a41e-7aba0f520979",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9d4f26d2-6210-597b-b0ce-d59d18c7ab70",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "5155905c-cd84-527e-b9f9-38aa743d0481",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "97bd882b-7d19-50eb-bf9b-9ddf0d8788e3",
+     "kode": "47302-04-08",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "ce370369-ad90-5352-935e-28989c3cabb3",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "88a8647d-a54c-5e08-91d3-2b34c4cfff7c",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "91f24023-3a29-51f6-8af6-b9726f05da28",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         },
+         "id": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "a448c21a-6f34-51d2-90b0-e1313349d3c2",
+       "localization": {
+        "en": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5ef49a92-59af-50f6-87fe-0918e57a5ec5",
+       "localization": {
+        "en": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d7c063f3-bfec-5768-be49-99387c783015",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9fb306cd-37ea-5651-81b8-9df6e8210746",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Penerima Penugasan Penyediaan dan Pendistribusian LPG Tertentu",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cee2dbf2-c802-512a-8e7e-fc8f4f04bd37",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "0c811ab0-da05-5698-9d9b-0b0f52a6b536",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bd9dbbe7-d003-564e-863b-dee00c33999f",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "1f913239-91ec-5c9c-80a3-a31ae983b3f6",
+   "localization": {
+    "en": {
+     "uraian": "Penyalur/ Agen LPG Umum",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Penyalur/ Agen LPG Umum",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "2fcbcfd8-96b4-5481-8211-0664df47e1f8",
+    "localization": {
+     "en": {
+      "judul": "Perdagangan Eceran Bahan Bakar Selain di Sarana Pengisian Bahan Bakar",
+      "uraian": "Kelompok ini mencakup perdagangan eceran bahan bakar minyak, bahan bakar gas, gas minyak cair (LPG), gas alam cair (LNG), gas alam termampat (CNG), atau jenis bahan bakar lain selain di sarana pengisian bahan bakar untuk transportasi darat, laut, dan udara, seperti agen BBM, agen LPG, baik yang disertai penjualan minyak pelumas maupun tidak. Perdagangan eceran bahan bakar untuk mobil dan sepeda motor di SPBU dimasukkan dalam kelompok 47301."
+     },
+     "id": {
+      "judul": "Perdagangan Eceran Bahan Bakar Selain di Sarana Pengisian Bahan Bakar",
+      "uraian": "Kelompok ini mencakup perdagangan eceran bahan bakar minyak, bahan bakar gas, gas minyak cair (LPG), gas alam cair (LNG), gas alam termampat (CNG), atau jenis bahan bakar lain selain di sarana pengisian bahan bakar untuk transportasi darat, laut, dan udara, seperti agen BBM, agen LPG, baik yang disertai penjualan minyak pelumas maupun tidak. Perdagangan eceran bahan bakar untuk mobil dan sepeda motor di SPBU dimasukkan dalam kelompok 47301."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": [
+     {
+      "id": "54c31022-3ee4-4ac4-8276-2628de68c0fd",
+      "localization": {
+       "en": {
+        "uraian": "Merupakan Bidang Usaha Perdagangan Eceran, sehingga tidak dapat dijalankan secara bersamaan dengan Bidang Usaha Perdagangan Besar sebagaimana diatur di dalam Peraturan Pemerintah No. 29 Tahun 2021."
+       },
+       "id": {
+        "uraian": "Merupakan Bidang Usaha Perdagangan Eceran, sehingga tidak dapat dijalankan secara bersamaan dengan Bidang Usaha Perdagangan Besar sebagaimana diatur di dalam Peraturan Pemerintah No. 29 Tahun 2021."
+       }
+      }
+     }
+    ]
+   },
+   "KbliResikos": [
+    {
+     "id": "394c03b5-fe2c-5953-bb8a-d6bea6283ddf",
+     "kode": "47302-01-09",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "a1f6d5c8-f452-508e-8268-c3e54e2290cd",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "746e996e-b343-5c96-a23b-63ae28eefc1a",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "91f24023-3a29-51f6-8af6-b9726f05da28",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         },
+         "id": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "d9f1944f-e4fd-5c81-8c56-f312b3763c6b",
+       "localization": {
+        "en": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "649d8155-e95a-5cbb-ab61-ff0a9eb293c9",
+       "localization": {
+        "en": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ef66e844-faa7-545b-b7c2-0b33797a6684",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "67a656b8-50d2-5b71-a321-11b52d149a1f",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9bef446b-e55b-5577-9de2-cf7877501b31",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "da509ba2-5b44-52e8-9334-c557d504fca1",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "702cf4da-921a-5fb1-a4d6-9ff14b257d70",
+     "kode": "47302-02-10",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "00b6043c-913f-5e70-bc34-cbe16472ae0b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "6f3f7066-3f4a-5a4e-8a00-283b09fe7419",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "91f24023-3a29-51f6-8af6-b9726f05da28",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         },
+         "id": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "07a52dfa-69ac-532b-b46a-e0ca770b4304",
+       "localization": {
+        "en": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "20ac1f77-b11b-58fa-b43d-3be842a59de0",
+       "localization": {
+        "en": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "52ab3189-fdb4-5c5a-a972-f6bb52d9c0e1",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3a312244-2769-5563-af1b-869d65445989",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5bab81bf-7dc9-567d-9f84-2755204c6d30",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "f07f367c-03e5-55a7-ac06-979a9131309c",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "1b7a3bd8-47d4-5479-b30c-d6b2d1288c60",
+     "kode": "47302-03-11",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "1e1dda41-59d1-5070-a09e-ca102e22c346",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "82ea0acc-ef16-59f2-96d9-6fa4af563a67",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "91f24023-3a29-51f6-8af6-b9726f05da28",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         },
+         "id": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "7ec832ad-1adc-5bee-b20c-a1f5c015b2ba",
+       "localization": {
+        "en": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7862f412-7e26-55cd-bd7c-4a113c18ee64",
+       "localization": {
+        "en": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7ca75ba6-e880-5a9f-b587-e66cf5c3f323",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3fcd8ee4-5fa5-5972-b750-21c47d597cf0",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "959a4b17-cdf1-5e19-be4d-b5b30450030b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "fce2bb9d-7ad0-54f8-ae49-c89ae47faa5d",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "135cc5b4-869a-5870-9959-6943aeedf6b0",
+     "kode": "47302-04-12",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "70430f4e-bc57-52b0-bf6a-65e60f9cbfbb",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kontrak perjanjian kerjasama dengan Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "811fea92-609f-5d0f-b0a5-e2ec3a45bcf8",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "91f24023-3a29-51f6-8af6-b9726f05da28",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         },
+         "id": {
+          "nama_dokumen": "Persetujuan Penyalur Migas di Selain Stasiun Pengisian"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "832a2743-0b77-5c05-81ea-cd4a51908b4d",
+       "localization": {
+        "en": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Berbentuk Koperasi, usaha kecil dan/atau Badan Usaha Swasta Nasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "16f187bf-8067-5a6a-bf0c-42e0362d9953",
+       "localization": {
+        "en": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Hanya dapat menerima penunjukan dari 1 (satu) Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b888cd65-c842-54e7-949d-24385754142b",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan logo dan merek dagang Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6081dd1c-9138-5771-8ea3-4a61f10249d6",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan penyaluran kepada Badan Usaha Niaga Migas",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e130f099-7cbb-5724-af57-6d814c4886de",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki/ menguasai sarana pengangkutan yang memenuhi standar yang ditetapkan oleh kementerian terkait",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "161c9846-f73d-5c65-b273-0fe2969c4f91",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b7424b6a-48bf-58a0-a244-44781bb6252b",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

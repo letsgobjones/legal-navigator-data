@@ -1,0 +1,1968 @@
+{
+ "code": "23999",
+ "found": true,
+ "ossId": "cbfe6b5e-a7ea-524a-9725-19efc31ed2a2",
+ "url": "https://oss.go.id/id/kbli/detail/cbfe6b5e-a7ea-524a-9725-19efc31ed2a2",
+ "fetchedAt": "2026-09-30T04:32:15+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 23990 berubah menjadi 23999 pada KBLI 2025.",
+  "from2020": [
+   "23990"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "33237c60-0041-5ae2-929a-31dedd99279b",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "cbfe6b5e-a7ea-524a-9725-19efc31ed2a2",
+    "localization": {
+     "en": {
+      "judul": "Industri Produk Mineral Nonlogam Lainnya YTDL",
+      "uraian": "$4b"
+     },
+     "id": {
+      "judul": "Industri Produk Mineral Nonlogam Lainnya YTDL",
+      "uraian": "$4c"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "f94069cb-5855-573a-938e-706e4ac0004e",
+     "kode": "23999-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [],
+     "KbliPersyaratans": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "b77f7bf6-464e-57af-b254-7fb564c0a541",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1c3ee236-22d6-5382-8290-66c285a259b4",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0e1b92a4-6966-5690-97b7-7afff4e3b32f",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab /Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab /Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7e2c9ff4-d886-55df-b75e-538cc1fa3d74",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "40771fb4-dd01-572f-8697-80c9b5cb6b8c",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab /Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab /Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "2b1544ad-4d6f-5dba-a0ad-2945b0d691ce",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "6bf6c9d6-9218-5b1e-95de-dca75ed0a4a2",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "cc0d3178-b487-569f-a5c2-6213e6e9652b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "9f049ea7-4d51-5451-aef3-d35ba425402e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ]
+    },
+    {
+     "id": "1900daa8-a69e-5cbc-b43c-50729d7081a0",
+     "kode": "23999-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [],
+     "KbliPersyaratans": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "7ca939d9-395b-5fdd-a80e-2fb606428fcb",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0e1b92a4-6966-5690-97b7-7afff4e3b32f",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab /Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab /Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ee726fea-f81f-5888-a6ee-50f22f11a0b0",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ea6e69ee-f2fe-51f9-a4da-36feb3807f6e",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "40771fb4-dd01-572f-8697-80c9b5cb6b8c",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab /Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab /Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "90d67ef9-91ee-5350-8e42-b2d3a64e9d37",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "a125d3f5-e873-515d-ac0c-6a55e6c97a36",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "be39736d-e94c-5eab-944e-215467a2f812",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "92b65fb8-aa1c-50ef-8f39-0f09507ca1a4",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ]
+    },
+    {
+     "id": "161f8b44-9764-5c10-ad08-39a80b18787c",
+     "kode": "23999-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [],
+     "KbliPersyaratans": [],
+     "KbliResikoKewenangans": [
+      {
+       "id": "28886239-3cb5-5905-9653-bb9318f7bfab",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "176d4586-b815-52ba-a2a2-5dae8c1e2876",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "40771fb4-dd01-572f-8697-80c9b5cb6b8c",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kab /Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kab /Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "62ce4fa8-5f4f-5b1b-9328-e1af3ec843e5",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0e1b92a4-6966-5690-97b7-7afff4e3b32f",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab /Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kab /Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "37fb8ffd-e3ea-53bc-8644-d0a528718985",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "3c373d15-1420-5c56-a8bd-6b7975c686da",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "f89ce172-405d-5828-9d51-ce5f84725230",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "00617d69-fe2a-52a1-abf2-b03ef0d47e40",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "235922bd-1e81-5b31-9707-94fd590308c1",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa SOP evakuasi bencana, termasuk penataan rambu keselamatan kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa SOP evakuasi bencana, termasuk penataan rambu keselamatan kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ]
+    },
+    {
+     "id": "13c9604f-d8d3-5339-bdbf-9b46ef10364d",
+     "kode": "23999-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "49566e6f-69d2-5ffd-bc4b-4cdfc9761872",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d940458a-4609-4b90-9bb5-617ce9111f8f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "c5ab9a0e-52aa-523a-a4ae-f7759f0af820",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) bulan ke depan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) bulan ke depan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d233f92c-53f3-5f7b-adaf-e9d1afa784b7",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa: a. Spesifikasi mesin dan/atau daftar peralatan b. Foto mesin/ peralatan c. Perjanjian jual beli/sewa yang membukti-kan: 1) Penguasaan (kepemilikan/ sewa) mesin untuk menghasilkan produk industri material bangunan dan konstruksi serta peralatan pengujian kualitas produk 2) Kesesuaian kapasitas produksi terpasang pada data usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa: a. Spesifikasi mesin dan/atau daftar peralatan b. Foto mesin/ peralatan c. Perjanjian jual beli/sewa yang membukti-kan: 1) Penguasaan (kepemilikan/ sewa) mesin untuk menghasilkan produk industri material bangunan dan konstruksi serta peralatan pengujian kualitas produk 2) Kesesuaian kapasitas produksi terpasang pada data usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a04986cc-3aff-5af7-a019-d86db3ad59ed",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen struktur organisasi SDM minimal terdiri dari: a. Pimpinan perusahaan b. Bagian produksi dan/atau quality control c. Bagian pemasaran",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen struktur organisasi SDM minimal terdiri dari: a. Pimpinan perusahaan b. Bagian produksi dan/atau quality control c. Bagian pemasaran",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "366a7cab-2262-5536-b89a-3dd4e602b001",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen bagan alur: a. Pengadaan, penerimaan, penyimpanan bahan baku b. Proses produksi c. Proses quality control d. Pengemasan, penyimpanan, pengangkutan dan distribusi hasil produksi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen bagan alur: a. Pengadaan, penerimaan, penyimpanan bahan baku b. Proses produksi c. Proses quality control d. Pengemasan, penyimpanan, pengangkutan dan distribusi hasil produksi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bd23ad12-8643-5e77-8ff6-9ca4db9a6ea7",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa foto yang membuktikan tersedianya Fasilitas penanganan kecelakaan kerja, ruang istirahat bagi pekerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa foto yang membuktikan tersedianya Fasilitas penanganan kecelakaan kerja, ruang istirahat bagi pekerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1b5d378e-d5d4-5d14-8554-cab75978f441",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen perencanaan tata letak Fasilitas pabrik/plant layout facilities, yang membuktikan tersedianya: a. Ruang produksi khusus b. Ruang quality control",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen perencanaan tata letak Fasilitas pabrik/plant layout facilities, yang membuktikan tersedianya: a. Ruang produksi khusus b. Ruang quality control",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "4d01469d-5f51-5db3-96e5-46183881fe26",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "30434c6e-a0d3-572e-af7b-e75f7d8eff9e",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9a3efb5a-c460-5387-93de-a4108a28fd3a",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "af903ade-58d5-5f80-9955-dd0ed496edd8",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Provinsi bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Provinsi bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "45de17d5-432d-5a40-86f6-cb7fbc3567da",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "898f25f3-8f2f-5292-9adb-f6c783a1bd91",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "829ce6b0-f559-5dee-b044-793be30709b4",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki: a. Buku panduan penggunaan barang hasil produksi (meliputi perawatan, penanganan troubleshooting) b. Kartu/surat/kode elektronik garansi malfungsi barang hasil produksi yang membuktikan komitmen pelayanan minimal kepada pelanggan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ab6ffd23-77e6-593b-aad8-8b5386af73fb",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen hasil kalibrasi peralatan quality control secara periodik atau hasil uji laboratorium independen atas produk yang dihasilkan secara periodik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7f2fe2c9-6629-5fb0-b5cf-9e2de20d1677",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa SOP evakuasi bencana, termasuk penataan rambu keselamatan kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa SOP evakuasi bencana, termasuk penataan rambu keselamatan kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e453a3d9-5860-53bb-8ef0-93fa14da02d0",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat Sistem Manajemen Mutu (ISO 9001)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat Sistem Manajemen Mutu (ISO 9001)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "7a95258a-2889-422e-83d6-6cb9cc14569f",
+    "kode": "019",
+    "localization": {
+     "en": {
+      "uraian": "Perindustrian",
+      "deskripsi": "Kementerian Perindustrian"
+     },
+     "id": {
+      "uraian": "Perindustrian",
+      "deskripsi": "Kementerian Perindustrian"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "b5286299-ceee-48d3-a15c-9c7b0530056c",
+   "kode": "085000000219",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Penyimpanan Mineral Ikutan Radio Aktif"
+    },
+    "id": {
+     "nama_dokumen": "Penyimpanan Mineral Ikutan Radioaktif"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "016e1312-b11c-5a19-8f24-7259cfd3f63a",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen safeguards"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen safeguards"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana tempat pembuangan permanen"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana tempat pembuangan permanen"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi aspek:<br>\n<ol type='a'>\n<li>Teknis keselamatan</li>\n<li>Teknis keamanan</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi aspek:<br>\n<ol type='a'>\n<li>Teknis keselamatan</li>\n<li>Teknis keamanan</li>\n</ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis."
+      },
+      "id": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan."
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang Izin Penyimpanan Mineral Ikutan Radioaktif (MIR) dapat melakukan:<br>\n<ol type='a'>\n<li>pengolahan;</li>\n<li>pemanfaatan; dan/atau</li> \n<li>pengalihan.</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang Izin Penyimpanan Mineral Ikutan Radioaktif (MIR) dapat melakukan:<br>\n<ol type='a'>\n<li>pengolahan;</li>\n<li>pemanfaatan; dan/atau</li> \n<li>pengalihan.</li>\n</ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang Izin Penyimpanan MIR dapat memilih untuk: <br>\n<ol type='a'>\n<li>mengolah MIR untuk diambil uranium dan thoriumnya; atau</li>\n<li>mengolah MIR untuk diambil unsur selain uranium dan thoriumnya.</li> \n</ol>\nDalam melakukan pengolahan, Pemegang Izin Penyimpanan MIR wajib memiliki perizinan berusaha."
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang Izin Penyimpanan MIR dapat memilih untuk: <br>\n<ol type='a'>\n<li>mengolah MIR untuk diambil uranium dan thoriumnya; atau</li>\n<li>mengolah MIR untuk diambil unsur selain uranium dan thoriumnya.</li> \n</ol>\nDalam melakukan pengolahan, Pemegang Izin Penyimpanan MIR wajib memiliki perizinan berusaha."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila MIR akan dimanfaatkan untuk kegiatan lain, Pemegang Izin Penyimpanan MIR wajib mengajukan persetujuan kepada Badan Pengawas."
+      },
+      "id": {
+       "syarat_perizinan": "Apabila MIR akan dimanfaatkan untuk kegiatan lain, Pemegang Izin Penyimpanan MIR wajib mengajukan persetujuan kepada Badan Pengawas."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila:<br>\n<ol type='a'>\n<li>PB KBLI kegiatan utama habis masa berlakunya; </li>\n<li>badan hukum/usaha pemegang Izin bubar, </li>\n<li>badan hukum/usaha pemegang Izin pailit berdasar putusan pengadilan yang telah in kracht ; atau</li>\n<li>fasilitas penyimpanan sudah tidak dapat menampung MIR, Pemegang Izin tanpa menunggu izin penyimpanan MIR berakhir, harus: </li>\n<li>mengalihkan MIR ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau </li>\n</li>mengalihkan MIR ke pihak lain untuk pembuangan permanen. Pengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan Badan Pengawas.\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila:<br>\n<ol type='a'>\n<li>PB KBLI kegiatan utama habis masa berlakunya; </li>\n<li>badan hukum/usaha pemegang Izin bubar, </li>\n<li>badan hukum/usaha pemegang Izin pailit berdasar putusan pengadilan yang telah in kracht ; atau</li>\n<li>fasilitas penyimpanan sudah tidak dapat menampung MIR, Pemegang Izin tanpa menunggu izin penyimpanan MIR berakhir, harus: </li>\n<li>mengalihkan MIR ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau </li>\n</li>mengalihkan MIR ke pihak lain untuk pembuangan permanen. Pengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan Badan Pengawas.\n</ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Dalam hal Pemegang Izin Penyimpanan MIR akan membuat pembuangan permanen, Pemegang Izin Penyimpanan MIR wajib memiliki perizinan berusaha."
+      },
+      "id": {
+       "syarat_perizinan": "Dalam hal Pemegang Izin Penyimpanan MIR akan membuat pembuangan permanen, Pemegang Izin Penyimpanan MIR wajib memiliki perizinan berusaha."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi aspek:</br><br><ol type = a><br>    <li>teknis keselamatan; dan</li><br>    <li>teknis keamanan</li><br></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi aspek:</br><br><ol type = a><br>    <li>teknis keselamatan; dan</li><br>    <li>teknis keamanan</li><br></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis"
+      },
+      "id": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan"
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat melakukan:</br><br><ol type = a><br>    <li>pengolahan;</li><br>    <li>pemanfaatan; dan/atau</li><br>    <li>pengalihan</li><br></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat melakukan:</br><br><ol type = a><br>    <li>pengolahan;</li><br>    <li>pemanfaatan; dan/atau</li><br>    <li>pengalihan</li><br></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat memilih untuk:</br><br><ol type = a><br>    <li>mengolah mineral ikutan radioaktif untuk diambil uranium dan toriumnya; atau</li><br>    <li>mengolah mineral ikutan radioaktif untuk diambil unsur selain uranium dan toriumnya</li><br></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat memilih untuk:</br><br><ol type = a><br>    <li>mengolah mineral ikutan radioaktif untuk diambil uranium dan toriumnya; atau</li><br>    <li>mengolah mineral ikutan radioaktif untuk diambil unsur selain uranium dan toriumnya</li><br></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Dalam melakukan pengolahan mineral ikutan radioaktif, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib memiliki PB Pengolahan Mineral Ikutan Radioaktif di Luar Wilayah Penugasan Penambangan Mineral Radioaktif (WPPMR)"
+      },
+      "id": {
+       "syarat_perizinan": "Dalam melakukan pengolahan mineral ikutan radioaktif, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib memiliki PB Pengolahan Mineral Ikutan Radioaktif di Luar Wilayah Penugasan Penambangan Mineral Radioaktif (WPPMR)"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila mineral ikutan radioaktif akan dimanfaatkan untuk kegiatan lain, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib mengajukan persetujuan kepada BAPETEN"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila mineral ikutan radioaktif akan dimanfaatkan untuk kegiatan lain, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib mengajukan persetujuan kepada BAPETEN"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila:</br><br><ol type = a><br>    <li>PB kegiatan utama habis masa berlakunya;</li><br>    <li>badan hukum/usaha pemegang PB bubar;</li><br>    <li>badan hukum/usaha pemegang PB pailit berdasar putusan pengadilan yang telah in kracht; atau</li><br>    <li>fasilitas penyimpanan sudah tidak dapat menampung mineral ikutan radioaktif,</li><br></ol><br> pemegang PB UMKU tanpa menunggu PB UMKU Penyimpanan Mineral Ikutan Radioaktif berakhir, harus:</br><br><ol type = a><br>    <li>mengalihkan mineral ikutan radioaktif ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau</li><br>    <li>mengalihkan mineral ikutan radioaktif ke pihak lain untuk pembuangan permanen, pengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan BAPETEN</li><br></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila:</br><br><ol type = a><br>    <li>PB kegiatan utama habis masa berlakunya;</li><br>    <li>badan hukum/usaha pemegang PB bubar;</li><br>    <li>badan hukum/usaha pemegang PB pailit berdasar putusan pengadilan yang telah in kracht; atau</li><br>    <li>fasilitas penyimpanan sudah tidak dapat menampung mineral ikutan radioaktif,</li><br></ol><br> pemegang PB UMKU tanpa menunggu PB UMKU Penyimpanan Mineral Ikutan Radioaktif berakhir, harus:</br><br><ol type = a><br>    <li>mengalihkan mineral ikutan radioaktif ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau</li><br>    <li>mengalihkan mineral ikutan radioaktif ke pihak lain untuk pembuangan permanen, pengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan BAPETEN</li><br></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Dalam hal pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif akan membuat pembuangan permanen, pemegang PB UMKU Penyimpanan mineral ikutan radioaktif wajib memiliki PB Penyimpanan Mineral Ikutan Radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Dalam hal pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif akan membuat pembuangan permanen, pemegang PB UMKU Penyimpanan mineral ikutan radioaktif wajib memiliki PB Penyimpanan Mineral Ikutan Radioaktif"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila:"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila:"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat memilih untuk:"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat memilih untuk:"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "badan hukum/usaha pemegang PB bubar;"
+      },
+      "id": {
+       "syarat_perizinan": "badan hukum/usaha pemegang PB bubar;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "mengolah mineral ikutan radioaktif untuk diambil unsur selain uranium dan toriumnya"
+      },
+      "id": {
+       "syarat_perizinan": "mengolah mineral ikutan radioaktif untuk diambil unsur selain uranium dan toriumnya"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "pemanfaatan; dan/atau"
+      },
+      "id": {
+       "syarat_perizinan": "pemanfaatan; dan/atau"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memperoleh persetujuan untuk melakukan pembuangan\npermanen kepada pihak ketiga."
+      },
+      "id": {
+       "syarat_perizinan": "Memperoleh persetujuan untuk melakukan pembuangan\npermanen kepada pihak ketiga."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "pengolahan;"
+      },
+      "id": {
+       "syarat_perizinan": "pengolahan;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila mineral ikutan radioaktif akan dimanfaatkan untuk kegiatan lain, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib mengajukan persetujuan kepada BAPETEN"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila mineral ikutan radioaktif akan dimanfaatkan untuk kegiatan lain, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib mengajukan persetujuan kepada BAPETEN"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "mengalihkan mineral ikutan radioaktif ke pihak lain untuk pembuangan permanen,"
+      },
+      "id": {
+       "syarat_perizinan": "mengalihkan mineral ikutan radioaktif ke pihak lain untuk pembuangan permanen,"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi aspek:<br>\n<ol type='a'>\n<li>Teknis keselamatan</li>\n<li>Teknis keamanan</li>\n<li>Manajemen keselamatan dan keamanan</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi aspek:<br>\n<ol type='a'>\n<li>Teknis keselamatan</li>\n<li>Teknis keamanan</li>\n<li>Manajemen keselamatan dan keamanan</li>\n</ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "fasilitas penyimpanan sudah tidak dapat menampung mineral ikutan radioaktif,"
+      },
+      "id": {
+       "syarat_perizinan": "fasilitas penyimpanan sudah tidak dapat menampung mineral ikutan radioaktif,"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai Persyaratan\nteknis keselamatan dan keamanan."
+      },
+      "id": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai Persyaratan\nteknis keselamatan dan keamanan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis"
+      },
+      "id": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "teknis keselamatan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "teknis keselamatan; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "mengalihkan mineral ikutan radioaktif ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau"
+      },
+      "id": {
+       "syarat_perizinan": "mengalihkan mineral ikutan radioaktif ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila mineral ikutan radioaktif yang disimpan akan\ndimanfaatkan, penghasil mineral ikutan radioaktif wajib\nmengajukan izin pemanfaatan bahan nuklir"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila mineral ikutan radioaktif yang disimpan akan\ndimanfaatkan, penghasil mineral ikutan radioaktif wajib\nmengajukan izin pemanfaatan bahan nuklir"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "pemegang PB UMKU tanpa menunggu PB UMKU Penyimpanan Mineral Ikutan Radioaktif berakhir, harus:\na. mengalihkan mineral ikutan radioaktif ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau\nb. mengalihkan mineral ikutan radioaktif ke pihak lain untuk pembuangan permanen,\npengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan BAPETEN\nDalam hal pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif akan membuat pembuangan permanen, pemegang PB UMKU Penyimpanan mineral ikutan radioaktif wajib memiliki PB Penyimpanan Mineral Ikutan Radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "pemegang PB UMKU tanpa menunggu PB UMKU Penyimpanan Mineral Ikutan Radioaktif berakhir, harus:\na. mengalihkan mineral ikutan radioaktif ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau\nb. mengalihkan mineral ikutan radioaktif ke pihak lain untuk pembuangan permanen,\npengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan BAPETEN\nDalam hal pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif akan membuat pembuangan permanen, pemegang PB UMKU Penyimpanan mineral ikutan radioaktif wajib memiliki PB Penyimpanan Mineral Ikutan Radioaktif"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan"
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan"
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "PB kegiatan utama habis masa berlakunya;"
+      },
+      "id": {
+       "syarat_perizinan": "PB kegiatan utama habis masa berlakunya;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Dalam melakukan pengolahan mineral ikutan radioaktif, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib memiliki PB Pengolahan Mineral Ikutan Radioaktif di Luar Wilayah Penugasan Penambangan Mineral Radioaktif (WPPMR)"
+      },
+      "id": {
+       "syarat_perizinan": "Dalam melakukan pengolahan mineral ikutan radioaktif, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib memiliki PB Pengolahan Mineral Ikutan Radioaktif di Luar Wilayah Penugasan Penambangan Mineral Radioaktif (WPPMR)"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat melakukan:"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat melakukan:"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Dalam hal pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif akan membuat pembuangan permanen, pemegang PB UMKU Penyimpanan mineral ikutan radioaktif wajib memiliki PB Penyimpanan Mineral Ikutan Radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Dalam hal pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif akan membuat pembuangan permanen, pemegang PB UMKU Penyimpanan mineral ikutan radioaktif wajib memiliki PB Penyimpanan Mineral Ikutan Radioaktif"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "badan hukum/usaha pemegang PB pailit berdasar putusan pengadilan yang telah in kracht; atau"
+      },
+      "id": {
+       "syarat_perizinan": "badan hukum/usaha pemegang PB pailit berdasar putusan pengadilan yang telah in kracht; atau"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "pemegang PB UMKU tanpa menunggu PB UMKU Penyimpanan Mineral Ikutan Radioaktif berakhir, harus:"
+      },
+      "id": {
+       "syarat_perizinan": "pemegang PB UMKU tanpa menunggu PB UMKU Penyimpanan Mineral Ikutan Radioaktif berakhir, harus:"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "pengalihan"
+      },
+      "id": {
+       "syarat_perizinan": "pengalihan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi aspek:"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi aspek:"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "pengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan BAPETEN"
+      },
+      "id": {
+       "syarat_perizinan": "pengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan BAPETEN"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "teknis keamanan"
+      },
+      "id": {
+       "syarat_perizinan": "teknis keamanan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "mengolah mineral ikutan radioaktif untuk diambil uranium dan toriumnya; atau"
+      },
+      "id": {
+       "syarat_perizinan": "mengolah mineral ikutan radioaktif untuk diambil uranium dan toriumnya; atau"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "$85"
+      },
+      "id": {
+       "syarat_perizinan": "$86"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "50ca7482-d92f-4450-8719-bb4629a2b33f",
+    "kode": "085",
+    "localization": {
+     "en": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     },
+     "id": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

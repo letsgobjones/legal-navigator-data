@@ -1,0 +1,6558 @@
+{
+ "code": "37002",
+ "found": true,
+ "ossId": "03213c0f-963e-557c-a7f2-9470a00ba943",
+ "url": "https://oss.go.id/id/kbli/detail/03213c0f-963e-557c-a7f2-9470a00ba943",
+ "fetchedAt": "2026-09-30T04:44:28+00:00",
+ "conversion": {
+  "label": "Digabung menjadi satu kode",
+  "ratio": "N:1",
+  "text": "2 kode 2020 digabung menjadi 37002 pada KBLI 2025.",
+  "from2020": [
+   "37021"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "57f6ead6-c7e3-5512-93f0-b30e81c93aba",
+   "localization": {
+    "en": {
+     "uraian": "Instalasi Pengolahan Air Limbah (IPAL) Domestik Termasuk Fasilitas Penunjangnya Dengan Kapasitas Melayani ≤ 20000/ Hari",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Instalasi Pengolahan Air Limbah (IPAL) Domestik Termasuk Fasilitas Penunjangnya Dengan Kapasitas Melayani ≤ 20000/ Hari",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "03213c0f-963e-557c-a7f2-9470a00ba943",
+    "localization": {
+     "en": {
+      "judul": "Pengolahan dan Pembuangan Air Limbah",
+      "uraian": "Kelompok ini mencakup kegiatan pengoperasian fasilitas pengolahan air limbah, pengolahan air limbah melalui saluran. Kelompok ini juga mencakup pembersihan saluran air limbah dan saluran pembuangannya."
+     },
+     "id": {
+      "judul": "Pengolahan dan Pembuangan Air Limbah",
+      "uraian": "Kelompok ini mencakup kegiatan pengoperasian fasilitas pengolahan air limbah, pengolahan air limbah melalui saluran. Kelompok ini juga mencakup pembersihan saluran air limbah dan saluran pembuangannya."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "cd8b73b3-9d9e-5ce9-8245-30786018fcba",
+     "kode": "37002-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "b5d9ec0c-bb73-542d-923e-53e2a91816d7",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "115f9055-29ab-568a-87b0-302c113f1bc2",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fd73ff3d-2ac1-5f70-ae87-b503c027debc",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "ffda2fe9-63a9-52eb-a072-9c204618b643",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "8375a0f9-b1c5-4b36-af20-c4b4db503e41",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "ce42ec92-903a-54da-8eac-85c576ac08c9",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "708d0d0a-1ee6-549b-b038-f78c8230265d",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cf922f57-9407-5471-9b17-a9987b893f31",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "88d0ddfd-6c57-55a2-858a-63428a6f4e44",
+     "kode": "37002-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "9d977242-6fcd-503a-ba6b-90ee442c317e",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "8041ba77-2d63-58bc-a4d4-af88180a6192",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b0458968-bead-5dd7-a2f3-996f7c4c5f54",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "0905fbca-ede0-56ba-95ea-633e992b19cb",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "8375a0f9-b1c5-4b36-af20-c4b4db503e41",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "ebfe34c2-9ceb-5a49-9aba-900182c6b62c",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "10d805e3-ef25-50e6-a1b9-0748bee3e22b",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "31a5cd18-343b-596a-9ba4-f3d7f28f95f3",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "90b359e2-026b-565c-bff7-00681a99cd6c",
+     "kode": "37002-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "cc5025ad-9e81-5194-b484-c92b51bbc183",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "6b09a513-7397-5e95-bdae-245ab510d48c",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1bfdd162-0c9b-5bff-9eb0-eadbec85e10b",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "abb0a3e7-c440-5d6d-9930-29bc68cf3409",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "8375a0f9-b1c5-4b36-af20-c4b4db503e41",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "f66ebada-aa75-54de-bdaf-9739b1b52199",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "28451382-857d-5395-b2d5-d98fc9c0da5e",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0901296e-1b4d-5140-9ff1-13f62b0ecd5d",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "96e24f72-eb29-5d66-a519-76860981b86b",
+     "kode": "37002-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "b322ebd1-1fc5-5398-8a1f-a38c92ec758a",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "2e011d61-5af2-524d-a72d-8ab78f58399c",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "86754996-3a84-5061-bc75-b6c66b21af19",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "0a82104e-b603-5847-8c90-64f87c918672",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "8375a0f9-b1c5-4b36-af20-c4b4db503e41",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "8375504a-d0f9-5d68-9a5b-963fff00ffbc",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3760be62-6cfe-5e23-8b41-70a72a191304",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c92f66a5-3141-5095-a5e8-97e5693f6683",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0db19528-df7a-5cf3-874f-78243ee6967f",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "4d7a5f27-f0cb-4cee-ae25-03a66177b4e7",
+    "kode": "029",
+    "localization": {
+     "en": {
+      "uraian": "Lingkungan Hidup dan Kehutanan",
+      "deskripsi": "Kementerian Lingkungan Hidup dan Kehutanan"
+     },
+     "id": {
+      "uraian": "Lingkungan Hidup dan Kehutanan",
+      "deskripsi": "Kementerian Lingkungan Hidup dan Kehutanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "ea111d2b-b0e8-57b7-8781-d7fbf7837fad",
+   "localization": {
+    "en": {
+     "uraian": "Instalasi Pengolahan Lumpur Tinja (IPLT) Termasuk Fasilitas Penunjangnya Dengan Kapasitas <50 m3/Hari",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Instalasi Pengolahan Lumpur Tinja (IPLT) Termasuk Fasilitas Penunjangnya Dengan Kapasitas <50 m3/Hari",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "03213c0f-963e-557c-a7f2-9470a00ba943",
+    "localization": {
+     "en": {
+      "judul": "Pengolahan dan Pembuangan Air Limbah",
+      "uraian": "Kelompok ini mencakup kegiatan pengoperasian fasilitas pengolahan air limbah, pengolahan air limbah melalui saluran. Kelompok ini juga mencakup pembersihan saluran air limbah dan saluran pembuangannya."
+     },
+     "id": {
+      "judul": "Pengolahan dan Pembuangan Air Limbah",
+      "uraian": "Kelompok ini mencakup kegiatan pengoperasian fasilitas pengolahan air limbah, pengolahan air limbah melalui saluran. Kelompok ini juga mencakup pembersihan saluran air limbah dan saluran pembuangannya."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "7af4dc93-e2ae-56e7-8caf-150b0f363734",
+     "kode": "37002-01-05",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "d592a996-422e-5f5e-99d0-c0ec9a1d139f",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "84f23fa4-0275-5215-aa00-94aa3d8681dd",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "16d58cbb-17a2-5cb9-b58e-9151c9dc5a37",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/atau pengangkut lumpur tinja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/atau pengangkut lumpur tinja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "b2c0c444-0603-53d3-9446-e371e71f6b13",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "8375a0f9-b1c5-4b36-af20-c4b4db503e41",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "4c4a212d-1a9f-55b7-a09f-75bc10d87189",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "88a41e1f-c676-5dc0-a183-85dae97845d8",
+        "local": {
+         "en": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "506e1908-aea8-5fae-bf68-8c69d8b8ce8e",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0f1e316f-3944-5e93-92fc-b5d353633c90",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah, dan Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah, dan Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "354ba31b-8fb6-5966-896e-cd14a45cde83",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8b18405-9484-5a18-a72a-6d748c753a31",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota, Skala Provinsi dan Skala Industri besar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota, Skala Provinsi dan Skala Industri besar",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "2b10e265-8daa-5e4a-8ba1-0d4dce2394f6",
+     "kode": "37002-02-06",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "3f0dc359-5df8-54ee-b58a-f84657b0bef2",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "0ac326df-d92d-5f05-9242-b4f3b80715f0",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "81309e80-a7db-5627-b104-a7636e0912b7",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/atau pengangkut lumpur tinja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/atau pengangkut lumpur tinja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "dd1c07e9-5809-5d53-baa7-c83d7feae799",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "8375a0f9-b1c5-4b36-af20-c4b4db503e41",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "46375afa-f7e4-5831-af4e-65349a842e55",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0f1e316f-3944-5e93-92fc-b5d353633c90",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah, dan Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah, dan Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "549b762e-981e-5e6e-941b-565650d48c3f",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "88a41e1f-c676-5dc0-a183-85dae97845d8",
+        "local": {
+         "en": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1166c889-a0f6-51be-8fbb-433302805223",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8b18405-9484-5a18-a72a-6d748c753a31",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota, Skala Provinsi dan Skala Industri besar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota, Skala Provinsi dan Skala Industri besar",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "ed59af70-02d2-5011-ba05-9156393384c4",
+     "kode": "37002-03-07",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "6a0ec810-5acf-5765-97d5-eab678234c59",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "ae6f2576-13a7-5be2-9c1b-d177600a9a04",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "78013c83-7ed1-5de4-9e98-87d8bd9cb3be",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/atau pengangkut lumpur tinja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/atau pengangkut lumpur tinja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "4218173d-1013-5298-93c4-dcbdedfaf479",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "8375a0f9-b1c5-4b36-af20-c4b4db503e41",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "f5d494bb-27ed-565b-b290-5670649f2be2",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "88a41e1f-c676-5dc0-a183-85dae97845d8",
+        "local": {
+         "en": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a81fe341-6642-5232-9c57-d823a74f487a",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8b18405-9484-5a18-a72a-6d748c753a31",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota, Skala Provinsi dan Skala Industri besar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota, Skala Provinsi dan Skala Industri besar",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fd5328b5-7ffb-55bc-8bad-6dd57dc86eb9",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0f1e316f-3944-5e93-92fc-b5d353633c90",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah, dan Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah, dan Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "b487cd41-8cf0-564b-b6ad-25847ba569bc",
+     "kode": "37002-04-08",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "f045475c-cdfc-5f3c-a3a9-777fc5aa7eb2",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "27e0f6cd-9fc8-5a35-adbb-8e3b158bca4c",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8ceea65d-8e26-5ce8-b717-9f60354f57bd",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/atau pengangkut lumpur tinja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/atau pengangkut lumpur tinja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "27304279-16de-5109-b58a-985886aa0e35",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "8375a0f9-b1c5-4b36-af20-c4b4db503e41",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Tidak Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "3b876ea0-b661-58a5-89ce-fec4fb1665e6",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "88a41e1f-c676-5dc0-a183-85dae97845d8",
+        "local": {
+         "en": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2f36b21c-a9c3-53ec-a9b6-161aaa519df1",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8b18405-9484-5a18-a72a-6d748c753a31",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota, Skala Provinsi dan Skala Industri besar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota, Skala Provinsi dan Skala Industri besar",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "99e286d6-712f-5df9-aa03-ae29f0027517",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3c1dfdb5-3fd9-5079-abb2-088f728e5be3",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0f1e316f-3944-5e93-92fc-b5d353633c90",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah, dan Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah, dan Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "4d7a5f27-f0cb-4cee-ae25-03a66177b4e7",
+    "kode": "029",
+    "localization": {
+     "en": {
+      "uraian": "Lingkungan Hidup dan Kehutanan",
+      "deskripsi": "Kementerian Lingkungan Hidup dan Kehutanan"
+     },
+     "id": {
+      "uraian": "Lingkungan Hidup dan Kehutanan",
+      "deskripsi": "Kementerian Lingkungan Hidup dan Kehutanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "cef84047-107e-5bc8-8aea-b1fd93c77811",
+   "localization": {
+    "en": {
+     "uraian": "Instalasi Pengolahan Air Limbah (IPAL) Terpadu (Air Limbah Domestik Dan Air Limbah Proses Dari Usaha Dan/ Atau Kegiatan)",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Instalasi Pengolahan Air Limbah (IPAL) Terpadu (Air Limbah Domestik Dan Air Limbah Proses Dari Usaha Dan/ Atau Kegiatan)",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "03213c0f-963e-557c-a7f2-9470a00ba943",
+    "localization": {
+     "en": {
+      "judul": "Pengolahan dan Pembuangan Air Limbah",
+      "uraian": "Kelompok ini mencakup kegiatan pengoperasian fasilitas pengolahan air limbah, pengolahan air limbah melalui saluran. Kelompok ini juga mencakup pembersihan saluran air limbah dan saluran pembuangannya."
+     },
+     "id": {
+      "judul": "Pengolahan dan Pembuangan Air Limbah",
+      "uraian": "Kelompok ini mencakup kegiatan pengoperasian fasilitas pengolahan air limbah, pengolahan air limbah melalui saluran. Kelompok ini juga mencakup pembersihan saluran air limbah dan saluran pembuangannya."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "01ab9151-107a-5aae-94cd-988d72d19d85",
+     "kode": "37002-01-09",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "aa9c3a00-a092-581b-a3fa-38a33a048964",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "b7ad4040-ac1b-55a7-ba6c-bc477a97eb6b",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "34cf0330-5d58-5121-9ef1-9b3022b3c02c",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "5d738f44-7908-585d-8fe1-8fdf438d3fd4",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "59f7ecc2-61b9-528c-ba8b-9a862db4b00c",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5f762028-0cda-53d5-8df3-4ffb3b113a51",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "35a7daed-c288-578e-b61d-56ad3a2fc344",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "785e1d9c-4385-5558-b056-e800e977a80b",
+     "kode": "37002-02-10",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "6da27b4c-2b88-5543-aabe-558052916b19",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "9b1adbfd-d674-50e7-a66a-ef3c1b94dec4",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ac0965d4-d05a-5169-8381-5544bf9b73f9",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "683d14de-7301-5f18-9eae-4e32a94ae14a",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "df388aca-41e0-51f2-a911-e9e272601b60",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7b52adb4-1d7a-5da8-9a2c-481ce394f2f0",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6a29dd64-3a10-56b9-b0ac-fa910c4e9c9c",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "407139e1-667f-5cdb-9c2e-8bc7529cd1bc",
+     "kode": "37002-03-11",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "caf70619-329f-5150-9228-c2fd7fb8e402",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "d94b9361-9749-5be8-aef0-4bffd99f3788",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f3a72547-b8ee-5c84-92e4-7c1c360aa768",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "d0e5aae6-05ec-5621-89bf-04032298bd22",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "8f0f3f50-6cc2-5207-adad-1bc072853244",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2fb1bb08-bd10-5d65-92d0-0bbf250aeb57",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6c278f10-6f03-599b-9340-0a28db59c316",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "1060dd42-b5f8-538e-8ffc-437ba13b66b8",
+     "kode": "37002-04-12",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "d13b6808-d672-5001-83f2-6a0e49f29dae",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "f60bb57c-28c5-5b7b-a365-81e00b7fca96",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "da7a365d-872f-550d-8ae8-11589eb70788",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "218803e5-9f47-5c2d-acf6-0d652d40c695",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "15af0156-1e83-5900-ba68-8e05d1a5ad98",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "681c0824-19a4-5098-b737-bd78e7d5cb16",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5f463584-4a26-58ad-95d7-d6b99f58bde3",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "df6216de-28d9-5b76-854b-fb9f560a9565",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "4d7a5f27-f0cb-4cee-ae25-03a66177b4e7",
+    "kode": "029",
+    "localization": {
+     "en": {
+      "uraian": "Lingkungan Hidup dan Kehutanan",
+      "deskripsi": "Kementerian Lingkungan Hidup dan Kehutanan"
+     },
+     "id": {
+      "uraian": "Lingkungan Hidup dan Kehutanan",
+      "deskripsi": "Kementerian Lingkungan Hidup dan Kehutanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "bf1a7050-c9d8-5f67-8707-f93e1638a805",
+   "localization": {
+    "en": {
+     "uraian": "Instalasi Pengolahan Air Limbah (IPAL) Industri",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Instalasi Pengolahan Air Limbah (IPAL) Industri",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "03213c0f-963e-557c-a7f2-9470a00ba943",
+    "localization": {
+     "en": {
+      "judul": "Pengolahan dan Pembuangan Air Limbah",
+      "uraian": "Kelompok ini mencakup kegiatan pengoperasian fasilitas pengolahan air limbah, pengolahan air limbah melalui saluran. Kelompok ini juga mencakup pembersihan saluran air limbah dan saluran pembuangannya."
+     },
+     "id": {
+      "judul": "Pengolahan dan Pembuangan Air Limbah",
+      "uraian": "Kelompok ini mencakup kegiatan pengoperasian fasilitas pengolahan air limbah, pengolahan air limbah melalui saluran. Kelompok ini juga mencakup pembersihan saluran air limbah dan saluran pembuangannya."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "4c798fe3-61a7-5df4-ba40-8d101d587e85",
+     "kode": "37002-01-13",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "fce61c4c-a836-5c7e-a304-5f3ce8b8338e",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "8e4ac938-52ae-53f8-8a43-bc41819dbcd0",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6acb3988-9a2a-5237-bb8c-0edca64e352d",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "65a19c76-853d-51ed-ae43-5db372af0844",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "7bf2d7dd-6f93-50df-a91c-0a5c78dc19af",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "08ac04cc-31a7-563e-8aed-e5902bc83fc3",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ecb10330-5151-5c2b-a845-bc79f192ad49",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "3fd20725-3c5c-56d5-9788-2eea7ff69b22",
+     "kode": "37002-02-14",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "19cc6cee-7ddf-5041-b330-1f5702826186",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "61e56519-f659-50b2-ac36-3d8788a35855",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "90d61df5-bb49-56b1-b4f6-6912f361a7a6",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "f1eae2ce-c2d4-5fe2-b659-eba6916e7be9",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "c18c51c7-0476-5213-ba76-2937c71a5ffe",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5356e3f8-bff6-5dbe-a0ab-2cdd1ab111c8",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6f8662a6-447c-594a-bd78-ad92c90474f3",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "55cd68bd-64a9-5325-a572-6f6620bd2e18",
+     "kode": "37002-03-15",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "0984ba32-6ae3-5f5d-a68d-ad0c9d06a4b6",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "915d8f88-d453-54dd-adbc-1763b314bb6a",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ebc55dee-964c-5f8d-8e01-d21845ea4d5f",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "11f993a7-1e45-5a38-985a-cbe23042dc75",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "2f7b8419-71ef-52e5-9a29-557b1588f882",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ce7eac5b-f06c-514d-9a8e-74b4e8703447",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b9015e53-9e8e-51fe-a32c-81c65fa16a7e",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "d2fdb548-d25d-5c63-87de-c297e801a204",
+     "kode": "37002-04-16",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "4330517e-f58a-502b-9335-958f5d53ec12",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "b134970d-39c7-5bba-b272-25d672d72d4d",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8220aeda-5d54-55c4-8da1-dea98c154e0a",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "1528408c-fdcc-5b04-839b-21b3d3a74e6b",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "a02d9e8a-f9a3-523c-a16c-3e951d58812d",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f0e16d30-0e58-5d17-ad21-fc12036b0560",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c27da89d-d740-5bda-ace5-ef094b2d9ab7",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ca74fb0e-3d69-51c6-83f6-6988f8ff45a6",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "4d7a5f27-f0cb-4cee-ae25-03a66177b4e7",
+    "kode": "029",
+    "localization": {
+     "en": {
+      "uraian": "Lingkungan Hidup dan Kehutanan",
+      "deskripsi": "Kementerian Lingkungan Hidup dan Kehutanan"
+     },
+     "id": {
+      "uraian": "Lingkungan Hidup dan Kehutanan",
+      "deskripsi": "Kementerian Lingkungan Hidup dan Kehutanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "6a83ea5c-38e4-53b2-b3b6-0364cf786dc9",
+   "localization": {
+    "en": {
+     "uraian": "Instalasi Pengolahan Air Limbah (IPAL) Domestik",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Instalasi Pengolahan Air Limbah (IPAL) Domestik",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "03213c0f-963e-557c-a7f2-9470a00ba943",
+    "localization": {
+     "en": {
+      "judul": "Pengolahan dan Pembuangan Air Limbah",
+      "uraian": "Kelompok ini mencakup kegiatan pengoperasian fasilitas pengolahan air limbah, pengolahan air limbah melalui saluran. Kelompok ini juga mencakup pembersihan saluran air limbah dan saluran pembuangannya."
+     },
+     "id": {
+      "judul": "Pengolahan dan Pembuangan Air Limbah",
+      "uraian": "Kelompok ini mencakup kegiatan pengoperasian fasilitas pengolahan air limbah, pengolahan air limbah melalui saluran. Kelompok ini juga mencakup pembersihan saluran air limbah dan saluran pembuangannya."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "71770d96-3b44-5079-aefc-a0bc06812221",
+     "kode": "37002-01-17",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "5b63b125-2ff6-5d0e-8cb5-a627fb2c9b8c",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "0669e0b8-0356-58bb-a33a-a29ab46492d6",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e0618eaa-068e-53e7-a889-b15c8a8766ff",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "de9daa66-6f67-560f-9b7a-66ad7a370ef0",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "6dcf6d27-d74a-561d-86f1-5ceb0c76d34b",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "784b406d-8cf6-5138-b1ec-903711491323",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5012f5c3-8e3e-582b-991e-9045cbabb4b9",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "8f0e4e51-3d06-52e6-958e-f20b99fe4103",
+     "kode": "37002-02-18",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "ff6b928c-8447-5d71-abfc-4ba91f4a5f07",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "b349de26-fcb1-5781-b5c8-3e730a9c1818",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cc3d7da8-05b8-58c9-b166-044860f03f32",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "5f11c00a-2f5c-5bee-ac92-b533fd03ce40",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "474aef05-3c8e-55a1-9fe7-1a1f4ec5d1a9",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7ed606f7-d9df-5fcb-8a8c-7b3749ac01ee",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "de8dd233-cff9-52fe-89e6-326d2eeef06d",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "cb1b9bf2-2304-5c38-885c-28d08a711366",
+     "kode": "37002-03-19",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "9ea2e2ba-86e4-5015-af0f-dd13bae9ff98",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "2148c996-4375-55f4-a371-6dbbabf65f57",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c51fe206-622a-5036-9a04-f3d83fff3ac7",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "3f5ed997-a437-5111-9a4e-92d88c4cc66e",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "740d5c72-3d09-5746-8b1b-efccd5787431",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "90bc1642-cf77-54af-85c8-fb6b0f1a9bee",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c2c46eed-a9c4-5866-86f1-5574e822efea",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "f62bd7df-bcd7-5f47-9de0-e498d2dca32f",
+     "kode": "37002-04-20",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "0e11d0c6-acaf-591f-beb3-c477dec7abab",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "8770ec37-0ddb-5863-a267-e1886d78bac6",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c07c702a-491e-5313-9bc2-a0e2d0c3b733",
+       "localization": {
+        "en": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Kontrak kerja sama dengan penghasil dan/ atau air pengangkut air limbah domestik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "600c330a-44fb-5d0e-9d1c-74499bcd28b3",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "33627100-121f-5de9-8984-8060a76a0fb3",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "3a48acec-eb96-58b8-982b-0f02aabb304c",
+        "local": {
+         "en": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Nasional",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "16b7188c-7a3b-5a84-9b7f-246c4185eaf8",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ecc36b03-5686-52e9-9424-73890d74f083",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "b8f41ae2-bd2d-5c21-b9ac-4ada538179f9",
+        "local": {
+         "en": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ca30bd9c-c143-5a25-8a83-542582fdc17f",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1bc92ddd-07ef-5434-8bee-ac0df5cf01dd",
+        "local": {
+         "en": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "4d7a5f27-f0cb-4cee-ae25-03a66177b4e7",
+    "kode": "029",
+    "localization": {
+     "en": {
+      "uraian": "Lingkungan Hidup dan Kehutanan",
+      "deskripsi": "Kementerian Lingkungan Hidup dan Kehutanan"
+     },
+     "id": {
+      "uraian": "Lingkungan Hidup dan Kehutanan",
+      "deskripsi": "Kementerian Lingkungan Hidup dan Kehutanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "b2775e83-a4c8-5b07-b1a6-14c361d692bf",
+   "localization": {
+    "en": {
+     "uraian": "Instalasi Pengolahan Lumpur Tinja (IPLT)",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Instalasi Pengolahan Lumpur Tinja (IPLT)",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "03213c0f-963e-557c-a7f2-9470a00ba943",
+    "localization": {
+     "en": {
+      "judul": "Pengolahan dan Pembuangan Air Limbah",
+      "uraian": "Kelompok ini mencakup kegiatan pengoperasian fasilitas pengolahan air limbah, pengolahan air limbah melalui saluran. Kelompok ini juga mencakup pembersihan saluran air limbah dan saluran pembuangannya."
+     },
+     "id": {
+      "judul": "Pengolahan dan Pembuangan Air Limbah",
+      "uraian": "Kelompok ini mencakup kegiatan pengoperasian fasilitas pengolahan air limbah, pengolahan air limbah melalui saluran. Kelompok ini juga mencakup pembersihan saluran air limbah dan saluran pembuangannya."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "0a7cbb0a-294e-59ec-a8c9-b47bd1a75629",
+     "kode": "37002-01-21",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "0a3985ec-55a6-5dc3-b111-4b920fce0659",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "1f9105dc-5035-54dd-9fda-d952cd74dd25",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fca8dc49-8a40-599d-aea0-b61f491ff9b4",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/ atau lumpur tinja pengangkut",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/ atau lumpur tinja pengangkut",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "e67d186e-4ab8-549c-940c-a5b1f0b2202b",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "2e70f291-05e3-5d10-80c3-c8633a2c1fb6",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "88a41e1f-c676-5dc0-a183-85dae97845d8",
+        "local": {
+         "en": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3efc9dcb-96a3-57bd-bebf-850d0d23baf2",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a1ab84da-d6e4-5727-b0da-e26eaeb4c7b6",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota atau skala industri besar dalam satu Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota atau skala industri besar dalam satu Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3aab8daa-246d-5711-96c8-02c222e655ce",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1c9ea0b7-016f-50db-931f-eb6b60d3f6d3",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah dan lokasi Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah dan lokasi Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "7b45945b-d9ae-5f6e-b9c5-edb1c5c851da",
+     "kode": "37002-02-22",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "8d663820-652b-5873-9528-5948a69694f2",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "4efef1ad-4985-56f1-b043-61af6e1fb6a8",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "aac5abac-be5f-5531-886e-048990856e1a",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/ atau lumpur tinja pengangkut",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/ atau lumpur tinja pengangkut",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "42aeeac7-165f-5958-8699-88d919c14910",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "1435c9d4-f9d7-54f2-8564-72d3ad6ec8ef",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1c9ea0b7-016f-50db-931f-eb6b60d3f6d3",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah dan lokasi Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah dan lokasi Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c53a6544-5d4c-5c56-a24f-1074e3688639",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a1ab84da-d6e4-5727-b0da-e26eaeb4c7b6",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota atau skala industri besar dalam satu Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota atau skala industri besar dalam satu Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8e8506c7-132d-5daf-a2e5-ff59b13e0bc8",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "88a41e1f-c676-5dc0-a183-85dae97845d8",
+        "local": {
+         "en": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "1ed5fd75-f51d-53f7-97a8-dcd8c56f157b",
+     "kode": "37002-03-23",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "1a116909-7921-5f5b-b51f-f5f7344aaf06",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "a08ac3ec-0e74-5a6a-b674-756a33541208",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fe07e3db-4c58-5f33-929c-413dc72908f1",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/ atau lumpur tinja pengangkut",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/ atau lumpur tinja pengangkut",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "34d0e73f-a913-52e6-ad8f-a7bf42727698",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "45aa7a92-5e57-5ada-b4c6-ca387d2cf3cd",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a1ab84da-d6e4-5727-b0da-e26eaeb4c7b6",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota atau skala industri besar dalam satu Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota atau skala industri besar dalam satu Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "91ac17cd-d6ba-5e0d-a09b-8125af1fea6a",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1c9ea0b7-016f-50db-931f-eb6b60d3f6d3",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah dan lokasi Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah dan lokasi Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3d005a68-5564-5a2d-b969-c55a9e241c59",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "88a41e1f-c676-5dc0-a183-85dae97845d8",
+        "local": {
+         "en": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "7fb49f8b-24de-5e47-bfa3-a417659f3e21",
+     "kode": "37002-04-24",
+     "luas_lahan": null,
+     "jangka_waktu": "5",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliKewajibans": [
+      {
+       "id": "4d20d19a-f527-53bf-8624-f7dfd46fa562",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan ketentuan sebagaimana yang tertuang di dalam Persetujuan teknis pembuangan dan/atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "73451f9c-aa30-5060-994a-efd66fb225ac",
+       "localization": {
+        "en": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Persetujuan teknis pembuangan dan/ atau pemanfaatan air limbah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d8f7b294-38b0-5b07-97c8-a95efd6abee3",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/ atau lumpur tinja pengangkut",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen kontrak kerja sama dengan penghasil dan/ atau lumpur tinja pengangkut",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 5,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "19be14a9-4bdb-5f1a-8065-9f182662a3b0",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "c5ee452a-c395-43ff-9f94-f682f3a1f976",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         },
+         "id": {
+          "nama_dokumen": "Perizinan Berusaha Treatment dan Pembuangan Air Limbah Berbahaya"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "210d6404-fcf5-5318-b3bb-c738b145b497",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "a1ab84da-d6e4-5727-b0da-e26eaeb4c7b6",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota atau skala industri besar dalam satu Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah lokasi lintas Kabupaten/Kota atau skala industri besar dalam satu Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "090430de-5275-5594-9698-a267b61c9ce2",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "1c9ea0b7-016f-50db-931f-eb6b60d3f6d3",
+        "local": {
+         "en": {
+          "uraian": "Skala industri kecil dan menengah dan lokasi Kabupaten/Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Skala industri kecil dan menengah dan lokasi Kabupaten/Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6f32b29b-212b-5676-9cb7-abbeae458710",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "61f070dc-87a1-54db-bb17-111ad929f781",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "88a41e1f-c676-5dc0-a183-85dae97845d8",
+        "local": {
+         "en": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Skala industri kecil dan menengah lokasi lintas Provinsi 2. Skala industri besar lokasi lintas Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "4d7a5f27-f0cb-4cee-ae25-03a66177b4e7",
+    "kode": "029",
+    "localization": {
+     "en": {
+      "uraian": "Lingkungan Hidup dan Kehutanan",
+      "deskripsi": "Kementerian Lingkungan Hidup dan Kehutanan"
+     },
+     "id": {
+      "uraian": "Lingkungan Hidup dan Kehutanan",
+      "deskripsi": "Kementerian Lingkungan Hidup dan Kehutanan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

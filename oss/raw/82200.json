@@ -1,0 +1,4125 @@
+{
+ "code": "82200",
+ "found": true,
+ "ossId": "39ce2ecc-f9f7-565b-a4e1-42b8edac6ddf",
+ "url": "https://oss.go.id/id/kbli/detail/39ce2ecc-f9f7-565b-a4e1-42b8edac6ddf",
+ "fetchedAt": "2026-09-30T05:31:50+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 82200 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "82200"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "2ea207b1-405a-5e7d-80ac-f981e9009867",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "39ce2ecc-f9f7-565b-a4e1-42b8edac6ddf",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Pusat Panggilan (Call Center)",
+      "uraian": "$4b"
+     },
+     "id": {
+      "judul": "Aktivitas Pusat Panggilan (Call Center)",
+      "uraian": "$4c"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "86c94f70-6502-5d67-b22b-72483130ff65",
+     "kode": "82200-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "3",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "135ce474-8b4d-517e-9302-11e1c063018a",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "686d63ed-8e3a-50b6-b42c-ed3d89b0533d",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a79701e4-2ca2-473c-84f6-46cd71fe6a39",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Penyelenggaraan Jasa Pusat Panggilan Informasi (Call Center)"
+         },
+         "id": {
+          "nama_dokumen": "Izin Penyelenggaraan Jasa Pusat Panggilan Informasi (Call Center)"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "6c16a097-2a73-5e54-a6d9-c512bbfbb828",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan penggunaan penomoran telekomunikasi setiap tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan penggunaan penomoran telekomunikasi setiap tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "39452e23-748d-5cb9-b06f-9f800579ffb8",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan alat dan/atau perangkat telekomunikasi yang telah memenuhi persyaratan teknis yang ditetapkan dan tersertifikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan alat dan/atau perangkat telekomunikasi yang telah memenuhi persyaratan teknis yang ditetapkan dan tersertifikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0a0af77c-86e8-5000-a85f-4428284a51f2",
+       "localization": {
+        "en": {
+         "uraian": "Mengutamakan penggunaan alat dan/atau perangkat telekomunikasi produksi dalam negeri sepanjang memungkinkan dan tersedia",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengutamakan penggunaan alat dan/atau perangkat telekomunikasi produksi dalam negeri sepanjang memungkinkan dan tersedia",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7b17f32a-f8a1-53a6-b535-f506dd047064",
+       "localization": {
+        "en": {
+         "uraian": "Mengikuti ketentuan teknis dalam Rencana Dasar Teknis (Fundamental Technical Plan) Telekomunikasi Nasional sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengikuti ketentuan teknis dalam Rencana Dasar Teknis (Fundamental Technical Plan) Telekomunikasi Nasional sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1e9bb31a-5076-50f4-89a0-0735ff6c5a21",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi pelayanan dan perlindungan terhadap pelanggan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi pelayanan dan perlindungan terhadap pelanggan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8ede2511-3420-5181-be3d-0d973e9e7657",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan upaya pengamanan dan perlindungan terhadap layanan yang diselenggarakannya serta sarana dan prasarana telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan upaya pengamanan dan perlindungan terhadap layanan yang diselenggarakannya serta sarana dan prasarana telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8d5ead1d-9437-5ee4-ba9c-2b385bb27855",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "215c72e8-b6bb-592b-99be-40ba72df20a7",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban Kontribusi KPU/USO dalam bentuk dana berdasarkan persentase tertentu dari pendapatan kotor penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban Kontribusi KPU/USO dalam bentuk dana berdasarkan persentase tertentu dari pendapatan kotor penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7f611f14-f2ce-500d-bf5c-62f4f6b2e157",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan dokumen sesuai ketentuan peraturan perundang undangan setelah memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi dan Kontribusi KPU/USO",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan dokumen sesuai ketentuan peraturan perundang undangan setelah memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi dan Kontribusi KPU/USO",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8330ecc5-825b-5edf-b8e6-4d762fadfd3b",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi komitmen minimal layanan pada tahun pertama (awal operasi) sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi komitmen minimal layanan pada tahun pertama (awal operasi) sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cd034e2f-78b4-5743-8702-a5c38d1eed48",
+       "localization": {
+        "en": {
+         "uraian": "Menuangkan setiap kerja sama penyelenggaraan telekomunikasi dalam perjanjian tertulis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menuangkan setiap kerja sama penyelenggaraan telekomunikasi dalam perjanjian tertulis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f4a7a8c4-e63f-53c2-b4d3-9616b61d306c",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi ketentuan struktur kepemilikan saham pada badan hukum penyelenggara telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi ketentuan struktur kepemilikan saham pada badan hukum penyelenggara telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c85d8288-4a07-52a2-be5b-5b71c4f21450",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi standar kualitas penyelenggaraan telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi standar kualitas penyelenggaraan telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9e6ece3f-f109-54f2-9a9f-0fb0a1180703",
+       "localization": {
+        "en": {
+         "uraian": "Mempublikasikan pencapaian standar kualitas layanan untuk setiap periode pelaporan secara daring melalui laman kontak layanan informasi milik penyelenggara telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mempublikasikan pencapaian standar kualitas layanan untuk setiap periode pelaporan secara daring melalui laman kontak layanan informasi milik penyelenggara telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5e0391a2-1ffa-5087-bd91-a54497c8cd1a",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan penyelenggaraan jasa telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan penyelenggaraan jasa telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "22dc4b53-3966-53d2-96ea-258294f71668",
+       "localization": {
+        "en": {
+         "uraian": "Menetapkan besaran tarif penyelenggaraan telekomunikasi berdasarkan formula yang ditetapkan oleh Menteri yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menetapkan besaran tarif penyelenggaraan telekomunikasi berdasarkan formula yang ditetapkan oleh Menteri yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "57920882-8cb8-5328-a1fe-42eba78bcea3",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi komitmen layanan dan/atau penyediaan jasa telekomunikasi secara menyeluruh",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi komitmen layanan dan/atau penyediaan jasa telekomunikasi secara menyeluruh",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f1704a04-edb3-5bc6-aa34-77243186d9d3",
+       "localization": {
+        "en": {
+         "uraian": "Mencatat, merekam, dan/atau menyimpan secara rinci pemakaian jasa telekomunikasi yang digunakan pelanggan paling singkat selama 3 (tiga) bulan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mencatat, merekam, dan/atau menyimpan secara rinci pemakaian jasa telekomunikasi yang digunakan pelanggan paling singkat selama 3 (tiga) bulan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fe617371-d9da-5ef7-8a45-ff90f631146c",
+       "localization": {
+        "en": {
+         "uraian": "Memelihara rekaman data pengukuran kualitas layanan jasa telekomunikasi selama 1 (satu) tahun buku dan menyimpannya sampai dengan 1 (satu) tahun buku ke depan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memelihara rekaman data pengukuran kualitas layanan jasa telekomunikasi selama 1 (satu) tahun buku dan menyimpannya sampai dengan 1 (satu) tahun buku ke depan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "34192995-f972-559b-9b05-dcc7648b6ed9",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi ketentuan registrasi pelanggan jasa telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi ketentuan registrasi pelanggan jasa telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3afbf74e-6b4e-56cd-b455-9344c0b75c0d",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kewajiban penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kewajiban penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "077492be-c3ad-5512-9919-6e08367c0cb1",
+       "localization": {
+        "en": {
+         "uraian": "Memperoleh PB UMKU penomoran telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperoleh PB UMKU penomoran telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "3a78fb94-92e3-5115-94f4-e8db3801f1a4",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan komitmen layanan 5 (lima) tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan komitmen layanan 5 (lima) tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6ccb03b0-031c-5d83-92b3-811b1bca8c39",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi ketentuan konfigurasi teknis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi ketentuan konfigurasi teknis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d695bd86-2893-5fca-adb2-cc0eaa91a552",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan daftar alat/perangkat dan sertifikat perangkat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan daftar alat/perangkat dan sertifikat perangkat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b6efc54b-8360-59b5-8a2c-7aa554207939",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti kepemilikan alat/perangkat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti kepemilikan alat/perangkat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4534fe2c-3520-5174-ac82-411078dcb2f6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki perjanjian kerja sama dengan penyelenggara lain dan/atau Perizinan Berusaha penyelenggaraan jaringan yang sesuai dengan ketentuan peraturan perundang-undangan, termasuk penggunaan satelit asing yang telah memiliki hak labuh",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki perjanjian kerja sama dengan penyelenggara lain dan/atau Perizinan Berusaha penyelenggaraan jaringan yang sesuai dengan ketentuan peraturan perundang-undangan, termasuk penggunaan satelit asing yang telah memiliki hak labuh",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "56300401-03a2-5b54-8203-ba075b958534",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki pusat kontak informasi berkaitan dengan layanan prajual dan purna jual",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki pusat kontak informasi berkaitan dengan layanan prajual dan purna jual",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "47141c84-a7b2-5335-974f-e48adb66cbc2",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan surat pernyataan: a. Tidak memiliki kewajiban Penerimaan Negara Bukan Pajak yang terhutang kepada kementerian yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika b. Daftar susunan pengurus untuk membuktikan bahwa direksi, pengurus, dan/atau badan hukum Pelaku Usaha tidak ditetapkan dalam daftar hitam penyelenggara",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan surat pernyataan: a. Tidak memiliki kewajiban Penerimaan Negara Bukan Pajak yang terhutang kepada kementerian yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika b. Daftar susunan pengurus untuk membuktikan bahwa direksi, pengurus, dan/atau badan hukum Pelaku Usaha tidak ditetapkan dalam daftar hitam penyelenggara",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "df033b48-40c2-5bbb-840e-fcf7405062b6",
+       "localization": {
+        "en": {
+         "uraian": "Mengajukan permohonan pelaksanaan uji laik operasi dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengajukan permohonan pelaksanaan uji laik operasi dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7db930c8-4bc1-5bb7-9a5a-641a7778c0f3",
+       "localization": {
+        "en": {
+         "uraian": "Memperoleh surat keterangan laik operasi berdasarkan pelaksanaan uji laik operasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperoleh surat keterangan laik operasi berdasarkan pelaksanaan uji laik operasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "53b60879-68b1-5722-baed-11387526b9b4",
+     "kode": "82200-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "3",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "594bce99-fe93-5fdf-85fa-bc5c979d85c7",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "7475d755-ec48-58df-bd28-47826b96a1da",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a79701e4-2ca2-473c-84f6-46cd71fe6a39",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Penyelenggaraan Jasa Pusat Panggilan Informasi (Call Center)"
+         },
+         "id": {
+          "nama_dokumen": "Izin Penyelenggaraan Jasa Pusat Panggilan Informasi (Call Center)"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "6368b46f-7fbb-5dd6-ad8e-a205f684fc2e",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi komitmen minimal layanan pada tahun pertama (awal operasi) sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi komitmen minimal layanan pada tahun pertama (awal operasi) sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "be3724d6-267c-5bea-bf8a-00780e319a8e",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan alat dan/atau perangkat telekomunikasi yang telah memenuhi persyaratan teknis yang ditetapkan dan tersertifikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan alat dan/atau perangkat telekomunikasi yang telah memenuhi persyaratan teknis yang ditetapkan dan tersertifikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7282c723-8670-5985-ac0f-a5868b32f8c1",
+       "localization": {
+        "en": {
+         "uraian": "Mengutamakan penggunaan alat dan/atau perangkat telekomunikasi produksi dalam negeri sepanjang memungkinkan dan tersedia",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengutamakan penggunaan alat dan/atau perangkat telekomunikasi produksi dalam negeri sepanjang memungkinkan dan tersedia",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0f2a52b2-4c8b-5820-b4b2-b2c8e09a85ed",
+       "localization": {
+        "en": {
+         "uraian": "Mengikuti ketentuan teknis dalam Rencana Dasar Teknis (Fundamental Technical Plan) Telekomunikasi Nasional sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengikuti ketentuan teknis dalam Rencana Dasar Teknis (Fundamental Technical Plan) Telekomunikasi Nasional sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4249839f-0bff-5c86-9418-d732acfde931",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi pelayanan dan perlindungan terhadap pelanggan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi pelayanan dan perlindungan terhadap pelanggan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c7b90bd7-e359-55bd-9cf3-bd4777bf10a4",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan upaya pengamanan dan perlindungan terhadap layanan yang diselenggarakannya serta sarana dan prasarana telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan upaya pengamanan dan perlindungan terhadap layanan yang diselenggarakannya serta sarana dan prasarana telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "53ee3c87-4d3a-5f84-ae07-3f543df8443c",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d259b941-cc6b-5164-a729-69bdc31f5e12",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban Kontribusi KPU/USO dalam bentuk dana berdasarkan persentase tertentu dari pendapatan kotor penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban Kontribusi KPU/USO dalam bentuk dana berdasarkan persentase tertentu dari pendapatan kotor penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1c8ac317-97ca-5d4c-9ff5-a2c544ffb46f",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan dokumen sesuai ketentuan peraturan perundang undangan setelah memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi dan Kontribusi KPU/USO",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan dokumen sesuai ketentuan peraturan perundang undangan setelah memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi dan Kontribusi KPU/USO",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c0c81d6f-815a-5fbe-83f7-c910f6e6bccb",
+       "localization": {
+        "en": {
+         "uraian": "Menuangkan setiap kerja sama penyelenggaraan telekomunikasi dalam perjanjian tertulis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menuangkan setiap kerja sama penyelenggaraan telekomunikasi dalam perjanjian tertulis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c336f226-e251-5cea-98c4-ad1422345217",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi ketentuan struktur kepemilikan saham pada badan hukum penyelenggara telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi ketentuan struktur kepemilikan saham pada badan hukum penyelenggara telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b427d19c-58a8-5706-aff5-b453b320b173",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi standar kualitas penyelenggaraan telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi standar kualitas penyelenggaraan telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b69858bb-6f89-50f4-8208-455060472e82",
+       "localization": {
+        "en": {
+         "uraian": "Mempublikasikan pencapaian standar kualitas layanan untuk setiap periode pelaporan secara daring melalui laman kontak layanan informasi milik penyelenggara telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mempublikasikan pencapaian standar kualitas layanan untuk setiap periode pelaporan secara daring melalui laman kontak layanan informasi milik penyelenggara telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "25de7641-d5c9-593f-b9fb-f4d0e144da4f",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan penyelenggaraan jasa telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan penyelenggaraan jasa telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "10ba3f6d-04dc-5b14-a95f-23bb9b19daec",
+       "localization": {
+        "en": {
+         "uraian": "Menetapkan besaran tarif penyelenggaraan telekomunikasi berdasarkan formula yang ditetapkan oleh Menteri yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menetapkan besaran tarif penyelenggaraan telekomunikasi berdasarkan formula yang ditetapkan oleh Menteri yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "dc42060b-531c-5980-bb92-2dcdcf1ab883",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi komitmen layanan dan/atau penyediaan jasa telekomunikasi secara menyeluruh",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi komitmen layanan dan/atau penyediaan jasa telekomunikasi secara menyeluruh",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1070d9df-acdb-55ee-9b86-9445f7469e8a",
+       "localization": {
+        "en": {
+         "uraian": "Mencatat, merekam, dan/atau menyimpan secara rinci pemakaian jasa telekomunikasi yang digunakan pelanggan paling singkat selama 3 (tiga) bulan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mencatat, merekam, dan/atau menyimpan secara rinci pemakaian jasa telekomunikasi yang digunakan pelanggan paling singkat selama 3 (tiga) bulan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "26ea8e67-f721-5999-b63a-ebfd03ec05c2",
+       "localization": {
+        "en": {
+         "uraian": "Memelihara rekaman data pengukuran kualitas layanan jasa telekomunikasi selama 1 (satu) tahun buku dan menyimpannya sampai dengan 1 (satu) tahun buku ke depan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memelihara rekaman data pengukuran kualitas layanan jasa telekomunikasi selama 1 (satu) tahun buku dan menyimpannya sampai dengan 1 (satu) tahun buku ke depan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "71ac2ff4-b428-51d9-8db0-cf5011a484d0",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi ketentuan registrasi pelanggan jasa telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi ketentuan registrasi pelanggan jasa telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "89f23779-541d-5219-868d-72021979962e",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan penggunaan penomoran telekomunikasi setiap tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan penggunaan penomoran telekomunikasi setiap tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f7d22b81-e3d4-53fd-9cb6-864fda28bb03",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kewajiban penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kewajiban penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2d7100af-019b-5edd-b37f-b5ae709ffc23",
+       "localization": {
+        "en": {
+         "uraian": "Memperoleh PB UMKU penomoran telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperoleh PB UMKU penomoran telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "6df2968f-b513-5a6a-8f3e-7375fe280b11",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan komitmen layanan 5 (lima) tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan komitmen layanan 5 (lima) tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "15e3e001-a110-5d37-84e3-ccf34c7a13c6",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi ketentuan konfigurasi teknis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi ketentuan konfigurasi teknis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e0a3dc9f-ce30-5f84-88f4-2c09f9ffe6cf",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan daftar alat/perangkat dan sertifikat perangkat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan daftar alat/perangkat dan sertifikat perangkat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "531e540e-69eb-5a1a-a80c-7663af0bcfed",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti kepemilikan alat/perangkat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti kepemilikan alat/perangkat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "20c3dd62-a9a0-582f-ad5b-8966b41e5cdf",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki perjanjian kerja sama dengan penyelenggara lain dan/atau Perizinan Berusaha penyelenggaraan jaringan yang sesuai dengan ketentuan peraturan perundang-undangan, termasuk penggunaan satelit asing yang telah memiliki hak labuh",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki perjanjian kerja sama dengan penyelenggara lain dan/atau Perizinan Berusaha penyelenggaraan jaringan yang sesuai dengan ketentuan peraturan perundang-undangan, termasuk penggunaan satelit asing yang telah memiliki hak labuh",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "603dd19c-a51b-5af3-b986-6b40f8001aa7",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki pusat kontak informasi berkaitan dengan layanan prajual dan purna jual",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki pusat kontak informasi berkaitan dengan layanan prajual dan purna jual",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "332d0a93-a8ee-5724-9af7-801b044d1a7f",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan surat pernyataan: a. Tidak memiliki kewajiban Penerimaan Negara Bukan Pajak yang terhutang kepada kementerian yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika b. Daftar susunan pengurus untuk membuktikan bahwa direksi, pengurus, dan/atau badan hukum Pelaku Usaha tidak ditetapkan dalam daftar hitam penyelenggara",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan surat pernyataan: a. Tidak memiliki kewajiban Penerimaan Negara Bukan Pajak yang terhutang kepada kementerian yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika b. Daftar susunan pengurus untuk membuktikan bahwa direksi, pengurus, dan/atau badan hukum Pelaku Usaha tidak ditetapkan dalam daftar hitam penyelenggara",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4c6e8882-4882-52f1-a3ee-668230e74b53",
+       "localization": {
+        "en": {
+         "uraian": "Mengajukan permohonan pelaksanaan uji laik operasi dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengajukan permohonan pelaksanaan uji laik operasi dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9156d02a-51a8-5ad9-952d-7e839746fb13",
+       "localization": {
+        "en": {
+         "uraian": "Memperoleh surat keterangan laik operasi berdasarkan pelaksanaan uji laik operasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperoleh surat keterangan laik operasi berdasarkan pelaksanaan uji laik operasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "c05c690b-8e4e-5ea6-90ab-3cfb975d0f9a",
+     "kode": "82200-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "3",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "3da39071-5929-512a-b91e-633fe2d7fc3b",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "c96bb185-2758-5197-a6aa-d4bf7e9933e1",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a79701e4-2ca2-473c-84f6-46cd71fe6a39",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Penyelenggaraan Jasa Pusat Panggilan Informasi (Call Center)"
+         },
+         "id": {
+          "nama_dokumen": "Izin Penyelenggaraan Jasa Pusat Panggilan Informasi (Call Center)"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "c5d9f56f-a56a-541c-9ea6-207dcda17bc8",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan alat dan/atau perangkat telekomunikasi yang telah memenuhi persyaratan teknis yang ditetapkan dan tersertifikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan alat dan/atau perangkat telekomunikasi yang telah memenuhi persyaratan teknis yang ditetapkan dan tersertifikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9971ebfc-7a21-5cbb-93f8-646546cb350e",
+       "localization": {
+        "en": {
+         "uraian": "Mengutamakan penggunaan alat dan/atau perangkat telekomunikasi produksi dalam negeri sepanjang memungkinkan dan tersedia",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengutamakan penggunaan alat dan/atau perangkat telekomunikasi produksi dalam negeri sepanjang memungkinkan dan tersedia",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4c1c1f44-0e69-5046-bfda-f8699ee4500f",
+       "localization": {
+        "en": {
+         "uraian": "Mengikuti ketentuan teknis dalam Rencana Dasar Teknis (Fundamental Technical Plan) Telekomunikasi Nasional sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengikuti ketentuan teknis dalam Rencana Dasar Teknis (Fundamental Technical Plan) Telekomunikasi Nasional sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "722256a9-cdf1-5e67-947e-bd5d4e678750",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi pelayanan dan perlindungan terhadap pelanggan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi pelayanan dan perlindungan terhadap pelanggan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a8bcff85-d92d-5671-99a5-bf70d3c5ed0c",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan upaya pengamanan dan perlindungan terhadap layanan yang diselenggarakannya serta sarana dan prasarana telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan upaya pengamanan dan perlindungan terhadap layanan yang diselenggarakannya serta sarana dan prasarana telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c237454a-56a3-54f5-a3ea-7141bfd3df67",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2c60173e-93b8-59b7-83ad-e19af5fc41ef",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban Kontribusi KPU/USO dalam bentuk dana berdasarkan persentase tertentu dari pendapatan kotor penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban Kontribusi KPU/USO dalam bentuk dana berdasarkan persentase tertentu dari pendapatan kotor penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4bfa625c-3c57-57d6-8968-7e6c5e0f6f40",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan dokumen sesuai ketentuan peraturan perundang undangan setelah memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi dan Kontribusi KPU/USO",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan dokumen sesuai ketentuan peraturan perundang undangan setelah memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi dan Kontribusi KPU/USO",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a92b2e85-8e3e-576d-be85-f0fa6849fb88",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi komitmen minimal layanan pada tahun pertama (awal operasi) sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi komitmen minimal layanan pada tahun pertama (awal operasi) sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "abe7cd76-6657-5856-9a75-069804e3890a",
+       "localization": {
+        "en": {
+         "uraian": "Menuangkan setiap kerja sama penyelenggaraan telekomunikasi dalam perjanjian tertulis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menuangkan setiap kerja sama penyelenggaraan telekomunikasi dalam perjanjian tertulis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "371f75d6-4896-5d16-a0b4-3a278e1aface",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi ketentuan struktur kepemilikan saham pada badan hukum penyelenggara telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi ketentuan struktur kepemilikan saham pada badan hukum penyelenggara telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "282b7c51-3658-50a3-b527-cf332f371b79",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi standar kualitas penyelenggaraan telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi standar kualitas penyelenggaraan telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "632e0000-5283-5ee2-ba54-3f23d1fd7385",
+       "localization": {
+        "en": {
+         "uraian": "Mempublikasikan pencapaian standar kualitas layanan untuk setiap periode pelaporan secara daring melalui laman kontak layanan informasi milik penyelenggara telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mempublikasikan pencapaian standar kualitas layanan untuk setiap periode pelaporan secara daring melalui laman kontak layanan informasi milik penyelenggara telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8aac58cd-f464-57a1-8959-ff6be79a7a4c",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan penyelenggaraan jasa telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan penyelenggaraan jasa telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cfc8a01f-1c38-532c-b5a8-4b1ae7887837",
+       "localization": {
+        "en": {
+         "uraian": "Menetapkan besaran tarif penyelenggaraan telekomunikasi berdasarkan formula yang ditetapkan oleh Menteri yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menetapkan besaran tarif penyelenggaraan telekomunikasi berdasarkan formula yang ditetapkan oleh Menteri yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "84ada0de-7b1a-5296-ba2d-b011f3828cb6",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi komitmen layanan dan/atau penyediaan jasa telekomunikasi secara menyeluruh",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi komitmen layanan dan/atau penyediaan jasa telekomunikasi secara menyeluruh",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2e386de8-270a-5346-86c4-0bfeb5aa9497",
+       "localization": {
+        "en": {
+         "uraian": "Mencatat, merekam, dan/atau menyimpan secara rinci pemakaian jasa telekomunikasi yang digunakan pelanggan paling singkat selama 3 (tiga) bulan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mencatat, merekam, dan/atau menyimpan secara rinci pemakaian jasa telekomunikasi yang digunakan pelanggan paling singkat selama 3 (tiga) bulan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "456c8573-fd34-5ed0-a74d-6ac6cbdc0cc0",
+       "localization": {
+        "en": {
+         "uraian": "Memelihara rekaman data pengukuran kualitas layanan jasa telekomunikasi selama 1 (satu) tahun buku dan menyimpannya sampai dengan 1 (satu) tahun buku ke depan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memelihara rekaman data pengukuran kualitas layanan jasa telekomunikasi selama 1 (satu) tahun buku dan menyimpannya sampai dengan 1 (satu) tahun buku ke depan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "37cd7b74-b77f-5521-b311-40df60427c25",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi ketentuan registrasi pelanggan jasa telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi ketentuan registrasi pelanggan jasa telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a1adffc4-0375-5ef5-baf4-75cc1e5ed4e6",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan penggunaan penomoran telekomunikasi setiap tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan penggunaan penomoran telekomunikasi setiap tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0cc29eba-e450-55ad-914d-3b4f8764ad09",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kewajiban penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kewajiban penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0aeef25f-3354-5a33-b79d-9b4f68ecb61b",
+       "localization": {
+        "en": {
+         "uraian": "Memperoleh PB UMKU penomoran telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperoleh PB UMKU penomoran telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "535a0042-d8c4-5c06-a74d-16f01531bd65",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan komitmen layanan 5 (lima) tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan komitmen layanan 5 (lima) tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c5261b37-14ec-5121-ba1a-273fc185e9c2",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi ketentuan konfigurasi teknis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi ketentuan konfigurasi teknis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b52ca1ee-ad19-5305-8135-d381a26b4931",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan daftar alat/perangkat dan sertifikat perangkat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan daftar alat/perangkat dan sertifikat perangkat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3564a4db-1136-5c19-a7c8-abc6c96bf582",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti kepemilikan alat/perangkat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti kepemilikan alat/perangkat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9189c445-3c56-5457-967c-4d32f3fd3c6e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki perjanjian kerja sama dengan penyelenggara lain dan/atau Perizinan Berusaha penyelenggaraan jaringan yang sesuai dengan ketentuan peraturan perundang-undangan, termasuk penggunaan satelit asing yang telah memiliki hak labuh",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki perjanjian kerja sama dengan penyelenggara lain dan/atau Perizinan Berusaha penyelenggaraan jaringan yang sesuai dengan ketentuan peraturan perundang-undangan, termasuk penggunaan satelit asing yang telah memiliki hak labuh",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d9370163-fe6b-5517-9eb4-758824dda2cc",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki pusat kontak informasi berkaitan dengan layanan prajual dan purna jual",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki pusat kontak informasi berkaitan dengan layanan prajual dan purna jual",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "563b93a7-734d-5940-b8ed-a1c5d25663b5",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan surat pernyataan: a. Tidak memiliki kewajiban Penerimaan Negara Bukan Pajak yang terhutang kepada kementerian yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika b. Daftar susunan pengurus untuk membuktikan bahwa direksi, pengurus, dan/atau badan hukum Pelaku Usaha tidak ditetapkan dalam daftar hitam penyelenggara",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan surat pernyataan: a. Tidak memiliki kewajiban Penerimaan Negara Bukan Pajak yang terhutang kepada kementerian yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika b. Daftar susunan pengurus untuk membuktikan bahwa direksi, pengurus, dan/atau badan hukum Pelaku Usaha tidak ditetapkan dalam daftar hitam penyelenggara",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ad030726-7e00-5547-9141-fddc0980ad9a",
+       "localization": {
+        "en": {
+         "uraian": "Mengajukan permohonan pelaksanaan uji laik operasi dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengajukan permohonan pelaksanaan uji laik operasi dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0807bc4d-faf0-56ba-891b-1aa16c2e6048",
+       "localization": {
+        "en": {
+         "uraian": "Memperoleh surat keterangan laik operasi berdasarkan pelaksanaan uji laik operasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperoleh surat keterangan laik operasi berdasarkan pelaksanaan uji laik operasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "58d8fd39-32d1-5cd6-8f73-fafd43600949",
+     "kode": "82200-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "3",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "75230a53-412d-50f0-96b0-81e87a0ff625",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bc02ce28-6b28-571c-b19f-1df3044c3156",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "b3b55ecf-a0ca-55f2-8872-3fa44214a145",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a79701e4-2ca2-473c-84f6-46cd71fe6a39",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin Penyelenggaraan Jasa Pusat Panggilan Informasi (Call Center)"
+         },
+         "id": {
+          "nama_dokumen": "Izin Penyelenggaraan Jasa Pusat Panggilan Informasi (Call Center)"
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "40dc6111-2ec8-5853-a15b-bd23c485fc99",
+       "localization": {
+        "en": {
+         "uraian": "Menggunakan alat dan/atau perangkat telekomunikasi yang telah memenuhi persyaratan teknis yang ditetapkan dan tersertifikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menggunakan alat dan/atau perangkat telekomunikasi yang telah memenuhi persyaratan teknis yang ditetapkan dan tersertifikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "883edef7-62d4-5ec3-83d1-2db617d53766",
+       "localization": {
+        "en": {
+         "uraian": "Mengutamakan penggunaan alat dan/atau perangkat telekomunikasi produksi dalam negeri sepanjang memungkinkan dan tersedia",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengutamakan penggunaan alat dan/atau perangkat telekomunikasi produksi dalam negeri sepanjang memungkinkan dan tersedia",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1fed687a-04b8-56af-bacd-f2cbfb62e48c",
+       "localization": {
+        "en": {
+         "uraian": "Mengikuti ketentuan teknis dalam Rencana Dasar Teknis (Fundamental Technical Plan) Telekomunikasi Nasional sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengikuti ketentuan teknis dalam Rencana Dasar Teknis (Fundamental Technical Plan) Telekomunikasi Nasional sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "725fe2cb-900e-5d51-aac2-917a5f6f5ef6",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi pelayanan dan perlindungan terhadap pelanggan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi pelayanan dan perlindungan terhadap pelanggan sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "dc1374e9-384a-5361-b241-59e661c47420",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan upaya pengamanan dan perlindungan terhadap layanan yang diselenggarakannya serta sarana dan prasarana telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan upaya pengamanan dan perlindungan terhadap layanan yang diselenggarakannya serta sarana dan prasarana telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d9c17752-20e3-5dff-9050-a1c579243c65",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "30115859-6a99-5e59-b6aa-6039769b30c4",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban Kontribusi KPU/USO dalam bentuk dana berdasarkan persentase tertentu dari pendapatan kotor penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban Kontribusi KPU/USO dalam bentuk dana berdasarkan persentase tertentu dari pendapatan kotor penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "207eb3ce-6032-53b1-b980-64d64e5cb60c",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan dokumen sesuai ketentuan peraturan perundang undangan setelah memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi dan Kontribusi KPU/USO",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan dokumen sesuai ketentuan peraturan perundang undangan setelah memenuhi kewajiban pembayaran biaya hak penyelenggaraan telekomunikasi dan Kontribusi KPU/USO",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3d04c286-70b0-55ed-9bef-55083e78f9c5",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi komitmen minimal layanan pada tahun pertama (awal operasi) sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi komitmen minimal layanan pada tahun pertama (awal operasi) sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0c137a36-1986-5d51-8a29-e09a4af87760",
+       "localization": {
+        "en": {
+         "uraian": "Menuangkan setiap kerja sama penyelenggaraan telekomunikasi dalam perjanjian tertulis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menuangkan setiap kerja sama penyelenggaraan telekomunikasi dalam perjanjian tertulis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "35e66795-cb86-5e49-b116-f48028692a50",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi ketentuan struktur kepemilikan saham pada badan hukum penyelenggara telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi ketentuan struktur kepemilikan saham pada badan hukum penyelenggara telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "51117104-0614-5849-8097-cc921f96fcaf",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi standar kualitas penyelenggaraan telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi standar kualitas penyelenggaraan telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "27195049-d178-563b-a2f8-102c18c117c2",
+       "localization": {
+        "en": {
+         "uraian": "Mempublikasikan pencapaian standar kualitas layanan untuk setiap periode pelaporan secara daring melalui laman kontak layanan informasi milik penyelenggara telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mempublikasikan pencapaian standar kualitas layanan untuk setiap periode pelaporan secara daring melalui laman kontak layanan informasi milik penyelenggara telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "00da2f29-81cd-58b3-82b9-ddafdf4ad8ea",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan penyelenggaraan jasa telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan penyelenggaraan jasa telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "094af12f-4492-5a3e-af5b-056ad8d3c59f",
+       "localization": {
+        "en": {
+         "uraian": "Menetapkan besaran tarif penyelenggaraan telekomunikasi berdasarkan formula yang ditetapkan oleh Menteri yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menetapkan besaran tarif penyelenggaraan telekomunikasi berdasarkan formula yang ditetapkan oleh Menteri yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fca2df9c-d1d1-5cf8-9b91-ba5756a43fb0",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi komitmen layanan dan/atau penyediaan jasa telekomunikasi secara menyeluruh",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi komitmen layanan dan/atau penyediaan jasa telekomunikasi secara menyeluruh",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "900471c1-1462-5184-8abc-61b524d59270",
+       "localization": {
+        "en": {
+         "uraian": "Mencatat, merekam, dan/atau menyimpan secara rinci pemakaian jasa telekomunikasi yang digunakan pelanggan paling singkat selama 3 (tiga) bulan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mencatat, merekam, dan/atau menyimpan secara rinci pemakaian jasa telekomunikasi yang digunakan pelanggan paling singkat selama 3 (tiga) bulan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "12dddd54-e132-5e38-b6d2-a8a8ab7f0607",
+       "localization": {
+        "en": {
+         "uraian": "Memelihara rekaman data pengukuran kualitas layanan jasa telekomunikasi selama 1 (satu) tahun buku dan menyimpannya sampai dengan 1 (satu) tahun buku ke depan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memelihara rekaman data pengukuran kualitas layanan jasa telekomunikasi selama 1 (satu) tahun buku dan menyimpannya sampai dengan 1 (satu) tahun buku ke depan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bdf917f2-3366-5c9f-b3a8-6c64bd3f92b7",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi ketentuan registrasi pelanggan jasa telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi ketentuan registrasi pelanggan jasa telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "21829fa9-2c60-5680-b029-ed965bbf34be",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan penggunaan penomoran telekomunikasi setiap tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan penggunaan penomoran telekomunikasi setiap tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c3f5a3ec-7fa8-5a9c-ba83-4777dd825211",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan kewajiban penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan kewajiban penyelenggaraan telekomunikasi sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fbba8bd1-ef7d-5015-8e54-c77170c9bc81",
+       "localization": {
+        "en": {
+         "uraian": "Memperoleh PB UMKU penomoran telekomunikasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperoleh PB UMKU penomoran telekomunikasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "4cf13db9-1c30-5da6-933d-97cc6a315c91",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan komitmen layanan 5 (lima) tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan komitmen layanan 5 (lima) tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3db564ce-a1ff-5273-88c2-c7f61c0cf8a2",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi ketentuan konfigurasi teknis",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi ketentuan konfigurasi teknis",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "14f6baeb-41ff-57ec-9b96-fe407421e339",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan daftar alat/perangkat dan sertifikat perangkat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan daftar alat/perangkat dan sertifikat perangkat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b1153329-c5df-5903-9d16-a657101d2005",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti kepemilikan alat/perangkat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti kepemilikan alat/perangkat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "aaea7bc3-1280-5195-a300-5fbf7a3c36c7",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki perjanjian kerja sama dengan penyelenggara lain dan/atau Perizinan Berusaha penyelenggaraan jaringan yang sesuai dengan ketentuan peraturan perundang-undangan, termasuk penggunaan satelit asing yang telah memiliki hak labuh",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki perjanjian kerja sama dengan penyelenggara lain dan/atau Perizinan Berusaha penyelenggaraan jaringan yang sesuai dengan ketentuan peraturan perundang-undangan, termasuk penggunaan satelit asing yang telah memiliki hak labuh",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bda91fe1-baf4-5caa-88bf-b2a17b5fe269",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki pusat kontak informasi berkaitan dengan layanan prajual dan purna jual",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki pusat kontak informasi berkaitan dengan layanan prajual dan purna jual",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3df26ade-5366-52eb-847b-25425a13d591",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan surat pernyataan: a. Tidak memiliki kewajiban Penerimaan Negara Bukan Pajak yang terhutang kepada kementerian yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika b. Daftar susunan pengurus untuk membuktikan bahwa direksi, pengurus, dan/atau badan hukum Pelaku Usaha tidak ditetapkan dalam daftar hitam penyelenggara",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan surat pernyataan: a. Tidak memiliki kewajiban Penerimaan Negara Bukan Pajak yang terhutang kepada kementerian yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika b. Daftar susunan pengurus untuk membuktikan bahwa direksi, pengurus, dan/atau badan hukum Pelaku Usaha tidak ditetapkan dalam daftar hitam penyelenggara",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "72c457d5-cf2f-53a9-a80c-4c5eda53e895",
+       "localization": {
+        "en": {
+         "uraian": "Mengajukan permohonan pelaksanaan uji laik operasi dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengajukan permohonan pelaksanaan uji laik operasi dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6d5bb44b-0d76-5f2b-a661-f025fb62f611",
+       "localization": {
+        "en": {
+         "uraian": "Memperoleh surat keterangan laik operasi berdasarkan pelaksanaan uji laik operasi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperoleh surat keterangan laik operasi berdasarkan pelaksanaan uji laik operasi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 3,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "d98a00ea-13b2-4b2f-b138-9298c95fbee3",
+    "kode": "059",
+    "localization": {
+     "en": {
+      "uraian": "Komunikasi dan Informatika",
+      "deskripsi": "Kementerian Komunikasi dan Informatika"
+     },
+     "id": {
+      "uraian": "Komunikasi dan Informatika",
+      "deskripsi": "Kementerian Komunikasi dan Informatika"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "6887bb78-df25-4238-82a4-187998174255",
+   "kode": "059000000023",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Penomoran Telekomunikasi (Non Blok Nomor)"
+    },
+    "id": {
+     "nama_dokumen": "Penomoran Telekomunikasi (Non Blok Nomor)"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "0050e0d6-b3ff-5039-a7d5-076cdd169218",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "1126bf6c-2f86-4840-b78e-6041713dc2ba",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "$85"
+      },
+      "id": {
+       "syarat_perizinan": "$86"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen Perizinan Berusaha sesuai peruntukan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen Perizinan Berusaha sesuai peruntukan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "11 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan penggunaan penomoran yang telah ditetapkan sebelumnya untuk permohonan tambahan penomoran telekomunikasi"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan penggunaan penomoran yang telah ditetapkan sebelumnya untuk permohonan tambahan penomoran telekomunikasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "11 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen Perizinan Berusaha "
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen Perizinan Berusaha "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan penggunaan Blok Nomor yang telah ditetapkan sebelumnya\n"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan penggunaan Blok Nomor yang telah ditetapkan sebelumnya\n"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "NIB "
+      },
+      "id": {
+       "syarat_perizinan": "NIB "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Perubahan nama badan hukum dan/atau perubahan alamat:<br>\n<ol>\n<li>Dokumen penetapan penomoran; dan </li>\n<li>Dokumen Perizinan Berusaha Penyelenggaraan Telekomunikasi sebelum dan sesudah dilakukan perubahan nama badan hukum dan/atau perubahan alamat</li>_x000B_</ol>\n\nPerubahan ketentuan peraturan perundang-undangan:\n<ol>\n<li>Dokumen Perizinan Berusaha Penyelenggaraan Telekomunikasi; </li>\n<li>Dokumen penetapan penomoran; </li>\n<li>Referensi perubahan ketentuan peraturan perundang-undangan; dan </li>\n<li>Dokumen lainnya yang dipersyaratkan dalam ketentuan peraturan perundang-undangan baru yang ditetapkan\n</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Perubahan nama badan hukum dan/atau perubahan alamat:<br>\n<ol>\n<li>Dokumen penetapan penomoran; dan </li>\n<li>Dokumen Perizinan Berusaha Penyelenggaraan Telekomunikasi sebelum dan sesudah dilakukan perubahan nama badan hukum dan/atau perubahan alamat</li>_x000B_</ol>\n\nPerubahan ketentuan peraturan perundang-undangan:\n<ol>\n<li>Dokumen Perizinan Berusaha Penyelenggaraan Telekomunikasi; </li>\n<li>Dokumen penetapan penomoran; </li>\n<li>Referensi perubahan ketentuan peraturan perundang-undangan; dan </li>\n<li>Dokumen lainnya yang dipersyaratkan dalam ketentuan peraturan perundang-undangan baru yang ditetapkan\n</li>\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen lainnya sesuai dengan ketentuan peraturan perundang-undangan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen lainnya sesuai dengan ketentuan peraturan perundang-undangan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "11 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan kegiatannya sesuai dengan ketentuan peraturan perundang-undangan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan kegiatannya sesuai dengan ketentuan peraturan perundang-undangan; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menggunakan dan melaporkan penomoran sesuai peruntukannya."
+      },
+      "id": {
+       "syarat_perizinan": "Menggunakan dan melaporkan penomoran sesuai peruntukannya."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan kegiatannya sesuai dengan ketentuan peraturan perundang-undangan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan kegiatannya sesuai dengan ketentuan peraturan perundang-undangan; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menggunakan dan melaporkan penomoran sesuai peruntukannya."
+      },
+      "id": {
+       "syarat_perizinan": "Menggunakan dan melaporkan penomoran sesuai peruntukannya."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan penomoran telekomunikasi sesuai dengan peruntukannya</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaporkan penggunaan penomoran telekomunikasi setiap tahun</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan penomoran telekomunikasi sesuai dengan peruntukannya</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaporkan penggunaan penomoran telekomunikasi setiap tahun</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "11 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaporkan penggunaan penomoran telekomunikasi setiap tahun"
+      },
+      "id": {
+       "syarat_perizinan": "Melaporkan penggunaan penomoran telekomunikasi setiap tahun"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "11 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menggunakan penomoran telekomunikasi sesuai dengan peruntukannya"
+      },
+      "id": {
+       "syarat_perizinan": "Menggunakan penomoran telekomunikasi sesuai dengan peruntukannya"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "11 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "d98a00ea-13b2-4b2f-b138-9298c95fbee3",
+    "kode": "059",
+    "localization": {
+     "en": {
+      "uraian": "Komunikasi dan Informatika",
+      "deskripsi": "Kementerian Komunikasi dan Informatika"
+     },
+     "id": {
+      "uraian": "Komunikasi dan Informatika",
+      "deskripsi": "Kementerian Komunikasi dan Informatika"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

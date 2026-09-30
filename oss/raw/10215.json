@@ -1,0 +1,5138 @@
+{
+ "code": "10215",
+ "found": true,
+ "ossId": "57916560-1f67-5853-bbb8-6c901b47cab7",
+ "url": "https://oss.go.id/id/kbli/detail/57916560-1f67-5853-bbb8-6c901b47cab7",
+ "fetchedAt": "2026-09-30T04:13:09+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 10215 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "10215"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "504f5cb6-e519-553b-aadb-5c7731b1fca0",
+   "localization": {
+    "en": {
+     "uraian": "Selain terasi ikan",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Selain terasi ikan",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "57916560-1f67-5853-bbb8-6c901b47cab7",
+    "localization": {
+     "en": {
+      "judul": "Pengolahan dan Pengawetan Ikan dengan Fermentasi",
+      "uraian": "Kelompok ini mencakup kegiatan pengolahan dan pengawetan ikan bersirip melalui proses fermentasi, seperti fermentasi untuk ikan peda dan ikan kayu, serta pembuatan kecap ikan dan terasi ikan."
+     },
+     "id": {
+      "judul": "Pengolahan dan Pengawetan Ikan dengan Fermentasi",
+      "uraian": "Kelompok ini mencakup kegiatan pengolahan dan pengawetan ikan bersirip melalui proses fermentasi, seperti fermentasi untuk ikan peda dan ikan kayu, serta pembuatan kecap ikan dan terasi ikan."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "d72373cb-428c-5b9a-8067-c304dd357979",
+     "kode": "10215-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "3d209b47-b235-58b7-8c6f-85f46b2a719a",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e8ee878e-9759-56b8-b24c-e72c966165f6",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8e2d752f-81e9-5254-b616-78a1e00ae7a3",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "9c6ba2cc-c690-5d64-b0c3-35493ff60ae5",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kabupaten/ Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kabupaten/ Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0eb81620-2d6f-5e09-a35a-8520f77a5254",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "2c19990b-2a37-50c1-9dd8-a4ee242a5e4e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b83d0c0e-c389-509c-9a0a-a86bb25dc57c",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "fc7fb75e-3d1d-5952-a44f-15df6b4008cd",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "13913986-4910-5d40-859e-28a83c66d3c2",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengim plementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengim plementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": []
+    },
+    {
+     "id": "cfc50f16-b869-5329-b0c4-dedc7176b04b",
+     "kode": "10215-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "3e42845b-92c4-5d1b-ab0d-61c3031c7ab6",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "9c6ba2cc-c690-5d64-b0c3-35493ff60ae5",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kabupaten/ Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kabupaten/ Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8fca1b27-b1ad-528d-807a-16500465c5ef",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "222bbaed-cd45-5899-89d6-a11cb693b14a",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e8ee878e-9759-56b8-b24c-e72c966165f6",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "5e11d04d-acab-52c0-b699-902887252cba",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "db530f8a-a236-5891-a154-cf8fc2256925",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "ed1c02b2-5dbb-5fd6-a2fb-a9829eb12cb3",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "bdaf5dc5-6ebb-5bc8-a545-a21702d62f8a",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengim plementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengim plementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": []
+    },
+    {
+     "id": "691f376c-b615-5e36-b3db-56c45b1d158d",
+     "kode": "10215-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "5172c824-1aca-5478-97a3-054886999a5c",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "9c6ba2cc-c690-5d64-b0c3-35493ff60ae5",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kabupaten/ Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kabupaten/ Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8e40b3d6-7640-5cb6-9c75-df4fe7e6c138",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e8ee878e-9759-56b8-b24c-e72c966165f6",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cd961e2b-8125-5873-87cb-19909337241b",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "da18cf50-ebf5-55ae-b7fe-b72a594a669b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "0a997107-e1ed-5b28-aae8-9b55e023d15c",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "72b188a7-6b83-527f-9bc3-6326b20748b0",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "698a0374-42c5-50c0-bf13-625af15bdccb",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengim plementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengim plementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": []
+    },
+    {
+     "id": "ecd5c817-4722-5216-955d-58ea99b9fe1e",
+     "kode": "10215-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "62109f8b-5132-5bfc-b587-15dfe37569fb",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e9bd15ef-f2d8-5956-abf1-b4de4e63ccf3",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "af903ade-58d5-5f80-9955-dd0ed496edd8",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Provinsi bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Provinsi bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "eb69aabe-8822-5b58-ba71-6f5e515feb5b",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "5f85a878-0631-59c7-b8e8-8616692ed31f",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1b47533b-a8ac-5d3b-8c10-4f1b54bf485c",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "591cca7b-19a5-57c0-841b-17d8ab6f05c6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengim plementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengim plementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a56fd360-ed0b-5d4a-b223-532a2084deb6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengim plementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengim plementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "e9c8ddc7-c853-58a5-9238-4443f547ad25",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) Bulan ke depan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) Bulan ke depan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d0c300d3-a5a1-52d5-9d68-4a423fae3784",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa: a. Spesifikasi mesin dan/atau daftar peralatan b. Foto mesin/ peralatan c. Perjanjian jual beli/sewa yang membukti-kan: 1) Penguasaan (kepemilikan/ sewa) mesin untuk menghasilkan produk industri makanan dan minuman serta peralatan pengujian kualitas produk 2) Kesesuaian kapasitas produksi terpasang pada data usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa: a. Spesifikasi mesin dan/atau daftar peralatan b. Foto mesin/ peralatan c. Perjanjian jual beli/sewa yang membukti-kan: 1) Penguasaan (kepemilikan/ sewa) mesin untuk menghasilkan produk industri makanan dan minuman serta peralatan pengujian kualitas produk 2) Kesesuaian kapasitas produksi terpasang pada data usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4901c10b-4e23-57a1-bb83-c132479fade4",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen bagan alur: a. Pengadaan, penerimaan, penyimpanan bahan baku, b. Proses produksi, c. Proses quality control d. Pengemasan, penyimpanan, pengangkutan dan distribusi hasil produksi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen bagan alur: a. Pengadaan, penerimaan, penyimpanan bahan baku, b. Proses produksi, c. Proses quality control d. Pengemasan, penyimpanan, pengangkutan dan distribusi hasil produksi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "23ea0bc7-c03b-5ab5-b007-84161e7014dc",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen perencanaan tata letak Fasilitas pabrik/plan layout facilities sesuai dengan bagan alur proses produksi yang membuktikan lokasi pabrik/usaha jauh dari sumber pencemar untuk melindungi pangan olahan yang diproduksi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen perencanaan tata letak Fasilitas pabrik/plan layout facilities sesuai dengan bagan alur proses produksi yang membuktikan lokasi pabrik/usaha jauh dari sumber pencemar untuk melindungi pangan olahan yang diproduksi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "ee5de2b7-5459-5d87-848c-6e0f5371d626",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d940458a-4609-4b90-9bb5-617ce9111f8f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "7a95258a-2889-422e-83d6-6cb9cc14569f",
+    "kode": "019",
+    "localization": {
+     "en": {
+      "uraian": "Perindustrian",
+      "deskripsi": "Kementerian Perindustrian"
+     },
+     "id": {
+      "uraian": "Perindustrian",
+      "deskripsi": "Kementerian Perindustrian"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "244dd1b6-5c14-5b8a-94da-e0e915b3378d",
+   "localization": {
+    "en": {
+     "uraian": "Pembuatan terasi ikan",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Pembuatan terasi ikan",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "57916560-1f67-5853-bbb8-6c901b47cab7",
+    "localization": {
+     "en": {
+      "judul": "Pengolahan dan Pengawetan Ikan dengan Fermentasi",
+      "uraian": "Kelompok ini mencakup kegiatan pengolahan dan pengawetan ikan bersirip melalui proses fermentasi, seperti fermentasi untuk ikan peda dan ikan kayu, serta pembuatan kecap ikan dan terasi ikan."
+     },
+     "id": {
+      "judul": "Pengolahan dan Pengawetan Ikan dengan Fermentasi",
+      "uraian": "Kelompok ini mencakup kegiatan pengolahan dan pengawetan ikan bersirip melalui proses fermentasi, seperti fermentasi untuk ikan peda dan ikan kayu, serta pembuatan kecap ikan dan terasi ikan."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "84793927-f61e-5547-8c4a-ed1271960459",
+     "kode": "10215-01-05",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "1dd39f5d-ac3f-5dc4-9e14-74efe70837c0",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f535109d-8ef9-54e2-8931-c222beed0a02",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e8ee878e-9759-56b8-b24c-e72c966165f6",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "91cbabcf-60d9-5116-b9fb-ef3ae3f05c41",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "9c6ba2cc-c690-5d64-b0c3-35493ff60ae5",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kabupaten/ Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kabupaten/ Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "d83b850d-f554-5dbf-abd9-e7309b5d0261",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "3bcbdd3d-c0ce-5124-8c3f-d34638f1de19",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "bf405030-9bae-5272-a443-0cb98de27641",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "87fca724-2601-574d-a78d-97ebdc86e744",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": []
+    },
+    {
+     "id": "40cdb674-9dcb-55d0-a3a5-3c897864afe0",
+     "kode": "10215-02-06",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "14d912af-583b-555a-9ef3-401b2d689cb9",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "40d7642e-9cea-5d59-af00-1cab74af72f8",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e8ee878e-9759-56b8-b24c-e72c966165f6",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bc76c3ec-88a8-54ba-8e88-b077fc0dcd88",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "9c6ba2cc-c690-5d64-b0c3-35493ff60ae5",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kabupaten/ Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kabupaten/ Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "3c99fbdc-75df-5c2d-87b2-10cd1c18d1e9",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "c05fc872-7e00-5ad6-93eb-2e2be5772621",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "ae64f34d-cda5-5872-9df3-ef7fc7bbbaf7",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "46c7ab45-0746-52c8-b92f-76a79fc54704",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": []
+    },
+    {
+     "id": "650d74bf-cc71-5ddd-8aa3-09f3b1dcac1e",
+     "kode": "10215-03-07",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "5e18839b-18dd-4a5c-9b7b-375873aab601",
+      "localization": {
+       "en": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "09347c3f-fed0-5fd3-9fb9-a459100f9ad3",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "adfac77a-f3f5-5cdb-9364-0525282c7e78",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "e8ee878e-9759-56b8-b24c-e72c966165f6",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kabupaten/ Kota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Kabupaten/ Kota",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "34447234-3986-55dd-92a4-109636275af4",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "9c6ba2cc-c690-5d64-b0c3-35493ff60ae5",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Kabupaten/ Kota bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Kabupaten/ Kota bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "da967428-6a81-5f71-8397-7ef63dfe8081",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "3323f0ae-6601-532f-986e-ed6198471896",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b691136f-9af7-59c2-abd5-092b2f9a7562",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "85c29272-f811-5253-a249-f606657925aa",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliPersyaratans": [],
+     "KbliIzins": []
+    },
+    {
+     "id": "73059b53-8a97-546a-8067-f8549fb4daa9",
+     "kode": "10215-04-08",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliResikoKewenangans": [
+      {
+       "id": "6bda2cd0-c926-57f2-8fa9-24e35f000116",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "50662b5e-23fb-50f6-ad42-6b66cefcbf66",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada dalam satu hamparan lintas antar Provinsi",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d24115a4-23bd-5b74-8ad4-368a561e402e",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "af903ade-58d5-5f80-9955-dd0ed496edd8",
+        "local": {
+         "en": {
+          "uraian": "Lokasi industrinya berada pada Provinsi bersangkutan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Lokasi industrinya berada pada Provinsi bersangkutan",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1bf7d0b1-888b-570c-8e8a-b445aef6a159",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "f664e2a3-00e6-5bdc-af21-5fc603a5ca6b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti penyampaian wajib Data Industri tervalidasi setiap 6 (enam) bulan sekali sesuai peraturan perundang undangan di bidang perindustrian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c2c721da-b58d-5d41-8e3f-83578c17226f",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin keamanan dan keselamatan alat, proses, hasil produksi, penyimpanan, serta pengangkutan, sesuai peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0e0594b0-af99-52b8-8cdf-1ac0717d642b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan pengemasan produk, label, keterangan produk dan penyimpanan produk berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7c618a76-a843-5c45-b276-d9b4dc794400",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen SOP dan mengimplementasikan ketentuan hygiene dan sanitasi karyawan berdasarkan prinsip Cara Produksi Pangan Olahan yang Baik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "96624672-acae-5aff-9cbf-11a89449dc1e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) Bulan ke depan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen rencana penggunaan jenis, spesifikasi, jumlah, dan asal dari bahan baku, serta sumber dan jumlah/ besaran dari energi dan air baku, yang dibutuhkan untuk menjalankan kegiatan usaha industri dalam 1 (satu) siklus produksi atau selama lamanya 6 (enam) Bulan ke depan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9bab48b1-e8e3-5be7-aa60-a518d0ecf85a",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen berupa: a. Spesifikasi mesin dan/atau daftar peralatan b. Foto mesin/ peralatan c. Perjanjian jual beli/sewa yang membukti-kan: 1) Penguasaan (kepemilikan/ sewa) mesin untuk menghasilkan produk industri makanan dan minuman serta peralatan pengujian kualitas produk 2) Kesesuaian kapasitas produksi terpasang pada data usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen berupa: a. Spesifikasi mesin dan/atau daftar peralatan b. Foto mesin/ peralatan c. Perjanjian jual beli/sewa yang membukti-kan: 1) Penguasaan (kepemilikan/ sewa) mesin untuk menghasilkan produk industri makanan dan minuman serta peralatan pengujian kualitas produk 2) Kesesuaian kapasitas produksi terpasang pada data usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ad619d62-2ae4-5c12-9f48-c06ae64e74a8",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen bagan alur: a. Pengadaan, penerimaan, penyimpanan bahan baku, b. Proses produksi, c. Proses quality control d. Pengemasan, penyimpanan, pengangkutan dan distribusi hasil produksi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen bagan alur: a. Pengadaan, penerimaan, penyimpanan bahan baku, b. Proses produksi, c. Proses quality control d. Pengemasan, penyimpanan, pengangkutan dan distribusi hasil produksi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2691d9b1-f71b-5473-bb6f-43e4201ded84",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen perencanaan tata letak Fasilitas pabrik/plan layout facilities sesuai dengan bagan alur proses produksi yang membuktikan lokasi pabrik/usaha jauh dari sumber pencemar untuk melindungi pangan olahan yang diproduksi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen perencanaan tata letak Fasilitas pabrik/plan layout facilities sesuai dengan bagan alur proses produksi yang membuktikan lokasi pabrik/usaha jauh dari sumber pencemar untuk melindungi pangan olahan yang diproduksi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "672a4538-288e-53da-ae0f-4f382ed7dea6",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d940458a-4609-4b90-9bb5-617ce9111f8f",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "7a95258a-2889-422e-83d6-6cb9cc14569f",
+    "kode": "019",
+    "localization": {
+     "en": {
+      "uraian": "Perindustrian",
+      "deskripsi": "Kementerian Perindustrian"
+     },
+     "id": {
+      "uraian": "Perindustrian",
+      "deskripsi": "Kementerian Perindustrian"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "6986f766-0686-442a-a6d6-72a315e3a922",
+   "kode": "032000000023",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat Kelayakan Pengolahan (SKP)"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat Kelayakan Pengolahan (SKP)"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "066bd945-94b5-5a91-a70d-470d3b86936e",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Perizinan Berusaha Subsektor Pengolahan Ikan dan/atau Pemasaran Ikan."
+      },
+      "id": {
+       "syarat_perizinan": "Perizinan Berusaha Subsektor Pengolahan Ikan dan/atau Pemasaran Ikan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat Pengolah Ikan atau sertifikat keterampilan.dibidang keamanan pangan yang setara bagi penanggung jawab mutu."
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat Pengolah Ikan atau sertifikat keterampilan.dibidang keamanan pangan yang setara bagi penanggung jawab mutu."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Panduan mutu penerapan Cara Pengolahan Ikan yang Baik dan pemenuhan persyaratan Prosedur Operasi Standar Sanitasi."
+      },
+      "id": {
+       "syarat_perizinan": "Panduan mutu penerapan Cara Pengolahan Ikan yang Baik dan pemenuhan persyaratan Prosedur Operasi Standar Sanitasi."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Rekomendasi Kelayakan Pengolahan dari Pembina Mutu di Daerah."
+      },
+      "id": {
+       "syarat_perizinan": "Rekomendasi Kelayakan Pengolahan dari Pembina Mutu di Daerah."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat Pengolah Ikan atau sertifikat keterampilan dibidang keamanan pangan yang setara bagi penanggung jawab mutu."
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat Pengolah Ikan atau sertifikat keterampilan dibidang keamanan pangan yang setara bagi penanggung jawab mutu."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Perizinan Berusaha Subsektor Pengolahan Ikan dan/atau Pemasaran Ikan."
+      },
+      "id": {
+       "syarat_perizinan": "Perizinan Berusaha Subsektor Pengolahan Ikan dan/atau Pemasaran Ikan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memenuhi standar kelayakan pengolahan"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi standar kelayakan pengolahan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Panduan mutu penerapan Cara Pengolahan Ikan yang Baik dan pemenuhan persyaratan Prosedur Operasi Standar Sanitasi."
+      },
+      "id": {
+       "syarat_perizinan": "Panduan mutu penerapan Cara Pengolahan Ikan yang Baik dan pemenuhan persyaratan Prosedur Operasi Standar Sanitasi."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Panduan mutu penerapan cara pengolahan ikan yang baik dan pemenuhan persyaratan Prosedur Standar Operasi Sanitasi"
+      },
+      "id": {
+       "syarat_perizinan": "Panduan mutu penerapan cara pengolahan ikan yang baik dan pemenuhan persyaratan Prosedur Standar Operasi Sanitasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Rekomendasi Kelayakan Pengolahan dari Pembina Mutu di Daerah."
+      },
+      "id": {
+       "syarat_perizinan": "Rekomendasi Kelayakan Pengolahan dari Pembina Mutu di Daerah."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat pengolah ikan atau sertifikat keterampilan di bidang keamanan pangan yang setara bagi penanggung jawab mutu"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat pengolah ikan atau sertifikat keterampilan di bidang keamanan pangan yang setara bagi penanggung jawab mutu"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan hasil pembinaan"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan hasil pembinaan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan GMP dan SSOP pada proses penanganan dan/atau pengolahan hasil perikanan secara konsisten."
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan GMP dan SSOP pada proses penanganan dan/atau pengolahan hasil perikanan secara konsisten."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mencantumkan logo SKP pada produk perikanan dalam bentuk kemasan atau fotokopi SKP pada produk perikanan dalam bentuk curah."
+      },
+      "id": {
+       "syarat_perizinan": "Mencantumkan logo SKP pada produk perikanan dalam bentuk kemasan atau fotokopi SKP pada produk perikanan dalam bentuk curah."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan volume produksi, tujuan pemasaran, kendala yang dihadapi setiap 1 tahun sekali."
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan volume produksi, tujuan pemasaran, kendala yang dihadapi setiap 1 tahun sekali."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mencantumkan logo SKP pada produk perikanan dalam bentuk kemasan atau fotokopi SKP pada produk perikanan dalam bentuk curah."
+      },
+      "id": {
+       "syarat_perizinan": "Mencantumkan logo SKP pada produk perikanan dalam bentuk kemasan atau fotokopi SKP pada produk perikanan dalam bentuk curah."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan kegiatan usaha setiap 6 (enam) bulan sekali atau sewaktu-waktu apabila diperlukan yang memuat paling sedikit:"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan kegiatan usaha setiap 6 (enam) bulan sekali atau sewaktu-waktu apabila diperlukan yang memuat paling sedikit:"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Standar pelaksanaan usaha dan"
+      },
+      "id": {
+       "syarat_perizinan": "Standar pelaksanaan usaha dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan standar kelayakan pengolahan secara konsisten dan"
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan standar kelayakan pengolahan secara konsisten dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan volume produksi, tujuan pemasaran, kendala yang dihadapi setiap 1 tahun sekali."
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan volume produksi, tujuan pemasaran, kendala yang dihadapi setiap 1 tahun sekali."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan GMP dan SSOP pada proses penanganan dan/atau pengolahan hasil perikanan secara konsisten."
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan GMP dan SSOP pada proses penanganan dan/atau pengolahan hasil perikanan secara konsisten."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Perkembangan kegiatan usaha"
+      },
+      "id": {
+       "syarat_perizinan": "Perkembangan kegiatan usaha"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Menerapkan standar kelayakan pengolahan secara konsisten dan</p><ol style=\"list-style-type: lower-alpha;\"><li>Menyampaikan laporan kegiatan usaha setiap 6 (enam) bulan sekali atau sewaktu-waktu apabila diperlukan yang memuat paling sedikit:</li><li>Standar pelaksanaan usaha dan</li><li>Perkembangan kegiatan usaha</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menerapkan standar kelayakan pengolahan secara konsisten dan</p><ol style=\"list-style-type: lower-alpha;\"><li>Menyampaikan laporan kegiatan usaha setiap 6 (enam) bulan sekali atau sewaktu-waktu apabila diperlukan yang memuat paling sedikit:</li><li>Standar pelaksanaan usaha dan</li><li>Perkembangan kegiatan usaha</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "d63f36d7-15b1-4d8f-8f95-f0149e9f1e9a",
+    "kode": "032",
+    "localization": {
+     "en": {
+      "uraian": "Kelautan dan Perikanan",
+      "deskripsi": "Kementerian Kelautan dan Perikanan"
+     },
+     "id": {
+      "uraian": "Kelautan dan Perikanan",
+      "deskripsi": "Kementerian Kelautan dan Perikanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "582a522e-5a99-49eb-8716-50b83c7ee09e",
+   "kode": "032000000072",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat Penerapan Program Manajemen Mutu Terpadu/ Hazard Analysis and Critical Control Point"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat Penerapan Program Manajemen Mutu Terpadu/ Hazard Analysis and Critical Control Point"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "0016e52f-706e-48fb-904a-1af9179c2757",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "007ed740-5add-5fd6-a86d-4cce35e60252",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Perizinan Berusaha Subsektor Pengolahan Ikan dan/atau Pemasaran Ikan"
+      },
+      "id": {
+       "syarat_perizinan": "Perizinan Berusaha Subsektor Pengolahan Ikan dan/atau Pemasaran Ikan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Manual Hazard Analysis and Critical Control Point yang telah divalidasi"
+      },
+      "id": {
+       "syarat_perizinan": "Manual Hazard Analysis and Critical Control Point yang telah divalidasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil audit internal"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil audit internal"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat Penerapan Program Manajemen Mutu Terpadu/Hazard Analysis and Critical Control Point yang masih berlaku. (Khusus Permohonan Penambahan Ruang Lingkup dan Perpanjangan)"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat Penerapan Program Manajemen Mutu Terpadu/Hazard Analysis and Critical Control Point yang masih berlaku. (Khusus Permohonan Penambahan Ruang Lingkup dan Perpanjangan)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Nomor registrasi negara mitra bagi UPI yang mengalami penurunan peringkat Sertifikat Penerapan Program Manajemen Mutu Terpadu/Hazard Analysis and Critical Control Point (Khusus Permohonan Peninjauan Ulang Peringkat)"
+      },
+      "id": {
+       "syarat_perizinan": "Nomor registrasi negara mitra bagi UPI yang mengalami penurunan peringkat Sertifikat Penerapan Program Manajemen Mutu Terpadu/Hazard Analysis and Critical Control Point (Khusus Permohonan Peninjauan Ulang Peringkat)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Kontrak atau permintaan dari negara tujuan ekspor. (Khusus Permohonan Peninjauan Ulang Peringkat)"
+      },
+      "id": {
+       "syarat_perizinan": "Kontrak atau permintaan dari negara tujuan ekspor. (Khusus Permohonan Peninjauan Ulang Peringkat)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Kontrak atau permintaan dari negara tujuan ekspor (khusus permohonan peninjauan ulang peringkat)"
+      },
+      "id": {
+       "syarat_perizinan": "Kontrak atau permintaan dari negara tujuan ekspor (khusus permohonan peninjauan ulang peringkat)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Manual Hazard Analysis and Critical Control Point yang telah divalidasi"
+      },
+      "id": {
+       "syarat_perizinan": "Manual Hazard Analysis and Critical Control Point yang telah divalidasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Perizinan Berusaha Subsektor Pengolahan Ikan dan/atau Pemasaran Ikan"
+      },
+      "id": {
+       "syarat_perizinan": "Perizinan Berusaha Subsektor Pengolahan Ikan dan/atau Pemasaran Ikan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan hasil pembinaan"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan hasil pembinaan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Kontrak atau permintaan dari negara tujuan ekspor. (Khusus Permohonan Peninjauan Ulang Peringkat)"
+      },
+      "id": {
+       "syarat_perizinan": "Kontrak atau permintaan dari negara tujuan ekspor. (Khusus Permohonan Peninjauan Ulang Peringkat)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil audit internal"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil audit internal"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Manual Hazard Analysis and Critical Control Point yang telah divalidasi"
+      },
+      "id": {
+       "syarat_perizinan": "Manual Hazard Analysis and Critical Control Point yang telah divalidasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat Penerapan Program Manajemen Mutu Terpadu/Hazard Analysis and Critical Control Point yang masih berlaku. (Khusus Permohonan Penambahan Ruang Lingkup dan Perpanjangan)"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat Penerapan Program Manajemen Mutu Terpadu/Hazard Analysis and Critical Control Point yang masih berlaku. (Khusus Permohonan Penambahan Ruang Lingkup dan Perpanjangan)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat Penerapan Program Manajemen Mutu Terpadu/Hazard Analysis and Critical Control Point yang masih berlaku (khusus permohonan penambahan ruang lingkup dan perpanjangan)"
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat Penerapan Program Manajemen Mutu Terpadu/Hazard Analysis and Critical Control Point yang masih berlaku (khusus permohonan penambahan ruang lingkup dan perpanjangan)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil audit internal"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil audit internal"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Nomor registrasi negara mitra bagi UPI yang mengalami penurunan peringkat Sertifikat Penerapan Program Manajemen Mutu Terpadu/Hazard Analysis and Critical Control Point (Khusus Permohonan Peninjauan Ulang Peringkat)"
+      },
+      "id": {
+       "syarat_perizinan": "Nomor registrasi negara mitra bagi UPI yang mengalami penurunan peringkat Sertifikat Penerapan Program Manajemen Mutu Terpadu/Hazard Analysis and Critical Control Point (Khusus Permohonan Peninjauan Ulang Peringkat)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Nomor registrasi negara mitra bagi UPI yang mengalami penurunan peringkat Sertifikat Penerapan Program Manajemen Mutu Terpadu/Hazard Analysis and Critical Control Point (khusus permohonan peninjauan ulang peringkat)"
+      },
+      "id": {
+       "syarat_perizinan": "Nomor registrasi negara mitra bagi UPI yang mengalami penurunan peringkat Sertifikat Penerapan Program Manajemen Mutu Terpadu/Hazard Analysis and Critical Control Point (khusus permohonan peninjauan ulang peringkat)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan kegiatan usaha"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan kegiatan usaha"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Menjaga konsistensi penerapan Program Persyaratan Dasar (PPD), Sistem Hazard Analysis and Critical Control Point, dan Sistem Ketertelusuran dan</p><ol style=\"list-style-type: lower-alpha;\"><li>Menyampaikan laporan kegiatan usaha</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menjaga konsistensi penerapan Program Persyaratan Dasar (PPD), Sistem Hazard Analysis and Critical Control Point, dan Sistem Ketertelusuran dan</p><ol style=\"list-style-type: lower-alpha;\"><li>Menyampaikan laporan kegiatan usaha</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menjaga konsistensi penerapan Program Persyaratan Dasar (PPD), Sistem Hazard Analysis and Critical Control Point, dan Sistem Ketertelusuran dan"
+      },
+      "id": {
+       "syarat_perizinan": "Menjaga konsistensi penerapan Program Persyaratan Dasar (PPD), Sistem Hazard Analysis and Critical Control Point, dan Sistem Ketertelusuran dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "d63f36d7-15b1-4d8f-8f95-f0149e9f1e9a",
+    "kode": "032",
+    "localization": {
+     "en": {
+      "uraian": "Kelautan dan Perikanan",
+      "deskripsi": "Kementerian Kelautan dan Perikanan"
+     },
+     "id": {
+      "uraian": "Kelautan dan Perikanan",
+      "deskripsi": "Kementerian Kelautan dan Perikanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "aa9da3e9-3826-4b85-935e-a833859580db",
+   "kode": "063000000001",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Izin Edar Pangan Olahan"
+    },
+    "id": {
+     "nama_dokumen": "Izin Edar Pangan Olahan"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "000f31c8-fe34-52ce-b60c-18c471fb502b",
+     "parameter": "Non-Maklon",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "001f10e0-c2c4-5461-9a04-774460fb7f37",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "0026479f-1cdb-40f0-94bf-41bb43ee6563",
+     "parameter": "Maklon ",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "013fd520-34d2-5f79-8c60-e15e74d6a083",
+     "parameter": "Maklon",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "0252465a-7831-4e6c-a388-e4f48ae443e9",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar izin edar pangan olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar izin edar pangan olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Tata Laksana Pendaftaran Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Tata Laksana Pendaftaran Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Kategori Pangan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Kategori Pangan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Batas Maksimum Cemaran Logam Berat dalam Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Batas Maksimum Cemaran Logam Berat dalam Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Batas Maksimal Cemaran Mikroba dalam Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Batas Maksimal Cemaran Mikroba dalam Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Batas Maksimum Cemaran Kimia dalam Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Batas Maksimum Cemaran Kimia dalam Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Bahan Baku yang Dilarang dalam Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Bahan Baku yang Dilarang dalam Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Bahan Tambahan Pangan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Bahan Tambahan Pangan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Persyaratan Bahan Tambahan Pangan Campuran (berlaku untuk Bahan Tambahan Pangan);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Persyaratan Bahan Tambahan Pangan Campuran (berlaku untuk Bahan Tambahan Pangan);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Bahan Tambahan Pangan Perisa;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Bahan Tambahan Pangan Perisa;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Bahan Penolong dalam Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Bahan Penolong dalam Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Pengawasan Klaim Pada Label dan Iklan Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Pengawasan Klaim Pada Label dan Iklan Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Pengawasan Pangan Olahan Untuk Keperluan Gizi Khusus (berlaku hanya untuk PKGK);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Pengawasan Pangan Olahan Untuk Keperluan Gizi Khusus (berlaku hanya untuk PKGK);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Pangan Iradiasi (berlaku untuk pangan iradiasi);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Pangan Iradiasi (berlaku untuk pangan iradiasi);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Pengawasan Produk Rekayasa Genetik (berlaku untuk pangan produk rekayasa genetik (PRG));"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Pengawasan Produk Rekayasa Genetik (berlaku untuk pangan produk rekayasa genetik (PRG));"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Persyaratan Pangan Steril Komersial (berlaku untuk pangan yang diproses dengan sterilisasi komersial);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Persyaratan Pangan Steril Komersial (berlaku untuk pangan yang diproses dengan sterilisasi komersial);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Kodeks Makanan Indonesia (berlaku untuk Bahan Tambahan Pangan);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Kodeks Makanan Indonesia (berlaku untuk Bahan Tambahan Pangan);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Batas Maksimum Melamin dalam Pangan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Batas Maksimum Melamin dalam Pangan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Kemasan Pangan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Kemasan Pangan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Keamanan dan Mutu Minuman Beralkohol;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Keamanan dan Mutu Minuman Beralkohol;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Label Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Label Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Informasi Nilai Gizi pada Label Pangan Olahan (Dikecualikan untuk Minuman Beralkohol);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Informasi Nilai Gizi pada Label Pangan Olahan (Dikecualikan untuk Minuman Beralkohol);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Acuan Label Gizi (Dikecualikan untuk Minuman Beralkohol);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Acuan Label Gizi (Dikecualikan untuk Minuman Beralkohol);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Persyaratan Penambahan Zat Gizi dan Zat Non gizi dalam Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Persyaratan Penambahan Zat Gizi dan Zat Non gizi dalam Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Pencantuman Informasi Nilai Gizi untuk Pangan Olahan yang Diproduksi Oleh Usaha Mikro dan Usaha Kecil (Dikecualikan untuk Minuman Beralkohol);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Pencantuman Informasi Nilai Gizi untuk Pangan Olahan yang Diproduksi Oleh Usaha Mikro dan Usaha Kecil (Dikecualikan untuk Minuman Beralkohol);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Penerapan 2D Barcode dalam Pengawasan Obat dan Makanan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Penerapan 2D Barcode dalam Pengawasan Obat dan Makanan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Pengkajian Keamanan, Mutu, Gizi, Manfaat dan Label Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Standar Pengkajian Keamanan, Mutu, Gizi, Manfaat dan Label Pangan Olahan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Batas Maksimal Cemaran Mikroba dalam Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Batas Maksimal Cemaran Mikroba dalam Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Acuan Label Gizi (Dikecualikan untuk Minuman Beralkohol);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Acuan Label Gizi (Dikecualikan untuk Minuman Beralkohol);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Pangan Iradiasi (berlaku untuk pangan iradiasi);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Pangan Iradiasi (berlaku untuk pangan iradiasi);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Batas Maksimum Melamin dalam Pangan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Batas Maksimum Melamin dalam Pangan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Pengawasan Produk Rekayasa Genetik (berlaku untuk pangan produk rekayasa genetik (PRG));"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Pengawasan Produk Rekayasa Genetik (berlaku untuk pangan produk rekayasa genetik (PRG));"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Persyaratan Pangan Steril Komersial (berlaku untuk pangan yang diproses dengan sterilisasi komersial);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Persyaratan Pangan Steril Komersial (berlaku untuk pangan yang diproses dengan sterilisasi komersial);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Pencantuman Informasi Nilai Gizi untuk Pangan Olahan yang Diproduksi Oleh Usaha Mikro dan Usaha Kecil (Dikecualikan untuk Minuman Beralkohol);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Pencantuman Informasi Nilai Gizi untuk Pangan Olahan yang Diproduksi Oleh Usaha Mikro dan Usaha Kecil (Dikecualikan untuk Minuman Beralkohol);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Penerapan 2D Barcode dalam Pengawasan Obat dan Makanan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Penerapan 2D Barcode dalam Pengawasan Obat dan Makanan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Kodeks Makanan Indonesia (berlaku untuk Bahan Tambahan Pangan);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Kodeks Makanan Indonesia (berlaku untuk Bahan Tambahan Pangan);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Pengkajian Keamanan, Mutu, Gizi, Manfaat dan Label Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Standar Pengkajian Keamanan, Mutu, Gizi, Manfaat dan Label Pangan Olahan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Kategori Pangan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Kategori Pangan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Bahan Baku yang Dilarang dalam Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Bahan Baku yang Dilarang dalam Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Informasi Nilai Gizi pada Label Pangan Olahan (Dikecualikan untuk Minuman Beralkohol);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Informasi Nilai Gizi pada Label Pangan Olahan (Dikecualikan untuk Minuman Beralkohol);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Bahan Tambahan Pangan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Bahan Tambahan Pangan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Batas Maksimum Cemaran Logam Berat dalam Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Batas Maksimum Cemaran Logam Berat dalam Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Batas Maksimum Cemaran Kimia dalam Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Batas Maksimum Cemaran Kimia dalam Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Persyaratan Penambahan Zat Gizi dan Zat Non gizi dalam Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Persyaratan Penambahan Zat Gizi dan Zat Non gizi dalam Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Keamanan dan Mutu Minuman Beralkohol;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Keamanan dan Mutu Minuman Beralkohol;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Bahan Tambahan Pangan Perisa;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Bahan Tambahan Pangan Perisa;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Pengawasan Pangan Olahan Untuk Keperluan Gizi Khusus (berlaku hanya untuk PKGK);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Pengawasan Pangan Olahan Untuk Keperluan Gizi Khusus (berlaku hanya untuk PKGK);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Persyaratan Bahan Tambahan Pangan Campuran (berlaku untuk Bahan Tambahan Pangan);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Persyaratan Bahan Tambahan Pangan Campuran (berlaku untuk Bahan Tambahan Pangan);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Label Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Label Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Pengawasan Klaim Pada Label dan Iklan Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Pengawasan Klaim Pada Label dan Iklan Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Bahan Penolong dalam Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Bahan Penolong dalam Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar izin edar pangan olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar izin edar pangan olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Kemasan Pangan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Kemasan Pangan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Tata Laksana Pendaftaran Pangan Olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Tata Laksana Pendaftaran Pangan Olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "$7f"
+      },
+      "id": {
+       "syarat_perizinan": "$80"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "$81"
+      },
+      "id": {
+       "syarat_perizinan": "$82"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "9011ff2d-05de-4ecf-937a-42366e3ddeae",
+    "kode": "063",
+    "localization": {
+     "en": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     },
+     "id": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "12e73ffa-e216-4964-ba08-cad1e098c62a",
+   "kode": "063000000033",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat Pemenuhan Komitmen Pangan Olahan"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat Pemenuhan Komitmen Pangan Olahan"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "00b4b0be-73eb-5e54-a4c9-f9cfc6c8cfa2",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "00c280c1-6a06-4c1c-bc79-771210ca16ee",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar pemenuhan komitmen pangan olahan"
+      },
+      "id": {
+       "syarat_perizinan": "Standar pemenuhan komitmen pangan olahan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar pemenuhan komitmen pangan olahan"
+      },
+      "id": {
+       "syarat_perizinan": "Standar pemenuhan komitmen pangan olahan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Menjamin keamanan, mutu, gizi dan label pangan olahan dengan memenuhi:</p>\n<ol>\n<li>Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik;</li>\n<li>Standar Tata Laksana Pendaftaran Pangan Olahan; dan</li>\n<li>Standar keamanan, mutu, dan label pangan olahan.</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menjamin keamanan, mutu, gizi dan label pangan olahan dengan memenuhi:</p>\n<ol>\n<li>Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik;</li>\n<li>Standar Tata Laksana Pendaftaran Pangan Olahan; dan</li>\n<li>Standar keamanan, mutu, dan label pangan olahan.</li>\n</ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Menjamin keamanan, mutu, gizi dan label pangan olahan dengan memenuhi:</p>\n<ol>\n<li>Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik;</li>\n<li>Standar Tata Laksana Pendaftaran Pangan Olahan; dan</li>\n<li>Standar keamanan, mutu, dan label pangan olahan.</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menjamin keamanan, mutu, gizi dan label pangan olahan dengan memenuhi:</p>\n<ol>\n<li>Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik;</li>\n<li>Standar Tata Laksana Pendaftaran Pangan Olahan; dan</li>\n<li>Standar keamanan, mutu, dan label pangan olahan.</li>\n</ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "9011ff2d-05de-4ecf-937a-42366e3ddeae",
+    "kode": "063",
+    "localization": {
+     "en": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     },
+     "id": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "9833c6ac-5424-4e57-af92-8fc8cdd06019",
+   "kode": "063000000034",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat Persetujuan Pangan Olahan Wajib SNI"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat Persetujuan Pangan Olahan Wajib SNI"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "00600d37-a9a7-5010-9556-9dae4f317fd0",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "065db618-b6d9-48a5-b6ec-3c3e080bd2d1",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar persetujuan pangan olahan wajib SNI;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar persetujuan pangan olahan wajib SNI;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik (jika dalam sertifikat SNI belum mengakomodasi Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik (jika dalam sertifikat SNI belum mengakomodasi Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Nasional Indonesia (SNI) yang diberlakukan wajib untuk Pangan Olahan antara lain Air Mineral Alami, Air Embun, Air Mineral, Air Demineral, Garam Konsumsi Beryodium, Gula Kristal Putih, Kakao Bubuk, Kopi Instan, Tuna dalam Kaleng, Sarden dan Makarel dalam Kaleng, Tepung Terigu, dan Minyak Goreng Sawit."
+      },
+      "id": {
+       "syarat_perizinan": "Standar Nasional Indonesia (SNI) yang diberlakukan wajib untuk Pangan Olahan antara lain Air Mineral Alami, Air Embun, Air Mineral, Air Demineral, Garam Konsumsi Beryodium, Gula Kristal Putih, Kakao Bubuk, Kopi Instan, Tuna dalam Kaleng, Sarden dan Makarel dalam Kaleng, Tepung Terigu, dan Minyak Goreng Sawit."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik (jika dalam sertifikat SNI belum mengakomodasi Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik);"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik (jika dalam sertifikat SNI belum mengakomodasi Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik);"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Nasional Indonesia (SNI) yang diberlakukan wajib untuk Pangan Olahan antara lain Air Mineral Alami, Air Embun, Air Mineral, Air Demineral, Garam Konsumsi Beryodium, Gula Kristal Putih, Kakao Bubuk, Kopi Instan, Tuna dalam Kaleng, Sarden dan Makarel dalam Kaleng, Tepung Terigu, dan Minyak Goreng Sawit."
+      },
+      "id": {
+       "syarat_perizinan": "Standar Nasional Indonesia (SNI) yang diberlakukan wajib untuk Pangan Olahan antara lain Air Mineral Alami, Air Embun, Air Mineral, Air Demineral, Garam Konsumsi Beryodium, Gula Kristal Putih, Kakao Bubuk, Kopi Instan, Tuna dalam Kaleng, Sarden dan Makarel dalam Kaleng, Tepung Terigu, dan Minyak Goreng Sawit."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar persetujuan pangan olahan wajib SNI;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar persetujuan pangan olahan wajib SNI;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Menjamin keamanan, mutu, gizi dan label pangan olahan dengan memenuhi:</p>\n<ol>\n<li>Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik,</li>\n<li>Standar Tata Laksana Pendaftaran Pangan Olahan;</li>\n<li>Standar Nasional Indonesia (SNI) yang diberlakukan wajib untuk Pangan Olahan antara lain Air Mineral Alami, Air Embun, Air Mineral, Air Demineral, Garam Konsumsi Beryodium, Gula Kristal Putih, Kakao Bubuk, Kopi Instan, Tuna dalam Kaleng, Sarden dan Makarel dalam Kaleng, Tepung Terigu, dan Minyak Goreng Sawit; dan</li>\n<li>Standar keamanan, mutu, dan label pangan olahan.</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menjamin keamanan, mutu, gizi dan label pangan olahan dengan memenuhi:</p>\n<ol>\n<li>Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik,</li>\n<li>Standar Tata Laksana Pendaftaran Pangan Olahan;</li>\n<li>Standar Nasional Indonesia (SNI) yang diberlakukan wajib untuk Pangan Olahan antara lain Air Mineral Alami, Air Embun, Air Mineral, Air Demineral, Garam Konsumsi Beryodium, Gula Kristal Putih, Kakao Bubuk, Kopi Instan, Tuna dalam Kaleng, Sarden dan Makarel dalam Kaleng, Tepung Terigu, dan Minyak Goreng Sawit; dan</li>\n<li>Standar keamanan, mutu, dan label pangan olahan.</li>\n</ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Menjamin keamanan, mutu, gizi dan label pangan olahan dengan memenuhi:</p>\n<ol>\n<li>Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik,</li>\n<li>Standar Tata Laksana Pendaftaran Pangan Olahan;</li>\n<li>Standar Nasional Indonesia (SNI) yang diberlakukan wajib untuk Pangan Olahan antara lain Air Mineral Alami, Air Embun, Air Mineral, Air Demineral, Garam Konsumsi Beryodium, Gula Kristal Putih, Kakao Bubuk, Kopi Instan, Tuna dalam Kaleng, Sarden dan Makarel dalam Kaleng, Tepung Terigu, dan Minyak Goreng Sawit; dan</li>\n<li>Standar keamanan, mutu, dan label pangan olahan.</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menjamin keamanan, mutu, gizi dan label pangan olahan dengan memenuhi:</p>\n<ol>\n<li>Standar Cara Produksi dan/atau Distribusi Pangan Olahan yang Baik,</li>\n<li>Standar Tata Laksana Pendaftaran Pangan Olahan;</li>\n<li>Standar Nasional Indonesia (SNI) yang diberlakukan wajib untuk Pangan Olahan antara lain Air Mineral Alami, Air Embun, Air Mineral, Air Demineral, Garam Konsumsi Beryodium, Gula Kristal Putih, Kakao Bubuk, Kopi Instan, Tuna dalam Kaleng, Sarden dan Makarel dalam Kaleng, Tepung Terigu, dan Minyak Goreng Sawit; dan</li>\n<li>Standar keamanan, mutu, dan label pangan olahan.</li>\n</ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "9011ff2d-05de-4ecf-937a-42366e3ddeae",
+    "kode": "063",
+    "localization": {
+     "en": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     },
+     "id": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "8a0d10a7-be6f-4130-a81a-e36b151b3f50",
+   "kode": "063000000036",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat Pemenuhan Komitmen Variasi Minor Pangan Olahan"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat Pemenuhan Komitmen Variasi Minor Pangan Olahan"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "01bc6947-6cad-4780-90bd-1f51e89ea5aa",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP (untuk pangan risiko Menengah Tinggi dan Tinggi)"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP (untuk pangan risiko Menengah Tinggi dan Tinggi)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen teknis keamanan, mutu, gizi, dan label sesuai dengan perubahan yang diajukan mengacu pada Standar dan/atau Persyaratan Penerbitan Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen teknis keamanan, mutu, gizi, dan label sesuai dengan perubahan yang diajukan mengacu pada Standar dan/atau Persyaratan Penerbitan Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar pemenuhan komitmen variasi minor pangan olahan"
+      },
+      "id": {
+       "syarat_perizinan": "Standar pemenuhan komitmen variasi minor pangan olahan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar pemenuhan komitmen variasi minor pangan olahan"
+      },
+      "id": {
+       "syarat_perizinan": "Standar pemenuhan komitmen variasi minor pangan olahan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen teknis keamanan, mutu, gizi, dan label sesuai dengan perubahan yang diajukan mengacu pada Standar dan/atau Persyaratan Penerbitan Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen teknis keamanan, mutu, gizi, dan label sesuai dengan perubahan yang diajukan mengacu pada Standar dan/atau Persyaratan Penerbitan Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP (untuk pangan risiko Menengah Tinggi dan Tinggi)"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP (untuk pangan risiko Menengah Tinggi dan Tinggi)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi Standar Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi Standar Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi kriteria keamanan, mutu, gizi, dan label sesuai dengan ketentuan peraturan perundang-undangan."
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi kriteria keamanan, mutu, gizi, dan label sesuai dengan ketentuan peraturan perundang-undangan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sesuai dengan kewajiban sertifikat pemenuhan komitmen, sertifikat persetujuan, atau izin edar."
+      },
+      "id": {
+       "syarat_perizinan": "Sesuai dengan kewajiban sertifikat pemenuhan komitmen, sertifikat persetujuan, atau izin edar."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi kriteria keamanan, mutu, gizi, dan label sesuai dengan ketentuan peraturan perundang-undangan."
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi kriteria keamanan, mutu, gizi, dan label sesuai dengan ketentuan peraturan perundang-undangan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sesuai dengan kewajiban sertifikat pemenuhan komitmen, sertifikat persetujuan, atau izin edar."
+      },
+      "id": {
+       "syarat_perizinan": "Sesuai dengan kewajiban sertifikat pemenuhan komitmen, sertifikat persetujuan, atau izin edar."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi Standar Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi Standar Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "9011ff2d-05de-4ecf-937a-42366e3ddeae",
+    "kode": "063",
+    "localization": {
+     "en": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     },
+     "id": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "8dbccfb2-ad01-43bc-8923-4b296b6b31ce",
+   "kode": "063000000037",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat Pemenuhan Komitmen Variasi Mayor Pangan Olahan"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat Pemenuhan Komitmen Variasi Mayor Pangan Olahan"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "003616e1-344d-4301-a588-d68127bcd236",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "009227c9-8789-56eb-9925-4c784430df02",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen teknis keamanan, mutu, gizi, dan label sesuai dengan perubahan yang diajukan mengacu pada Standar dan/atau Persyaratan Penerbitan Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen teknis keamanan, mutu, gizi, dan label sesuai dengan perubahan yang diajukan mengacu pada Standar dan/atau Persyaratan Penerbitan Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar pemenuhan komitmen variasi mayor pangan olahan"
+      },
+      "id": {
+       "syarat_perizinan": "Standar pemenuhan komitmen variasi mayor pangan olahan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen teknis keamanan, mutu, gizi, dan label sesuai dengan perubahan yang diajukan mengacu pada Standar dan/atau Persyaratan Penerbitan Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen teknis keamanan, mutu, gizi, dan label sesuai dengan perubahan yang diajukan mengacu pada Standar dan/atau Persyaratan Penerbitan Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar pemenuhan komitmen variasi mayor pangan olahan"
+      },
+      "id": {
+       "syarat_perizinan": "Standar pemenuhan komitmen variasi mayor pangan olahan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi Standar Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi Standar Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi kriteria keamanan, mutu, gizi, dan label sesuai dengan ketentuan peraturan perundang-undangan."
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi kriteria keamanan, mutu, gizi, dan label sesuai dengan ketentuan peraturan perundang-undangan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sesuai dengan kewajiban sertifikat pemenuhan komitmen."
+      },
+      "id": {
+       "syarat_perizinan": "Sesuai dengan kewajiban sertifikat pemenuhan komitmen."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi Standar Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi Standar Sertifikat Pemenuhan Komitmen Pangan Olahan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sesuai dengan kewajiban sertifikat pemenuhan komitmen."
+      },
+      "id": {
+       "syarat_perizinan": "Sesuai dengan kewajiban sertifikat pemenuhan komitmen."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi kriteria keamanan, mutu, gizi, dan label sesuai dengan ketentuan peraturan perundang-undangan."
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi kriteria keamanan, mutu, gizi, dan label sesuai dengan ketentuan peraturan perundang-undangan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "9011ff2d-05de-4ecf-937a-42366e3ddeae",
+    "kode": "063",
+    "localization": {
+     "en": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     },
+     "id": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "b9b0291d-4d16-42c2-b18f-b8eb6669a78f",
+   "kode": "063000000038",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat Persetujuan Variasi Mayor Pangan Olahan Wajib SNI"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat Persetujuan Variasi Mayor Pangan Olahan Wajib SNI"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "00b09fec-b36e-5a5f-8a0b-79fc32e47381",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "03ab7d54-d043-4b17-9e54-defd319d3f55",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar persetujuan variasi mayor pangan olahan wajib SNI"
+      },
+      "id": {
+       "syarat_perizinan": "Standar persetujuan variasi mayor pangan olahan wajib SNI"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar persetujuan variasi mayor pangan olahan wajib SNI"
+      },
+      "id": {
+       "syarat_perizinan": "Standar persetujuan variasi mayor pangan olahan wajib SNI"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sesuai dengan kewajiban sertifikat persetujuan."
+      },
+      "id": {
+       "syarat_perizinan": "Sesuai dengan kewajiban sertifikat persetujuan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sesuai dengan kewajiban sertifikat persetujuan."
+      },
+      "id": {
+       "syarat_perizinan": "Sesuai dengan kewajiban sertifikat persetujuan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "9011ff2d-05de-4ecf-937a-42366e3ddeae",
+    "kode": "063",
+    "localization": {
+     "en": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     },
+     "id": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "7a65876c-f91a-4dab-87e4-e8e9b6830df2",
+   "kode": "063000000039",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Izin Variasi Nama Produsen Pangan Olahan"
+    },
+    "id": {
+     "nama_dokumen": "Izin Variasi Nama Produsen Pangan Olahan"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "004a071b-2571-58f4-933c-cf6214c420db",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "08d83e16-cb28-44f4-adf9-8e28dec62c6d",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar izin variasi nama produsen pangan olahan"
+      },
+      "id": {
+       "syarat_perizinan": "Standar izin variasi nama produsen pangan olahan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar izin variasi nama produsen pangan olahan"
+      },
+      "id": {
+       "syarat_perizinan": "Standar izin variasi nama produsen pangan olahan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "9011ff2d-05de-4ecf-937a-42366e3ddeae",
+    "kode": "063",
+    "localization": {
+     "en": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     },
+     "id": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "04efcbca-2d5e-4088-a570-6720e267c992",
+   "kode": "063000000041",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Izin Variasi Mayor Pangan Olahan"
+    },
+    "id": {
+     "nama_dokumen": "Izin Variasi Mayor Pangan Olahan"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "00945ff5-3728-5306-9b40-9738f73f7a11",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen administratif; dan/atau"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen administratif; dan/atau"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen teknis keamanan, mutu, gizi, dan label, sesuai dengan perubahan yang diajukan mengacu pada Standar dan/atau Persyaratan Penerbitan Izin Edar Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen teknis keamanan, mutu, gizi, dan label, sesuai dengan perubahan yang diajukan mengacu pada Standar dan/atau Persyaratan Penerbitan Izin Edar Pangan Olahan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar izin variasi mayor pangan olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar izin variasi mayor pangan olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar lainnya yang berlaku pada izin edar."
+      },
+      "id": {
+       "syarat_perizinan": "Standar lainnya yang berlaku pada izin edar."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen teknis keamanan, mutu, gizi, dan label, sesuai dengan perubahan yang diajukan mengacu pada Standar dan/atau Persyaratan Penerbitan Izin Edar Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen teknis keamanan, mutu, gizi, dan label, sesuai dengan perubahan yang diajukan mengacu pada Standar dan/atau Persyaratan Penerbitan Izin Edar Pangan Olahan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen administratif; dan/atau"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen administratif; dan/atau"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar lainnya yang berlaku pada izin edar."
+      },
+      "id": {
+       "syarat_perizinan": "Standar lainnya yang berlaku pada izin edar."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar izin variasi mayor pangan olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar izin variasi mayor pangan olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi Standar Izin Edar Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi Standar Izin Edar Pangan Olahan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi kriteria keamanan, mutu, gizi, dan Label sesuai dengan ketentuan peraturan perundang-undangan."
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi kriteria keamanan, mutu, gizi, dan Label sesuai dengan ketentuan peraturan perundang-undangan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sesuai dengan kewajiban izin edar."
+      },
+      "id": {
+       "syarat_perizinan": "Sesuai dengan kewajiban izin edar."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Sesuai dengan kewajiban izin edar."
+      },
+      "id": {
+       "syarat_perizinan": "Sesuai dengan kewajiban izin edar."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi kriteria keamanan, mutu, gizi, dan Label sesuai dengan ketentuan peraturan perundang-undangan."
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi kriteria keamanan, mutu, gizi, dan Label sesuai dengan ketentuan peraturan perundang-undangan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi Standar Izin Edar Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi Standar Izin Edar Pangan Olahan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "9011ff2d-05de-4ecf-937a-42366e3ddeae",
+    "kode": "063",
+    "localization": {
+     "en": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     },
+     "id": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "4a4fa1ff-5a5f-4935-bc47-0f65d7e0d576",
+   "kode": "063000000045",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Persetujuan Pelaksanaan Uji Klinik Pangan Olahan"
+    },
+    "id": {
+     "nama_dokumen": "Persetujuan Pelaksanaan Uji Klinik Pangan Olahan"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "001edaf8-9dc3-546a-aaa3-a4c5d10ab787",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "01ee7f7d-62e0-471d-b93a-9fd21ab3e7d1",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar dan Persyaratan Persetujuan Pelaksanaan Uji Klinik"
+      },
+      "id": {
+       "syarat_perizinan": "Standar dan Persyaratan Persetujuan Pelaksanaan Uji Klinik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar dan Persyaratan Persetujuan Pelaksanaan Uji Klinik"
+      },
+      "id": {
+       "syarat_perizinan": "Standar dan Persyaratan Persetujuan Pelaksanaan Uji Klinik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan Uji Klinik sesuai dengan metodologi dalam protokol yang disetujui dan standar Cara Uji Klinik yang Baik"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan Uji Klinik sesuai dengan metodologi dalam protokol yang disetujui dan standar Cara Uji Klinik yang Baik"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan Uji Klinik sesuai dengan metodologi dalam protokol yang disetujui dan standar Cara Uji Klinik yang Baik"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan Uji Klinik sesuai dengan metodologi dalam protokol yang disetujui dan standar Cara Uji Klinik yang Baik"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "9011ff2d-05de-4ecf-937a-42366e3ddeae",
+    "kode": "063",
+    "localization": {
+     "en": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     },
+     "id": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "602b4431-2bba-4679-8a04-dca79ec26b32",
+   "kode": "063000000047",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat Pemenuhan Komitmen Produksi Pangan Olahan Industri Rumah Tangga (SPP-IRT)"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat Pemenuhan Komitmen Produksi Pangan Olahan Industri Rumah Tangga (SPP-IRT)"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "0031f321-e176-4f38-97eb-f772b9a68212",
+     "parameter": "Pangan olahan tertentu yang diproduksi oleh industri rumah tangga",
+     "kewenangan": "Bupati/Walikota"
+    },
+    {
+     "id": "2f7afc9b-3696-5294-9a50-89041229a822",
+     "parameter": "Produk Minuman Serbuk",
+     "kewenangan": "Bupati/Walikota"
+    },
+    {
+     "id": "3350d9d1-cc21-50de-a0b1-2a2c60d2b7fa",
+     "parameter": "Produk Minuman Ringan",
+     "kewenangan": "Bupati/Walikota"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Mengikuti Penyuluhan Keamanan Pangan"
+      },
+      "id": {
+       "syarat_perizinan": "Mengikuti Penyuluhan Keamanan Pangan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memenuhi persyaratan Cara Produksi Pangan yang Baik untuk Industri rumah Tangga (CPPB-IRT) atau higiene, sanitasi dan dokumentasi"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi persyaratan Cara Produksi Pangan yang Baik untuk Industri rumah Tangga (CPPB-IRT) atau higiene, sanitasi dan dokumentasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memenuhi persyaratan keamanan, mutu, label dan iklan pangan olahan"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi persyaratan keamanan, mutu, label dan iklan pangan olahan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memenuhi persyaratan Cara Produksi Pangan yang Baik untuk Industri rumah Tangga (CPPB-IRT) atau higiene, sanitasi dan dokumentasi"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi persyaratan Cara Produksi Pangan yang Baik untuk Industri rumah Tangga (CPPB-IRT) atau higiene, sanitasi dan dokumentasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Mengikuti Penyuluhan Keamanan Pangan"
+      },
+      "id": {
+       "syarat_perizinan": "Mengikuti Penyuluhan Keamanan Pangan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memenuhi persyaratan keamanan, mutu, label dan iklan pangan olahan"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi persyaratan keamanan, mutu, label dan iklan pangan olahan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "-"
+      },
+      "id": {
+       "syarat_perizinan": "-"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "-"
+      },
+      "id": {
+       "syarat_perizinan": "-"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "9011ff2d-05de-4ecf-937a-42366e3ddeae",
+    "kode": "063",
+    "localization": {
+     "en": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     },
+     "id": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "2dd1cacc-b224-42da-9d5b-9b14296101a7",
+   "kode": "063000000048",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Izin Penerapan Cara Produksi Pangan Olahan yang Baik"
+    },
+    "id": {
+     "nama_dokumen": "Izin Penerapan Cara Produksi Pangan Olahan yang Baik"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "004ee994-6c06-5046-bcc9-1c5e9ed39609",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "0098f558-215c-5688-aa4f-1b89dbacc492",
+     "parameter": "Non-Maklon",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "01248c1e-d27b-5525-85a5-96b646c4f559",
+     "parameter": "Maklon",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "019287dc-b136-4ccc-b377-212c515f8cf2",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Penerapan CPPOB pada Sarana Produksi Pangan Olahan dalam rangka pendaftaran, eksportasi atau higiene sanitasi, baik permohonan baru, perubahan, dan/atau perpanjangan, dengan memenuhi :</p>\n<ol>\n<li>Standar dan Persyaratan izin Penerapan Cara Produksi Pangan Olahan yang Baik</li>\n<li>Standar Pedoman Cara Produksi Pangan Olahan yang baik berdasarkan hasil pemeriksaan oleh lembaga pemerintah yang menyelenggarakan urusan pemerintah di bidang pengawasan Obat dan Makanan</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Penerapan CPPOB pada Sarana Produksi Pangan Olahan dalam rangka pendaftaran, eksportasi atau higiene sanitasi, baik permohonan baru, perubahan, dan/atau perpanjangan, dengan memenuhi :</p>\n<ol>\n<li>Standar dan Persyaratan izin Penerapan Cara Produksi Pangan Olahan yang Baik</li>\n<li>Standar Pedoman Cara Produksi Pangan Olahan yang baik berdasarkan hasil pemeriksaan oleh lembaga pemerintah yang menyelenggarakan urusan pemerintah di bidang pengawasan Obat dan Makanan</li>\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Penerapan CPPOB pada Sarana Produksi Pangan Olahan dalam rangka pendaftaran, eksportasi atau higiene sanitasi, baik permohonan baru, perubahan, dan/atau perpanjangan, dengan memenuhi :</p>\n<ol>\n<li>Standar dan Persyaratan izin Penerapan Cara Produksi Pangan Olahan yang Baik</li>\n<li>Standar Pedoman Cara Produksi Pangan Olahan yang baik berdasarkan hasil pemeriksaan oleh lembaga pemerintah yang menyelenggarakan urusan pemerintah di bidang pengawasan Obat dan Makanan</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Penerapan CPPOB pada Sarana Produksi Pangan Olahan dalam rangka pendaftaran, eksportasi atau higiene sanitasi, baik permohonan baru, perubahan, dan/atau perpanjangan, dengan memenuhi :</p>\n<ol>\n<li>Standar dan Persyaratan izin Penerapan Cara Produksi Pangan Olahan yang Baik</li>\n<li>Standar Pedoman Cara Produksi Pangan Olahan yang baik berdasarkan hasil pemeriksaan oleh lembaga pemerintah yang menyelenggarakan urusan pemerintah di bidang pengawasan Obat dan Makanan</li>\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Menyelengarakan cara produksi pangan olahan yang baik secara berkelanjutan, dengan memenuhi standar:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Cara Produksi Pangan Olahan yang Baik</li>\n<li>Batas Cemaran Mikrobiologi Pangan,</li>\n<li>Batas Maksimum Cemaran Logam Berat dalam Pangan Olahan,</li>\n<li>Batas Maksimum Cemaran Kimia dalam Pangan Olahan</li>\n<li>Bahan Tambahan Pangan</li>\n<li>Bahan Baku yang dilarang dalam Pangan Olahan</li>\n<li>Kodeks Makanan Indonesia</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyelengarakan cara produksi pangan olahan yang baik secara berkelanjutan, dengan memenuhi standar:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Cara Produksi Pangan Olahan yang Baik</li>\n<li>Batas Cemaran Mikrobiologi Pangan,</li>\n<li>Batas Maksimum Cemaran Logam Berat dalam Pangan Olahan,</li>\n<li>Batas Maksimum Cemaran Kimia dalam Pangan Olahan</li>\n<li>Bahan Tambahan Pangan</li>\n<li>Bahan Baku yang dilarang dalam Pangan Olahan</li>\n<li>Kodeks Makanan Indonesia</li>\n</ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Menyelengarakan cara produksi pangan olahan yang baik secara berkelanjutan, dengan memenuhi standar:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Cara Produksi Pangan Olahan yang Baik</li>\n<li>Batas Cemaran Mikrobiologi Pangan,</li>\n<li>Batas Maksimum Cemaran Logam Berat dalam Pangan Olahan,</li>\n<li>Batas Maksimum Cemaran Kimia dalam Pangan Olahan</li>\n<li>Bahan Tambahan Pangan</li>\n<li>Bahan Baku yang dilarang dalam Pangan Olahan</li>\n<li>Kodeks Makanan Indonesia</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyelengarakan cara produksi pangan olahan yang baik secara berkelanjutan, dengan memenuhi standar:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Cara Produksi Pangan Olahan yang Baik</li>\n<li>Batas Cemaran Mikrobiologi Pangan,</li>\n<li>Batas Maksimum Cemaran Logam Berat dalam Pangan Olahan,</li>\n<li>Batas Maksimum Cemaran Kimia dalam Pangan Olahan</li>\n<li>Bahan Tambahan Pangan</li>\n<li>Bahan Baku yang dilarang dalam Pangan Olahan</li>\n<li>Kodeks Makanan Indonesia</li>\n</ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "9011ff2d-05de-4ecf-937a-42366e3ddeae",
+    "kode": "063",
+    "localization": {
+     "en": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     },
+     "id": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "bc314d37-4e33-44b9-ac5f-14ecd5224687",
+   "kode": "063000000049",
+   "localization": {
+    "en": {
+     "nama_dokumen": "IZIN PENERAPAN PROGRAM MANAJEMEN RISIKO (PMR) SARANA PRODUKSI PANGAN OLAHAN"
+    },
+    "id": {
+     "nama_dokumen": "IZIN PENERAPAN PROGRAM MANAJEMEN RISIKO (PMR) SARANA PRODUKSI PANGAN OLAHAN"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "00dbae3b-57bb-5ca6-9a1b-ac95b30de726",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "0120e7f9-0069-542d-aab8-45de9e96f546",
+     "parameter": "Maklon",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "01a2fbf0-546d-457c-8824-8e84fa2217bb",
+     "parameter": "Maklon ",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "027b9d8a-6ea4-4135-9a49-e5739c0ca4b6",
+     "parameter": "Non-Maklon",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "07380767-aa2a-485c-a43c-959c0ad73e86",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sistem Analisis Bahaya dan Pengendalian Titik Kritis/Hazard Analysis and Critical Control Point (HACCP)."
+      },
+      "id": {
+       "syarat_perizinan": "Sistem Analisis Bahaya dan Pengendalian Titik Kritis/Hazard Analysis and Critical Control Point (HACCP)."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sistem Manajemen Mutu"
+      },
+      "id": {
+       "syarat_perizinan": "Sistem Manajemen Mutu"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Program Keamanan Pangan Berbasis Risiko"
+      },
+      "id": {
+       "syarat_perizinan": "Program Keamanan Pangan Berbasis Risiko"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Cara Produksi Pangan Olahan yang Baik; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Cara Produksi Pangan Olahan yang Baik; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar HACCP sesuai dengan proses yang dilakukan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar HACCP sesuai dengan proses yang dilakukan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar hasil uji/Certificate of Analysis;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar hasil uji/Certificate of Analysis;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar CPPOB Proses sesuai dengan proses yang dilakukan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar CPPOB Proses sesuai dengan proses yang dilakukan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar ketertelusuran dan penarikan pangan dari peredaran;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar ketertelusuran dan penarikan pangan dari peredaran;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar CPPOB Umum Program Manajemen Risiko;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar CPPOB Umum Program Manajemen Risiko;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar label pangan olahan;"
+      },
+      "id": {
+       "syarat_perizinan": "Standar label pangan olahan;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Penerapan PMR Keamanan Pangan di Industri Pangan."
+      },
+      "id": {
+       "syarat_perizinan": "Standar Penerapan PMR Keamanan Pangan di Industri Pangan."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Pedoman Audit Internal Penerapan PMR; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Standar Pedoman Audit Internal Penerapan PMR; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi Standar Izin Penerapan Program Manajemen Risiko (PMR) Sarana Produksi Pangan Olahan."
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi Standar Izin Penerapan Program Manajemen Risiko (PMR) Sarana Produksi Pangan Olahan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Harus memenuhi standar mengenai:</p> <ol style=\"list-style-type: lower-alpha;\"> <li>Jaminan keamanan, mutu, gizi dan label pangan olahan;</li> <li>Standar CPPOB Umum, CPPOB Proses dan HACCP;</li> <li>Standar hasil uji/Certificate of Analysis;</li> <li>Penerapan PMR Keamanan Pangan di Industri Pangan.Sepanjang memproduksi pangan yang menerapkan PMR;</li> </ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Harus memenuhi standar mengenai:</p> <ol style=\"list-style-type: lower-alpha;\"> <li>Jaminan keamanan, mutu, gizi dan label pangan olahan;</li> <li>Standar CPPOB Umum, CPPOB Proses dan HACCP;</li> <li>Standar hasil uji/Certificate of Analysis;</li> <li>Penerapan PMR Keamanan Pangan di Industri Pangan.Sepanjang memproduksi pangan yang menerapkan PMR;</li> </ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaporkan terjadinya kasus keamanan pangan yang diproduksi;"
+      },
+      "id": {
+       "syarat_perizinan": "Melaporkan terjadinya kasus keamanan pangan yang diproduksi;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melengkapi dan mengupdate dokumen pada sistem PMR;"
+      },
+      "id": {
+       "syarat_perizinan": "Melengkapi dan mengupdate dokumen pada sistem PMR;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memiliki sistem ketertelusuran dan penarikan pangan dari peredaran;"
+      },
+      "id": {
+       "syarat_perizinan": "Memiliki sistem ketertelusuran dan penarikan pangan dari peredaran;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Tahun"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Berke­wajiban melaporkan bukti pelaksanaan PMR secara mandiri dan konsisten berupa audit internal setiap 6 bulan."
+      },
+      "id": {
+       "syarat_perizinan": "Berke­wajiban melaporkan bukti pelaksanaan PMR secara mandiri dan konsisten berupa audit internal setiap 6 bulan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "5 Tahun"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "9011ff2d-05de-4ecf-937a-42366e3ddeae",
+    "kode": "063",
+    "localization": {
+     "en": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     },
+     "id": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

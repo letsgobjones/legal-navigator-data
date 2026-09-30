@@ -1,0 +1,2080 @@
+{
+ "code": "09100",
+ "found": true,
+ "ossId": "43d23323-f205-511a-bd7f-46a05f652805",
+ "url": "https://oss.go.id/id/kbli/detail/43d23323-f205-511a-bd7f-46a05f652805",
+ "fetchedAt": "2026-09-30T04:11:50+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 09100 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "09100"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "7b126220-e118-5e09-9df1-27ba6324f168",
+   "localization": {
+    "en": {
+     "uraian": "$4b",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "$4c",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "43d23323-f205-511a-bd7f-46a05f652805",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Penunjang Pertambangan Minyak Bumi dan Gas Alam",
+      "uraian": "$4d"
+     },
+     "id": {
+      "judul": "Aktivitas Penunjang Pertambangan Minyak Bumi dan Gas Alam",
+      "uraian": "$4e"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "f1d5df90-03bf-528e-a81a-6dc6eb2aced9",
+     "kode": "09100-02-01",
+     "luas_lahan": null,
+     "jangka_waktu": "15",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "25028103-5356-5985-8e55-bad0aa490eb7",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ddd1aef6-5fc0-4115-b756-25f86644f6c3",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "b4b7df09-35a5-566a-85d8-3ab6fb437ad1",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pemberitahuan Tahunan (SPT) untuk perusahaan yang telah berdiri minimal 1 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pemberitahuan Tahunan (SPT) untuk perusahaan yang telah berdiri minimal 1 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "71611b3d-b797-518e-8f60-1e17dc5f9fdc",
+       "localization": {
+        "en": {
+         "uraian": "Laporan keuangan tahun terakhir untuk perusahaan yang telah berdiri minimal 1 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Laporan keuangan tahun terakhir untuk perusahaan yang telah berdiri minimal 1 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b9b4c22e-1fe8-5c0d-94a3-e669b9c8a4fb",
+       "localization": {
+        "en": {
+         "uraian": "Akta perusahaan yang mencantumkan maksud dan tujuan sesuai ruang lingkup KBLI 09100",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Akta perusahaan yang mencantumkan maksud dan tujuan sesuai ruang lingkup KBLI 09100",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0b322d26-37be-5fe9-bbb9-b770b1da37f9",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan diatas materai mengenai komitmen kemampuan/kapasitas produk/jasa meliputi: a. Daftar Peralatan b. Daftar Tenaga kerja c. Daftar Pengalaman perusahaan (kecuali untuk perusahaan baru) dan pengalaman personil",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan diatas materai mengenai komitmen kemampuan/kapasitas produk/jasa meliputi: a. Daftar Peralatan b. Daftar Tenaga kerja c. Daftar Pengalaman perusahaan (kecuali untuk perusahaan baru) dan pengalaman personil",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2d514f6f-e8dd-57b7-862f-850ff0420f4c",
+       "localization": {
+        "en": {
+         "uraian": "Analisis manajemen risiko keselamatan Minyak dan Gas Bumi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Analisis manajemen risiko keselamatan Minyak dan Gas Bumi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "05444ead-1af1-581c-a025-48839a38563d",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan diatas materai mengenai: a. Kesanggupan Badan Usaha terhadap pemenuhan: 1) Aspek keselamatan, kesehatan kerja dan pengelolaan perlindungan lingkungan hidup 2) Ketentuan peraturan perundang undangan b. Badan Usaha bebas dari konflik atau permasalahan hukum lainnya dengan pihak lain c. Kebenaran atas dokumen persyaratan dan keterangan/pernyataan yang disampaikan Badan Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan diatas materai mengenai: a. Kesanggupan Badan Usaha terhadap pemenuhan: 1) Aspek keselamatan, kesehatan kerja dan pengelolaan perlindungan lingkungan hidup 2) Ketentuan peraturan perundang undangan b. Badan Usaha bebas dari konflik atau permasalahan hukum lainnya dengan pihak lain c. Kebenaran atas dokumen persyaratan dan keterangan/pernyataan yang disampaikan Badan Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "93f6ba77-ef57-5115-88bb-896c7e117d16",
+       "localization": {
+        "en": {
+         "uraian": "Wajib mengikuti standar internasional, Standar Nasional Indonesia, dan standar lain sesuai ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Wajib mengikuti standar internasional, Standar Nasional Indonesia, dan standar lain sesuai ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "75776e8d-cc0f-52a4-8e55-3b7bf4919a04",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "d928d235-6637-5ba3-b03a-2d64f4d63335",
+     "kode": "09100-03-02",
+     "luas_lahan": null,
+     "jangka_waktu": "15",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "e0c4e57c-2501-547f-a241-41f322f1f8b8",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ddd1aef6-5fc0-4115-b756-25f86644f6c3",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "7ba387e8-6dcd-5eea-8ec4-fdbcd711007e",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pemberitahuan Tahunan (SPT) untuk perusahaan yang telah berdiri minimal 1 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pemberitahuan Tahunan (SPT) untuk perusahaan yang telah berdiri minimal 1 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fdff7aca-b503-5f4d-b97b-a006adb301ee",
+       "localization": {
+        "en": {
+         "uraian": "Laporan keuangan tahun terakhir untuk perusahaan yang telah berdiri minimal 1 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Laporan keuangan tahun terakhir untuk perusahaan yang telah berdiri minimal 1 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e4c8c252-b663-55fa-b1ca-210ced83376f",
+       "localization": {
+        "en": {
+         "uraian": "Akta perusahaan yang mencantumkan maksud dan tujuan sesuai ruang lingkup KBLI 09100",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Akta perusahaan yang mencantumkan maksud dan tujuan sesuai ruang lingkup KBLI 09100",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b1edba40-bb57-5122-8b2d-e5d452ee1b32",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan diatas materai mengenai komitmen kemampuan/kapasitas produk/jasa meliputi: a. Daftar Peralatan b. Daftar Tenaga kerja c. Daftar Pengalaman perusahaan (kecuali untuk perusahaan baru) dan pengalaman personil",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan diatas materai mengenai komitmen kemampuan/kapasitas produk/jasa meliputi: a. Daftar Peralatan b. Daftar Tenaga kerja c. Daftar Pengalaman perusahaan (kecuali untuk perusahaan baru) dan pengalaman personil",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6df5adb3-0acb-5c5c-9060-9fb91bc76780",
+       "localization": {
+        "en": {
+         "uraian": "Analisis manajemen risiko keselamatan Minyak dan Gas Bumi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Analisis manajemen risiko keselamatan Minyak dan Gas Bumi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "99b040b6-d138-5c5e-af93-c6ffa40c83bf",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan diatas materai mengenai: a. Kesanggupan Badan Usaha terhadap pemenuhan: 1) Aspek keselamatan, kesehatan kerja dan pengelolaan perlindungan lingkungan hidup 2) Ketentuan peraturan perundang undangan b. Badan Usaha bebas dari konflik atau permasalahan hukum lainnya dengan pihak lain c. Kebenaran atas dokumen persyaratan dan keterangan/pernyataan yang disampaikan Badan Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan diatas materai mengenai: a. Kesanggupan Badan Usaha terhadap pemenuhan: 1) Aspek keselamatan, kesehatan kerja dan pengelolaan perlindungan lingkungan hidup 2) Ketentuan peraturan perundang undangan b. Badan Usaha bebas dari konflik atau permasalahan hukum lainnya dengan pihak lain c. Kebenaran atas dokumen persyaratan dan keterangan/pernyataan yang disampaikan Badan Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "2c353178-ec25-5e51-bb44-bcf1795eadb7",
+       "localization": {
+        "en": {
+         "uraian": "Wajib mengikuti standar internasional, Standar Nasional Indonesia, dan standar lain sesuai ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Wajib mengikuti standar internasional, Standar Nasional Indonesia, dan standar lain sesuai ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "a0710c8a-842d-558c-92e0-cee6dbaab8cb",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "74dcbea5-f071-55f0-837a-87705340bfae",
+     "kode": "09100-04-03",
+     "luas_lahan": null,
+     "jangka_waktu": "15",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "76f35114-11df-5bae-b1e2-a7ed581c1510",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ddd1aef6-5fc0-4115-b756-25f86644f6c3",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "329b552b-7a1f-5c88-b7ef-aa87738e9dc5",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pemberitahuan Tahunan (SPT) untuk perusahaan yang telah berdiri minimal 1 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pemberitahuan Tahunan (SPT) untuk perusahaan yang telah berdiri minimal 1 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "db241c9e-e307-5f92-b159-ef4090d9b5db",
+       "localization": {
+        "en": {
+         "uraian": "Laporan keuangan tahun terakhir untuk perusahaan yang telah berdiri minimal 1 tahun",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Laporan keuangan tahun terakhir untuk perusahaan yang telah berdiri minimal 1 tahun",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "442756ab-0d73-5501-bc9a-c4fd40cb6781",
+       "localization": {
+        "en": {
+         "uraian": "Akta perusahaan yang mencantumkan maksud dan tujuan sesuai ruang lingkup KBLI 09100",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Akta perusahaan yang mencantumkan maksud dan tujuan sesuai ruang lingkup KBLI 09100",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "41a8a1f1-16ce-5216-8970-346a53ceb155",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan diatas materai mengenai komitmen kemampuan/kapasitas produk/jasa meliputi: a. Daftar Peralatan b. Daftar Tenaga kerja c. Daftar Pengalaman perusahaan (kecuali untuk perusahaan baru) dan pengalaman personil",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan diatas materai mengenai komitmen kemampuan/kapasitas produk/jasa meliputi: a. Daftar Peralatan b. Daftar Tenaga kerja c. Daftar Pengalaman perusahaan (kecuali untuk perusahaan baru) dan pengalaman personil",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ffefea18-adea-5b10-98d6-795fa6bca3da",
+       "localization": {
+        "en": {
+         "uraian": "Analisis manajemen risiko keselamatan Minyak dan Gas Bumi",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Analisis manajemen risiko keselamatan Minyak dan Gas Bumi",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cb71750c-7a13-5b9c-be71-a8e19f90ec0f",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan diatas materai mengenai: a. Kesanggupan Badan Usaha terhadap pemenuhan: 1) Aspek keselamatan, kesehatan kerja dan pengelolaan perlindungan lingkungan hidup 2) Ketentuan peraturan perundang undangan b. Badan Usaha bebas dari konflik atau permasalahan hukum lainnya dengan pihak lain c. Kebenaran atas dokumen persyaratan dan keterangan/pernyataan yang disampaikan Badan Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan diatas materai mengenai: a. Kesanggupan Badan Usaha terhadap pemenuhan: 1) Aspek keselamatan, kesehatan kerja dan pengelolaan perlindungan lingkungan hidup 2) Ketentuan peraturan perundang undangan b. Badan Usaha bebas dari konflik atau permasalahan hukum lainnya dengan pihak lain c. Kebenaran atas dokumen persyaratan dan keterangan/pernyataan yang disampaikan Badan Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "6912cf2c-fe33-5295-89ca-b2409db94ed3",
+       "localization": {
+        "en": {
+         "uraian": "Wajib mengikuti standar internasional, Standar Nasional Indonesia, dan standar lain sesuai ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Wajib mengikuti standar internasional, Standar Nasional Indonesia, dan standar lain sesuai ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "3c2869cb-cced-5171-96f3-a81c52cfe03b",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c112dfe9-90c5-5cd7-b9b1-cbfba15dfdce",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "c9cd3dd2-ef1d-4bc5-9825-91493436543e",
+   "kode": "085000000092",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Izin Penanda dan/atau Perunut"
+    },
+    "id": {
+     "nama_dokumen": "Izin Penanda dan/atau Perunut"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "0a8bbf13-0516-5220-b812-5c6310b3ca64",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Data lokasi pemanfaatan Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Data lokasi pemanfaatan Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana teknis fasilitas bangunan gedung penahan radiasi;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana teknis fasilitas bangunan gedung penahan radiasi;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen gedung utilitas operasi pemanfaatan Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen gedung utilitas operasi pemanfaatan Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen kajian keselamatan Sumber Radiasi Pengion dan/atau kajian keamanan zat radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen kajian keselamatan Sumber Radiasi Pengion dan/atau kajian keamanan zat radioaktif;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Data kompetensi dan kewenangan petugas yang meliputi:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Petugas proteksi radiasi;</li>\n<li>Petugas keamanan zat radioaktif; dan/atau</li>\n<li>Petugas lainnya yang menangani sumber radiasi pengion.</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Data kompetensi dan kewenangan petugas yang meliputi:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Petugas proteksi radiasi;</li>\n<li>Petugas keamanan zat radioaktif; dan/atau</li>\n<li>Petugas lainnya yang menangani sumber radiasi pengion.</li>\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen kesesuaian mutu Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen kesesuaian mutu Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi dan/atau dokumen program keamanan zat radioaktif; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi dan/atau dokumen program keamanan zat radioaktif; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen bukti kepemilikan dan/atau penguasaan Sumber Radiasi Pengion."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen bukti kepemilikan dan/atau penguasaan Sumber Radiasi Pengion."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen teknis fasilitas radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen teknis fasilitas radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen sistem manajemen"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen sistem manajemen"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program perawatan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program perawatan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen teknis fasilitas radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen teknis fasilitas radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi dan/atau dokumen program keamanan zat radioaktif; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi dan/atau dokumen program keamanan zat radioaktif; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen bukti kepemilikan dan/atau penguasaan Sumber Radiasi Pengion."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen bukti kepemilikan dan/atau penguasaan Sumber Radiasi Pengion."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Data lokasi pemanfaatan Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Data lokasi pemanfaatan Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen kesesuaian mutu Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen kesesuaian mutu Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen kajian keselamatan Sumber Radiasi Pengion dan/atau kajian keamanan zat radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen kajian keselamatan Sumber Radiasi Pengion dan/atau kajian keamanan zat radioaktif;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program proteksi dan keselamatan radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Data kompetensi dan kewenangan petugas yang meliputi:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Petugas proteksi radiasi;</li>\n<li>Petugas keamanan zat radioaktif; dan/atau</li>\n<li>Petugas lainnya yang menangani sumber radiasi pengion.</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Data kompetensi dan kewenangan petugas yang meliputi:</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Petugas proteksi radiasi;</li>\n<li>Petugas keamanan zat radioaktif; dan/atau</li>\n<li>Petugas lainnya yang menangani sumber radiasi pengion.</li>\n</ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen sistem manajemen"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen sistem manajemen"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen program perawatan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen program perawatan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen gedung utilitas operasi pemanfaatan Sumber Radiasi Pengion;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen gedung utilitas operasi pemanfaatan Sumber Radiasi Pengion;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana teknis fasilitas bangunan gedung penahan radiasi;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana teknis fasilitas bangunan gedung penahan radiasi;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan kegiatan well logging sesuai dengan izin yang diberikan oleh Badan Pengawas;"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan kegiatan well logging sesuai dengan izin yang diberikan oleh Badan Pengawas;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan proteksi dan keselamatan radiasi sesuai dokumen persyaratan izin;"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan proteksi dan keselamatan radiasi sesuai dokumen persyaratan izin;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan dokumen program keamanan zat radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan dokumen program keamanan zat radioaktif;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi selama masa izin berlaku; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi selama masa izin berlaku; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan dan/atau keamanan zat radioaktif kepada Badan Pengawas secara berkala setiap tahun terhitung sejak Perizinan Berusaha diterbitkan."
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan dan/atau keamanan zat radioaktif kepada Badan Pengawas secara berkala setiap tahun terhitung sejak Perizinan Berusaha diterbitkan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan PB UMKU yang diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan PB UMKU yang diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi, dan keamanan zat radioaktif dilakukan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi, dan keamanan zat radioaktif dilakukan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan perawatan sesuai dengan program perawatan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan perawatan sesuai dengan program perawatan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan dokumen program keamanan zat radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan dokumen program keamanan zat radioaktif;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melakukan kegiatan well logging sesuai dengan izin yang diberikan oleh Badan Pengawas;"
+      },
+      "id": {
+       "syarat_perizinan": "Melakukan kegiatan well logging sesuai dengan izin yang diberikan oleh Badan Pengawas;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Memastikan bahwa kegiatan yang dilakukan sesuai dengan PB UMKU yang diterbitkan</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaksanakan ketentuan yang tertuang dalam sistem manajemen</li><li>Memastikan bahwa ketentuan proteksi dan keselamatan radiasi, dan keamanan zat radioaktif dilakukan</li><li>Memberikan akses kepada BAPETEN untuk melakukan inspeksi</li><li>Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati</li><li>Menyampaikan laporan verifikasi keselamatan secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan</li><li>Melaksanakan perawatan sesuai dengan program perawatan</li></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Memastikan bahwa kegiatan yang dilakukan sesuai dengan PB UMKU yang diterbitkan</p><ol style=\"list-style-type: lower-alpha;\"><li>Melaksanakan ketentuan yang tertuang dalam sistem manajemen</li><li>Memastikan bahwa ketentuan proteksi dan keselamatan radiasi, dan keamanan zat radioaktif dilakukan</li><li>Memberikan akses kepada BAPETEN untuk melakukan inspeksi</li><li>Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati</li><li>Menyampaikan laporan verifikasi keselamatan secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan</li><li>Melaksanakan perawatan sesuai dengan program perawatan</li></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      },
+      "id": {
+       "syarat_perizinan": "Menindaklanjuti ketidaksesuaian hasil inspeksi sesuai jangka waktu yang disepakati"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi selama masa izin berlaku; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan kesempatan kepada Kepala Badan untuk melakukan inspeksi selama masa izin berlaku; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan dan/atau keamanan zat radioaktif kepada Badan Pengawas secara berkala setiap tahun terhitung sejak Perizinan Berusaha diterbitkan."
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan dan/atau keamanan zat radioaktif kepada Badan Pengawas secara berkala setiap tahun terhitung sejak Perizinan Berusaha diterbitkan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan perawatan sesuai dengan program perawatan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan perawatan sesuai dengan program perawatan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi, dan keamanan zat radioaktif dilakukan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa ketentuan proteksi dan keselamatan radiasi, dan keamanan zat radioaktif dilakukan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan ketentuan yang tertuang dalam sistem manajemen"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan verifikasi keselamatan secara berkala setiap tahun terhitung sejak PB UMKU diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Memberikan akses kepada BAPETEN untuk melakukan inspeksi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan PB UMKU yang diterbitkan"
+      },
+      "id": {
+       "syarat_perizinan": "Memastikan bahwa kegiatan yang dilakukan sesuai dengan PB UMKU yang diterbitkan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaksanakan proteksi dan keselamatan radiasi sesuai dokumen persyaratan izin;"
+      },
+      "id": {
+       "syarat_perizinan": "Melaksanakan proteksi dan keselamatan radiasi sesuai dokumen persyaratan izin;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "50ca7482-d92f-4450-8719-bb4629a2b33f",
+    "kode": "085",
+    "localization": {
+     "en": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     },
+     "id": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "9bfbdb9f-4636-4d4b-a9a0-f35bba416511",
+   "kode": "020000000050",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Persetujuan Layak Operasi"
+    },
+    "id": {
+     "nama_dokumen": "Persetujuan Layak Operasi"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "01865be5-de21-5026-be6c-ccbd484f2faf",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat permohonan dari Kepala Teknik BU/BUT atau Direksi Perusahaan Usaha Penunjang Migas setelah dilakukan Inspeksi dan Pemeriksaan Keselamatan Instalasi yang ditujukan ke: Direktur Teknik dan Lingkungan Migas selaku Kepala Inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Surat permohonan dari Kepala Teknik BU/BUT atau Direksi Perusahaan Usaha Penunjang Migas setelah dilakukan Inspeksi dan Pemeriksaan Keselamatan Instalasi yang ditujukan ke: Direktur Teknik dan Lingkungan Migas selaku Kepala Inspeksi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Dokumen peralatan dan instalasi;</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi.</li>\r\n</ul>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Dokumen peralatan dan instalasi;</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi.</li>\r\n</ul>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Keterangan Hasil Inspeksi atau Sertifikat Inspeksi Peralatan dan Instalasi"
+      },
+      "id": {
+       "syarat_perizinan": "Keterangan Hasil Inspeksi atau Sertifikat Inspeksi Peralatan dan Instalasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Kelengkapan Administrasi:</p>\r\n<ul>\r\n<li>Berita Acara Hasil Pemeriksaan Keselamatan Instalasi</li>\r\n<li>Tindak lanjut Berita Acara Hasil Pemeriksaan Keselamatan Instalasi (jika ada)</li>\r\n<li>Rencana Inspeksi atau Inspection and Test Plan (ITP) yang telah disepakati oleh pihak yang terkait</li>\r\n<li>Izin Usaha atau Izin Usaha Sementara (khusus untuk kegiatan usaha hilir Minyak dan Gas Bumi)</li>\r\n<li>Hasil Penelaahan Desain dari Kepala Teknik atau Direksi Perusahaan Penunjang atau Lembaga Enjiniring yang ditunjuk (untuk Instalasi baru)</li>\r\n<li>Daftar Instalasi dan/atau peralatan</li>\r\n<li>Process Flow Diagram (PFD) dan Piping and Instrument Diagram (P&amp;ID)</li>\r\n<li>Sertifikat Kelayakan Penggunaan Instalasi atau Persetujuan Layak Operasi sebelumnya (untuk Instalasi eksisting)</li>\r\n<li>Hasil Analisis Risiko (bila ada)</li>\r\n<li>Hasil Penilaian Perpanjangan Umur Layan (untuk peralatan yang telah melewati batas umur layan desain)</li>\r\n<li>Data lokasi dan Kapasitas.</li>\r\n</ul>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Kelengkapan Administrasi:</p>\r\n<ul>\r\n<li>Berita Acara Hasil Pemeriksaan Keselamatan Instalasi</li>\r\n<li>Tindak lanjut Berita Acara Hasil Pemeriksaan Keselamatan Instalasi (jika ada)</li>\r\n<li>Rencana Inspeksi atau Inspection and Test Plan (ITP) yang telah disepakati oleh pihak yang terkait</li>\r\n<li>Izin Usaha atau Izin Usaha Sementara (khusus untuk kegiatan usaha hilir Minyak dan Gas Bumi)</li>\r\n<li>Hasil Penelaahan Desain dari Kepala Teknik atau Direksi Perusahaan Penunjang atau Lembaga Enjiniring yang ditunjuk (untuk Instalasi baru)</li>\r\n<li>Daftar Instalasi dan/atau peralatan</li>\r\n<li>Process Flow Diagram (PFD) dan Piping and Instrument Diagram (P&amp;ID)</li>\r\n<li>Sertifikat Kelayakan Penggunaan Instalasi atau Persetujuan Layak Operasi sebelumnya (untuk Instalasi eksisting)</li>\r\n<li>Hasil Analisis Risiko (bila ada)</li>\r\n<li>Hasil Penilaian Perpanjangan Umur Layan (untuk peralatan yang telah melewati batas umur layan desain)</li>\r\n<li>Data lokasi dan Kapasitas.</li>\r\n</ul>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Apabila dokumen yang disampaikan tidak lengkap dan benar DMT akan membuat surat penolakan permohonan penerbitan Persetujuan Layak Operasi."
+      },
+      "id": {
+       "syarat_perizinan": "Apabila dokumen yang disampaikan tidak lengkap dan benar DMT akan membuat surat penolakan permohonan penerbitan Persetujuan Layak Operasi."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat permohonan dari Kepala Teknik pada Kontraktor, Kepala Teknik pada Pemegang Izin Usaha atau Direksi Perusahaan Usaha Penunjang Minyak dan Gas Bumi setelah dilakukan Inspeksi dan Pemeriksaan Keselamatan Instalasi yang ditujukan ke Direktur Teknik dan Lingkungan Minyak dan Gas Bumi selaku Kepala Inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Surat permohonan dari Kepala Teknik pada Kontraktor, Kepala Teknik pada Pemegang Izin Usaha atau Direksi Perusahaan Usaha Penunjang Minyak dan Gas Bumi setelah dilakukan Inspeksi dan Pemeriksaan Keselamatan Instalasi yang ditujukan ke Direktur Teknik dan Lingkungan Minyak dan Gas Bumi selaku Kepala Inspeksi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Izin Usaha atau Izin Usaha Sementara (khusus untuk kegiatan usaha hilir Minyak dan Gas Bumi)"
+      },
+      "id": {
+       "syarat_perizinan": "Izin Usaha atau Izin Usaha Sementara (khusus untuk kegiatan usaha hilir Minyak dan Gas Bumi)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan hasil Inspeksi Teknis Instalasi"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan hasil Inspeksi Teknis Instalasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Berita Acara Hasil Inspeksi Teknis dan Pemeriksaan Keselamatan Instalasi"
+      },
+      "id": {
+       "syarat_perizinan": "Berita Acara Hasil Inspeksi Teknis dan Pemeriksaan Keselamatan Instalasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Tindak lanjut Berita Acara Hasil Inspeksi Teknis dan Pemeriksaan Keselamatan Instalasi, apabila ada"
+      },
+      "id": {
+       "syarat_perizinan": "Tindak lanjut Berita Acara Hasil Inspeksi Teknis dan Pemeriksaan Keselamatan Instalasi, apabila ada"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Keterangan Hasil Inspeksi atau Sertifikat Inspeksi Peralatan dan Instalasi"
+      },
+      "id": {
+       "syarat_perizinan": "Keterangan Hasil Inspeksi atau Sertifikat Inspeksi Peralatan dan Instalasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil Penelaahan Desain dari Kepala Teknik atau Direksi Perusahaan Penunjang atau Lembaga Enjiniring yang ditunjuk (untuk Instalasi baru atau Instalasi Eksisting yang mengalami perubahan/modifikasi)"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil Penelaahan Desain dari Kepala Teknik atau Direksi Perusahaan Penunjang atau Lembaga Enjiniring yang ditunjuk (untuk Instalasi baru atau Instalasi Eksisting yang mengalami perubahan/modifikasi)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persetujuan Layak Operasi sebelumnya (untuk Instalasi eksisting)"
+      },
+      "id": {
+       "syarat_perizinan": "Persetujuan Layak Operasi sebelumnya (untuk Instalasi eksisting)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil Analisis Risiko, apabila disyaratkan"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil Analisis Risiko, apabila disyaratkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil Penilaian Perpanjangan Umur Layan (untuk peralatan dan instalasi yang telah melewati batas umur layan desain)"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil Penilaian Perpanjangan Umur Layan (untuk peralatan dan instalasi yang telah melewati batas umur layan desain)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Keterangan Hasil Inspeksi atau Sertifikat Inspeksi Peralatan dan Instalasi"
+      },
+      "id": {
+       "syarat_perizinan": "Keterangan Hasil Inspeksi atau Sertifikat Inspeksi Peralatan dan Instalasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Kelengkapan Administrasi:</p>\r\n<ul>\r\n<li>Berita Acara Hasil Pemeriksaan Keselamatan Instalasi</li>\r\n<li>Tindak lanjut Berita Acara Hasil Pemeriksaan Keselamatan Instalasi (jika ada)</li>\r\n<li>Rencana Inspeksi atau Inspection and Test Plan (ITP) yang telah disepakati oleh pihak yang terkait</li>\r\n<li>Izin Usaha atau Izin Usaha Sementara (khusus untuk kegiatan usaha hilir Minyak dan Gas Bumi)</li>\r\n<li>Hasil Penelaahan Desain dari Kepala Teknik atau Direksi Perusahaan Penunjang atau Lembaga Enjiniring yang ditunjuk (untuk Instalasi baru)</li>\r\n<li>Daftar Instalasi dan/atau peralatan</li>\r\n<li>Process Flow Diagram (PFD) dan Piping and Instrument Diagram (P&amp;ID)</li>\r\n<li>Sertifikat Kelayakan Penggunaan Instalasi atau Persetujuan Layak Operasi sebelumnya (untuk Instalasi eksisting)</li>\r\n<li>Hasil Analisis Risiko (bila ada)</li>\r\n<li>Hasil Penilaian Perpanjangan Umur Layan (untuk peralatan yang telah melewati batas umur layan desain)</li>\r\n<li>Data lokasi dan Kapasitas.</li>\r\n</ul>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Kelengkapan Administrasi:</p>\r\n<ul>\r\n<li>Berita Acara Hasil Pemeriksaan Keselamatan Instalasi</li>\r\n<li>Tindak lanjut Berita Acara Hasil Pemeriksaan Keselamatan Instalasi (jika ada)</li>\r\n<li>Rencana Inspeksi atau Inspection and Test Plan (ITP) yang telah disepakati oleh pihak yang terkait</li>\r\n<li>Izin Usaha atau Izin Usaha Sementara (khusus untuk kegiatan usaha hilir Minyak dan Gas Bumi)</li>\r\n<li>Hasil Penelaahan Desain dari Kepala Teknik atau Direksi Perusahaan Penunjang atau Lembaga Enjiniring yang ditunjuk (untuk Instalasi baru)</li>\r\n<li>Daftar Instalasi dan/atau peralatan</li>\r\n<li>Process Flow Diagram (PFD) dan Piping and Instrument Diagram (P&amp;ID)</li>\r\n<li>Sertifikat Kelayakan Penggunaan Instalasi atau Persetujuan Layak Operasi sebelumnya (untuk Instalasi eksisting)</li>\r\n<li>Hasil Analisis Risiko (bila ada)</li>\r\n<li>Hasil Penilaian Perpanjangan Umur Layan (untuk peralatan yang telah melewati batas umur layan desain)</li>\r\n<li>Data lokasi dan Kapasitas.</li>\r\n</ul>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat permohonan dari Kepala Teknik BU/BUT atau Direksi Perusahaan Usaha Penunjang Migas setelah dilakukan Inspeksi dan Pemeriksaan Keselamatan Instalasi yang ditujukan ke: Direktur Teknik dan Lingkungan Migas selaku Kepala Inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Surat permohonan dari Kepala Teknik BU/BUT atau Direksi Perusahaan Usaha Penunjang Migas setelah dilakukan Inspeksi dan Pemeriksaan Keselamatan Instalasi yang ditujukan ke: Direktur Teknik dan Lingkungan Migas selaku Kepala Inspeksi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Apabila dokumen yang disampaikan tidak lengkap dan benar DMT akan membuat surat penolakan permohonan penerbitan Persetujuan Layak Operasi."
+      },
+      "id": {
+       "syarat_perizinan": "Apabila dokumen yang disampaikan tidak lengkap dan benar DMT akan membuat surat penolakan permohonan penerbitan Persetujuan Layak Operasi."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Dokumen peralatan dan instalasi;</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi.</li>\r\n</ul>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Dokumen peralatan dan instalasi;</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi.</li>\r\n</ul>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Setiap perubahan instalasi wajib dilaporkan kepada Kepala Inspeksi Migas serta dapat dilakukan pemeriksaan keselamatan terhadap instalasi tersebut"
+      },
+      "id": {
+       "syarat_perizinan": "Setiap perubahan instalasi wajib dilaporkan kepada Kepala Inspeksi Migas serta dapat dilakukan pemeriksaan keselamatan terhadap instalasi tersebut"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemeriksaan Keselamatan dilakukan kembali selambat-lambatnya 3 bulan sebelum berakhir masa berlaku Persetujuan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Pemeriksaan Keselamatan dilakukan kembali selambat-lambatnya 3 bulan sebelum berakhir masa berlaku Persetujuan; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila terjadi hal-hal yang menyebabkan Instalasi tersebut tidak layak dan tidak aman untuk dioperasikan serta terdapat dokumen yang tidak benar maka Persetujuan dapat ditinjau kembali"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila terjadi hal-hal yang menyebabkan Instalasi tersebut tidak layak dan tidak aman untuk dioperasikan serta terdapat dokumen yang tidak benar maka Persetujuan dapat ditinjau kembali"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Untuk keperluan dokumentasi data peralatan Kepala Teknik atau Perusahaan Inspeksi wajib menyampaikan antara lain:</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi</li>\r\n<li>Keterangan hasil Inspeksi atau Sertifikat Inspeksi.</li>\r\n</ul>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Untuk keperluan dokumentasi data peralatan Kepala Teknik atau Perusahaan Inspeksi wajib menyampaikan antara lain:</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi</li>\r\n<li>Keterangan hasil Inspeksi atau Sertifikat Inspeksi.</li>\r\n</ul>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang Izin Usaha, Kontraktor Kontrak Kerja Sama, Badan Usaha Persetujuan  pembangunan dan pengoperasian pipa gas bumi untuk kepentingan sendiri, atau Badan Usaha Penunjang bertanggung jawab sepenuhnya atas keselamatan instalasi tersebut"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang Izin Usaha, Kontraktor Kontrak Kerja Sama, Badan Usaha Persetujuan  pembangunan dan pengoperasian pipa gas bumi untuk kepentingan sendiri, atau Badan Usaha Penunjang bertanggung jawab sepenuhnya atas keselamatan instalasi tersebut"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Setiap perubahan instalasi wajib dilaporkan kepada Kepala Inspeksi Migas serta dapat dilakukan pemeriksaan keselamatan terhadap instalasi tersebut"
+      },
+      "id": {
+       "syarat_perizinan": "Setiap perubahan instalasi wajib dilaporkan kepada Kepala Inspeksi Migas serta dapat dilakukan pemeriksaan keselamatan terhadap instalasi tersebut"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemeriksaan Keselamatan dilakukan kembali selambat-lambatnya 3 bulan sebelum berakhir masa berlaku Persetujuan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Pemeriksaan Keselamatan dilakukan kembali selambat-lambatnya 3 bulan sebelum berakhir masa berlaku Persetujuan; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Untuk keperluan dokumentasi data peralatan Kepala Teknik atau Perusahaan Inspeksi wajib menyampaikan antara lain:</p>\n\n<ul>\n\n<li>Berita acara hasil Inspeksi</li>\n\n<li>Laporan hasil Inspeksi</li>\n\n<li>Keterangan hasil Inspeksi atau Sertifikat Inspeksi.</li>\n\n</ul>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Untuk keperluan dokumentasi data peralatan Kepala Teknik atau Perusahaan Inspeksi wajib menyampaikan antara lain:</p>\n\n<ul>\n\n<li>Berita acara hasil Inspeksi</li>\n\n<li>Laporan hasil Inspeksi</li>\n\n<li>Keterangan hasil Inspeksi atau Sertifikat Inspeksi.</li>\n\n</ul>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang Izin Usaha, Kontraktor Kontrak Kerja Sama, Badan Usaha Pemegang Izin Pembangunan dan Pengoperasian Pipa Gas Bumi serta Fasilitas dan Sarana Pendukung untuk Kepentingan Sendiri, atau Badan Usaha Penunjang bertanggung jawab sepenuhnya atas keselamatan instalasi"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang Izin Usaha, Kontraktor Kontrak Kerja Sama, Badan Usaha Pemegang Izin Pembangunan dan Pengoperasian Pipa Gas Bumi serta Fasilitas dan Sarana Pendukung untuk Kepentingan Sendiri, atau Badan Usaha Penunjang bertanggung jawab sepenuhnya atas keselamatan instalasi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Setiap perubahan instalasi wajib dilaporkan kepada Kepala Inspeksi Migas serta dapat dilakukan pemeriksaan keselamatan terhadap instalasi tersebut"
+      },
+      "id": {
+       "syarat_perizinan": "Setiap perubahan instalasi wajib dilaporkan kepada Kepala Inspeksi Migas serta dapat dilakukan pemeriksaan keselamatan terhadap instalasi tersebut"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang Izin Usaha, Kontraktor Kontrak Kerja Sama, Badan Usaha Persetujuan  pembangunan dan pengoperasian pipa gas bumi untuk kepentingan sendiri, atau Badan Usaha Penunjang bertanggung jawab sepenuhnya atas keselamatan instalasi tersebut"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang Izin Usaha, Kontraktor Kontrak Kerja Sama, Badan Usaha Persetujuan  pembangunan dan pengoperasian pipa gas bumi untuk kepentingan sendiri, atau Badan Usaha Penunjang bertanggung jawab sepenuhnya atas keselamatan instalasi tersebut"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila terjadi hal-hal yang menyebabkan Instalasi tersebut tidak layak dan tidak aman untuk dioperasikan serta terdapat dokumen yang tidak benar maka Persetujuan dapat ditinjau kembali"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila terjadi hal-hal yang menyebabkan Instalasi tersebut tidak layak dan tidak aman untuk dioperasikan serta terdapat dokumen yang tidak benar maka Persetujuan dapat ditinjau kembali"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Untuk keperluan dokumentasi data peralatan Kepala Teknik atau Perusahaan Inspeksi wajib menyampaikan antara lain:</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi</li>\r\n<li>Keterangan hasil Inspeksi atau Sertifikat Inspeksi.</li>\r\n</ul>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Untuk keperluan dokumentasi data peralatan Kepala Teknik atau Perusahaan Inspeksi wajib menyampaikan antara lain:</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi</li>\r\n<li>Keterangan hasil Inspeksi atau Sertifikat Inspeksi.</li>\r\n</ul>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemeriksaan Keselamatan dilakukan kembali selambat-lambatnya 3 bulan sebelum berakhir masa berlaku Persetujuan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Pemeriksaan Keselamatan dilakukan kembali selambat-lambatnya 3 bulan sebelum berakhir masa berlaku Persetujuan; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

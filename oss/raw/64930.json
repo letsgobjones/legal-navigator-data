@@ -1,0 +1,932 @@
+{
+ "code": "64930",
+ "found": true,
+ "ossId": "a2c4af81-4ea3-5270-9c72-5be176ab6ea1",
+ "url": "https://oss.go.id/id/kbli/detail/a2c4af81-4ea3-5270-9c72-5be176ab6ea1",
+ "fetchedAt": "2026-09-30T05:14:57+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 64911 berubah menjadi 64930 pada KBLI 2025.",
+  "from2020": [
+   "64911"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "6db26609-694b-5562-a07f-a367c68031d8",
+   "localization": {
+    "en": {
+     "uraian": "Usaha perusahaan pembiayaan yang diselenggarakan secara konvensional, dengan kegiatan usaha meliputi pembiayaan barang dan/atau jasa, yaitu: pembiayaan investasi; pembiayaan modal kerja; pembiayaan multiguna; dan/atau kegiatan usaha pembiayaan lain berdasarkan persetujuan Otoritas Jasa Keuangan. Selain kegiatan usaha tersebut, perusahaan pembiayaan konvensional dalam kelompok ini dapat melakukan sewa operasi (operating lease) dan/atau kegiatan berbasis imbal jasa sepanjang tidak bertentangan dengan ketentuan peraturan perundang-undangan di sektor jasa keuangan.",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Usaha perusahaan pembiayaan yang diselenggarakan secara konvensional, dengan kegiatan usaha meliputi pembiayaan barang dan/atau jasa, yaitu: pembiayaan investasi; pembiayaan modal kerja; pembiayaan multiguna; dan/atau kegiatan usaha pembiayaan lain berdasarkan persetujuan Otoritas Jasa Keuangan. Selain kegiatan usaha tersebut, perusahaan pembiayaan konvensional dalam kelompok ini dapat melakukan sewa operasi (operating lease) dan/atau kegiatan berbasis imbal jasa sepanjang tidak bertentangan dengan ketentuan peraturan perundang-undangan di sektor jasa keuangan.",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "a2c4af81-4ea3-5270-9c72-5be176ab6ea1",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Anjak Piutang",
+      "uraian": "Kelompok ini mencakup kegiatan pembelian piutang usaha (misalnya faktur) dari pihak ketiga dengan tingkat diskonto (pengembalian) tertentu.\nSubgolongan ini tidak mencakup\n- pembiayaan utang yang dilakukan dengan piutang sebagai agunan, lihat subgolongan 6495."
+     },
+     "id": {
+      "judul": "Aktivitas Anjak Piutang",
+      "uraian": "Kelompok ini mencakup kegiatan pembelian piutang usaha (misalnya faktur) dari pihak ketiga dengan tingkat diskonto (pengembalian) tertentu.\nSubgolongan ini tidak mencakup\n- pembiayaan utang yang dilakukan dengan piutang sebagai agunan, lihat subgolongan 6495."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "f18b7edc-c830-5cb4-a1f7-3110e798e13e",
+     "kode": "64930-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "6725c7cf-667e-5f2c-ad9a-1f07214e8ec2",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "430525ea-b930-451b-a0a7-00673fb96fb5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "009c5e52-42b7-55c4-8bc2-cdaafcd9deb4",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "40d0183c-0224-51a4-aadd-30dccd520d09",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "23cb4f1c-878c-57a7-8685-ff045e2f2c13",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "71b212ca-42ee-5d1f-8df6-5aac52113926",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f09f2bb8-687d-5a9c-9d74-f348b59874a7",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "d6e754a3-e388-57c3-9f9e-dffbb5c34536",
+     "kode": "64930-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "fb07a337-adb4-577c-b6b5-caefb35430a6",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "430525ea-b930-451b-a0a7-00673fb96fb5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "27ddcf7a-74ae-570e-ae81-9e39698bb642",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "7e77f123-a82c-5543-a6fc-8b8a6e52dc5c",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c73b877d-aa61-5b05-9868-1de500168253",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "ee97b73c-6a65-587d-a52c-e962bee3a4f6",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "507b4e8a-b854-53f2-832a-48cd1b138c41",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "50100b71-56ad-5e25-ace3-fd328d2bbf88",
+     "kode": "64930-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "551490ce-f475-5185-a90e-e988ebadb8f4",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "430525ea-b930-451b-a0a7-00673fb96fb5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "55b63277-be5b-514b-a70f-250372485acd",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "6bbf2613-e35a-579e-9756-38bcad4a19df",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8faf4bbd-f7d6-5fb6-a3a5-d48b54f45e9c",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "a6218d90-9cbb-528e-abd2-2a1dc3d9b2ec",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "dc266316-0b92-5e08-be25-1b19d9d71790",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "307f6fc7-a3b8-56f8-a0ca-61ae79907ad4",
+     "kode": "64930-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliIzins": [
+      {
+       "id": "9ad44d05-99ec-5e14-8545-5dbaa758d7c1",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "430525ea-b930-451b-a0a7-00673fb96fb5",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Izin"
+         },
+         "id": {
+          "nama_dokumen": "Izin"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "9e240c46-5d94-5665-9ae7-36747e63cea2",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4f7dddd5-fc50-5c57-8ac8-7821099549db",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliPersyaratans": [
+      {
+       "id": "04c8a83f-7915-5515-8172-55889e5ccd4e",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3344b51b-e170-543e-8f16-678499648497",
+       "localization": {
+        "en": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Lembaga OSS hanya menerbitkan NIB. Permohonan Perizinan Berusaha diajukan oleh Pelaku Usaha ke, diterbitkan oleh, serta dengan memenuhi  persyaratan yang ditetapkan oleh, Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "9c3b4bc8-ef2d-5a42-b7a5-f0a0154e8720",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ab518402-cce0-51ee-8078-fd13193d5390",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi kewajiban yang ditetapkan oleh Otoritas Jasa Keuangan (OJK) sesuai ketentuan perundangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": {
+        "id": "9815cf13-befe-4469-b1ba-cc84274eb1fd",
+        "localization": {
+         "en": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sesuai yang ditetapkan oleh Otoritas Jasa Keuangan (OJK).",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "18650f86-3d1c-4225-8cfe-2f37109a0b1a",
+    "kode": "123",
+    "localization": {
+     "en": {
+      "uraian": "Otoritas Jasa Keuangan",
+      "deskripsi": "Keuangan"
+     },
+     "id": {
+      "uraian": "Otoritas Jasa Keuangan",
+      "deskripsi": "Keuangan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

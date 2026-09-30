@@ -1,0 +1,625 @@
+{
+ "code": "56400",
+ "found": true,
+ "ossId": "a2c84224-0993-57dd-9d23-570ceaf68ff3",
+ "url": "https://oss.go.id/id/kbli/detail/a2c84224-0993-57dd-9d23-570ceaf68ff3",
+ "fetchedAt": "2026-09-30T05:09:57+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 63122 berubah menjadi 56400 pada KBLI 2025.",
+  "from2020": [
+   "63122"
+  ]
+ },
+ "scopes": [],
+ "pbUmku": [
+  {
+   "id": "4e9dcfb0-3e65-42fa-9120-bbb4c98e3387",
+   "kode": "024000000100",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Penyelenggara Sistem Elektronik Farmasi"
+    },
+    "id": {
+     "nama_dokumen": "Penyelenggara Sistem Elektronik Farmasi"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "01f28943-3bc7-52ed-9630-10a5e7798417",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan Administrasi"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan Administrasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan Teknis"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan Teknis"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen teknis PSEF (termasuk proses bisnis dan SDM)"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen teknis PSEF (termasuk proses bisnis dan SDM)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti pembayaran Penerimaan Negara Bukan Pajak (PNBP)"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti pembayaran Penerimaan Negara Bukan Pajak (PNBP)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen perizinan berusaha bidang perdagangan melalui sistem elektronik"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen perizinan berusaha bidang perdagangan melalui sistem elektronik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen Tanda Daftar Penyelenggara Sistem Elektronik (TD PSE)"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen Tanda Daftar Penyelenggara Sistem Elektronik (TD PSE)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan Administrasi"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan Administrasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen apoteker penanggung jawab"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen apoteker penanggung jawab"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan Teknis"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan Teknis"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Standar PSEF"
+      },
+      "id": {
+       "syarat_perizinan": "Standar PSEF"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Bermitra dengan Apotek "
+      },
+      "id": {
+       "syarat_perizinan": "Bermitra dengan Apotek "
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pelaporan"
+      },
+      "id": {
+       "syarat_perizinan": "Pelaporan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Standar PSEF"
+      },
+      "id": {
+       "syarat_perizinan": "Standar PSEF"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan kegiatan penyelenggaraan sistem elektronik farmasi"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan kegiatan penyelenggaraan sistem elektronik farmasi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "14 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Bermitra dengan Apotek "
+      },
+      "id": {
+       "syarat_perizinan": "Bermitra dengan Apotek "
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pelaporan"
+      },
+      "id": {
+       "syarat_perizinan": "Pelaporan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "0cdb43de-248e-4cec-91ee-2c54e215c7d4",
+    "kode": "024",
+    "localization": {
+     "en": {
+      "uraian": "Kesehatan",
+      "deskripsi": "Kementerian Kesehatan"
+     },
+     "id": {
+      "uraian": "Kesehatan",
+      "deskripsi": "Kementerian Kesehatan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "9c26633d-188f-4fdf-95c9-d4f7e0930334",
+   "kode": "063000000003",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat Cara Distribusi Obat yang Baik"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat Cara Distribusi Obat yang Baik"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "02143469-0fd5-5efc-9fd3-098cccd3ba72",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "2986e9af-2b03-4c3e-9047-67659c541203",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat Distribusi Farmasi/ Sertifikat Distribusi Cabang Farmasi."
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat Distribusi Farmasi/ Sertifikat Distribusi Cabang Farmasi."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Cara Distribusi Obat yang Baik."
+      },
+      "id": {
+       "syarat_perizinan": "Standar Cara Distribusi Obat yang Baik."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar dan Persyaratan Sertifikasi Cara Distribusi Obat yang Baik."
+      },
+      "id": {
+       "syarat_perizinan": "Standar dan Persyaratan Sertifikasi Cara Distribusi Obat yang Baik."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar dan Persyaratan Sertifikasi Cara Distribusi Obat yang Baik."
+      },
+      "id": {
+       "syarat_perizinan": "Standar dan Persyaratan Sertifikasi Cara Distribusi Obat yang Baik."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      },
+      "id": {
+       "syarat_perizinan": "Bukti bayar PNBP"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standar Cara Distribusi Obat yang Baik."
+      },
+      "id": {
+       "syarat_perizinan": "Standar Cara Distribusi Obat yang Baik."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Sertifikat Distribusi Farmasi/ Sertifikat Distribusi Cabang Farmasi."
+      },
+      "id": {
+       "syarat_perizinan": "Sertifikat Distribusi Farmasi/ Sertifikat Distribusi Cabang Farmasi."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mengajukan permohonan perubahan Sertifikat CDOB apabila akan melakukan perubahan fasilitas distribusi dan/atau informasi terkait Sertifikat CDOB."
+      },
+      "id": {
+       "syarat_perizinan": "Mengajukan permohonan perubahan Sertifikat CDOB apabila akan melakukan perubahan fasilitas distribusi dan/atau informasi terkait Sertifikat CDOB."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyelengarakan pengelolaan obat dan bahan obat sesuai Standar Cara Distribusi Obat yang Baik (CDOB);"
+      },
+      "id": {
+       "syarat_perizinan": "Menyelengarakan pengelolaan obat dan bahan obat sesuai Standar Cara Distribusi Obat yang Baik (CDOB);"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mengajukan permohonan perubahan Sertifikat CDOB apabila akan melakukan perubahan fasilitas distribusi dan/atau informasi terkait Sertifikat CDOB."
+      },
+      "id": {
+       "syarat_perizinan": "Mengajukan permohonan perubahan Sertifikat CDOB apabila akan melakukan perubahan fasilitas distribusi dan/atau informasi terkait Sertifikat CDOB."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan berkala sesuai ketentuan peraturan perundang-undangan;"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan berkala sesuai ketentuan peraturan perundang-undangan;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mengajukan permohonan paling cepat 12 (dua belas) bulan dan paling lambat 6 (enam) bulan sebelum masa berlaku sertifikat CDOB berakhir."
+      },
+      "id": {
+       "syarat_perizinan": "Mengajukan permohonan paling cepat 12 (dua belas) bulan dan paling lambat 6 (enam) bulan sebelum masa berlaku sertifikat CDOB berakhir."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mengajukan permohonan paling cepat 12 (dua belas) bulan dan paling lambat 6 (enam) bulan sebelum masa berlaku sertifikat CDOB berakhir."
+      },
+      "id": {
+       "syarat_perizinan": "Mengajukan permohonan paling cepat 12 (dua belas) bulan dan paling lambat 6 (enam) bulan sebelum masa berlaku sertifikat CDOB berakhir."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan berkala sesuai ketentuan peraturan perundang-undangan;"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan berkala sesuai ketentuan peraturan perundang-undangan;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mengajukan permohonan perubahan Sertifikat CDOB apabila akan melakukan perubahan fasilitas distribusi dan/atau informasi terkait Sertifikat CDOB."
+      },
+      "id": {
+       "syarat_perizinan": "Mengajukan permohonan perubahan Sertifikat CDOB apabila akan melakukan perubahan fasilitas distribusi dan/atau informasi terkait Sertifikat CDOB."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Mengajukan permohonan perubahan Sertifikat CDOB apabila akan melakukan perubahan fasilitas distribusi dan/atau informasi terkait Sertifikat CDOB."
+      },
+      "id": {
+       "syarat_perizinan": "Mengajukan permohonan perubahan Sertifikat CDOB apabila akan melakukan perubahan fasilitas distribusi dan/atau informasi terkait Sertifikat CDOB."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyelengarakan pengelolaan obat dan bahan obat sesuai Standar Cara Distribusi Obat yang Baik (CDOB);"
+      },
+      "id": {
+       "syarat_perizinan": "Menyelengarakan pengelolaan obat dan bahan obat sesuai Standar Cara Distribusi Obat yang Baik (CDOB);"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "9011ff2d-05de-4ecf-937a-42366e3ddeae",
+    "kode": "063",
+    "localization": {
+     "en": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     },
+     "id": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "4b43beed-ed24-46bc-b4b5-0f7d0c0e8825",
+   "kode": "063000000051",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Sertifikat Pemenuhan Standar Sistem Manajemen Keamanan Pangan Olahan di Sarana Peredaran"
+    },
+    "id": {
+     "nama_dokumen": "Sertifikat Pemenuhan Standar Sistem Manajemen Keamanan Pangan Olahan di Sarana Peredaran"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "023172a4-eb57-563d-bd02-5373bffd3e4d",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "044ff319-ba32-4fac-a632-be064802ade6",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Penerapan Standar Sistem Manajemen Keamanan Pangan Olahan di sarana peredaran."
+      },
+      "id": {
+       "syarat_perizinan": "Penerapan Standar Sistem Manajemen Keamanan Pangan Olahan di sarana peredaran."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Penerapan Standar Sistem Manajemen Keamanan Pangan Olahan di sarana peredaran."
+      },
+      "id": {
+       "syarat_perizinan": "Penerapan Standar Sistem Manajemen Keamanan Pangan Olahan di sarana peredaran."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan sistem manajemen keamanan pangan olahan sesuai pedoman Cara Ritel Pangan yang Baik atau Cara Distribusi Pangan Olahan yang Baik."
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan sistem manajemen keamanan pangan olahan sesuai pedoman Cara Ritel Pangan yang Baik atau Cara Distribusi Pangan Olahan yang Baik."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan sistem manajemen keamanan pangan olahan sesuai pedoman Cara Ritel Pangan yang Baik atau Cara Distribusi Pangan Olahan yang Baik."
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan sistem manajemen keamanan pangan olahan sesuai pedoman Cara Ritel Pangan yang Baik atau Cara Distribusi Pangan Olahan yang Baik."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "9011ff2d-05de-4ecf-937a-42366e3ddeae",
+    "kode": "063",
+    "localization": {
+     "en": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     },
+     "id": {
+      "uraian": "Obat dan Makanan",
+      "deskripsi": "Badan Pengawas Obat dan Makanan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

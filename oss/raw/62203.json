@@ -1,0 +1,1236 @@
+{
+ "code": "62203",
+ "found": true,
+ "ossId": "8dcc7f98-2590-5b89-96e9-986be49e4d82",
+ "url": "https://oss.go.id/id/kbli/detail/8dcc7f98-2590-5b89-96e9-986be49e4d82",
+ "fetchedAt": "2026-09-30T05:13:17+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 62023 berubah menjadi 62203 pada KBLI 2025.",
+  "from2020": [
+   "62023"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "6e6ccf1e-1bb6-555c-9917-fff03782c83a",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "8dcc7f98-2590-5b89-96e9-986be49e4d82",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Penyediaan Sertifikat Elektronik dan Jasa Terkait",
+      "uraian": "Kelompok ini mencakup aktivitas penyediaan sertifikasi elektronik dan jasa terkait, baik sebagai penyelenggara sertifikasi elektronik (certificate authority) maupun sebagai penyedia jasa berbasis teknologi kriptografi, termasuk dalam kelompok ini antara lain:\n- penerbitan dan pengelolaan sertifikat elektronik (digital certificate);\n- layanan tanda tangan elektronik (digital signature) dan segel elektronik (electronic seal);\n- penanda waktu elektronik (electronic timestamp);\n- layanan pengiriman elektronik tercatat (registered electronic delivery);\n- autentikasi situs web;\n- preservasi dan validasi tanda tangan atau segel elektronik;\n- integrasi layanan sertifikat elektronik dalam sistem informasi atau aplikasi klien sebagai bagian dari solusi keamanan dan identitas digital."
+     },
+     "id": {
+      "judul": "Aktivitas Penyediaan Sertifikat Elektronik dan Jasa Terkait",
+      "uraian": "Kelompok ini mencakup aktivitas penyediaan sertifikasi elektronik dan jasa terkait, baik sebagai penyelenggara sertifikasi elektronik (certificate authority) maupun sebagai penyedia jasa berbasis teknologi kriptografi, termasuk dalam kelompok ini antara lain:\n- penerbitan dan pengelolaan sertifikat elektronik (digital certificate);\n- layanan tanda tangan elektronik (digital signature) dan segel elektronik (electronic seal);\n- penanda waktu elektronik (electronic timestamp);\n- layanan pengiriman elektronik tercatat (registered electronic delivery);\n- autentikasi situs web;\n- preservasi dan validasi tanda tangan atau segel elektronik;\n- integrasi layanan sertifikat elektronik dalam sistem informasi atau aplikasi klien sebagai bagian dari solusi keamanan dan identitas digital."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "d71021a0-3fc0-52a5-bddf-e946f463c2eb",
+     "kode": "62203-04-01",
+     "luas_lahan": null,
+     "jangka_waktu": "21",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "54c4a3e0-bc51-5f2d-8f28-bdd5a5bb2222",
+       "localization": {
+        "en": {
+         "uraian": "Telah melakukan penilaian mandiri yang mengacu pada standar fasilitas dan peralatan yang diterbitkan oleh Kementerian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Telah melakukan penilaian mandiri yang mengacu pada standar fasilitas dan peralatan yang diterbitkan oleh Kementerian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e695720a-08ac-5f04-86a2-94ecf988574d",
+       "localization": {
+        "en": {
+         "uraian": "Tidak menjadi induk bagi Penyelenggara Sertifikasi Elektronik (PSrE) lain dan tidak berinduk kepada PSrE lain",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Tidak menjadi induk bagi Penyelenggara Sertifikasi Elektronik (PSrE) lain dan tidak berinduk kepada PSrE lain",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e889c8e4-c07a-59d7-a0c6-80d9d365b193",
+       "localization": {
+        "en": {
+         "uraian": "Melampirkan surat permohonan sesuai dengan format sebagaimana tercantum dalam Lampiran I Peraturan Menteri tentang Penyelenggaraan Sertifikasi Elektronik yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melampirkan surat permohonan sesuai dengan format sebagaimana tercantum dalam Lampiran I Peraturan Menteri tentang Penyelenggaraan Sertifikasi Elektronik yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "be6783ee-1b3b-5c6a-b0e5-4d935218ba20",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi interoperabilitas PSrE Indonesia yang mengacu pada standar interoperabilitas PSrE nonInstansi yang diterbitkan oleh Kementerian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi interoperabilitas PSrE Indonesia yang mengacu pada standar interoperabilitas PSrE nonInstansi yang diterbitkan oleh Kementerian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4d45a888-a85e-5544-ad63-23e00066d7a1",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki bukti sertifikat dan laporan hasil dari penilaian sertifikasi sistem manajemen pengamanan informasi sesuai dengan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki bukti sertifikat dan laporan hasil dari penilaian sertifikasi sistem manajemen pengamanan informasi sesuai dengan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2be99655-6a79-5862-8cf6-b8d41ca11ba7",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen kebijakan yang berisi jaminan ganti rugi yang dialami Orang, Badan Usaha, atau Instansi akibat kegagalan layanan Penyeleggaraan Sertifikasi Elektronik baik karena kesengajaan dan/atau kelalaian dalam mematuhi kewajibannya sebagai PSrE",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen kebijakan yang berisi jaminan ganti rugi yang dialami Orang, Badan Usaha, atau Instansi akibat kegagalan layanan Penyeleggaraan Sertifikasi Elektronik baik karena kesengajaan dan/atau kelalaian dalam mematuhi kewajibannya sebagai PSrE",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "80aa8aa9-1532-5c49-bffc-97fab92336ed",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kemampuan keuangan berupa harta paling sedikit Rp30 000 000 000,00 (tiga puluh miliar rupiah) dan menyerahkan bukti kemampuan keuangan berupa salinan neraca keuangan yang sudah diaudit oleh auditor independen",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kemampuan keuangan berupa harta paling sedikit Rp30 000 000 000,00 (tiga puluh miliar rupiah) dan menyerahkan bukti kemampuan keuangan berupa salinan neraca keuangan yang sudah diaudit oleh auditor independen",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a89399c2-4f38-511d-bfa6-00e9545ae57d",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki paling sedikit 11 (sebelas) orang peran terpercaya dalam pengoperasian fasilitas dan peralatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki paling sedikit 11 (sebelas) orang peran terpercaya dalam pengoperasian fasilitas dan peralatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d2f9d190-1a85-53de-bd45-2d1ca19c4226",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Pernyataan Penyelenggaraan Sertifikasi Elektronik (Certification Practice Statement) PSrE yang mengacu pada Kebijakan Sertifikat Elektronik (Certificate Policy) PSrE Induk",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Pernyataan Penyelenggaraan Sertifikasi Elektronik (Certification Practice Statement) PSrE yang mengacu pada Kebijakan Sertifikat Elektronik (Certificate Policy) PSrE Induk",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bd65e933-71a4-527f-8e61-c5c777479268",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki prosedur dan metode untuk mengelola dan mengoperasikan fasilitas dan peralatan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki prosedur dan metode untuk mengelola dan mengoperasikan fasilitas dan peralatan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f3a29470-c1da-5a98-803e-74347e123749",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan memiliki proposal PSrE sesuai dengan format sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri tentang Penyelenggaraan Sertifikasi Elektronik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan memiliki proposal PSrE sesuai dengan format sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri tentang Penyelenggaraan Sertifikasi Elektronik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "96b16c46-f266-517a-8e95-73482f060134",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan salinan bukti integritas dan rekam jejak direksi dan dewan komisaris PSrE Indonesia",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan salinan bukti integritas dan rekam jejak direksi dan dewan komisaris PSrE Indonesia",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4c778ae8-f101-5ee8-a69a-97f3c0303b39",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan salinan rekam jejak PSrE Indonesia tidak dalam kondisi berperkara atau pailit yang dibuktikan dengan surat keterangan dari pengadilan negeri tempat domisili badan hukum berada",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan salinan rekam jejak PSrE Indonesia tidak dalam kondisi berperkara atau pailit yang dibuktikan dengan surat keterangan dari pengadilan negeri tempat domisili badan hukum berada",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8ae836e8-6038-5651-b596-eb812cf020e0",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki fasilitas dan peralatan yang dibutukan untuk penyelenggaraan sertifikasi elektronik dalam wilayah hukum Indonesia sebagai berikut: a. Sistem untuk mengelola informasi pendaftaran Pemilik Sertifikat Elektronik b. Sistem untuk membuat dan mengelola data pembuatan Tanda Tangan Elektronik dan Data Verifikasi Tanda Tangan Elektronik c. Sistem untuk menerbitkan dan mengelola Sertifikat Elektronik yang diberikan kepada Pemilik Sertifikat Elektronik d. Sistem untuk menandai waktu data elektronik (timestamp) e. Sistem perlindungan untuk menjamin keamanan fasilitas dan peralatan dalam Penyelenggaraan Sertifikasi Elektronik f. Sistem verifikasi Sertifikat Elektronik Pemilik Sertifikat Elektronik (validation authority) yaitu: i. Online Certificate Status Protocol (OCSP) ii. Certificate Revocation List (CRL) iii. Memiliki atau mempunyai kontrol penuh atas fasilitas dan peralatan yang dibutuhkan dalam menyediakan layanan tersertifikasi yang diselenggarakannya dalam wilayah hukum Indonesia, antara lain:",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki fasilitas dan peralatan yang dibutukan untuk penyelenggaraan sertifikasi elektronik dalam wilayah hukum Indonesia sebagai berikut: a. Sistem untuk mengelola informasi pendaftaran Pemilik Sertifikat Elektronik b. Sistem untuk membuat dan mengelola data pembuatan Tanda Tangan Elektronik dan Data Verifikasi Tanda Tangan Elektronik c. Sistem untuk menerbitkan dan mengelola Sertifikat Elektronik yang diberikan kepada Pemilik Sertifikat Elektronik d. Sistem untuk menandai waktu data elektronik (timestamp) e. Sistem perlindungan untuk menjamin keamanan fasilitas dan peralatan dalam Penyelenggaraan Sertifikasi Elektronik f. Sistem verifikasi Sertifikat Elektronik Pemilik Sertifikat Elektronik (validation authority) yaitu: i. Online Certificate Status Protocol (OCSP) ii. Certificate Revocation List (CRL) iii. Memiliki atau mempunyai kontrol penuh atas fasilitas dan peralatan yang dibutuhkan dalam menyediakan layanan tersertifikasi yang diselenggarakannya dalam wilayah hukum Indonesia, antara lain:",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e26f5e37-3d61-5a35-a69d-ef3cd69ff464",
+       "localization": {
+        "en": {
+         "uraian": "Tanda Tangan Elektronik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Tanda Tangan Elektronik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "93fdde06-3194-539a-9e23-4bc8132cdb9e",
+       "localization": {
+        "en": {
+         "uraian": "Segel Elektronik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Segel Elektronik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6352b414-1fd7-5a3b-9b82-bc024bece08b",
+       "localization": {
+        "en": {
+         "uraian": "Penanda Waktu Elektronik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Penanda Waktu Elektronik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f928b8c6-6d3f-557f-bcb4-2e8ed13430a0",
+       "localization": {
+        "en": {
+         "uraian": "Layanan Pengiriman Elektronik Tercatat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Layanan Pengiriman Elektronik Tercatat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "89d7ac37-f3f9-5193-9e0f-cf35725f26a6",
+       "localization": {
+        "en": {
+         "uraian": "Autentikasi Situs Web dan/ atau",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Autentikasi Situs Web dan/ atau",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d3332d96-6dfd-5ab6-b45b-c827a98fe5ff",
+       "localization": {
+        "en": {
+         "uraian": "Preservasi Tanda Tangan Elektronik dan/ atau Segel Elektronik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Preservasi Tanda Tangan Elektronik dan/ atau Segel Elektronik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7e19ffbf-0c66-5a26-84bb-7230d028c217",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokumen: a. Rencana bisnis b. Rencana keberlangsungan bisnis c. Rencana penanggulangan bencana d. Laporan pengujian sistem elektronik (stress test dan load test) dan analisis keamanan informasi (penetration test),",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokumen: a. Rencana bisnis b. Rencana keberlangsungan bisnis c. Rencana penanggulangan bencana d. Laporan pengujian sistem elektronik (stress test dan load test) dan analisis keamanan informasi (penetration test),",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "77a9f0dc-3a4a-5595-b551-42132ed7d928",
+       "localization": {
+        "en": {
+         "uraian": "Mendapatkan Tanda Lulus penilaian kelaikan dari Lembaga Sertifikasi Penyelenggara Sertifikasi Elektronik, yang penilaiannya mengacu pada: a. Standar yang diterbitkan oleh Kementerian bidang Komunikasi dan Informatika, antara lain: i. Standar fasilitas dan peralatan PSrE ii. Standar interoperabilitas iii. Standar verifikasi identitas iv. Kebijakan Sertifikat Elektronik (Certificate Policy) PSrE Induk b. Panduanpanduan yang diterbitkan oleh Kementerian bidang Komunikasi dan Informatika c. Standarstandar lain yang disebutkan dalam Peraturan Menteri tentang Penyelenggaraan Sertifikasi Elektronik d. Best practice internasional yang dipakai PSrE Indonesia dalam layanannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mendapatkan Tanda Lulus penilaian kelaikan dari Lembaga Sertifikasi Penyelenggara Sertifikasi Elektronik, yang penilaiannya mengacu pada: a. Standar yang diterbitkan oleh Kementerian bidang Komunikasi dan Informatika, antara lain: i. Standar fasilitas dan peralatan PSrE ii. Standar interoperabilitas iii. Standar verifikasi identitas iv. Kebijakan Sertifikat Elektronik (Certificate Policy) PSrE Induk b. Panduanpanduan yang diterbitkan oleh Kementerian bidang Komunikasi dan Informatika c. Standarstandar lain yang disebutkan dalam Peraturan Menteri tentang Penyelenggaraan Sertifikasi Elektronik d. Best practice internasional yang dipakai PSrE Indonesia dalam layanannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "792774db-1086-59d2-9ce1-791f0a84d5b3",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem manajemen usaha yang mengacu pada panduan yang diterbitkan oleh Kominfo, antara lain: a. Standar Fasilitas dan Peralatan Penyelenggara Sertifikasi Elektronik, yang di dalamnya mensyaratkan sertifikasi Sistem Manajemen Pengamanan Informasi b. Panduan Operasional Penyelenggara Sertifikasi Elektronik c. Kebijakan Sertifikat Elektronik (Certificate Policy) Penyelenggara Sertifikasi Elektronik Induk, yang di dalamnya mengatur terkait dengan jaminan ganti rugi, rencana bisnis, rencana keberlangsungan bisnis, rencana penanggulangan bencana serta panduan lain yang mengacu pada best practice internasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem manajemen usaha yang mengacu pada panduan yang diterbitkan oleh Kominfo, antara lain: a. Standar Fasilitas dan Peralatan Penyelenggara Sertifikasi Elektronik, yang di dalamnya mensyaratkan sertifikasi Sistem Manajemen Pengamanan Informasi b. Panduan Operasional Penyelenggara Sertifikasi Elektronik c. Kebijakan Sertifikat Elektronik (Certificate Policy) Penyelenggara Sertifikasi Elektronik Induk, yang di dalamnya mengatur terkait dengan jaminan ganti rugi, rencana bisnis, rencana keberlangsungan bisnis, rencana penanggulangan bencana serta panduan lain yang mengacu pada best practice internasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "7bcd8ce5-d4e7-54a1-ab33-9642cdd80af9",
+       "localization": {
+        "en": {
+         "uraian": "Mengelola dan mengamankan sistem yang menyimpan identitas Pemilik Sertifikat Elektronik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mengelola dan mengamankan sistem yang menyimpan identitas Pemilik Sertifikat Elektronik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7c5cdc70-340c-5a64-b41a-4a1fb51d32b4",
+       "localization": {
+        "en": {
+         "uraian": "Melaksanakan audit terhadap otoritas pendaftarannya (registration authority)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaksanakan audit terhadap otoritas pendaftarannya (registration authority)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "49b5416a-841a-5fe5-aaec-c4a621648804",
+       "localization": {
+        "en": {
+         "uraian": "Melakukan validasi Sertifikat Elektronik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melakukan validasi Sertifikat Elektronik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "04f68490-3965-569a-bdea-fca6a87485a6",
+       "localization": {
+        "en": {
+         "uraian": "Memberikan edukasi kepada calon pemilik dan/atau Pemilik Sertifikat Elektronik mengenai penggunaan dan pengamanan Sertifikat Elektronik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memberikan edukasi kepada calon pemilik dan/atau Pemilik Sertifikat Elektronik mengenai penggunaan dan pengamanan Sertifikat Elektronik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "264e55cf-bbbd-566d-9b94-8c0dba93513a",
+       "localization": {
+        "en": {
+         "uraian": "Memberitahukan kontrak berlangganan (Subscriber Agreement) dan kebijakan privasi Penyelenggaraan Sertifikasi Elektroniknya kepada calon pemilik dan/atau Pemilik Sertifikat Elektronik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memberitahukan kontrak berlangganan (Subscriber Agreement) dan kebijakan privasi Penyelenggaraan Sertifikasi Elektroniknya kepada calon pemilik dan/atau Pemilik Sertifikat Elektronik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "e846f4fc-dc2a-5bc8-8244-7ae491cdcc73",
+       "localization": {
+        "en": {
+         "uraian": "Memberitahukan Pernyataan Penyelenggaraan Sertifikasi Elektronik (Certification Practice Statement) Penyelenggaraan Sertifikasi Elektroniknya kepada pihak lain yang menggunakan jasa PSrE Indonesia",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memberitahukan Pernyataan Penyelenggaraan Sertifikasi Elektronik (Certification Practice Statement) Penyelenggaraan Sertifikasi Elektroniknya kepada pihak lain yang menggunakan jasa PSrE Indonesia",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cf97f1d2-97dd-5de2-b371-af9d6616e315",
+       "localization": {
+        "en": {
+         "uraian": "Membuat daftar Sertifikat Elektronik yang aktif dan yang dicabut dengan mengelola sistem verifikasi Sertifikat Elektronik Pemilik Sertifikat Elektronik (validation authority)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Membuat daftar Sertifikat Elektronik yang aktif dan yang dicabut dengan mengelola sistem verifikasi Sertifikat Elektronik Pemilik Sertifikat Elektronik (validation authority)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "18a7efd1-765e-5eed-a441-9267ab872b94",
+       "localization": {
+        "en": {
+         "uraian": "Memelihara dokumen arsip secara sistematik dan dapat dipertanggungjawabkan baik dalam bentuk tertulis (paper based) dan/atau elektronik (electronic based)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memelihara dokumen arsip secara sistematik dan dapat dipertanggungjawabkan baik dalam bentuk tertulis (paper based) dan/atau elektronik (electronic based)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0cfd1b1a-f3dc-5919-8e39-0d9d829feae0",
+       "localization": {
+        "en": {
+         "uraian": "Memeriksa kebenaran identitas calon pemilik dan/atau Pemilik Sertifikat Elektronik",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memeriksa kebenaran identitas calon pemilik dan/atau Pemilik Sertifikat Elektronik",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "41ad997c-d1ac-5c43-8c3d-2b1a30f2fb8d",
+       "localization": {
+        "en": {
+         "uraian": "Meminta persetujuan Menteri dalam hal terjadi perubahan layanan PSrE Indonesia yang berbeda dengan ketentuan dalam Kebijakan Sertifikat Elektronik (Certificate Policy) PSrE Induk",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Meminta persetujuan Menteri dalam hal terjadi perubahan layanan PSrE Indonesia yang berbeda dengan ketentuan dalam Kebijakan Sertifikat Elektronik (Certificate Policy) PSrE Induk",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "21789c4d-c49c-5d5b-8d91-5c6f81b926c0",
+       "localization": {
+        "en": {
+         "uraian": "Memperbarui Tanda Lulus PSrE yang akan habis masa berlakunya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memperbarui Tanda Lulus PSrE yang akan habis masa berlakunya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "33b33de3-bda5-5d87-adf6-7909f1082714",
+       "localization": {
+        "en": {
+         "uraian": "Mempublikasikan Pernyataan Penyelenggaraan Sertifikasi Elektronik (Certification Practice Statement) Penyelenggaraan Sertifikasi Elektroniknya di situs resmi layanannya",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Mempublikasikan Pernyataan Penyelenggaraan Sertifikasi Elektronik (Certification Practice Statement) Penyelenggaraan Sertifikasi Elektroniknya di situs resmi layanannya",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5033cf71-0bcf-5ca2-a3c7-888e5720a283",
+       "localization": {
+        "en": {
+         "uraian": "Menjamin kerugian akibat kegagalan layanan Penyelenggaraan Sertifikasi Elektronik, kesengajaan, dan/atau kelalaian kepada orang, badan usaha, atau Instansi karena kegagalannya dalam mematuhi kewajiban sebagai PSrE sesuai dengan ketentuan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjamin kerugian akibat kegagalan layanan Penyelenggaraan Sertifikasi Elektronik, kesengajaan, dan/atau kelalaian kepada orang, badan usaha, atau Instansi karena kegagalannya dalam mematuhi kewajiban sebagai PSrE sesuai dengan ketentuan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "1b83bc17-f3e1-5271-9c79-143e95bc6981",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan Penyediaan Identitas Digital kepada Menteri sekurangkurangnya 1 (satu) kali dalam satu tahun berjalan atau sewaktuwaktu apabila diminta",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan Penyediaan Identitas Digital kepada Menteri sekurangkurangnya 1 (satu) kali dalam satu tahun berjalan atau sewaktuwaktu apabila diminta",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cd804276-bed0-5e6d-803d-6961c00fe93b",
+       "localization": {
+        "en": {
+         "uraian": "Telah terdaftar sebagai Penyelenggara Sistem Elektronik di Kementerian",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Telah terdaftar sebagai Penyelenggara Sistem Elektronik di Kementerian",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 21,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "a5424c6e-2ee8-5ee7-8656-0c80c1aa879b",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "ec87d0d1-ea48-4426-8104-5d1a888a8a18",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "2aca71e1-18c9-5833-b4a3-d7ac90fda6cc",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "baf8bcd2-3ab3-5b69-97e4-22027224ce14",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "d98a00ea-13b2-4b2f-b138-9298c95fbee3",
+    "kode": "059",
+    "localization": {
+     "en": {
+      "uraian": "Komunikasi dan Informatika",
+      "deskripsi": "Kementerian Komunikasi dan Informatika"
+     },
+     "id": {
+      "uraian": "Komunikasi dan Informatika",
+      "deskripsi": "Kementerian Komunikasi dan Informatika"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

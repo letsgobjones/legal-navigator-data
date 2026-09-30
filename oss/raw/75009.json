@@ -1,0 +1,1488 @@
+{
+ "code": "75009",
+ "found": true,
+ "ossId": "c2c14c9e-c385-598d-bbab-7387ad5b6d86",
+ "url": "https://oss.go.id/id/kbli/detail/c2c14c9e-c385-598d-bbab-7387ad5b6d86",
+ "fetchedAt": "2026-09-30T05:25:41+00:00",
+ "conversion": null,
+ "scopes": [
+  {
+   "id": "4a6f300a-5b81-580b-92a1-b21c37e49511",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-09-19T03:03:29.798Z",
+   "Kbli": {
+    "id": "c2c14c9e-c385-598d-bbab-7387ad5b6d86",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Pengelolaan Kesehatan Hewan Lainnya",
+      "uraian": "Kelompok ini mencakup aktivitas kesehatan hewan selain yang tercakup dalam kelompok 75001 dan 75002, seperti\n- unit tranfusi darah hewan/bank darah hewan;\n- bank mata, bank sperma hewan kesayangan, bank transplantasi organ, bank sel dan jaringan;\n- optikal hewan;\n- aktivitas ambulans hewan;\n- pelayanan penunjang kesehatan hewan lainnya."
+     },
+     "id": {
+      "judul": "Aktivitas Pengelolaan Kesehatan Hewan Lainnya",
+      "uraian": "Kelompok ini mencakup aktivitas kesehatan hewan selain yang tercakup dalam kelompok 75001 dan 75002, seperti\n- unit tranfusi darah hewan/bank darah hewan;\n- bank mata, bank sperma hewan kesayangan, bank transplantasi organ, bank sel dan jaringan;\n- optikal hewan;\n- aktivitas ambulans hewan;\n- pelayanan penunjang kesehatan hewan lainnya."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "1cf8433f-c839-5efe-a3b9-0b694d30388c",
+     "kode": "75009-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "f33e35a5-3794-5f67-a45e-ef62951d6f7d",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki tempat usaha;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki tempat usaha;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "204fb2b3-0a94-5ccc-bdf0-e3637697d17d",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Kegiatan Usaha seperti sarana, prasarana, dan pelayanan;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Kegiatan Usaha seperti sarana, prasarana, dan pelayanan;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4f232304-463c-5843-b596-e2c50a450c18",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki Dokter Hewan penanggung jawab; dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki Dokter Hewan penanggung jawab; dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c0c17c85-edb0-5a1f-b741-6f1459b522fa",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki instalasi pembuangan limbah atau bekerja sama dengan Lembaga lain dalam pengelolaan limbah.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki instalasi pembuangan limbah atau bekerja sama dengan Lembaga lain dalam pengelolaan limbah.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "dd3f2dfa-1920-572a-a20d-db07756d079e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki surat rekomendasi dari Dinas yang membidangi fungsi Peternakan dan Kesehatan Hewan atau Pejabat Otoritas Veteriner Kabupaten/Kota di lokasi usaha paling lambat 3 (tiga) bulan setelah perizinan berusaha diterbitkan;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki surat rekomendasi dari Dinas yang membidangi fungsi Peternakan dan Kesehatan Hewan atau Pejabat Otoritas Veteriner Kabupaten/Kota di lokasi usaha paling lambat 3 (tiga) bulan setelah perizinan berusaha diterbitkan;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9f966281-09bb-5533-b8b5-5a234ac7ad3f",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi dan memelihara sarana dan prasarana selama menjalankan kegiatan usaha;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi dan memelihara sarana dan prasarana selama menjalankan kegiatan usaha;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9c6ca30c-c23c-5b57-8513-67615c8dcdac",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokter hewan penanggung jawab;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokter hewan penanggung jawab;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "dde6afc0-e8f0-5639-ade0-7adefd9dbc66",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengelolaan limbah, selama menjalankan kegiatan usaha; dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengelolaan limbah, selama menjalankan kegiatan usaha; dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d27dbcc3-f76a-551e-9b7b-1e2f240ed037",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "20317a3b-80e9-5b73-8497-a21327c5caf4",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "4abd9467-7baa-543f-ad4a-2655b52f4e0d",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "b9230d9c-b6c5-53c8-80af-096bf12e0bf5",
+     "kode": "75009-02-01",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "ffffbd4e-037a-5d51-8e35-08b5b9369f1b",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki tempat usaha;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki tempat usaha;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "34111456-8fd3-580e-bd1d-262c5cc7bc25",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Kegiatan Usaha seperti sarana, prasarana, dan pelayanan;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Kegiatan Usaha seperti sarana, prasarana, dan pelayanan;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ec877b96-fa73-5a44-9013-3650d41c76e7",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki Dokter Hewan penanggung jawab; dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki Dokter Hewan penanggung jawab; dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b9143207-9b76-5671-9957-61c481da9e50",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki instalasi pembuangan limbah atau bekerja sama dengan Lembaga lain dalam pengelolaan limbah.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki instalasi pembuangan limbah atau bekerja sama dengan Lembaga lain dalam pengelolaan limbah.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "38dd747b-9bc7-5eb1-92cf-f284f4331996",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki surat rekomendasi dari Dinas yang membidangi fungsi Peternakan dan Kesehatan Hewan atau Pejabat Otoritas Veteriner Kabupaten/Kota di lokasi usaha paling lambat 3 (tiga) bulan setelah perizinan berusaha diterbitkan;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki surat rekomendasi dari Dinas yang membidangi fungsi Peternakan dan Kesehatan Hewan atau Pejabat Otoritas Veteriner Kabupaten/Kota di lokasi usaha paling lambat 3 (tiga) bulan setelah perizinan berusaha diterbitkan;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "91e77dcc-ba24-5108-83c1-f7c994fc23b1",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi dan memelihara sarana dan prasarana selama menjalankan kegiatan usaha;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi dan memelihara sarana dan prasarana selama menjalankan kegiatan usaha;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cb058742-2fe4-5928-b2e5-4292073849e7",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokter hewan penanggung jawab;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokter hewan penanggung jawab;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "642e894c-91b3-5210-af89-a777d1f99961",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengelolaan limbah, selama menjalankan kegiatan usaha; dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengelolaan limbah, selama menjalankan kegiatan usaha; dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "73f69e07-4061-5a46-8cda-18683c6750e4",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "7168c292-2012-5eaf-bcc6-97f3e5b401a0",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "bcef69dc-71ae-5a5b-879f-d5a53f97e53a",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "d47228b9-3e54-5f61-82c9-6877fcf335f1",
+     "kode": "75009-03-01",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "038f65fa-3b75-590a-bd05-dff1d5931fcd",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki tempat usaha;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki tempat usaha;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0562046d-1b58-5d11-b389-bdc03669fe88",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Kegiatan Usaha seperti sarana, prasarana, dan pelayanan;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Kegiatan Usaha seperti sarana, prasarana, dan pelayanan;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c3f721be-4cdd-5024-a574-6e439b95fc82",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki Dokter Hewan penanggung jawab; dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki Dokter Hewan penanggung jawab; dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b89a86b7-0baa-54c1-99b6-c7d2cc67f6ad",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki instalasi pembuangan limbah atau bekerja sama dengan Lembaga lain dalam pengelolaan limbah.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki instalasi pembuangan limbah atau bekerja sama dengan Lembaga lain dalam pengelolaan limbah.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "ee5e116a-d0ce-5c30-9693-a0044fa1e928",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki surat rekomendasi dari Dinas yang membidangi fungsi Peternakan dan Kesehatan Hewan atau Pejabat Otoritas Veteriner Kabupaten/Kota di lokasi usaha paling lambat 3 (tiga) bulan setelah perizinan berusaha diterbitkan;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki surat rekomendasi dari Dinas yang membidangi fungsi Peternakan dan Kesehatan Hewan atau Pejabat Otoritas Veteriner Kabupaten/Kota di lokasi usaha paling lambat 3 (tiga) bulan setelah perizinan berusaha diterbitkan;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "83f35c8f-e236-5b63-b4d3-c47c8dd29f5d",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi dan memelihara sarana dan prasarana selama menjalankan kegiatan usaha;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi dan memelihara sarana dan prasarana selama menjalankan kegiatan usaha;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "23261e33-9e7f-5f2a-bfc7-c4683b3bc300",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokter hewan penanggung jawab;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokter hewan penanggung jawab;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "55ebe21d-46df-5205-b4e9-054d9a087749",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengelolaan limbah, selama menjalankan kegiatan usaha; dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengelolaan limbah, selama menjalankan kegiatan usaha; dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f528763b-f4c3-5866-a09a-c4e34a65dc83",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "b8ff3acd-cffe-5f58-9410-7f85145e3758",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "470fb151-dddd-5b1a-8e5d-cf6df7499c47",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "d1c543f1-1028-5370-a314-a9cf24c4d052",
+     "kode": "75009-04-01",
+     "luas_lahan": null,
+     "jangka_waktu": "7",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "f037e349-66f0-588c-aa3d-7bfaf1096a06",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki tempat usaha;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki tempat usaha;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c1333dbf-f1d3-57e1-b6f5-454b698df54f",
+       "localization": {
+        "en": {
+         "uraian": "Dokumen Kegiatan Usaha seperti sarana, prasarana, dan pelayanan;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dokumen Kegiatan Usaha seperti sarana, prasarana, dan pelayanan;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8735b461-8d62-53ac-b54e-9525a971a4e1",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki Dokter Hewan penanggung jawab; dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki Dokter Hewan penanggung jawab; dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bd75d30e-80db-5015-a26d-a6fb8b85d4c8",
+       "localization": {
+        "en": {
+         "uraian": "Surat Pernyataan memiliki instalasi pembuangan limbah atau bekerja sama dengan Lembaga lain dalam pengelolaan limbah.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Surat Pernyataan memiliki instalasi pembuangan limbah atau bekerja sama dengan Lembaga lain dalam pengelolaan limbah.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "ec6ce59c-7d50-5cb0-8cdf-8ec2d2c4505a",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki surat rekomendasi dari Dinas yang membidangi fungsi Peternakan dan Kesehatan Hewan atau Pejabat Otoritas Veteriner Kabupaten/Kota di lokasi usaha paling lambat 3 (tiga) bulan setelah perizinan berusaha diterbitkan;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki surat rekomendasi dari Dinas yang membidangi fungsi Peternakan dan Kesehatan Hewan atau Pejabat Otoritas Veteriner Kabupaten/Kota di lokasi usaha paling lambat 3 (tiga) bulan setelah perizinan berusaha diterbitkan;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4d9d6377-f35e-5863-bf61-372c0a89ec3a",
+       "localization": {
+        "en": {
+         "uraian": "Memenuhi dan memelihara sarana dan prasarana selama menjalankan kegiatan usaha;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memenuhi dan memelihara sarana dan prasarana selama menjalankan kegiatan usaha;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ecef6abc-1a51-57ed-9786-a8c9f571ec73",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki dokter hewan penanggung jawab;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki dokter hewan penanggung jawab;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f5ff369c-6506-573c-b7a4-32683d155420",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem pengelolaan limbah, selama menjalankan kegiatan usaha; dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem pengelolaan limbah, selama menjalankan kegiatan usaha; dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "13a15bfe-0af0-5b07-bcb8-01eeaecb4c73",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 7,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "625014c3-d9d0-5f14-ba86-5729cafef960",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "d6dc2bab-95d4-4629-9920-bf677596d82e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "9bc2c4d1-8edf-51a2-95b1-b48d3afabf8b",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "3c0da883-1b8f-4753-8ece-147eb2de9647",
+    "kode": "018",
+    "localization": {
+     "en": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     },
+     "id": {
+      "uraian": "Pertanian",
+      "deskripsi": "Kementerian Pertanian"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

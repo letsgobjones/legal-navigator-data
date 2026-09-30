@@ -1,0 +1,676 @@
+{
+ "code": "82300",
+ "found": true,
+ "ossId": "7c11898c-56a7-58e0-805c-cf82a2788547",
+ "url": "https://oss.go.id/id/kbli/detail/7c11898c-56a7-58e0-805c-cf82a2788547",
+ "fetchedAt": "2026-09-30T05:32:05+00:00",
+ "conversion": {
+  "label": "Berubah",
+  "ratio": "1:1",
+  "text": "Kode 82301 berubah menjadi 82300 pada KBLI 2025.",
+  "from2020": [
+   "82301"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "afdef9a0-4a31-5046-b773-1f050af88390",
+   "localization": {
+    "en": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Seluruh",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "7c11898c-56a7-58e0-805c-cf82a2788547",
+    "localization": {
+     "en": {
+      "judul": "Penyelenggaraan Konvensi dan Pameran Bisnis",
+      "uraian": "$4b"
+     },
+     "id": {
+      "judul": "Penyelenggaraan Konvensi dan Pameran Bisnis",
+      "uraian": "$4c"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "9658b954-bfc5-55e8-8cc3-2e4dec1ecede",
+     "kode": "82300-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "d673dfc7-61af-5f97-9795-52acfa63ee64",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat standar yang diterbitkan oleh LSPr (khusus PMA)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat standar yang diterbitkan oleh LSPr (khusus PMA)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "1dc9c4e9-5caf-5a1b-b587-8288a95979db",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Jasa penyelenggara pertemuan, perjalanan insentif, Konferensi dan pameran (MICE) meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Jasa penyelenggara pertemuan, perjalanan insentif, Konferensi dan pameran (MICE) meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "ca022db5-a577-5477-b295-0aa991e9bfb9",
+       "localization": {
+        "en": {
+         "uraian": "Dalam hal akan menyelenggarakan kegiatan atau event, pelaku usaha wajib memiliki Izin Penyelenggaraan Event sebagaimana diatur dalam peraturan perundang undangan yang berlaku.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dalam hal akan menyelenggarakan kegiatan atau event, pelaku usaha wajib memiliki Izin Penyelenggaraan Event sebagaimana diatur dalam peraturan perundang undangan yang berlaku.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "c1e1cde5-a794-5029-93fc-229d6da26402",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "273ccd0c-56bd-580b-bf82-7b869b1e3e8f",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "37f4a605-49ac-4b55-8949-0dc51e30089e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "172ec76f-f096-53fa-9245-d7acb5e3633c",
+     "kode": "82300-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "5c68d9c9-7465-5202-94f4-862903731aad",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat standar yang diterbitkan oleh LSPr (khusus PMA)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat standar yang diterbitkan oleh LSPr (khusus PMA)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "3b187e25-068f-526a-b62a-b99572ccc7f6",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Jasa penyelenggara pertemuan, perjalanan insentif, Konferensi dan pameran (MICE) meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Jasa penyelenggara pertemuan, perjalanan insentif, Konferensi dan pameran (MICE) meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "7cf411c2-f3a6-5c54-b7a9-22e156d6b33a",
+       "localization": {
+        "en": {
+         "uraian": "Dalam hal akan menyelenggarakan kegiatan atau event, pelaku usaha wajib memiliki Izin Penyelenggaraan Event sebagaimana diatur dalam peraturan perundang undangan yang berlaku.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dalam hal akan menyelenggarakan kegiatan atau event, pelaku usaha wajib memiliki Izin Penyelenggaraan Event sebagaimana diatur dalam peraturan perundang undangan yang berlaku.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "9e5a0698-b614-5b82-8930-58d35b8e70fa",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "a3cf20f6-762d-5019-8270-e4d762d0ed45",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "37f4a605-49ac-4b55-8949-0dc51e30089e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "36a7ca58-2180-5947-8e44-d809ce41561d",
+     "kode": "82300-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "a65f3dfd-abfa-5e9b-a2d7-0ead2d2d4910",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat standar yang diterbitkan oleh LSPr (khusus PMA)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat standar yang diterbitkan oleh LSPr (khusus PMA)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "c4737769-9918-5b03-a0fc-40a001cf5bfa",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Jasa penyelenggara pertemuan, perjalanan insentif, Konferensi dan pameran (MICE) meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Jasa penyelenggara pertemuan, perjalanan insentif, Konferensi dan pameran (MICE) meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "5870c3df-a230-531b-b60d-182b9dd37fc1",
+       "localization": {
+        "en": {
+         "uraian": "Dalam hal akan menyelenggarakan kegiatan atau event, pelaku usaha wajib memiliki Izin Penyelenggaraan Event sebagaimana diatur dalam peraturan perundang undangan yang berlaku.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dalam hal akan menyelenggarakan kegiatan atau event, pelaku usaha wajib memiliki Izin Penyelenggaraan Event sebagaimana diatur dalam peraturan perundang undangan yang berlaku.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "2370b188-9362-5524-ba01-bc78453eba28",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "b83206d5-0c22-5ac9-8086-c0d0aba4de5a",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "37f4a605-49ac-4b55-8949-0dc51e30089e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "1dc3a959-9fc4-548b-9bc6-59e91c9833d5",
+     "kode": "82300-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "28262b1b-e957-5f24-9867-dec374cce210",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sertifikat standar yang diterbitkan oleh LSPr (khusus PMA)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sertifikat standar yang diterbitkan oleh LSPr (khusus PMA)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "726798b9-2d42-5312-a76c-dab3875cdfab",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Jasa penyelenggara pertemuan, perjalanan insentif, Konferensi dan pameran (MICE) meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki Dokumen Penilaian Mandiri Kesiapan Penerapan Standar usaha Jasa penyelenggara pertemuan, perjalanan insentif, Konferensi dan pameran (MICE) meliputi Sarana, Struktur Organisasi dan SDM, Pelayanan, Produk usaha dan Sistem Manajemen Usaha",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "a1a1c7f7-c7c6-5d47-be04-67c2b6c2ada0",
+       "localization": {
+        "en": {
+         "uraian": "Dalam hal akan menyelenggarakan kegiatan atau event, pelaku usaha wajib memiliki Izin Penyelenggaraan Event sebagaimana diatur dalam peraturan perundang undangan yang berlaku.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Dalam hal akan menyelenggarakan kegiatan atau event, pelaku usaha wajib memiliki Izin Penyelenggaraan Event sebagaimana diatur dalam peraturan perundang undangan yang berlaku.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "0685001d-8175-5d78-8b5a-46759dd14591",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "263419fa-033e-54b1-b86d-bb403e6f7fce",
+       "Kewenangan": {
+        "id": "aa719620-6d08-4603-b1f6-72c76426bc5d",
+        "localization": {
+         "en": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Bupati/Walikota",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "0ac5720d-41d2-5ff3-a7b0-f3b1f1c2be6e",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "37f4a605-49ac-4b55-8949-0dc51e30089e",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "5f1c2ac8-6dbf-493b-975b-ead6a9be61ab",
+    "kode": "040",
+    "localization": {
+     "en": {
+      "uraian": "Pariwisata",
+      "deskripsi": "Kementerian Pariwisata"
+     },
+     "id": {
+      "uraian": "Pariwisata",
+      "deskripsi": "Kementerian Pariwisata"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}

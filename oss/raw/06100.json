@@ -1,0 +1,4812 @@
+{
+ "code": "06100",
+ "found": true,
+ "ossId": "117ea0e9-c96b-5edc-a835-6162cd8003e2",
+ "url": "https://oss.go.id/id/kbli/detail/117ea0e9-c96b-5edc-a835-6162cd8003e2",
+ "fetchedAt": "2026-09-30T04:08:58+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 06100 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "06100"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "e310d746-b789-599f-84f0-157f099d9710",
+   "localization": {
+    "en": {
+     "uraian": "Kegiatan Eksplorasi Minyak Bumi, Kegiatan Eksploitasi Minyak Bumi, Kegiatan Penangkapan, Penyimpanan, Pemanfaatan Karbon di Wilayah Kerja Migas",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Kegiatan Eksplorasi Minyak Bumi, Kegiatan Eksploitasi Minyak Bumi, Kegiatan Penangkapan, Penyimpanan, Pemanfaatan Karbon di Wilayah Kerja Migas",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "117ea0e9-c96b-5edc-a835-6162cd8003e2",
+    "localization": {
+     "en": {
+      "judul": "Pertambangan Minyak Bumi",
+      "uraian": "$4b"
+     },
+     "id": {
+      "judul": "Pertambangan Minyak Bumi",
+      "uraian": "$4c"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "6c6fb6f3-c700-5190-b412-2bf814fde6cc",
+     "kode": "06100-04-01",
+     "luas_lahan": null,
+     "jangka_waktu": "30",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "cf03e28f-4389-5ca0-8538-ceac23aa4008",
+       "localization": {
+        "en": {
+         "uraian": "Keputusan Menteri mengenai Penetapan Kontraktor Kontrak kerjasama atau Keputusan Menteri mengenai Persetujuan Perpanjangan/ Alih Kelola/ Pengelolaan Bersama",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Keputusan Menteri mengenai Penetapan Kontraktor Kontrak kerjasama atau Keputusan Menteri mengenai Persetujuan Perpanjangan/ Alih Kelola/ Pengelolaan Bersama",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "49e016e9-7a0a-5cde-b551-481aa568dc7d",
+       "localization": {
+        "en": {
+         "uraian": "Salinan Kontrak kerjasama",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Salinan Kontrak kerjasama",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "265a8756-00e3-52c1-bf8d-094725e3bfe9",
+       "localization": {
+        "en": {
+         "uraian": "Pemilik Manfaat (Beneficial Ownership)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemilik Manfaat (Beneficial Ownership)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b91b270d-7644-54bb-8ef5-440e50f56c0b",
+       "localization": {
+        "en": {
+         "uraian": "Salinan Jaminan Pelaksanaan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Salinan Jaminan Pelaksanaan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "b7edc11b-f5e7-564d-9b10-0f03cafe8a85",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "407ae1b2-b129-43b0-bfc8-510534adcc2d",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Kontrak Kerja Sama"
+         },
+         "id": {
+          "nama_dokumen": "Kontrak Kerja Sama"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "ac852db0-0a26-5a98-b0fc-0901696f9cb5",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "45caa7ae-3c2a-5ad7-a1e8-3841865a22a5",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "744cb003-8bbd-51a7-9433-8474034e836b",
+       "localization": {
+        "en": {
+         "uraian": "BU/ BUT wajib mematuhi ketentuan peraturan perundang undangan dan melaksanakan ketentuan Kontrak kerjasama",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "BU/ BUT wajib mematuhi ketentuan peraturan perundang undangan dan melaksanakan ketentuan Kontrak kerjasama",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 30,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "2e6236ed-a475-5393-a8cf-073b78b69d36",
+   "localization": {
+    "en": {
+     "uraian": "Kegiatan Survei Seismik 2D/3D/Lainnya Minyak Bumi yang dilakukan secara tidak menetap selama kurang dari 30 hari",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Kegiatan Survei Seismik 2D/3D/Lainnya Minyak Bumi yang dilakukan secara tidak menetap selama kurang dari 30 hari",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "117ea0e9-c96b-5edc-a835-6162cd8003e2",
+    "localization": {
+     "en": {
+      "judul": "Pertambangan Minyak Bumi",
+      "uraian": "$4d"
+     },
+     "id": {
+      "judul": "Pertambangan Minyak Bumi",
+      "uraian": "$4e"
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "44255a77-96f6-58f3-a7e0-cadbee14d849",
+     "kode": "06100-01-02",
+     "luas_lahan": null,
+     "jangka_waktu": "30",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "8532570a-a03d-5545-9ad8-dbf40f35f00e",
+       "localization": {
+        "en": {
+         "uraian": "Nama penandatangan Kontrak Kerja Sama dan jabatannya;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Nama penandatangan Kontrak Kerja Sama dan jabatannya;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "9e83be58-e431-52b3-8e2b-8914626019ca",
+       "localization": {
+        "en": {
+         "uraian": "Keputusan Menteri Tentang Penetapan Kontraktor Kontrak Kerjasama WK Baru Migas;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Keputusan Menteri Tentang Penetapan Kontraktor Kontrak Kerjasama WK Baru Migas;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "d8985183-5fc7-5d6c-9341-b0941fde876f",
+       "localization": {
+        "en": {
+         "uraian": "Bukti penyetoran Signature Bonus;             ",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti penyetoran Signature Bonus;             ",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "0180948c-600f-5abd-8c12-841954cc190b",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan Jaminan Pelaksanaan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan Jaminan Pelaksanaan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "1185b7a0-e6b6-52b5-9ad6-14e125b00939",
+       "localization": {
+        "en": {
+         "uraian": "Nama penandatangan Kontrak Kerja Sama dan jabatannya;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Nama penandatangan Kontrak Kerja Sama dan jabatannya;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "9ba997b4-3f05-550a-9e56-ae224e8ceefe",
+       "localization": {
+        "en": {
+         "uraian": "Keputusan Menteri Tentang Penetapan Kontraktor Kontrak Kerjasama WK Baru Migas;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Keputusan Menteri Tentang Penetapan Kontraktor Kontrak Kerjasama WK Baru Migas;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "283234e3-8633-53d5-b4e4-abefec04816d",
+       "localization": {
+        "en": {
+         "uraian": "Bukti penyetoran Signature Bonus;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti penyetoran Signature Bonus;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "74badd16-6b56-57c5-a860-e2596012fcb3",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan Jaminan Pelaksanaan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan Jaminan Pelaksanaan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "bf689609-984c-5d2e-9935-1972f9b79d41",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "407ae1b2-b129-43b0-bfc8-510534adcc2d",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Kontrak Kerja Sama"
+         },
+         "id": {
+          "nama_dokumen": "Kontrak Kerja Sama"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "fff7bc07-613b-5633-91f9-ab452d7fc0b1",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "ad5603f0-ed05-5cd3-b390-d22b4630af2b",
+       "localization": {
+        "en": {
+         "uraian": "BU/ BUT wajib memenuhi semua yang tercantum dalam Kontrak Kerja Sama yang telah di tandatangani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "BU/ BUT wajib memenuhi semua yang tercantum dalam Kontrak Kerja Sama yang telah di tandatangani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "f2059861-41af-5519-80ca-99ba7968440a",
+       "localization": {
+        "en": {
+         "uraian": "BU/ BUT wajib memenuhi semua yang tercantum dalam Kontrak Kerja Sama yang telah di tandatangani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "BU/ BUT wajib memenuhi semua yang tercantum dalam Kontrak Kerja Sama yang telah di tandatangani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ]
+    },
+    {
+     "id": "b58d8529-58a5-56c4-9607-250a2dc34e0a",
+     "kode": "06100-02-03",
+     "luas_lahan": null,
+     "jangka_waktu": "30",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "2e052178-409b-5780-a7bc-5b6e658cfbd3",
+       "localization": {
+        "en": {
+         "uraian": "Nama penandatangan Kontrak Kerja Sama dan jabatannya;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Nama penandatangan Kontrak Kerja Sama dan jabatannya;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "e166bf0f-59c2-5de2-8941-4eb38b0df325",
+       "localization": {
+        "en": {
+         "uraian": "Keputusan Menteri Tentang Penetapan Kontraktor Kontrak Kerjasama WK Baru Migas;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Keputusan Menteri Tentang Penetapan Kontraktor Kontrak Kerjasama WK Baru Migas;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "963a6ae8-1402-5f94-9674-5fc1bf193ae2",
+       "localization": {
+        "en": {
+         "uraian": "Bukti penyetoran Signature Bonus;             ",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti penyetoran Signature Bonus;             ",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "6b8cb199-4351-53a8-868c-0e80e05067aa",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan Jaminan Pelaksanaan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan Jaminan Pelaksanaan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "e359ada1-65dc-5a60-a1da-05b20c7c7edf",
+       "localization": {
+        "en": {
+         "uraian": "Nama penandatangan Kontrak Kerja Sama dan jabatannya;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Nama penandatangan Kontrak Kerja Sama dan jabatannya;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "dfb67046-5bcb-5f94-96b3-ed4189e22b57",
+       "localization": {
+        "en": {
+         "uraian": "Keputusan Menteri Tentang Penetapan Kontraktor Kontrak Kerjasama WK Baru Migas;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Keputusan Menteri Tentang Penetapan Kontraktor Kontrak Kerjasama WK Baru Migas;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "3b63f103-2770-55f5-ae2b-862389ec29d1",
+       "localization": {
+        "en": {
+         "uraian": "Bukti penyetoran Signature Bonus;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti penyetoran Signature Bonus;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "cb9399ba-9f22-5595-a37b-f37c501c50fd",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan Jaminan Pelaksanaan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan Jaminan Pelaksanaan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "f131ab59-0e07-5669-a40c-71d67ef31ffa",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "407ae1b2-b129-43b0-bfc8-510534adcc2d",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Kontrak Kerja Sama"
+         },
+         "id": {
+          "nama_dokumen": "Kontrak Kerja Sama"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "a17c9bf3-72c1-5d0d-9e62-d75e73c4e5fc",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "b51ad58b-83dc-5a00-aaf5-bc8624856e7f",
+       "localization": {
+        "en": {
+         "uraian": "BU/ BUT wajib memenuhi semua yang tercantum dalam Kontrak Kerja Sama yang telah di tandatangani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "BU/ BUT wajib memenuhi semua yang tercantum dalam Kontrak Kerja Sama yang telah di tandatangani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "91c6393c-3a4d-5954-84f4-68300541f8cb",
+       "localization": {
+        "en": {
+         "uraian": "BU/ BUT wajib memenuhi semua yang tercantum dalam Kontrak Kerja Sama yang telah di tandatangani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "BU/ BUT wajib memenuhi semua yang tercantum dalam Kontrak Kerja Sama yang telah di tandatangani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ]
+    },
+    {
+     "id": "7c58c6f9-fb26-5011-8193-576f426ac787",
+     "kode": "06100-03-04",
+     "luas_lahan": null,
+     "jangka_waktu": "30",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "ac2d8ca9-8215-506a-9eb6-a599aabea4dc",
+       "localization": {
+        "en": {
+         "uraian": "Nama penandatangan Kontrak Kerja Sama dan jabatannya;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Nama penandatangan Kontrak Kerja Sama dan jabatannya;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "f50bfcae-2461-585e-a42b-f03f427f0c28",
+       "localization": {
+        "en": {
+         "uraian": "Keputusan Menteri Tentang Penetapan Kontraktor Kontrak Kerjasama WK Baru Migas;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Keputusan Menteri Tentang Penetapan Kontraktor Kontrak Kerjasama WK Baru Migas;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "03db50ef-3ad5-5d77-9be1-31c3f40e0cd4",
+       "localization": {
+        "en": {
+         "uraian": "Bukti penyetoran Signature Bonus;             ",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti penyetoran Signature Bonus;             ",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b74a1f56-4327-5673-9093-ecaae5d1086a",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan Jaminan Pelaksanaan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan Jaminan Pelaksanaan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "39bdce9b-24d6-562c-9d88-74d14aab799f",
+       "localization": {
+        "en": {
+         "uraian": "Nama penandatangan Kontrak Kerja Sama dan jabatannya;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Nama penandatangan Kontrak Kerja Sama dan jabatannya;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "01610203-92aa-53be-a91b-642b0c65accf",
+       "localization": {
+        "en": {
+         "uraian": "Keputusan Menteri Tentang Penetapan Kontraktor Kontrak Kerjasama WK Baru Migas;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Keputusan Menteri Tentang Penetapan Kontraktor Kontrak Kerjasama WK Baru Migas;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "fbd090c7-9609-5567-829b-bcd9a0eb336a",
+       "localization": {
+        "en": {
+         "uraian": "Bukti penyetoran Signature Bonus;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti penyetoran Signature Bonus;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "b3d497c9-3e9a-5706-a809-d46d6d1ca632",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan Jaminan Pelaksanaan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan Jaminan Pelaksanaan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "a3728e4a-64ba-5e52-b481-4b2c5bdb3752",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "407ae1b2-b129-43b0-bfc8-510534adcc2d",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Kontrak Kerja Sama"
+         },
+         "id": {
+          "nama_dokumen": "Kontrak Kerja Sama"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "277f8ba7-c31f-5dc3-897f-8b8143e7d21d",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "ab125bc6-7005-575d-95e3-1e9706cf4153",
+       "localization": {
+        "en": {
+         "uraian": "BU/ BUT wajib memenuhi semua yang tercantum dalam Kontrak Kerja Sama yang telah di tandatangani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "BU/ BUT wajib memenuhi semua yang tercantum dalam Kontrak Kerja Sama yang telah di tandatangani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "e9e8d619-5708-54f9-b410-80fd0e1490b5",
+       "localization": {
+        "en": {
+         "uraian": "BU/ BUT wajib memenuhi semua yang tercantum dalam Kontrak Kerja Sama yang telah di tandatangani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "BU/ BUT wajib memenuhi semua yang tercantum dalam Kontrak Kerja Sama yang telah di tandatangani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ]
+    },
+    {
+     "id": "96309d44-2a37-5f67-8c93-110da31fd670",
+     "kode": "06100-04-05",
+     "luas_lahan": null,
+     "jangka_waktu": "30",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "463ed677-f8f7-4a3c-bfdb-4dae2a7ba981",
+      "localization": {
+       "en": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "b62409bb-03f0-55cc-b303-13be8e9c08c3",
+       "localization": {
+        "en": {
+         "uraian": "Nama penandatangan Kontrak Kerja Sama dan jabatannya;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Nama penandatangan Kontrak Kerja Sama dan jabatannya;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "41fe0727-c785-5de2-ba25-0a8aee860c9d",
+       "localization": {
+        "en": {
+         "uraian": "Keputusan Menteri Tentang Penetapan Kontraktor Kontrak Kerjasama WK Baru Migas;",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Keputusan Menteri Tentang Penetapan Kontraktor Kontrak Kerjasama WK Baru Migas;",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "1402b5d6-9173-5eb7-95b2-59ee42cdad02",
+       "localization": {
+        "en": {
+         "uraian": "Bukti penyetoran Signature Bonus;             ",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Bukti penyetoran Signature Bonus;             ",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "57eadaed-69c0-5287-9117-4da7698927c0",
+       "localization": {
+        "en": {
+         "uraian": "Menyerahkan Jaminan Pelaksanaan.",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyerahkan Jaminan Pelaksanaan.",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "91610513-2d0f-57a7-a2a1-4814aaa9f58b",
+       "localization": {
+        "en": {
+         "uraian": "Salinan Kontrak kerjasama",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Salinan Kontrak kerjasama",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "1b78f89a-d2cc-546f-aed3-b57374491396",
+       "localization": {
+        "en": {
+         "uraian": "Keputusan Menteri mengenai Penetapan Kontraktor Kontrak kerjasama atau Keputusan Menteri mengenai Persetujuan Perpanjangan/ Alih Kelola/ Pengelolaan Bersama",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Keputusan Menteri mengenai Penetapan Kontraktor Kontrak kerjasama atau Keputusan Menteri mengenai Persetujuan Perpanjangan/ Alih Kelola/ Pengelolaan Bersama",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "52e65de0-7180-5b29-a11c-8732dfb2979b",
+       "localization": {
+        "en": {
+         "uraian": "Pemilik Manfaat (Beneficial Ownership)",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pemilik Manfaat (Beneficial Ownership)",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "5c3c5248-df10-5e84-9088-3b7d0e34174c",
+       "localization": {
+        "en": {
+         "uraian": "Salinan Jaminan Pelaksanaan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Salinan Jaminan Pelaksanaan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "3e4abf7d-9c3f-59bb-a111-6efa495ce92b",
+       "JenisPerizinan": {
+        "id": "c93fe360-7b0d-4549-ab24-8a33c7824661",
+        "localization": {
+         "en": {
+          "uraian": "Izin",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Izin",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "407ae1b2-b129-43b0-bfc8-510534adcc2d",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Kontrak Kerja Sama"
+         },
+         "id": {
+          "nama_dokumen": "Kontrak Kerja Sama"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "151e8595-16d3-56fd-9970-722f5888112e",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d9ca2574-2a91-5bfd-b89c-614bf7d68084",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "6cd19edb-ac6d-51e6-8622-72a96a1763ae",
+       "localization": {
+        "en": {
+         "uraian": "BU/ BUT wajib memenuhi semua yang tercantum dalam Kontrak Kerja Sama yang telah di tandatangani",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "BU/ BUT wajib memenuhi semua yang tercantum dalam Kontrak Kerja Sama yang telah di tandatangani",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "e496148e-bb47-5c32-a3f9-c71f80f66e7c",
+       "localization": {
+        "en": {
+         "uraian": "BU/ BUT wajib mematuhi ketentuan peraturan perundang undangan dan melaksanakan ketentuan Kontrak kerjasama",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "BU/ BUT wajib mematuhi ketentuan peraturan perundang undangan dan melaksanakan ketentuan Kontrak kerjasama",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": [
+  {
+   "id": "22925aa4-fb80-41bd-b5da-d9e568a69bc3",
+   "kode": "020000000079",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Izin Gudang Bahan Peledak                                   "
+    },
+    "id": {
+     "nama_dokumen": "Izin Gudang Bahan Peledak                                   "
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "38412273-f704-548c-ae30-588ad020912b",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    },
+    {
+     "id": "55286398-5ec3-473a-8411-a7b16138f75f",
+     "parameter": "seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Alasan dan t"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Alasan dan t"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Struktur Org"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Struktur Org"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: SOP Pengelol"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: SOP Pengelol"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Alamat dan K"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Alamat dan K"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Perincian ju"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Perincian ju"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Data jumlah "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Data jumlah "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Perincian ju"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Perincian ju"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Denah atau p"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Denah atau p"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Gambaran kon"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Gambaran kon"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Hasil pengec"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Hasil pengec"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Ketentuan ko"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Ketentuan ko"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Rekomendasi "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Rekomendasi "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Gambar dan F"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Gambar dan F"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Alamat dan K"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Alamat dan K"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Ketentuan ko"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Ketentuan ko"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Perincian ju"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Perincian ju"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Gambar dan F"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Gambar dan F"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Struktur Org"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Struktur Org"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Alasan dan t"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Alasan dan t"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Hasil pengec"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Hasil pengec"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Denah atau p"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Denah atau p"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Gambaran kon"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Gambaran kon"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: SOP Pengelol"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: SOP Pengelol"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Rekomendasi "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Rekomendasi "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Data jumlah "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Khusus: Data jumlah "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Perincian ju"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Tempat Penyimpanan Permanen Bahan Peledak) - Persyaratan Teknis: Perincian ju"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menempatkan dan Menggunakan Kontainer di atas Instalasi Pemboran (Rig) atau Kapal/Barge di Lepas "
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menyimpan Sementara Bahan Peledak (Bila Menggunakan Bangunan/Kon-tainer Komersial Milik Pihak Ket"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Menggunakan Gudang (Bangunan/Kon-tainer) Tempat Penyimpanan Sementara Bahan Peledak (Kontainer di"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Pelaporan 1 bulan sekali atau sewaktu-waktu apabila diperlukan.</p>                              "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Pelaporan 1 bulan sekali atau sewaktu-waktu apabila diperlukan.</p>                              "
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Pelaporan 1 bulan sekali atau sewaktu-waktu apabila diperlukan.</p>                              "
+      },
+      "id": {
+       "syarat_perizinan": "<p>Pelaporan 1 bulan sekali atau sewaktu-waktu apabila diperlukan.</p>                              "
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "b5286299-ceee-48d3-a15c-9c7b0530056c",
+   "kode": "085000000219",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Penyimpanan Mineral Ikutan Radio Aktif"
+    },
+    "id": {
+     "nama_dokumen": "Penyimpanan Mineral Ikutan Radioaktif"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "016e1312-b11c-5a19-8f24-7259cfd3f63a",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen safeguards"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen safeguards"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi; dan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif;"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif;"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana tempat pembuangan permanen"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana tempat pembuangan permanen"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen spesifikasi mineral ikutan radioaktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman."
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen rencana proteksi fisik dan sistem garda-aman"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi"
+      },
+      "id": {
+       "syarat_perizinan": "Program proteksi dan keselamatan radiasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "10 Hari"
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi aspek:<br>\n<ol type='a'>\n<li>Teknis keselamatan</li>\n<li>Teknis keamanan</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi aspek:<br>\n<ol type='a'>\n<li>Teknis keselamatan</li>\n<li>Teknis keamanan</li>\n</ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis."
+      },
+      "id": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan."
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang Izin Penyimpanan Mineral Ikutan Radioaktif (MIR) dapat melakukan:<br>\n<ol type='a'>\n<li>pengolahan;</li>\n<li>pemanfaatan; dan/atau</li> \n<li>pengalihan.</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang Izin Penyimpanan Mineral Ikutan Radioaktif (MIR) dapat melakukan:<br>\n<ol type='a'>\n<li>pengolahan;</li>\n<li>pemanfaatan; dan/atau</li> \n<li>pengalihan.</li>\n</ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang Izin Penyimpanan MIR dapat memilih untuk: <br>\n<ol type='a'>\n<li>mengolah MIR untuk diambil uranium dan thoriumnya; atau</li>\n<li>mengolah MIR untuk diambil unsur selain uranium dan thoriumnya.</li> \n</ol>\nDalam melakukan pengolahan, Pemegang Izin Penyimpanan MIR wajib memiliki perizinan berusaha."
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang Izin Penyimpanan MIR dapat memilih untuk: <br>\n<ol type='a'>\n<li>mengolah MIR untuk diambil uranium dan thoriumnya; atau</li>\n<li>mengolah MIR untuk diambil unsur selain uranium dan thoriumnya.</li> \n</ol>\nDalam melakukan pengolahan, Pemegang Izin Penyimpanan MIR wajib memiliki perizinan berusaha."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila MIR akan dimanfaatkan untuk kegiatan lain, Pemegang Izin Penyimpanan MIR wajib mengajukan persetujuan kepada Badan Pengawas."
+      },
+      "id": {
+       "syarat_perizinan": "Apabila MIR akan dimanfaatkan untuk kegiatan lain, Pemegang Izin Penyimpanan MIR wajib mengajukan persetujuan kepada Badan Pengawas."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila:<br>\n<ol type='a'>\n<li>PB KBLI kegiatan utama habis masa berlakunya; </li>\n<li>badan hukum/usaha pemegang Izin bubar, </li>\n<li>badan hukum/usaha pemegang Izin pailit berdasar putusan pengadilan yang telah in kracht ; atau</li>\n<li>fasilitas penyimpanan sudah tidak dapat menampung MIR, Pemegang Izin tanpa menunggu izin penyimpanan MIR berakhir, harus: </li>\n<li>mengalihkan MIR ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau </li>\n</li>mengalihkan MIR ke pihak lain untuk pembuangan permanen. Pengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan Badan Pengawas.\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila:<br>\n<ol type='a'>\n<li>PB KBLI kegiatan utama habis masa berlakunya; </li>\n<li>badan hukum/usaha pemegang Izin bubar, </li>\n<li>badan hukum/usaha pemegang Izin pailit berdasar putusan pengadilan yang telah in kracht ; atau</li>\n<li>fasilitas penyimpanan sudah tidak dapat menampung MIR, Pemegang Izin tanpa menunggu izin penyimpanan MIR berakhir, harus: </li>\n<li>mengalihkan MIR ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau </li>\n</li>mengalihkan MIR ke pihak lain untuk pembuangan permanen. Pengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan Badan Pengawas.\n</ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Dalam hal Pemegang Izin Penyimpanan MIR akan membuat pembuangan permanen, Pemegang Izin Penyimpanan MIR wajib memiliki perizinan berusaha."
+      },
+      "id": {
+       "syarat_perizinan": "Dalam hal Pemegang Izin Penyimpanan MIR akan membuat pembuangan permanen, Pemegang Izin Penyimpanan MIR wajib memiliki perizinan berusaha."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi aspek:</br><br><ol type = a><br>    <li>teknis keselamatan; dan</li><br>    <li>teknis keamanan</li><br></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi aspek:</br><br><ol type = a><br>    <li>teknis keselamatan; dan</li><br>    <li>teknis keamanan</li><br></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis"
+      },
+      "id": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan"
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat melakukan:</br><br><ol type = a><br>    <li>pengolahan;</li><br>    <li>pemanfaatan; dan/atau</li><br>    <li>pengalihan</li><br></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat melakukan:</br><br><ol type = a><br>    <li>pengolahan;</li><br>    <li>pemanfaatan; dan/atau</li><br>    <li>pengalihan</li><br></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat memilih untuk:</br><br><ol type = a><br>    <li>mengolah mineral ikutan radioaktif untuk diambil uranium dan toriumnya; atau</li><br>    <li>mengolah mineral ikutan radioaktif untuk diambil unsur selain uranium dan toriumnya</li><br></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat memilih untuk:</br><br><ol type = a><br>    <li>mengolah mineral ikutan radioaktif untuk diambil uranium dan toriumnya; atau</li><br>    <li>mengolah mineral ikutan radioaktif untuk diambil unsur selain uranium dan toriumnya</li><br></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Dalam melakukan pengolahan mineral ikutan radioaktif, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib memiliki PB Pengolahan Mineral Ikutan Radioaktif di Luar Wilayah Penugasan Penambangan Mineral Radioaktif (WPPMR)"
+      },
+      "id": {
+       "syarat_perizinan": "Dalam melakukan pengolahan mineral ikutan radioaktif, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib memiliki PB Pengolahan Mineral Ikutan Radioaktif di Luar Wilayah Penugasan Penambangan Mineral Radioaktif (WPPMR)"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila mineral ikutan radioaktif akan dimanfaatkan untuk kegiatan lain, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib mengajukan persetujuan kepada BAPETEN"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila mineral ikutan radioaktif akan dimanfaatkan untuk kegiatan lain, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib mengajukan persetujuan kepada BAPETEN"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila:</br><br><ol type = a><br>    <li>PB kegiatan utama habis masa berlakunya;</li><br>    <li>badan hukum/usaha pemegang PB bubar;</li><br>    <li>badan hukum/usaha pemegang PB pailit berdasar putusan pengadilan yang telah in kracht; atau</li><br>    <li>fasilitas penyimpanan sudah tidak dapat menampung mineral ikutan radioaktif,</li><br></ol><br> pemegang PB UMKU tanpa menunggu PB UMKU Penyimpanan Mineral Ikutan Radioaktif berakhir, harus:</br><br><ol type = a><br>    <li>mengalihkan mineral ikutan radioaktif ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau</li><br>    <li>mengalihkan mineral ikutan radioaktif ke pihak lain untuk pembuangan permanen, pengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan BAPETEN</li><br></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila:</br><br><ol type = a><br>    <li>PB kegiatan utama habis masa berlakunya;</li><br>    <li>badan hukum/usaha pemegang PB bubar;</li><br>    <li>badan hukum/usaha pemegang PB pailit berdasar putusan pengadilan yang telah in kracht; atau</li><br>    <li>fasilitas penyimpanan sudah tidak dapat menampung mineral ikutan radioaktif,</li><br></ol><br> pemegang PB UMKU tanpa menunggu PB UMKU Penyimpanan Mineral Ikutan Radioaktif berakhir, harus:</br><br><ol type = a><br>    <li>mengalihkan mineral ikutan radioaktif ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau</li><br>    <li>mengalihkan mineral ikutan radioaktif ke pihak lain untuk pembuangan permanen, pengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan BAPETEN</li><br></ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Dalam hal pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif akan membuat pembuangan permanen, pemegang PB UMKU Penyimpanan mineral ikutan radioaktif wajib memiliki PB Penyimpanan Mineral Ikutan Radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Dalam hal pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif akan membuat pembuangan permanen, pemegang PB UMKU Penyimpanan mineral ikutan radioaktif wajib memiliki PB Penyimpanan Mineral Ikutan Radioaktif"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila:"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila:"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat memilih untuk:"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat memilih untuk:"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "badan hukum/usaha pemegang PB bubar;"
+      },
+      "id": {
+       "syarat_perizinan": "badan hukum/usaha pemegang PB bubar;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "mengolah mineral ikutan radioaktif untuk diambil unsur selain uranium dan toriumnya"
+      },
+      "id": {
+       "syarat_perizinan": "mengolah mineral ikutan radioaktif untuk diambil unsur selain uranium dan toriumnya"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "pemanfaatan; dan/atau"
+      },
+      "id": {
+       "syarat_perizinan": "pemanfaatan; dan/atau"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memperoleh persetujuan untuk melakukan pembuangan\npermanen kepada pihak ketiga."
+      },
+      "id": {
+       "syarat_perizinan": "Memperoleh persetujuan untuk melakukan pembuangan\npermanen kepada pihak ketiga."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "pengolahan;"
+      },
+      "id": {
+       "syarat_perizinan": "pengolahan;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila mineral ikutan radioaktif akan dimanfaatkan untuk kegiatan lain, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib mengajukan persetujuan kepada BAPETEN"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila mineral ikutan radioaktif akan dimanfaatkan untuk kegiatan lain, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib mengajukan persetujuan kepada BAPETEN"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "mengalihkan mineral ikutan radioaktif ke pihak lain untuk pembuangan permanen,"
+      },
+      "id": {
+       "syarat_perizinan": "mengalihkan mineral ikutan radioaktif ke pihak lain untuk pembuangan permanen,"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi aspek:<br>\n<ol type='a'>\n<li>Teknis keselamatan</li>\n<li>Teknis keamanan</li>\n<li>Manajemen keselamatan dan keamanan</li>\n</ol>"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi aspek:<br>\n<ol type='a'>\n<li>Teknis keselamatan</li>\n<li>Teknis keamanan</li>\n<li>Manajemen keselamatan dan keamanan</li>\n</ol>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "fasilitas penyimpanan sudah tidak dapat menampung mineral ikutan radioaktif,"
+      },
+      "id": {
+       "syarat_perizinan": "fasilitas penyimpanan sudah tidak dapat menampung mineral ikutan radioaktif,"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai Persyaratan\nteknis keselamatan dan keamanan."
+      },
+      "id": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai Persyaratan\nteknis keselamatan dan keamanan."
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis"
+      },
+      "id": {
+       "syarat_perizinan": "Memutakhirkan dokumen yang disyaratkan sebagai persyaratan teknis"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "teknis keselamatan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "teknis keselamatan; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "mengalihkan mineral ikutan radioaktif ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau"
+      },
+      "id": {
+       "syarat_perizinan": "mengalihkan mineral ikutan radioaktif ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila mineral ikutan radioaktif yang disimpan akan\ndimanfaatkan, penghasil mineral ikutan radioaktif wajib\nmengajukan izin pemanfaatan bahan nuklir"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila mineral ikutan radioaktif yang disimpan akan\ndimanfaatkan, penghasil mineral ikutan radioaktif wajib\nmengajukan izin pemanfaatan bahan nuklir"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "pemegang PB UMKU tanpa menunggu PB UMKU Penyimpanan Mineral Ikutan Radioaktif berakhir, harus:\na. mengalihkan mineral ikutan radioaktif ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau\nb. mengalihkan mineral ikutan radioaktif ke pihak lain untuk pembuangan permanen,\npengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan BAPETEN\nDalam hal pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif akan membuat pembuangan permanen, pemegang PB UMKU Penyimpanan mineral ikutan radioaktif wajib memiliki PB Penyimpanan Mineral Ikutan Radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "pemegang PB UMKU tanpa menunggu PB UMKU Penyimpanan Mineral Ikutan Radioaktif berakhir, harus:\na. mengalihkan mineral ikutan radioaktif ke pihak lain untuk pengolahan, pemanfaatan, atau penyimpanan; atau\nb. mengalihkan mineral ikutan radioaktif ke pihak lain untuk pembuangan permanen,\npengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan BAPETEN\nDalam hal pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif akan membuat pembuangan permanen, pemegang PB UMKU Penyimpanan mineral ikutan radioaktif wajib memiliki PB Penyimpanan Mineral Ikutan Radioaktif"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan"
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan"
+      },
+      "id": {
+       "syarat_perizinan": "Menerapkan budaya keselamatan dan keamanan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "PB kegiatan utama habis masa berlakunya;"
+      },
+      "id": {
+       "syarat_perizinan": "PB kegiatan utama habis masa berlakunya;"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Dalam melakukan pengolahan mineral ikutan radioaktif, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib memiliki PB Pengolahan Mineral Ikutan Radioaktif di Luar Wilayah Penugasan Penambangan Mineral Radioaktif (WPPMR)"
+      },
+      "id": {
+       "syarat_perizinan": "Dalam melakukan pengolahan mineral ikutan radioaktif, pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif wajib memiliki PB Pengolahan Mineral Ikutan Radioaktif di Luar Wilayah Penugasan Penambangan Mineral Radioaktif (WPPMR)"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat melakukan:"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif dapat melakukan:"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Dalam hal pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif akan membuat pembuangan permanen, pemegang PB UMKU Penyimpanan mineral ikutan radioaktif wajib memiliki PB Penyimpanan Mineral Ikutan Radioaktif"
+      },
+      "id": {
+       "syarat_perizinan": "Dalam hal pemegang PB UMKU Penyimpanan Mineral Ikutan Radioaktif akan membuat pembuangan permanen, pemegang PB UMKU Penyimpanan mineral ikutan radioaktif wajib memiliki PB Penyimpanan Mineral Ikutan Radioaktif"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "badan hukum/usaha pemegang PB pailit berdasar putusan pengadilan yang telah in kracht; atau"
+      },
+      "id": {
+       "syarat_perizinan": "badan hukum/usaha pemegang PB pailit berdasar putusan pengadilan yang telah in kracht; atau"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "pemegang PB UMKU tanpa menunggu PB UMKU Penyimpanan Mineral Ikutan Radioaktif berakhir, harus:"
+      },
+      "id": {
+       "syarat_perizinan": "pemegang PB UMKU tanpa menunggu PB UMKU Penyimpanan Mineral Ikutan Radioaktif berakhir, harus:"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "pengalihan"
+      },
+      "id": {
+       "syarat_perizinan": "pengalihan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Memenuhi aspek:"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi aspek:"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "pengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan BAPETEN"
+      },
+      "id": {
+       "syarat_perizinan": "pengalihan mineral ikutan radioaktif ke pihak lain wajib memperoleh persetujuan BAPETEN"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "teknis keamanan"
+      },
+      "id": {
+       "syarat_perizinan": "teknis keamanan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "mengolah mineral ikutan radioaktif untuk diambil uranium dan toriumnya; atau"
+      },
+      "id": {
+       "syarat_perizinan": "mengolah mineral ikutan radioaktif untuk diambil uranium dan toriumnya; atau"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "$87"
+      },
+      "id": {
+       "syarat_perizinan": "$88"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "10 Hari"
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "50ca7482-d92f-4450-8719-bb4629a2b33f",
+    "kode": "085",
+    "localization": {
+     "en": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     },
+     "id": {
+      "uraian": "Badan Pengawas Tenaga Nuklir",
+      "deskripsi": "Ketenaganukliran"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "407aa19f-e84e-44ad-83ca-9c9ee81e8dbf",
+   "kode": "020000000056",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Izin gudang bahan peledak"
+    },
+    "id": {
+     "nama_dokumen": "Izin gudang bahan peledak"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "121e5aba-7673-5acb-9129-a80dfda50d31",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Salinan Izin Usaha Panas Bumi</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Salinan Izin Usaha Panas Bumi</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Salinan pengesahan pengangkatan Kepala Teknik Panas Bumi</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Salinan pengesahan pengangkatan Kepala Teknik Panas Bumi</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Gambar konstruksi Gudang bahan peledak dengan skala 1:100</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Gambar konstruksi Gudang bahan peledak dengan skala 1:100</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Gambar situasi Gudang bahan peledak dengan skala 1:5000</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Gambar situasi Gudang bahan peledak dengan skala 1:5000</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Rekomendasi penggunaan Gudang Bahan Peledak dari Kepolisian.</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Rekomendasi penggunaan Gudang Bahan Peledak dari Kepolisian.</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Kesanggupan Kontraktor memenuhi aspek keselamatan, kesehatan kerja dan pengelolaan lingkungan hidup"
+      },
+      "id": {
+       "syarat_perizinan": "Kesanggupan Kontraktor memenuhi aspek keselamatan, kesehatan kerja dan pengelolaan lingkungan hidup"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Kesanggupan Kontraktor memenuhi ketentuan peraturan perundang-undangan"
+      },
+      "id": {
+       "syarat_perizinan": "Kesanggupan Kontraktor memenuhi ketentuan peraturan perundang-undangan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Kesediaan dilakukan pemeriksaan keselamatan terhadap ketentuan peraturan perundang-undangan"
+      },
+      "id": {
+       "syarat_perizinan": "Kesediaan dilakukan pemeriksaan keselamatan terhadap ketentuan peraturan perundang-undangan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Dokumen persyaratan dan keterangan/pernyataan yang diberikan adalah benar <br>adanya dan apabila dikemudian hari terbukti tidak benar akan dicabut Izinnya sesuai dengan ketentuan peraturan perundang-undangan"
+      },
+      "id": {
+       "syarat_perizinan": "Dokumen persyaratan dan keterangan/pernyataan yang diberikan adalah benar <br>adanya dan apabila dikemudian hari terbukti tidak benar akan dicabut Izinnya sesuai dengan ketentuan peraturan perundang-undangan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Identitas dan Surat Kuasa Narahubung"
+      },
+      "id": {
+       "syarat_perizinan": "Identitas dan Surat Kuasa Narahubung"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Gambar konstruksi Gudang Bahan Peledak"
+      },
+      "id": {
+       "syarat_perizinan": "Gambar konstruksi Gudang Bahan Peledak"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Layout Gudang Bahan Peledak"
+      },
+      "id": {
+       "syarat_perizinan": "Layout Gudang Bahan Peledak"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Peta Situasi yang menggambarkan posisi dan jarak gudang dengan sarana dan fasilitas di sekitarnya"
+      },
+      "id": {
+       "syarat_perizinan": "Peta Situasi yang menggambarkan posisi dan jarak gudang dengan sarana dan fasilitas di sekitarnya"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Rekomendasi Kepolisian Daerah (Polda untuk Gudang Permanen dan Gudang sementara di darat Untuk Kontainer penyimpanan bahan peledak sementara diatas perairan tidak memerlukan rekomendasi Polda)"
+      },
+      "id": {
+       "syarat_perizinan": "Rekomendasi Kepolisian Daerah (Polda untuk Gudang Permanen dan Gudang sementara di darat Untuk Kontainer penyimpanan bahan peledak sementara diatas perairan tidak memerlukan rekomendasi Polda)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Struktur Organisasi Tim Pengelola Bahan Peledak"
+      },
+      "id": {
+       "syarat_perizinan": "Struktur Organisasi Tim Pengelola Bahan Peledak"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Standard Operating Procedure (SOP) Pengelolaan Bahan Peledak"
+      },
+      "id": {
+       "syarat_perizinan": "Standard Operating Procedure (SOP) Pengelolaan Bahan Peledak"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Berita Acara Inspeksi Lapangan/Verifikasi Dokumen Teknis oleh Inspektur Migas"
+      },
+      "id": {
+       "syarat_perizinan": "Berita Acara Inspeksi Lapangan/Verifikasi Dokumen Teknis oleh Inspektur Migas"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Untuk gudang sementara pemakaian bersama atau sewa dilengkapi dengan perjanjian kerja sama atau sewa antara pemilik gudang dan pemakai gudang (Kontraktor), dengan menyebutkan nama lokasi (onshore) atau instalasi (offshore) <br>termasuk masa berlaku perjanjian"
+      },
+      "id": {
+       "syarat_perizinan": "Untuk gudang sementara pemakaian bersama atau sewa dilengkapi dengan perjanjian kerja sama atau sewa antara pemilik gudang dan pemakai gudang (Kontraktor), dengan menyebutkan nama lokasi (onshore) atau instalasi (offshore) <br>termasuk masa berlaku perjanjian"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Memenuhi ketentuan dalam Standar Nasional Indonesia tentang penanganan bahan peledak yang aman di Indonesia atau Standar lain yang diacu"
+      },
+      "id": {
+       "syarat_perizinan": "Memenuhi ketentuan dalam Standar Nasional Indonesia tentang penanganan bahan peledak yang aman di Indonesia atau Standar lain yang diacu"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Gambar situasi Gudang bahan peledak dengan skala 1:5000</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Gambar situasi Gudang bahan peledak dengan skala 1:5000</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Salinan pengesahan pengangkatan Kepala Teknik Panas Bumi</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Salinan pengesahan pengangkatan Kepala Teknik Panas Bumi</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Salinan Izin Usaha Panas Bumi</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Salinan Izin Usaha Panas Bumi</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Gambar konstruksi Gudang bahan peledak dengan skala 1:100</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Gambar konstruksi Gudang bahan peledak dengan skala 1:100</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Rekomendasi penggunaan Gudang Bahan Peledak dari Kepolisian.</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Rekomendasi penggunaan Gudang Bahan Peledak dari Kepolisian.</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan triwulan tentang penggunaan dan persediaan bahan peledak"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan triwulan tentang penggunaan dan persediaan bahan peledak"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Kepala Teknik bertanggung jawab sepenuhnya atas keselamatan dan keamanan gudang bahan peledak dan bahan peledak yang disimpan"
+      },
+      "id": {
+       "syarat_perizinan": "Kepala Teknik bertanggung jawab sepenuhnya atas keselamatan dan keamanan gudang bahan peledak dan bahan peledak yang disimpan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Kepala Teknik wajib menaati segala peraturan umum penyimpanan, pengeluaran, pengangkutan, dan pemakaian bahan peledak sesuai ketentuan peraturan perundang-undangan dan Standar Nasional Indonesia"
+      },
+      "id": {
+       "syarat_perizinan": "Kepala Teknik wajib menaati segala peraturan umum penyimpanan, pengeluaran, pengangkutan, dan pemakaian bahan peledak sesuai ketentuan peraturan perundang-undangan dan Standar Nasional Indonesia"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Kepala Teknik menunjuk tim pengelola bahan peledak yang dilengkapi personel <br>yang memiliki sertifikat kualifikasi pengelola bahan peledak dan/ atau juru tembak yang memiliki surat persetujuan juru tembak bahan peledak dari Direktorat Jenderal <br>Minyak dan Gas Bumi"
+      },
+      "id": {
+       "syarat_perizinan": "Kepala Teknik menunjuk tim pengelola bahan peledak yang dilengkapi personel <br>yang memiliki sertifikat kualifikasi pengelola bahan peledak dan/ atau juru tembak yang memiliki surat persetujuan juru tembak bahan peledak dari Direktorat Jenderal <br>Minyak dan Gas Bumi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Kepala Teknik menyampaikan pelaporan pengelolaan bahan peledak kepada Direktorat Jenderal Minyak dan Gas Bumi setiap 1 (satu) bulan sekali atau sewaktu-waktu apabila diperlukan"
+      },
+      "id": {
+       "syarat_perizinan": "Kepala Teknik menyampaikan pelaporan pengelolaan bahan peledak kepada Direktorat Jenderal Minyak dan Gas Bumi setiap 1 (satu) bulan sekali atau sewaktu-waktu apabila diperlukan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Menyampaikan laporan triwulan tentang penggunaan dan persediaan bahan peledak"
+      },
+      "id": {
+       "syarat_perizinan": "Menyampaikan laporan triwulan tentang penggunaan dan persediaan bahan peledak"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "9bfbdb9f-4636-4d4b-a9a0-f35bba416511",
+   "kode": "020000000050",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Persetujuan Layak Operasi"
+    },
+    "id": {
+     "nama_dokumen": "Persetujuan Layak Operasi"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "01865be5-de21-5026-be6c-ccbd484f2faf",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat permohonan dari Kepala Teknik BU/BUT atau Direksi Perusahaan Usaha Penunjang Migas setelah dilakukan Inspeksi dan Pemeriksaan Keselamatan Instalasi yang ditujukan ke: Direktur Teknik dan Lingkungan Migas selaku Kepala Inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Surat permohonan dari Kepala Teknik BU/BUT atau Direksi Perusahaan Usaha Penunjang Migas setelah dilakukan Inspeksi dan Pemeriksaan Keselamatan Instalasi yang ditujukan ke: Direktur Teknik dan Lingkungan Migas selaku Kepala Inspeksi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Dokumen peralatan dan instalasi;</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi.</li>\r\n</ul>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Dokumen peralatan dan instalasi;</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi.</li>\r\n</ul>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Keterangan Hasil Inspeksi atau Sertifikat Inspeksi Peralatan dan Instalasi"
+      },
+      "id": {
+       "syarat_perizinan": "Keterangan Hasil Inspeksi atau Sertifikat Inspeksi Peralatan dan Instalasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Kelengkapan Administrasi:</p>\r\n<ul>\r\n<li>Berita Acara Hasil Pemeriksaan Keselamatan Instalasi</li>\r\n<li>Tindak lanjut Berita Acara Hasil Pemeriksaan Keselamatan Instalasi (jika ada)</li>\r\n<li>Rencana Inspeksi atau Inspection and Test Plan (ITP) yang telah disepakati oleh pihak yang terkait</li>\r\n<li>Izin Usaha atau Izin Usaha Sementara (khusus untuk kegiatan usaha hilir Minyak dan Gas Bumi)</li>\r\n<li>Hasil Penelaahan Desain dari Kepala Teknik atau Direksi Perusahaan Penunjang atau Lembaga Enjiniring yang ditunjuk (untuk Instalasi baru)</li>\r\n<li>Daftar Instalasi dan/atau peralatan</li>\r\n<li>Process Flow Diagram (PFD) dan Piping and Instrument Diagram (P&amp;ID)</li>\r\n<li>Sertifikat Kelayakan Penggunaan Instalasi atau Persetujuan Layak Operasi sebelumnya (untuk Instalasi eksisting)</li>\r\n<li>Hasil Analisis Risiko (bila ada)</li>\r\n<li>Hasil Penilaian Perpanjangan Umur Layan (untuk peralatan yang telah melewati batas umur layan desain)</li>\r\n<li>Data lokasi dan Kapasitas.</li>\r\n</ul>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Kelengkapan Administrasi:</p>\r\n<ul>\r\n<li>Berita Acara Hasil Pemeriksaan Keselamatan Instalasi</li>\r\n<li>Tindak lanjut Berita Acara Hasil Pemeriksaan Keselamatan Instalasi (jika ada)</li>\r\n<li>Rencana Inspeksi atau Inspection and Test Plan (ITP) yang telah disepakati oleh pihak yang terkait</li>\r\n<li>Izin Usaha atau Izin Usaha Sementara (khusus untuk kegiatan usaha hilir Minyak dan Gas Bumi)</li>\r\n<li>Hasil Penelaahan Desain dari Kepala Teknik atau Direksi Perusahaan Penunjang atau Lembaga Enjiniring yang ditunjuk (untuk Instalasi baru)</li>\r\n<li>Daftar Instalasi dan/atau peralatan</li>\r\n<li>Process Flow Diagram (PFD) dan Piping and Instrument Diagram (P&amp;ID)</li>\r\n<li>Sertifikat Kelayakan Penggunaan Instalasi atau Persetujuan Layak Operasi sebelumnya (untuk Instalasi eksisting)</li>\r\n<li>Hasil Analisis Risiko (bila ada)</li>\r\n<li>Hasil Penilaian Perpanjangan Umur Layan (untuk peralatan yang telah melewati batas umur layan desain)</li>\r\n<li>Data lokasi dan Kapasitas.</li>\r\n</ul>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Apabila dokumen yang disampaikan tidak lengkap dan benar DMT akan membuat surat penolakan permohonan penerbitan Persetujuan Layak Operasi."
+      },
+      "id": {
+       "syarat_perizinan": "Apabila dokumen yang disampaikan tidak lengkap dan benar DMT akan membuat surat penolakan permohonan penerbitan Persetujuan Layak Operasi."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat permohonan dari Kepala Teknik pada Kontraktor, Kepala Teknik pada Pemegang Izin Usaha atau Direksi Perusahaan Usaha Penunjang Minyak dan Gas Bumi setelah dilakukan Inspeksi dan Pemeriksaan Keselamatan Instalasi yang ditujukan ke Direktur Teknik dan Lingkungan Minyak dan Gas Bumi selaku Kepala Inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Surat permohonan dari Kepala Teknik pada Kontraktor, Kepala Teknik pada Pemegang Izin Usaha atau Direksi Perusahaan Usaha Penunjang Minyak dan Gas Bumi setelah dilakukan Inspeksi dan Pemeriksaan Keselamatan Instalasi yang ditujukan ke Direktur Teknik dan Lingkungan Minyak dan Gas Bumi selaku Kepala Inspeksi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Izin Usaha atau Izin Usaha Sementara (khusus untuk kegiatan usaha hilir Minyak dan Gas Bumi)"
+      },
+      "id": {
+       "syarat_perizinan": "Izin Usaha atau Izin Usaha Sementara (khusus untuk kegiatan usaha hilir Minyak dan Gas Bumi)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Laporan hasil Inspeksi Teknis Instalasi"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan hasil Inspeksi Teknis Instalasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Berita Acara Hasil Inspeksi Teknis dan Pemeriksaan Keselamatan Instalasi"
+      },
+      "id": {
+       "syarat_perizinan": "Berita Acara Hasil Inspeksi Teknis dan Pemeriksaan Keselamatan Instalasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Tindak lanjut Berita Acara Hasil Inspeksi Teknis dan Pemeriksaan Keselamatan Instalasi, apabila ada"
+      },
+      "id": {
+       "syarat_perizinan": "Tindak lanjut Berita Acara Hasil Inspeksi Teknis dan Pemeriksaan Keselamatan Instalasi, apabila ada"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Keterangan Hasil Inspeksi atau Sertifikat Inspeksi Peralatan dan Instalasi"
+      },
+      "id": {
+       "syarat_perizinan": "Keterangan Hasil Inspeksi atau Sertifikat Inspeksi Peralatan dan Instalasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil Penelaahan Desain dari Kepala Teknik atau Direksi Perusahaan Penunjang atau Lembaga Enjiniring yang ditunjuk (untuk Instalasi baru atau Instalasi Eksisting yang mengalami perubahan/modifikasi)"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil Penelaahan Desain dari Kepala Teknik atau Direksi Perusahaan Penunjang atau Lembaga Enjiniring yang ditunjuk (untuk Instalasi baru atau Instalasi Eksisting yang mengalami perubahan/modifikasi)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persetujuan Layak Operasi sebelumnya (untuk Instalasi eksisting)"
+      },
+      "id": {
+       "syarat_perizinan": "Persetujuan Layak Operasi sebelumnya (untuk Instalasi eksisting)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil Analisis Risiko, apabila disyaratkan"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil Analisis Risiko, apabila disyaratkan"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Hasil Penilaian Perpanjangan Umur Layan (untuk peralatan dan instalasi yang telah melewati batas umur layan desain)"
+      },
+      "id": {
+       "syarat_perizinan": "Hasil Penilaian Perpanjangan Umur Layan (untuk peralatan dan instalasi yang telah melewati batas umur layan desain)"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Keterangan Hasil Inspeksi atau Sertifikat Inspeksi Peralatan dan Instalasi"
+      },
+      "id": {
+       "syarat_perizinan": "Keterangan Hasil Inspeksi atau Sertifikat Inspeksi Peralatan dan Instalasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Kelengkapan Administrasi:</p>\r\n<ul>\r\n<li>Berita Acara Hasil Pemeriksaan Keselamatan Instalasi</li>\r\n<li>Tindak lanjut Berita Acara Hasil Pemeriksaan Keselamatan Instalasi (jika ada)</li>\r\n<li>Rencana Inspeksi atau Inspection and Test Plan (ITP) yang telah disepakati oleh pihak yang terkait</li>\r\n<li>Izin Usaha atau Izin Usaha Sementara (khusus untuk kegiatan usaha hilir Minyak dan Gas Bumi)</li>\r\n<li>Hasil Penelaahan Desain dari Kepala Teknik atau Direksi Perusahaan Penunjang atau Lembaga Enjiniring yang ditunjuk (untuk Instalasi baru)</li>\r\n<li>Daftar Instalasi dan/atau peralatan</li>\r\n<li>Process Flow Diagram (PFD) dan Piping and Instrument Diagram (P&amp;ID)</li>\r\n<li>Sertifikat Kelayakan Penggunaan Instalasi atau Persetujuan Layak Operasi sebelumnya (untuk Instalasi eksisting)</li>\r\n<li>Hasil Analisis Risiko (bila ada)</li>\r\n<li>Hasil Penilaian Perpanjangan Umur Layan (untuk peralatan yang telah melewati batas umur layan desain)</li>\r\n<li>Data lokasi dan Kapasitas.</li>\r\n</ul>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Kelengkapan Administrasi:</p>\r\n<ul>\r\n<li>Berita Acara Hasil Pemeriksaan Keselamatan Instalasi</li>\r\n<li>Tindak lanjut Berita Acara Hasil Pemeriksaan Keselamatan Instalasi (jika ada)</li>\r\n<li>Rencana Inspeksi atau Inspection and Test Plan (ITP) yang telah disepakati oleh pihak yang terkait</li>\r\n<li>Izin Usaha atau Izin Usaha Sementara (khusus untuk kegiatan usaha hilir Minyak dan Gas Bumi)</li>\r\n<li>Hasil Penelaahan Desain dari Kepala Teknik atau Direksi Perusahaan Penunjang atau Lembaga Enjiniring yang ditunjuk (untuk Instalasi baru)</li>\r\n<li>Daftar Instalasi dan/atau peralatan</li>\r\n<li>Process Flow Diagram (PFD) dan Piping and Instrument Diagram (P&amp;ID)</li>\r\n<li>Sertifikat Kelayakan Penggunaan Instalasi atau Persetujuan Layak Operasi sebelumnya (untuk Instalasi eksisting)</li>\r\n<li>Hasil Analisis Risiko (bila ada)</li>\r\n<li>Hasil Penilaian Perpanjangan Umur Layan (untuk peralatan yang telah melewati batas umur layan desain)</li>\r\n<li>Data lokasi dan Kapasitas.</li>\r\n</ul>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat permohonan dari Kepala Teknik BU/BUT atau Direksi Perusahaan Usaha Penunjang Migas setelah dilakukan Inspeksi dan Pemeriksaan Keselamatan Instalasi yang ditujukan ke: Direktur Teknik dan Lingkungan Migas selaku Kepala Inspeksi"
+      },
+      "id": {
+       "syarat_perizinan": "Surat permohonan dari Kepala Teknik BU/BUT atau Direksi Perusahaan Usaha Penunjang Migas setelah dilakukan Inspeksi dan Pemeriksaan Keselamatan Instalasi yang ditujukan ke: Direktur Teknik dan Lingkungan Migas selaku Kepala Inspeksi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Apabila dokumen yang disampaikan tidak lengkap dan benar DMT akan membuat surat penolakan permohonan penerbitan Persetujuan Layak Operasi."
+      },
+      "id": {
+       "syarat_perizinan": "Apabila dokumen yang disampaikan tidak lengkap dan benar DMT akan membuat surat penolakan permohonan penerbitan Persetujuan Layak Operasi."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Dokumen peralatan dan instalasi;</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi.</li>\r\n</ul>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Dokumen peralatan dan instalasi;</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi.</li>\r\n</ul>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Setiap perubahan instalasi wajib dilaporkan kepada Kepala Inspeksi Migas serta dapat dilakukan pemeriksaan keselamatan terhadap instalasi tersebut"
+      },
+      "id": {
+       "syarat_perizinan": "Setiap perubahan instalasi wajib dilaporkan kepada Kepala Inspeksi Migas serta dapat dilakukan pemeriksaan keselamatan terhadap instalasi tersebut"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemeriksaan Keselamatan dilakukan kembali selambat-lambatnya 3 bulan sebelum berakhir masa berlaku Persetujuan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Pemeriksaan Keselamatan dilakukan kembali selambat-lambatnya 3 bulan sebelum berakhir masa berlaku Persetujuan; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila terjadi hal-hal yang menyebabkan Instalasi tersebut tidak layak dan tidak aman untuk dioperasikan serta terdapat dokumen yang tidak benar maka Persetujuan dapat ditinjau kembali"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila terjadi hal-hal yang menyebabkan Instalasi tersebut tidak layak dan tidak aman untuk dioperasikan serta terdapat dokumen yang tidak benar maka Persetujuan dapat ditinjau kembali"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Untuk keperluan dokumentasi data peralatan Kepala Teknik atau Perusahaan Inspeksi wajib menyampaikan antara lain:</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi</li>\r\n<li>Keterangan hasil Inspeksi atau Sertifikat Inspeksi.</li>\r\n</ul>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Untuk keperluan dokumentasi data peralatan Kepala Teknik atau Perusahaan Inspeksi wajib menyampaikan antara lain:</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi</li>\r\n<li>Keterangan hasil Inspeksi atau Sertifikat Inspeksi.</li>\r\n</ul>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang Izin Usaha, Kontraktor Kontrak Kerja Sama, Badan Usaha Persetujuan  pembangunan dan pengoperasian pipa gas bumi untuk kepentingan sendiri, atau Badan Usaha Penunjang bertanggung jawab sepenuhnya atas keselamatan instalasi tersebut"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang Izin Usaha, Kontraktor Kontrak Kerja Sama, Badan Usaha Persetujuan  pembangunan dan pengoperasian pipa gas bumi untuk kepentingan sendiri, atau Badan Usaha Penunjang bertanggung jawab sepenuhnya atas keselamatan instalasi tersebut"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Setiap perubahan instalasi wajib dilaporkan kepada Kepala Inspeksi Migas serta dapat dilakukan pemeriksaan keselamatan terhadap instalasi tersebut"
+      },
+      "id": {
+       "syarat_perizinan": "Setiap perubahan instalasi wajib dilaporkan kepada Kepala Inspeksi Migas serta dapat dilakukan pemeriksaan keselamatan terhadap instalasi tersebut"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemeriksaan Keselamatan dilakukan kembali selambat-lambatnya 3 bulan sebelum berakhir masa berlaku Persetujuan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Pemeriksaan Keselamatan dilakukan kembali selambat-lambatnya 3 bulan sebelum berakhir masa berlaku Persetujuan; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Untuk keperluan dokumentasi data peralatan Kepala Teknik atau Perusahaan Inspeksi wajib menyampaikan antara lain:</p>\n\n<ul>\n\n<li>Berita acara hasil Inspeksi</li>\n\n<li>Laporan hasil Inspeksi</li>\n\n<li>Keterangan hasil Inspeksi atau Sertifikat Inspeksi.</li>\n\n</ul>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Untuk keperluan dokumentasi data peralatan Kepala Teknik atau Perusahaan Inspeksi wajib menyampaikan antara lain:</p>\n\n<ul>\n\n<li>Berita acara hasil Inspeksi</li>\n\n<li>Laporan hasil Inspeksi</li>\n\n<li>Keterangan hasil Inspeksi atau Sertifikat Inspeksi.</li>\n\n</ul>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang Izin Usaha, Kontraktor Kontrak Kerja Sama, Badan Usaha Pemegang Izin Pembangunan dan Pengoperasian Pipa Gas Bumi serta Fasilitas dan Sarana Pendukung untuk Kepentingan Sendiri, atau Badan Usaha Penunjang bertanggung jawab sepenuhnya atas keselamatan instalasi"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang Izin Usaha, Kontraktor Kontrak Kerja Sama, Badan Usaha Pemegang Izin Pembangunan dan Pengoperasian Pipa Gas Bumi serta Fasilitas dan Sarana Pendukung untuk Kepentingan Sendiri, atau Badan Usaha Penunjang bertanggung jawab sepenuhnya atas keselamatan instalasi"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Setiap perubahan instalasi wajib dilaporkan kepada Kepala Inspeksi Migas serta dapat dilakukan pemeriksaan keselamatan terhadap instalasi tersebut"
+      },
+      "id": {
+       "syarat_perizinan": "Setiap perubahan instalasi wajib dilaporkan kepada Kepala Inspeksi Migas serta dapat dilakukan pemeriksaan keselamatan terhadap instalasi tersebut"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemegang Izin Usaha, Kontraktor Kontrak Kerja Sama, Badan Usaha Persetujuan  pembangunan dan pengoperasian pipa gas bumi untuk kepentingan sendiri, atau Badan Usaha Penunjang bertanggung jawab sepenuhnya atas keselamatan instalasi tersebut"
+      },
+      "id": {
+       "syarat_perizinan": "Pemegang Izin Usaha, Kontraktor Kontrak Kerja Sama, Badan Usaha Persetujuan  pembangunan dan pengoperasian pipa gas bumi untuk kepentingan sendiri, atau Badan Usaha Penunjang bertanggung jawab sepenuhnya atas keselamatan instalasi tersebut"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Apabila terjadi hal-hal yang menyebabkan Instalasi tersebut tidak layak dan tidak aman untuk dioperasikan serta terdapat dokumen yang tidak benar maka Persetujuan dapat ditinjau kembali"
+      },
+      "id": {
+       "syarat_perizinan": "Apabila terjadi hal-hal yang menyebabkan Instalasi tersebut tidak layak dan tidak aman untuk dioperasikan serta terdapat dokumen yang tidak benar maka Persetujuan dapat ditinjau kembali"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "<p>Untuk keperluan dokumentasi data peralatan Kepala Teknik atau Perusahaan Inspeksi wajib menyampaikan antara lain:</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi</li>\r\n<li>Keterangan hasil Inspeksi atau Sertifikat Inspeksi.</li>\r\n</ul>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Untuk keperluan dokumentasi data peralatan Kepala Teknik atau Perusahaan Inspeksi wajib menyampaikan antara lain:</p>\r\n<ul>\r\n<li>Berita acara hasil Inspeksi</li>\r\n<li>Laporan hasil Inspeksi</li>\r\n<li>Keterangan hasil Inspeksi atau Sertifikat Inspeksi.</li>\r\n</ul>"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Pemeriksaan Keselamatan dilakukan kembali selambat-lambatnya 3 bulan sebelum berakhir masa berlaku Persetujuan; dan"
+      },
+      "id": {
+       "syarat_perizinan": "Pemeriksaan Keselamatan dilakukan kembali selambat-lambatnya 3 bulan sebelum berakhir masa berlaku Persetujuan; dan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "cd3a7f98-045b-49ba-b728-4f7bb3163f2c",
+   "kode": "020000000049",
+   "localization": {
+    "en": {
+     "nama_dokumen": "Persetujuan Pengalihan Sisa Komitmen Pasti Ke Wilayah Terbuka"
+    },
+    "id": {
+     "nama_dokumen": "Persetujuan Pengalihan Sisa Komitmen Pasti Ke Wilayah Terbuka"
+    }
+   },
+   "parameter_kewenangan": [
+    {
+     "id": "4b93788b-c905-5315-8aa3-7e34085ba6e7",
+     "parameter": "Seluruh",
+     "kewenangan": "Menteri/Kepala Badan"
+    }
+   ],
+   "persyaratan": [
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persetujuan  Pengalihan Sisa Komitmen Pasti ke Wilayah Terbuka - WK Aktif"
+      },
+      "id": {
+       "syarat_perizinan": "Persetujuan  Pengalihan Sisa Komitmen Pasti ke Wilayah Terbuka - WK Aktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persetujuan  Pengalihan Sisa Komitmen Pasti ke Wilayah Terbuka - WK Terminasi"
+      },
+      "id": {
+       "syarat_perizinan": "Persetujuan  Pengalihan Sisa Komitmen Pasti ke Wilayah Terbuka - WK Terminasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Surat rekomendasi dari SKK Migas/BPMA yang memuat:</p>\r\n<p style=\"padding-left: 30px;\">Peta, koordinat, dan luas wilayah terbuka calon tempat pelaksanaan pengalihan sisa komitmen pasti</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Surat rekomendasi dari SKK Migas/BPMA yang memuat:</p>\r\n<p style=\"padding-left: 30px;\">Peta, koordinat, dan luas wilayah terbuka calon tempat pelaksanaan pengalihan sisa komitmen pasti</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Rencana kerja dan tata waktu pelaksanaan serta nilai yang direkomendasi SKK Migas/BPMA."
+      },
+      "id": {
+       "syarat_perizinan": "Rencana kerja dan tata waktu pelaksanaan serta nilai yang direkomendasi SKK Migas/BPMA."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Surat rekomendasi dari SKK Migas/BPMA yang memuat:</p>\r\n<p style=\"padding-left: 30px;\">Peta, koordinat, dan luas wilayah terbuka calon tempat pelaksanaan pengalihan sisa komitmen pasti</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Surat rekomendasi dari SKK Migas/BPMA yang memuat:</p>\r\n<p style=\"padding-left: 30px;\">Peta, koordinat, dan luas wilayah terbuka calon tempat pelaksanaan pengalihan sisa komitmen pasti</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Rencana kerja dan tata waktu pelaksanaan serta nilai yang  direkomendasi SKK Migas/BPMA."
+      },
+      "id": {
+       "syarat_perizinan": "Rencana kerja dan tata waktu pelaksanaan serta nilai yang  direkomendasi SKK Migas/BPMA."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persyaratan administratif berupa surat persetujuan prinsip pengalihan sisa komitmen pasti ke wilayah terbuka dari Menteri ESDM"
+      },
+      "id": {
+       "syarat_perizinan": "Persyaratan administratif berupa surat persetujuan prinsip pengalihan sisa komitmen pasti ke wilayah terbuka dari Menteri ESDM"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat persetujuan terminasi"
+      },
+      "id": {
+       "syarat_perizinan": "Surat persetujuan terminasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Kontrak Kerja Sama"
+      },
+      "id": {
+       "syarat_perizinan": "Kontrak Kerja Sama"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p class=\"p1\">Surat rekomendasi SKK Migas yang disampaikan setelah diterbitkannya surat persetujuan prinsip yang paling sedikit meliputi:</p><br><ol style=\"list-style-type: lower-alpha;\"><br><li class=\"p1\">Surat pernyataan dari Kontraktor untuk menyerahkan Jaminan Pelaksanaan</li><br><li class=\"li1\">Peta, koordinat dan luas wilayah yang diusulkan dan</li><br><li class=\"li1\">Rencana kerja, tata waktu pelaksanaan kegiatan dan nilai anggaran</li><br></ol>"
+      },
+      "id": {
+       "syarat_perizinan": "<p class=\"p1\">Surat rekomendasi SKK Migas yang disampaikan setelah diterbitkannya surat persetujuan prinsip yang paling sedikit meliputi:</p><br><ol style=\"list-style-type: lower-alpha;\"><br><li class=\"p1\">Surat pernyataan dari Kontraktor untuk menyerahkan Jaminan Pelaksanaan</li><br><li class=\"li1\">Peta, koordinat dan luas wilayah yang diusulkan dan</li><br><li class=\"li1\">Rencana kerja, tata waktu pelaksanaan kegiatan dan nilai anggaran</li><br></ol>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Surat penarikan piutang dari Kantor Pelayanan Kekayaan Negara dan Lelang, apabila piutang telah diserahkan ke Kantor Pelayanan Kekayaan Negara dan Lelang"
+      },
+      "id": {
+       "syarat_perizinan": "Surat penarikan piutang dari Kantor Pelayanan Kekayaan Negara dan Lelang, apabila piutang telah diserahkan ke Kantor Pelayanan Kekayaan Negara dan Lelang"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": ""
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Rencana kerja dan tata waktu pelaksanaan serta nilai yang direkomendasi SKK Migas/BPMA."
+      },
+      "id": {
+       "syarat_perizinan": "Rencana kerja dan tata waktu pelaksanaan serta nilai yang direkomendasi SKK Migas/BPMA."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Surat rekomendasi dari SKK Migas/BPMA yang memuat:</p>\r\n<p style=\"padding-left: 30px;\">Peta, koordinat, dan luas wilayah terbuka calon tempat pelaksanaan pengalihan sisa komitmen pasti</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Surat rekomendasi dari SKK Migas/BPMA yang memuat:</p>\r\n<p style=\"padding-left: 30px;\">Peta, koordinat, dan luas wilayah terbuka calon tempat pelaksanaan pengalihan sisa komitmen pasti</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "<p>Surat rekomendasi dari SKK Migas/BPMA yang memuat:</p>\r\n<p style=\"padding-left: 30px;\">Peta, koordinat, dan luas wilayah terbuka calon tempat pelaksanaan pengalihan sisa komitmen pasti</p>"
+      },
+      "id": {
+       "syarat_perizinan": "<p>Surat rekomendasi dari SKK Migas/BPMA yang memuat:</p>\r\n<p style=\"padding-left: 30px;\">Peta, koordinat, dan luas wilayah terbuka calon tempat pelaksanaan pengalihan sisa komitmen pasti</p>"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Rencana kerja dan tata waktu pelaksanaan serta nilai yang  direkomendasi SKK Migas/BPMA."
+      },
+      "id": {
+       "syarat_perizinan": "Rencana kerja dan tata waktu pelaksanaan serta nilai yang  direkomendasi SKK Migas/BPMA."
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persetujuan  Pengalihan Sisa Komitmen Pasti ke Wilayah Terbuka - WK Terminasi"
+      },
+      "id": {
+       "syarat_perizinan": "Persetujuan  Pengalihan Sisa Komitmen Pasti ke Wilayah Terbuka - WK Terminasi"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    },
+    {
+     "persyaratan": {
+      "en": {
+       "syarat_perizinan": "Persetujuan  Pengalihan Sisa Komitmen Pasti ke Wilayah Terbuka - WK Aktif"
+      },
+      "id": {
+       "syarat_perizinan": "Persetujuan  Pengalihan Sisa Komitmen Pasti ke Wilayah Terbuka - WK Aktif"
+      }
+     },
+     "kode": "01",
+     "jangkaWaktu": "             "
+    }
+   ],
+   "kewajiban": [
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Laporan pelaksanaan kepada pemerintah"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan pelaksanaan kepada pemerintah"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Penyerahan Jaminan Pelaksanaan Sisa Komitmen Pasti"
+      },
+      "id": {
+       "syarat_perizinan": "Penyerahan Jaminan Pelaksanaan Sisa Komitmen Pasti"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Melaporkan hasil kegiatan pengalihan sisa Komitmen Pasti ke wilayah terbuka setiap 6 bulan sekali termasuk laporan keuangan atau sewaktu-waktu apabila diperlukan"
+      },
+      "id": {
+       "syarat_perizinan": "Melaporkan hasil kegiatan pengalihan sisa Komitmen Pasti ke wilayah terbuka setiap 6 bulan sekali termasuk laporan keuangan atau sewaktu-waktu apabila diperlukan"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Kewajiban menyerahkan data hasil kegiatan eksplorasi kepada Pemerintah"
+      },
+      "id": {
+       "syarat_perizinan": "Kewajiban menyerahkan data hasil kegiatan eksplorasi kepada Pemerintah"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": ""
+    },
+    {
+     "kewajiban": {
+      "en": {
+       "syarat_perizinan": "Laporan pelaksanaan kepada pemerintah"
+      },
+      "id": {
+       "syarat_perizinan": "Laporan pelaksanaan kepada pemerintah"
+      }
+     },
+     "kode": "02",
+     "jangkaWaktu": "             "
+    }
+   ],
+   "referensi_peraturan": [],
+   "sektor": {
+    "id": "377eec6d-07f2-4f0b-9233-d4c68e54bbc7",
+    "kode": "020",
+    "localization": {
+     "en": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     },
+     "id": {
+      "uraian": "Energi dan Sumber Daya Mineral",
+      "deskripsi": "Kementerian Energi dan Sumber Daya Mineral"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ]
+}

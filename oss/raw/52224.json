@@ -1,0 +1,3043 @@
+{
+ "code": "52224",
+ "found": true,
+ "ossId": "13bb9336-4b2d-546a-bfd6-aa3096f0e009",
+ "url": "https://oss.go.id/id/kbli/detail/13bb9336-4b2d-546a-bfd6-aa3096f0e009",
+ "fetchedAt": "2026-09-30T05:06:27+00:00",
+ "conversion": {
+  "label": "Tetap",
+  "ratio": "1:1",
+  "text": "Kode 52224 tetap digunakan pada KBLI 2025. Dimungkinkan terdapat penyesuaian berupa perubahan diksi dalam judul atau perubahan dalam uraian.",
+  "from2020": [
+   "52224"
+  ]
+ },
+ "scopes": [
+  {
+   "id": "16f6c4b6-686c-5fef-9a75-2746c96f9cb0",
+   "localization": {
+    "en": {
+     "uraian": "Kelompok ini mencakup kegiatan usaha pelayanan kepelabuhan perikanan yaitu pelayanan bongkar muat ikan dan lain lain",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Kelompok ini mencakup kegiatan usaha pelayanan kepelabuhan perikanan yaitu pelayanan bongkar muat ikan dan lain lain",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "13bb9336-4b2d-546a-bfd6-aa3096f0e009",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Pelabuhan Perikanan",
+      "uraian": "Kelompok ini mencakup aktivitas pelayanan kepelabuhan perikanan, yang berhubungan dengan angkutan perairan untuk kegiatan perikanan.\nKelompok ini juga mencakup\n- pengoperasian fasilitas pelabuhan dan dermaga;\n- pemeriksaan barang muatan dalam kargo dan/atau peti kemas dengan menggunakan sumber radiasi pengion (zat radioaktif dan pembakit radiasi pengion);\n- pelayanan tambat dan labuh kapal perikanan dan jasa pemanduan, pelayanan bongkar muat ikan.\nKelompok ini tidak mencakup\n- penanganan bongkar muat barang, lihat kelompok 52240;\n- pengoperasian dermaga marina (dermaga wisata atau rekreasi), lihat subgolongan 9329."
+     },
+     "id": {
+      "judul": "Aktivitas Pelabuhan Perikanan",
+      "uraian": "Kelompok ini mencakup aktivitas pelayanan kepelabuhan perikanan, yang berhubungan dengan angkutan perairan untuk kegiatan perikanan.\nKelompok ini juga mencakup\n- pengoperasian fasilitas pelabuhan dan dermaga;\n- pemeriksaan barang muatan dalam kargo dan/atau peti kemas dengan menggunakan sumber radiasi pengion (zat radioaktif dan pembakit radiasi pengion);\n- pelayanan tambat dan labuh kapal perikanan dan jasa pemanduan, pelayanan bongkar muat ikan.\nKelompok ini tidak mencakup\n- penanganan bongkar muat barang, lihat kelompok 52240;\n- pengoperasian dermaga marina (dermaga wisata atau rekreasi), lihat subgolongan 9329."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "51f9d4ba-09df-536b-81ec-ab352eb03924",
+     "kode": "52224-01-01",
+     "luas_lahan": null,
+     "jangka_waktu": "",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "c810a7d2-03e8-4a45-9e17-02b1b5441d46",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Mikro",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "6c4340aa-7814-4cff-8ea1-c6b50cc29680",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Rendah",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": null,
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [],
+     "KbliKewajibans": [
+      {
+       "id": "8399caff-8239-54a6-8d51-9ba1ddf058d9",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana bongkar muat ikan seperti keranjang, atau palet",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana bongkar muat ikan seperti keranjang, atau palet",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "c5092f50-ab72-5651-b0bf-63aa6522b9bb",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki timbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki timbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "2996bd54-5954-59a0-8b7c-2488466633fe",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana pendinginan seperti cool box atau es",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana pendinginan seperti cool box atau es",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "3d44dc2d-93a2-57ae-a681-dabc82e94917",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana pengangkutan seperti gerobak dorong, kendaraan roda tiga dan/atau roda empat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana pengangkutan seperti gerobak dorong, kendaraan roda tiga dan/atau roda empat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "694a66c5-f8ba-5c25-af7d-2fb9b0c6c4e3",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki selasar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki selasar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "7031348b-6f83-5ba8-a785-2c900513505d",
+       "localization": {
+        "en": {
+         "uraian": "Menjaga kebersihan sarana, prasarana dan peralatan yang digunakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjaga kebersihan sarana, prasarana dan peralatan yang digunakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "25265540-c909-50cd-9aed-44569218a0d5",
+       "localization": {
+        "en": {
+         "uraian": "Menjaga dan mematuhi keselamatan dan kesehatan kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjaga dan mematuhi keselamatan dan kesehatan kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "9d555660-7d58-57e9-9a1a-4220d8e4d83c",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki penanggung jawab pengoperasian pelayanan bongkar muat ikan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki penanggung jawab pengoperasian pelayanan bongkar muat ikan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      },
+      {
+       "id": "5d824499-866f-5047-94ce-1e1b1b4eaece",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada Direktur Jenderal atau gubernur sesuai kewenangannya setiap 6 (enam) bulan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada Direktur Jenderal atau gubernur sesuai kewenangannya setiap 6 (enam) bulan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": null,
+       "SatuanJangkaWaktu": null
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "74b4266d-a516-5634-a3ee-62f25413c762",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a3280530-1f86-4b60-9a3d-7a920b9d402b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "785df92e-d46c-5f12-a659-112830395c9d",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "d44da763-8875-5a81-99d0-963cf2e4e473",
+        "local": {
+         "en": {
+          "uraian": "1. Pelabuhan perikanan unit pelaksana teknis pemerintah pusat dan 2. Pelabuhan perikanan yang tidak dibangun oleh pemerintah pusat dan pemerintah daerah",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Pelabuhan perikanan unit pelaksana teknis pemerintah pusat dan 2. Pelabuhan perikanan yang tidak dibangun oleh pemerintah pusat dan pemerintah daerah",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "7921e40d-397f-5722-9ec2-8155b6a8b5a0",
+     "kode": "52224-02-02",
+     "luas_lahan": null,
+     "jangka_waktu": "15",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "35ba70e5-ae25-5334-8a0d-dc88995ebe03",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sumber daya manusia tenaga bongkar muat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sumber daya manusia tenaga bongkar muat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d3e6a96d-ab64-514e-b5ef-e065b2fe733c",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana bongkar muat ikan seperti forklift, crane, keranjang, atau pallet",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana bongkar muat ikan seperti forklift, crane, keranjang, atau pallet",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2bf8edc6-d5c1-5bb4-bd60-edd6483bf9d0",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki timbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki timbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2f487378-6c32-5e2f-bc7c-14ee43946b41",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana pendinginan seperti cool box, atau es",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana pendinginan seperti cool box, atau es",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "fbfefdb1-eb57-5ced-a79c-332dc8e88e3a",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki selasar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki selasar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c2bf0ee0-04ae-52f6-869f-4cc987675eb1",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana dan prasarana keselamatan kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana dan prasarana keselamatan kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6defd136-d72b-5c1f-9e01-109ac658bcd2",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kendaraan pengangkut ikan berpendingin atau kendaraan yang dilengkapi dengan sarana untuk menjaga suhu ikan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kendaraan pengangkut ikan berpendingin atau kendaraan yang dilengkapi dengan sarana untuk menjaga suhu ikan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "706a0a66-2fc2-577b-b7dd-b6f6def47511",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki penanggung jawab pengoperasian pelayanan bongkar muat ikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki penanggung jawab pengoperasian pelayanan bongkar muat ikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "2a760420-83c6-55bf-8e49-5c0bd5e0cc39",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana bongkar muat ikan seperti keranjang, atau palet",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana bongkar muat ikan seperti keranjang, atau palet",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "32eed205-a2da-555a-a832-230de0511414",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki timbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki timbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "543a297c-5f41-5191-822d-d2a85742a359",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana pendinginan seperti cool box atau es",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana pendinginan seperti cool box atau es",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a3315a04-7ab2-5320-994d-3a34ffa0d760",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana pengangkutan seperti gerobak dorong, kendaraan roda tiga dan/atau roda empat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana pengangkutan seperti gerobak dorong, kendaraan roda tiga dan/atau roda empat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b11542ea-769b-585a-b838-15e901f7a2e0",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki selasar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki selasar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a81697a4-bc76-51ae-bef5-76b26ce14435",
+       "localization": {
+        "en": {
+         "uraian": "Menjaga kebersihan sarana, prasarana dan peralatan yang digunakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjaga kebersihan sarana, prasarana dan peralatan yang digunakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3a82162f-7d2d-5032-b4a1-2a45d358c7f6",
+       "localization": {
+        "en": {
+         "uraian": "Menjaga dan mematuhi keselamatan dan kesehatan kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjaga dan mematuhi keselamatan dan kesehatan kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d68247c2-3b14-5bb5-8484-043ca6f71624",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki penanggung jawab pengoperasian pelayanan bongkar muat ikan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki penanggung jawab pengoperasian pelayanan bongkar muat ikan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ee0479c4-4e01-5e84-a5d5-6b05ff0ce273",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada gubernur sesuai kewenangannya setiap 6 (enam) bulan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada gubernur sesuai kewenangannya setiap 6 (enam) bulan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "b30577f9-8fe7-5059-8985-d6f8f87c61e7",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a3280530-1f86-4b60-9a3d-7a920b9d402b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "cb469b7d-4ddf-56a9-b352-8eb8314caa44",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "ee563b02-06ed-559c-bc17-35719b6d9009",
+        "local": {
+         "en": {
+          "uraian": "Pelabuhan perikanan unit pelaksana teknis daerah",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Pelabuhan perikanan unit pelaksana teknis daerah",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8d57d219-7e63-5bc5-9539-02ce8a447d14",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "d44da763-8875-5a81-99d0-963cf2e4e473",
+        "local": {
+         "en": {
+          "uraian": "1. Pelabuhan perikanan unit pelaksana teknis pemerintah pusat dan 2. Pelabuhan perikanan yang tidak dibangun oleh pemerintah pusat dan pemerintah daerah",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Pelabuhan perikanan unit pelaksana teknis pemerintah pusat dan 2. Pelabuhan perikanan yang tidak dibangun oleh pemerintah pusat dan pemerintah daerah",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "d03659cb-41d9-52e5-8323-9b2460cf64e0",
+     "kode": "52224-03-03",
+     "luas_lahan": null,
+     "jangka_waktu": "15",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "36b6dea1-4827-5b3b-97be-394bf4f8b8b5",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sumber daya manusia tenaga bongkar muat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sumber daya manusia tenaga bongkar muat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "33e757c6-a792-58ca-870d-030be7381f41",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana bongkar muat ikan seperti forklift, crane, keranjang, atau pallet",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana bongkar muat ikan seperti forklift, crane, keranjang, atau pallet",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b126b5ac-f760-5af9-8ab8-bcea811f104b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki timbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki timbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d1135094-7a87-5fbf-b83d-67015eb15e2b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana pendinginan seperti cool box, atau es",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana pendinginan seperti cool box, atau es",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c8a2441f-dc2f-5631-8898-4057f9ed9227",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki selasar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki selasar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7b4f513a-870b-59df-bb8b-0be53f569d9b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana dan prasarana keselamatan kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana dan prasarana keselamatan kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f90e3329-0028-53ad-a359-6e5f9062b9e0",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kendaraan pengangkut ikan berpendingin atau kendaraan yang dilengkapi dengan sarana untuk menjaga suhu ikan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kendaraan pengangkut ikan berpendingin atau kendaraan yang dilengkapi dengan sarana untuk menjaga suhu ikan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b45b7ecb-c545-5c2e-8aad-846a880f91fd",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki penanggung jawab pengoperasian pelayanan bongkar muat ikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki penanggung jawab pengoperasian pelayanan bongkar muat ikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "70545f0d-364b-5964-87c6-48d9ad26dd37",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana bongkar muat ikan seperti keranjang, atau palet",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana bongkar muat ikan seperti keranjang, atau palet",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "2d487da5-b2f7-5624-b6c0-a92ed4f3ce31",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki timbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki timbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "0569f491-8db3-5f72-a5e2-addb9e35c586",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana pendinginan seperti cool box atau es",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana pendinginan seperti cool box atau es",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "97a90aab-82ca-502b-bd5a-f2bdbbbeae4d",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana pengangkutan seperti gerobak dorong, kendaraan roda tiga dan/atau roda empat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana pengangkutan seperti gerobak dorong, kendaraan roda tiga dan/atau roda empat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "88f59a7e-daf6-53c7-a099-4b48e423eb57",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki selasar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki selasar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "04377f8b-fb3d-552b-bebf-145035d2d776",
+       "localization": {
+        "en": {
+         "uraian": "Menjaga kebersihan sarana, prasarana dan peralatan yang digunakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjaga kebersihan sarana, prasarana dan peralatan yang digunakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "8974aef3-596a-51d7-b165-a34fa8a990ab",
+       "localization": {
+        "en": {
+         "uraian": "Menjaga dan mematuhi keselamatan dan kesehatan kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjaga dan mematuhi keselamatan dan kesehatan kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "51e1f7be-a14e-5636-89a5-a0abd3498f62",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki penanggung jawab pengoperasian pelayanan bongkar muat ikan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki penanggung jawab pengoperasian pelayanan bongkar muat ikan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "283f7561-0485-5ee7-8e3b-a1a7ef956b6d",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada gubernur sesuai kewenangannya setiap 6 (enam) bulan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada gubernur sesuai kewenangannya setiap 6 (enam) bulan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "e562ddf1-61c4-502f-aa46-a57af3e2ee05",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a3280530-1f86-4b60-9a3d-7a920b9d402b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "b0e3f383-f5f2-52ed-b054-c7322f59d63a",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "d44da763-8875-5a81-99d0-963cf2e4e473",
+        "local": {
+         "en": {
+          "uraian": "1. Pelabuhan perikanan unit pelaksana teknis pemerintah pusat dan 2. Pelabuhan perikanan yang tidak dibangun oleh pemerintah pusat dan pemerintah daerah",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Pelabuhan perikanan unit pelaksana teknis pemerintah pusat dan 2. Pelabuhan perikanan yang tidak dibangun oleh pemerintah pusat dan pemerintah daerah",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "f6502b26-b9f5-5b3e-83cc-ee281b92377e",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "ee563b02-06ed-559c-bc17-35719b6d9009",
+        "local": {
+         "en": {
+          "uraian": "Pelabuhan perikanan unit pelaksana teknis daerah",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Pelabuhan perikanan unit pelaksana teknis daerah",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "0acfc444-bf27-5144-8e93-ab35dd1a3370",
+     "kode": "52224-04-04",
+     "luas_lahan": null,
+     "jangka_waktu": "15",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "5c3b5f28-6137-563f-b2e2-166ebaf52ad8",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sumber daya manusia tenaga bongkar muat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sumber daya manusia tenaga bongkar muat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "32d2734a-5571-52a2-a798-add201c32b85",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana bongkar muat ikan seperti forklift, crane, keranjang, atau pallet",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana bongkar muat ikan seperti forklift, crane, keranjang, atau pallet",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c9e25ecb-38c5-5b08-84ed-10dc739f0085",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki timbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki timbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "382e9565-6232-5c80-9e29-380858d19cf4",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana pendinginan seperti cool box, atau es",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana pendinginan seperti cool box, atau es",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "b850203e-95a4-54f9-8af6-7ab070246f6b",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki selasar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki selasar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5f23b14f-46be-5102-9167-14b709fffe40",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana dan prasarana keselamatan kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana dan prasarana keselamatan kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "bdec9d25-2cca-5aac-993a-bef9ca072060",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki kendaraan pengangkut ikan berpendingin atau kendaraan yang dilengkapi dengan sarana untuk menjaga suhu ikan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki kendaraan pengangkut ikan berpendingin atau kendaraan yang dilengkapi dengan sarana untuk menjaga suhu ikan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "aec437bc-6ece-5dba-9fba-3474e87051c8",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki penanggung jawab pengoperasian pelayanan bongkar muat ikan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki penanggung jawab pengoperasian pelayanan bongkar muat ikan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "c2e0c25a-15d0-56c4-ba7e-3ee4025565a2",
+       "localization": {
+        "en": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada gubernur sesuai kewenangannya setiap 6 (enam) bulan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menyampaikan laporan kegiatan usaha kepada gubernur sesuai kewenangannya setiap 6 (enam) bulan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "3fb525d5-3c8d-5fe4-8193-99899a05015e",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana bongkar muat ikan seperti keranjang, atau palet",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana bongkar muat ikan seperti keranjang, atau palet",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "43fcc22c-4453-5093-9a36-7fb2262797c0",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki timbangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki timbangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ccf746b0-90c1-5898-b719-d1d5bb89f415",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana pendinginan seperti cool box atau es",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana pendinginan seperti cool box atau es",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "85a9ddc7-f350-5787-bf97-ad88177dec88",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki sarana pengangkutan seperti gerobak dorong, kendaraan roda tiga dan/atau roda empat",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki sarana pengangkutan seperti gerobak dorong, kendaraan roda tiga dan/atau roda empat",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "db21e6cc-f3f3-51f1-bca8-79db30c4e199",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki selasar",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki selasar",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "a294be77-36f2-59a0-b09d-e5d039919bf1",
+       "localization": {
+        "en": {
+         "uraian": "Menjaga kebersihan sarana, prasarana dan peralatan yang digunakan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjaga kebersihan sarana, prasarana dan peralatan yang digunakan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7ba0f4b8-de7c-5c47-8373-cef346dab61d",
+       "localization": {
+        "en": {
+         "uraian": "Menjaga dan mematuhi keselamatan dan kesehatan kerja",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menjaga dan mematuhi keselamatan dan kesehatan kerja",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5253d14f-b367-5c5c-80cb-997725afeb6d",
+       "localization": {
+        "en": {
+         "uraian": "Memiliki penanggung jawab pengoperasian pelayanan bongkar muat ikan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memiliki penanggung jawab pengoperasian pelayanan bongkar muat ikan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "5a89f07d-efc6-5810-a148-4a2a0eb18c28",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a3280530-1f86-4b60-9a3d-7a920b9d402b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "5346da55-f4bb-5155-ab35-142fde7ca89a",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "d44da763-8875-5a81-99d0-963cf2e4e473",
+        "local": {
+         "en": {
+          "uraian": "1. Pelabuhan perikanan unit pelaksana teknis pemerintah pusat dan 2. Pelabuhan perikanan yang tidak dibangun oleh pemerintah pusat dan pemerintah daerah",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "1. Pelabuhan perikanan unit pelaksana teknis pemerintah pusat dan 2. Pelabuhan perikanan yang tidak dibangun oleh pemerintah pusat dan pemerintah daerah",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "5ae41b91-90bf-5784-b6bf-2f4687b84628",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "ec45f029-519b-5c0c-91ff-aaaa7dad9c13",
+       "Kewenangan": {
+        "id": "dc727953-288f-4b68-b102-16727ecaeb02",
+        "localization": {
+         "en": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Gubernur",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "ee563b02-06ed-559c-bc17-35719b6d9009",
+        "local": {
+         "en": {
+          "uraian": "Pelabuhan perikanan unit pelaksana teknis daerah",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Pelabuhan perikanan unit pelaksana teknis daerah",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "d63f36d7-15b1-4d8f-8f95-f0149e9f1e9a",
+    "kode": "032",
+    "localization": {
+     "en": {
+      "uraian": "Kelautan dan Perikanan",
+      "deskripsi": "Kementerian Kelautan dan Perikanan"
+     },
+     "id": {
+      "uraian": "Kelautan dan Perikanan",
+      "deskripsi": "Kementerian Kelautan dan Perikanan"
+     }
+    }
+   },
+   "version": "2025"
+  },
+  {
+   "id": "3336ff2c-be84-56e3-994b-8faf540cc7bb",
+   "localization": {
+    "en": {
+     "uraian": "Kelompok ini mencakup kegiatan usaha pelayanan kepelabuhan perikanan yaitu seperti pengoperasian fasilitas pelabuhan perikanan dan dermaga dan/atau pelayanan tambat dan labuh kapal perikanan",
+     "deskripsi": null
+    },
+    "id": {
+     "uraian": "Kelompok ini mencakup kegiatan usaha pelayanan kepelabuhan perikanan yaitu seperti pengoperasian fasilitas pelabuhan perikanan dan dermaga dan/atau pelayanan tambat dan labuh kapal perikanan",
+     "deskripsi": null
+    }
+   },
+   "created_at": "2026-08-24T14:25:14.680Z",
+   "Kbli": {
+    "id": "13bb9336-4b2d-546a-bfd6-aa3096f0e009",
+    "localization": {
+     "en": {
+      "judul": "Aktivitas Pelabuhan Perikanan",
+      "uraian": "Kelompok ini mencakup aktivitas pelayanan kepelabuhan perikanan, yang berhubungan dengan angkutan perairan untuk kegiatan perikanan.\nKelompok ini juga mencakup\n- pengoperasian fasilitas pelabuhan dan dermaga;\n- pemeriksaan barang muatan dalam kargo dan/atau peti kemas dengan menggunakan sumber radiasi pengion (zat radioaktif dan pembakit radiasi pengion);\n- pelayanan tambat dan labuh kapal perikanan dan jasa pemanduan, pelayanan bongkar muat ikan.\nKelompok ini tidak mencakup\n- penanganan bongkar muat barang, lihat kelompok 52240;\n- pengoperasian dermaga marina (dermaga wisata atau rekreasi), lihat subgolongan 9329."
+     },
+     "id": {
+      "judul": "Aktivitas Pelabuhan Perikanan",
+      "uraian": "Kelompok ini mencakup aktivitas pelayanan kepelabuhan perikanan, yang berhubungan dengan angkutan perairan untuk kegiatan perikanan.\nKelompok ini juga mencakup\n- pengoperasian fasilitas pelabuhan dan dermaga;\n- pemeriksaan barang muatan dalam kargo dan/atau peti kemas dengan menggunakan sumber radiasi pengion (zat radioaktif dan pembakit radiasi pengion);\n- pelayanan tambat dan labuh kapal perikanan dan jasa pemanduan, pelayanan bongkar muat ikan.\nKelompok ini tidak mencakup\n- penanganan bongkar muat barang, lihat kelompok 52240;\n- pengoperasian dermaga marina (dermaga wisata atau rekreasi), lihat subgolongan 9329."
+     }
+    },
+    "KbliVersion": {
+     "version": "2025"
+    },
+    "KkSyarats": []
+   },
+   "KbliResikos": [
+    {
+     "id": "41b99550-28e0-5a34-abe5-845879defdc1",
+     "kode": "52224-02-05",
+     "luas_lahan": null,
+     "jangka_waktu": "15",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "d5f31eb4-3c2f-4693-a77a-2c75395393ec",
+      "kode": "02",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Kecil",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "86d455be-e593-528b-91d1-e52c75b3a72e",
+       "localization": {
+        "en": {
+         "uraian": "Penetapan oleh menteri sebagai pelabuhan perikanan yang tidak dibangun pemerintah pusat dan pemerintah daerah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Penetapan oleh menteri sebagai pelabuhan perikanan yang tidak dibangun pemerintah pusat dan pemerintah daerah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9509b329-97af-5a0b-85b4-427c755d4ff6",
+       "localization": {
+        "en": {
+         "uraian": "Rencana operasional pelabuhan perikanan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana operasional pelabuhan perikanan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "85111829-00b1-5bc8-a978-1f47088609f7",
+       "localization": {
+        "en": {
+         "uraian": "Pernyataan kesiapan mengoperasionalkan pelabuhan perikanan dengan melampirkan: a. Data fasilitas yang dimiliki beserta foto b. Data sumber daya manusia yang dimiliki dan c. Data ketersediaan anggaran operasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pernyataan kesiapan mengoperasionalkan pelabuhan perikanan dengan melampirkan: a. Data fasilitas yang dimiliki beserta foto b. Data sumber daya manusia yang dimiliki dan c. Data ketersediaan anggaran operasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "24f2b678-1a13-5481-b895-8d53f9677d9c",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem informasi kepelabuhanan perikanan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem informasi kepelabuhanan perikanan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7de9a72d-ee3c-5be7-a58b-f97cb8632d6e",
+       "localization": {
+        "en": {
+         "uraian": "Memfasilitasi penyelenggaraan fungsi pemerintahan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memfasilitasi penyelenggaraan fungsi pemerintahan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "c7683cbd-65a0-5b94-956d-d18fdec23e5a",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan pelabuhan perikanan kepada Menteri c.q Direktur Jenderal sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan pelabuhan perikanan kepada Menteri c.q Direktur Jenderal sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "8cc1cae6-7f55-5609-9ab9-26b557902dc8",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a3280530-1f86-4b60-9a3d-7a920b9d402b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "157cc788-8d4f-5d03-9de8-5ab950750c03",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "1537838b-2c6a-548a-8698-3444c6632ac7",
+     "kode": "52224-03-06",
+     "luas_lahan": null,
+     "jangka_waktu": "15",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "8730f61d-80e5-456e-aca6-10bae1c53e5c",
+      "kode": "03",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Menengah",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "192b6324-5ecc-5492-9d89-b91a2ff1ef37",
+       "localization": {
+        "en": {
+         "uraian": "Penetapan oleh menteri sebagai pelabuhan perikanan yang tidak dibangun pemerintah pusat dan pemerintah daerah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Penetapan oleh menteri sebagai pelabuhan perikanan yang tidak dibangun pemerintah pusat dan pemerintah daerah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "588e9d18-bd44-52a0-a8d2-a49d6e473428",
+       "localization": {
+        "en": {
+         "uraian": "Rencana operasional pelabuhan perikanan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana operasional pelabuhan perikanan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "81ec5ead-d2e0-5040-9862-13a72172c19d",
+       "localization": {
+        "en": {
+         "uraian": "Pernyataan kesiapan mengoperasionalkan pelabuhan perikanan dengan melampirkan: a. Data fasilitas yang dimiliki beserta foto b. Data sumber daya manusia yang dimiliki dan c. Data ketersediaan anggaran operasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pernyataan kesiapan mengoperasionalkan pelabuhan perikanan dengan melampirkan: a. Data fasilitas yang dimiliki beserta foto b. Data sumber daya manusia yang dimiliki dan c. Data ketersediaan anggaran operasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "28a4ca0e-890e-5528-8f90-787a2e8e2d93",
+       "localization": {
+        "en": {
+         "uraian": "Memfasilitasi penyelenggaraan fungsi pemerintahan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memfasilitasi penyelenggaraan fungsi pemerintahan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "9676af54-c209-5c0e-acfa-8b3769027a0c",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem informasi kepelabuhanan perikanan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem informasi kepelabuhanan perikanan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "cea08390-c660-5dac-898e-134c236ddd54",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan pelabuhan perikanan kepada Menteri c.q Direktur Jenderal sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan pelabuhan perikanan kepada Menteri c.q Direktur Jenderal sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "32ea7a92-2356-5e76-967b-ebf364fefca6",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a3280530-1f86-4b60-9a3d-7a920b9d402b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "fa8b09ea-12f5-5223-b01c-ea0e36219f22",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "3edb2bf3-36f5-5602-9b89-a8a5fc85e114",
+     "kode": "52224-04-07",
+     "luas_lahan": null,
+     "jangka_waktu": "15",
+     "masa_berlaku": null,
+     "SkalaUsaha": {
+      "id": "bd009c71-a9a4-4318-9bb1-44097765f783",
+      "kode": "04",
+      "localization": {
+       "en": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Usaha Besar",
+        "deskripsi": null
+       }
+      }
+     },
+     "Resiko": {
+      "id": "d00745fa-c5e4-414f-806c-3551a21733ee",
+      "localization": {
+       "en": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Menengah Tinggi",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanLuasTanah": null,
+     "SatuanJangkaWaktu": {
+      "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+      "kode": "01",
+      "localization": {
+       "en": {
+        "uraian": "Hari",
+        "deskripsi": null
+       },
+       "id": {
+        "uraian": "Hari",
+        "deskripsi": null
+       }
+      }
+     },
+     "SatuanMasaBerlaku": null,
+     "KbliPersyaratans": [
+      {
+       "id": "2b974b45-0938-5e5d-aae2-e49563c6a2e2",
+       "localization": {
+        "en": {
+         "uraian": "Penetapan oleh menteri sebagai pelabuhan perikanan yang tidak dibangun pemerintah pusat dan pemerintah daerah",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Penetapan oleh menteri sebagai pelabuhan perikanan yang tidak dibangun pemerintah pusat dan pemerintah daerah",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "7f1ddea0-b3f5-563b-acac-f35199314488",
+       "localization": {
+        "en": {
+         "uraian": "Rencana operasional pelabuhan perikanan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Rencana operasional pelabuhan perikanan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "6cbe50d2-5af5-5170-b208-d1fd7710b8a1",
+       "localization": {
+        "en": {
+         "uraian": "Pernyataan kesiapan mengoperasionalkan pelabuhan perikanan dengan melampirkan: a. Data fasilitas yang dimiliki beserta foto b. Data sumber daya manusia yang dimiliki dan c. Data ketersediaan anggaran operasional",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Pernyataan kesiapan mengoperasionalkan pelabuhan perikanan dengan melampirkan: a. Data fasilitas yang dimiliki beserta foto b. Data sumber daya manusia yang dimiliki dan c. Data ketersediaan anggaran operasional",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliKewajibans": [
+      {
+       "id": "f431e4e9-365d-54af-ac38-2b56b9f54929",
+       "localization": {
+        "en": {
+         "uraian": "Memfasilitasi penyelenggaraan fungsi pemerintahan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Memfasilitasi penyelenggaraan fungsi pemerintahan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "d18cafe8-c8d7-5c2a-be23-4e9a2cdfed0d",
+       "localization": {
+        "en": {
+         "uraian": "Menerapkan sistem informasi kepelabuhanan perikanan dan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Menerapkan sistem informasi kepelabuhanan perikanan dan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "83dd4317-63a2-57ec-b144-7f2b84da7d81",
+       "localization": {
+        "en": {
+         "uraian": "Melaporkan kegiatan pelabuhan perikanan kepada Menteri c.q Direktur Jenderal sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        },
+        "id": {
+         "uraian": "Melaporkan kegiatan pelabuhan perikanan kepada Menteri c.q Direktur Jenderal sesuai dengan ketentuan peraturan perundang undangan",
+         "deskripsi": null
+        }
+       },
+       "jangka_waktu": 15,
+       "SatuanJangkaWaktu": {
+        "id": "b85a1d01-9203-4556-b145-06876c971bf8",
+        "localization": {
+         "en": {
+          "uraian": "Hari",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Hari",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ],
+     "KbliIzins": [
+      {
+       "id": "0a241430-0f44-543b-b5ea-e1e5ece87747",
+       "JenisPerizinan": {
+        "id": "543fcd15-3675-4e01-9357-73bfd429b0ef",
+        "localization": {
+         "en": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Sertifikat Standar",
+          "deskripsi": null
+         }
+        }
+       },
+       "Izin": {
+        "id": "a3280530-1f86-4b60-9a3d-7a920b9d402b",
+        "localization": {
+         "en": {
+          "nama_dokumen": "Sertifikat Standar"
+         },
+         "id": {
+          "nama_dokumen": "Sertifikat Standar"
+         }
+        }
+       }
+      }
+     ],
+     "KbliResikoKewenangans": [
+      {
+       "id": "341609db-e2f9-57a9-a8b9-28ab19e5d5c9",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "0c9fafb2-e6b8-50f2-b1e8-fbd54e658e5c",
+        "local": {
+         "en": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Seluruh",
+          "deskripsi": null
+         }
+        }
+       }
+      },
+      {
+       "id": "4dda30e8-46b1-501a-baf4-0f3ed5ef0d1f",
+       "Kewenangan": {
+        "id": "d907fb15-7305-476c-bf44-37f7a5904426",
+        "localization": {
+         "en": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "Menteri/Kepala Badan",
+          "deskripsi": null
+         }
+        }
+       },
+       "ParameterKewenangan": {
+        "id": "66518565-ddf3-576c-96ec-9554debb6eac",
+        "local": {
+         "en": {
+          "uraian": "PMA",
+          "deskripsi": null
+         },
+         "id": {
+          "uraian": "PMA",
+          "deskripsi": null
+         }
+        }
+       }
+      }
+     ]
+    }
+   ],
+   "ReferensiPeraturans": [],
+   "Sektor": {
+    "id": "d63f36d7-15b1-4d8f-8f95-f0149e9f1e9a",
+    "kode": "032",
+    "localization": {
+     "en": {
+      "uraian": "Kelautan dan Perikanan",
+      "deskripsi": "Kementerian Kelautan dan Perikanan"
+     },
+     "id": {
+      "uraian": "Kelautan dan Perikanan",
+      "deskripsi": "Kementerian Kelautan dan Perikanan"
+     }
+    }
+   },
+   "version": "2025"
+  }
+ ],
+ "pbUmku": []
+}
