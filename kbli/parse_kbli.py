@@ -1,6 +1,6 @@
 #
 #  parse_kbli.py
-#  BCIC Legal Navigator
+#  legal-navigator-data
 #
 #  Created by Brandon Jones (https://github.com/letsgobjones) on 2026-09-30.
 #
@@ -34,7 +34,7 @@ __author__ = "Brandon Jones (https://github.com/letsgobjones)"
 
 PARSER_VERSION = "1.0"
 HERE = Path(__file__).resolve().parent
-DEFAULT_PDF = HERE.parent / "klasifikasi-baku-lapangan-usaha-indonesia--kbli--2025--2.pdf"
+DEFAULT_PDF = HERE.parent / "sources" / "kbli_2025" / "klasifikasi-baku-lapangan-usaha-indonesia--kbli--2025--2.pdf"
 
 # Detailed-description section (1-based PDF page numbers).
 FIRST_PAGE = 247
