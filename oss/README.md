@@ -67,12 +67,22 @@ Each row in `scopes[].rows[]`:
 | `scale` / `scaleLabel` | `mikro`, `kecil`, `menengah`, `besar` / OSS's label (*Usaha Mikro*, …) |
 | `risk` / `riskLabel` | `rendah`, `menengahRendah`, `menengahTinggi`, `tinggi` / OSS's label |
 | `licenses` | License types, e.g. `["Sertifikat Standar"]`. **Empty means OSS lists no license beyond the base registration (NIB)** |
-| `requirements[]` | *Persyaratan*: conditions to meet before the license is issued, each `{text, deadline}` |
-| `obligations[]` | *Kewajiban*: ongoing duties after licensing, each `{text, deadline}` |
-| `authority[]` | *Kewenangan*: who issues it, depending on the situation, each `{parameter, authority}` |
+| `requirements[]` | *Persyaratan*: conditions to meet before the license is issued, each `{ossId, text, deadline}` |
+| `obligations[]` | *Kewajiban*: ongoing duties after licensing, each `{ossId, text, deadline}` |
+| `authority[]` | *Kewenangan*: who issues it, depending on the situation, each `{ossId, parameter, authority}` |
 | `landArea`, `issuanceTime`, `validity` | As OSS gives them, with units; `null` when not set |
 
 In `pbUmku[]`, rich-text fields keep both a plain `text` version and the original `html` from OSS.
+
+`deadline` is OSS's own time limit for meeting an item once (e.g. `"7 Hari"`); about half of all items have one. Repeating duties are usually written inside the text instead (e.g. *"…setiap 6 (enam) bulan sekali…"*) with `deadline` empty, so reading a repeat interval out of the text is interpretation, not data.
+
+### `ossId`
+
+`ossId` is OSS's permanent ID for a record (a UUID). Scopes, rows, requirements, obligations, authority entries and PB UMKU each have one. It stays the same when OSS rewords the text, so it is **the key to use when the app stores anything about a record**, such as a ticked checklist item or a submitted document.
+
+- **Every item has its own ID**, even when the text is identical: the same obligation for a *mikro* and a *kecil* business, or for two different KBLI codes, has different IDs. To show one checklist entry for a duty shared by several codes, group by text, but store progress against each `ossId`.
+- **PB UMKU requirements and obligations** have no ID of their own in OSS, only a number unique within their PB UMKU, so their `ossId` is `"<PB UMKU ossId>#<number>"`, e.g. `"abff1c4a-…#01"`.
+- `source.ossId` is the ID of the code's OSS detail page.
 
 ### `ossCode`
 

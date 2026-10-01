@@ -40,7 +40,7 @@ from pathlib import Path
 
 __author__ = "Brandon Jones (https://github.com/letsgobjones)"
 
-FETCHER_VERSION = "1.0"
+FETCHER_VERSION = "1.1"
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
 RAW = HERE / "raw"
@@ -180,6 +180,7 @@ RISK_KEY = {"Rendah": "rendah", "Menengah Rendah": "menengahRendah",
 def normalize_row(r):
     scale, risk = loc(r.get("SkalaUsaha")), loc(r.get("Resiko"))
     return {
+        "ossId": r.get("id"),
         "ossCode": r.get("kode"),
         "scale": SCALE_KEY.get(scale, scale),
         "scaleLabel": scale,
@@ -191,15 +192,18 @@ def normalize_row(r):
         "issuanceTime": with_unit(r.get("jangka_waktu"), r.get("SatuanJangkaWaktu")),
         "validity": with_unit(r.get("masa_berlaku"), r.get("SatuanMasaBerlaku")),
         "requirements": [
-            {"text": loc(p), "deadline": with_unit(p.get("jangka_waktu"), p.get("SatuanJangkaWaktu"))}
+            {"ossId": p.get("id"), "text": loc(p),
+             "deadline": with_unit(p.get("jangka_waktu"), p.get("SatuanJangkaWaktu"))}
             for p in r.get("KbliPersyaratans") or []
         ],
         "obligations": [
-            {"text": loc(k), "deadline": with_unit(k.get("jangka_waktu"), k.get("SatuanJangkaWaktu"))}
+            {"ossId": k.get("id"), "text": loc(k),
+             "deadline": with_unit(k.get("jangka_waktu"), k.get("SatuanJangkaWaktu"))}
             for k in r.get("KbliKewajibans") or []
         ],
         "authority": [
-            {"parameter": loc(k.get("ParameterKewenangan")), "authority": loc(k.get("Kewenangan"))}
+            {"ossId": k.get("id"), "parameter": loc(k.get("ParameterKewenangan")),
+             "authority": loc(k.get("Kewenangan"))}
             for k in r.get("KbliResikoKewenangans") or []
         ],
     }
@@ -215,25 +219,29 @@ def plain(text):
     return re.sub(r"\n\s*\n+", "\n", text).strip()
 
 
-def umku_items(items, key):
+def umku_items(items, key, umku_id):
+    """PB UMKU items have no id of their own, only a number unique within their
+    PB UMKU (e.g. "01"), so their ossId is "<PB UMKU id>#<number>"."""
     out = []
     for it in items or []:
         raw = ((it.get(key) or {}).get("id") or {})
         value = next(iter(raw.values()), None) if raw else None
-        out.append({"text": plain(value), "html": value if value and "<" in value else None,
+        out.append({"ossId": f"{umku_id}#{it.get('kode')}", "text": plain(value),
+                    "html": value if value and "<" in value else None,
                     "deadline": it.get("jangkaWaktu") or None})
     return out
 
 
 def normalize_umku(u):
     return {
+        "ossId": u.get("id"),
         "ossCode": u.get("kode"),
         "document": loc(u, "nama_dokumen"),
         "sector": loc(u.get("sektor")),
         "authority": [{"parameter": p.get("parameter"), "authority": p.get("kewenangan")}
                       for p in u.get("parameter_kewenangan") or []],
-        "requirements": umku_items(u.get("persyaratan"), "persyaratan"),
-        "obligations": umku_items(u.get("kewajiban"), "kewajiban"),
+        "requirements": umku_items(u.get("persyaratan"), "persyaratan", u.get("id")),
+        "obligations": umku_items(u.get("kewajiban"), "kewajiban", u.get("id")),
         "regulations": u.get("referensi_peraturan") or [],
     }
 
@@ -251,6 +259,7 @@ def normalize(snapshot, scope_entry, kbli2025):
     entry["conversion"] = snapshot["conversion"]
     entry["scopes"] = [
         {
+            "ossId": s.get("id"),
             "scope": loc(s),
             "sector": loc(s.get("Sektor")),
             "ministry": loc(s.get("Sektor"), "deskripsi"),

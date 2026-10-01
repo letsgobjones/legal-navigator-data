@@ -1,6 +1,6 @@
 # OSS licensing fetch — review report
 
-Generated 2026-09-30 by fetch_oss.py v1.0.
+Generated 2026-10-01 by fetch_oss.py v1.1.
 
 Counts: codes 1558, found 1558, scopes 2333, rows 8872, pbUmku 4410
 
