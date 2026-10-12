@@ -19,3 +19,6 @@ venv/
 # OSS page snapshots (large; re-fetchable)
 oss/raw/pages/
 oss/*.log
+
+# Locally pretty-printed copies (64 MB, regenerate from oss_licensing.json)
+oss/pretty_*.json
